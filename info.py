@@ -99,6 +99,7 @@ def community_maker(dismat,threshold):
     adjmat = adjmat.reshape(dismat.shape)
     #
     G = make_graph(adjmat)
+    print(len(G.nodes))
     plt.figure(figsize=(17, 15))
     pos = nx.spring_layout(G)
     # nx.draw(G, pos)
@@ -138,23 +139,24 @@ def community_maker(dismat,threshold):
         plt.show()
 
 
-# with open('C:/Users/Javier/Desktop/NUS/TOP250/user_book.csv', 'r', encoding='utf-8') as f:
-#     data = f.read().strip().split('\n')[1:]
-#     l = list(map(lambda x: x.strip().split('\t')[1:], data))
-# array = np.array(l, dtype = 'float')
-# dismat = np.zeros((len(array),len(array)))
+with open('C:/Users/Javier/Desktop/NUS/TOP250/venv/user_book_tag.csv', 'r', encoding='utf-8') as f:
+    data = f.read().strip().split('\n')[1:]
+    l = list(map(lambda x: x.strip().split('\t')[1:], data))[:125]
+array = np.array(l, dtype = 'float')
+print(array)
+dismat = np.zeros((len(array),len(array)))
 lables = []
-for i in range(1000):
+for i in range(125):
     lables.append(i)
 # print(lables)
 
-dismat = matrix_reader('dismat_matrix.txt')
-print(dismat)
-
-# dismat = dismat_calculator(array)
+# dismat = matrix_reader('dismat_matrix.txt')
 # print(dismat)
+
+dismat = dismat_calculator(array)
+print(dismat)
 
 # save_matrix(dismat)
 
-community_maker(dismat,0.345)
+community_maker(dismat,0.05)
 
