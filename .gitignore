@@ -5,4 +5,5 @@
 # sundries
 .DS_Store
 dataset/
+dirty_data/
 test*.py
