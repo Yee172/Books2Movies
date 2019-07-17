@@ -51,6 +51,18 @@ def matrix_reader(filename):
             tar_np[each_row][each_column] = float(curr_row[each_column])
     return tar_np
 
+def tag_reader(filename):
+    with open(filename, 'r', encoding='utf-8') as f:
+        content = f.read().strip().split('\n')
+    row = len(content)
+    column = len(content[0].split(' '))
+    labels = []
+    for each_row in range(row):
+        curr_row = content[each_row].split('\t')
+        labels.append(curr_row[1:])
+    return labels
+
+
 def make_graph(sim, labels=None):
     G = nx.Graph()
     for (i, j) in [(i, j) for i in range(sim.shape[0]) for j in range(sim.shape[1]) if i != j and sim[i,j] != 0]:
@@ -74,15 +86,15 @@ def save_matrix(dismat):
             if i != row-1 : write_content += '\n'
         f.write(write_content)
 
-def community_maker(dismat,threshold):
+def community_maker(dismat,threshold,lables):
     # plt.figure(figsize=(8,8))
     # plt.imshow(dismat)
     # plt.show()
     #
     dismatflat = dismat.reshape((-1,))
     dismatflat = dismatflat[dismatflat != 0]  # Too many ones result in a bad histogram so we remove them
-    # # plt.figure(figsize=(15, 10))
-    # # _ = plt.hist(dismatflat, bins=200)
+    # plt.figure(figsize=(15, 10))
+    # _ = plt.hist(dismatflat, bins=200)
 
     mmax = np.max(dismatflat)
     mmin = np.min(dismatflat)
@@ -98,7 +110,7 @@ def community_maker(dismat,threshold):
     print("{} out of {} values set to zero".format(len(adjmat[adjmat == 0]), len(adjmat)))
     adjmat = adjmat.reshape(dismat.shape)
     #
-    G = make_graph(adjmat)
+    G = make_graph(adjmat,labels = labels)
     print(len(G.nodes))
     plt.figure(figsize=(17, 15))
     pos = nx.spring_layout(G)
@@ -108,15 +120,7 @@ def community_maker(dismat,threshold):
     from networkx.algorithms.community.centrality import girvan_newman
     from networkx.algorithms.community.label_propagation import label_propagation_communities, asyn_lpa_communities
 
-    # # nx.draw(comp, pos)
-    # # plt.show()
-    # # comp = asyn_lpa_communities(G)
-    # # for communities in asyn_lpa_communities(G):
-    # #     print(each_community)
-    # # nx.draw(G, pos)
-    # # plt.show()
-    # # community = asyn_lpa_communities(LP)
-    # # print(community)
+
     comp = girvan_newman(G)
     max_shown = 3
     shown_count = 1
@@ -135,28 +139,33 @@ def community_maker(dismat,threshold):
         shown_count += 1
         plt.figure(figsize=(17, 15))
         pos = nx.spring_layout(G)
+        plt.rcParams['font.sans-serif'] = ['SimHei']
+        plt.rcParams['axes.unicode_minus'] = False
         nx.draw(G, pos, node_color=color_map, with_labels=True)
+        plt.savefig('Graph2.png')
         plt.show()
 
 
-with open('C:/Users/Javier/Desktop/NUS/TOP250/venv/user_book_tag.csv', 'r', encoding='utf-8') as f:
-    data = f.read().strip().split('\n')[1:]
-    l = list(map(lambda x: x.strip().split('\t')[1:], data))[:125]
-array = np.array(l, dtype = 'float')
-print(array)
-dismat = np.zeros((len(array),len(array)))
-lables = []
-for i in range(125):
-    lables.append(i)
-# print(lables)
 
-# dismat = matrix_reader('dismat_matrix.txt')
-# print(dismat)
+# with open('C:/Users/Javier/Desktop/NUS/TOP250/venv/test_result.csv', 'r', encoding='utf-8') as f:
+#     data = f.read().strip().split('\n')[1:]
+#     l = list(map(lambda x: x.strip().split('\t')[1:], data))
+# array = np.array(l, dtype = 'float')
+# print(array)
+# dismat = np.zeros((len(array),len(array)))
 
-dismat = dismat_calculator(array)
+labels = tag_reader('topmovie_tag_zh.csv')
+for i in range(len(labels)):
+    labels[i] = ",".join(labels[i])
+print(labels)
+
+dismat = matrix_reader('dismat_matrix.txt')
 print(dismat)
+
+# dismat = dismat_calculator(array)
+# print(dismat)
 
 # save_matrix(dismat)
 
-community_maker(dismat,0.05)
+community_maker(dismat,0.033,labels)
 
