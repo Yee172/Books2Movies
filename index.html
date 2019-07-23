@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width" />
+    <title>ECharts</title>
+    <!--script src="jquery-1.10.2.min.js"></script-->
+    <script type="text/javascript" src="./docs/incubator-echarts-4.2.1/test/lib/jquery.min.js"></script>
+    <script type="text/javascript" src="./docs/incubator-echarts-4.2.1/dist/echarts.min.js"></script>
+    <script type="text/javascript" src="./docs/incubator-echarts-4.2.1/dist/extension/dataTool.js"></script>
+    <!-- <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>-->
+</head>
+<body>
+<div id="main" style="width: 1550px; height:800px;"></div>
+<script type="text/javascript">
+    "use strict"
+	var myChart = echarts.init(document.getElementById('main'))
+	myChart.showLoading();
+$.get('./docs/gen.gexf', function (xml) {
+    myChart.hideLoading();
+
+    var graph = echarts.dataTool.gexf.parse(xml);
+    var categories = [];
+    for (var i = 0; i < 9; i++) {
+        categories[i] = {
+            name: '类目' + i
+        };
+    }
+    graph.nodes.forEach(function (node) {
+        node.itemStyle = null;
+        node.value = node.symbolSize;
+        node.symbolSize /= 1.5;
+        node.label = {
+            normal: {
+                show: node.symbolSize > 30
+            }
+        };
+        node.category = node.attributes.modularity_class;
+    });
+    var option = {
+        title: {
+            text: 'Les Miserables',
+            subtext: 'Default layout',
+            top: 'bottom',
+            left: 'right'
+        },
+        tooltip: {},
+        legend: [{
+            // selectedMode: 'single',
+            data: categories.map(function (a) {
+                return a.name;
+            })
+        }],
+        animationDuration: 1500,
+        animationEasingUpdate: 'quinticInOut',
+        series : [
+            {
+                name: 'Les Miserables',
+                type: 'graph',
+                layout: 'none',
+                data: graph.nodes,
+                links: graph.links,
+                categories: categories,
+                roam: true,
+                focusNodeAdjacency: true,
+                itemStyle: {
+                    normal: {
+                        borderColor: '#fff',
+                        borderWidth: 1,
+                        shadowBlur: 10,
+                        shadowColor: 'rgba(0, 0, 0, 0.3)'
+                    }
+                },
+                label: {
+                    position: 'right',
+                    formatter: '{b}'
+                },
+                lineStyle: {
+                    color: 'source',
+                    curveness: 0.3
+                },
+                emphasis: {
+                    lineStyle: {
+                        width: 10
+                    }
+                }
+            }
+        ]
+    };
+
+    myChart.setOption(option);
+}, 'xml');
+</script>
+</body>
+</html>
