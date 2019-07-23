@@ -1,97 +1,629 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Books2Movies</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width" />
-    <title>ECharts</title>
-    <!--script src="jquery-1.10.2.min.js"></script-->
-    <script type="text/javascript" src="./incubator-echarts-4.2.1/test/lib/jquery.min.js"></script>
-    <script type="text/javascript" src="./incubator-echarts-4.2.1/dist/echarts.min.js"></script>
-    <script type="text/javascript" src="./incubator-echarts-4.2.1/dist/extension/dataTool.js"></script>
-    <!-- <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>-->
-</head>
-<body>
-<div id="main" style="width: 1550px; height:800px;"></div>
-<script type="text/javascript">
-    "use strict"
-	var myChart = echarts.init(document.getElementById('main'))
-	myChart.showLoading();
-$.get('./gen.gexf', function (xml) {
-    myChart.hideLoading();
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="description" content="Meghna One page parallax responsive HTML Template ">
+        
+        <meta name="author" content="Muhammad Morshed">
+		
+        <title>BOOK TO MOVIE</title>
+		
+		<!-- Mobile Specific Meta
+		================================================== -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<!-- Favicon -->
+		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png" />
+		
+		<!-- CSS
+		================================================== -->
+		<!-- Fontawesome Icon font -->
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+		<!-- bootstrap.min css -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+		<!-- Animate.css -->
+        <link rel="stylesheet" href="css/animate.css">
+		<!-- Owl Carousel -->
+        <link rel="stylesheet" href="css/owl.carousel.css">
+		<!-- Grid Component css -->
+        <link rel="stylesheet" href="css/component.css">
+		<!-- Slit Slider css -->
+        <link rel="stylesheet" href="css/slit-slider.css">
+		<!-- Main Stylesheet -->
+        <link rel="stylesheet" href="css/main.css">
+		<!-- Media Queries -->
+        <link rel="stylesheet" href="css/media-queries.css">
 
-    var graph = echarts.dataTool.gexf.parse(xml);
-    var categories = [];
-    for (var i = 0; i < 9; i++) {
-        categories[i] = {
-            name: '类目' + i
-        };
-    }
-    graph.nodes.forEach(function (node) {
-        node.itemStyle = null;
-        node.value = node.symbolSize;
-        node.symbolSize /= 1.5;
-        node.label = {
-            normal: {
-                show: node.symbolSize > 30
-            }
-        };
-        node.category = node.attributes.modularity_class;
-    });
-    var option = {
-        title: {
-            text: 'Les Miserables',
-            subtext: 'Default layout',
-            top: 'bottom',
-            left: 'right'
-        },
-        tooltip: {},
-        legend: [{
-            // selectedMode: 'single',
-            data: categories.map(function (a) {
-                return a.name;
-            })
-        }],
-        animationDuration: 1500,
-        animationEasingUpdate: 'quinticInOut',
-        series : [
-            {
-                name: 'Les Miserables',
-                type: 'graph',
-                layout: 'none',
-                data: graph.nodes,
-                links: graph.links,
-                categories: categories,
-                roam: true,
-                focusNodeAdjacency: true,
-                itemStyle: {
-                    normal: {
-                        borderColor: '#fff',
-                        borderWidth: 1,
-                        shadowBlur: 10,
-                        shadowColor: 'rgba(0, 0, 0, 0.3)'
-                    }
-                },
-                label: {
-                    position: 'right',
-                    formatter: '{b}'
-                },
-                lineStyle: {
-                    color: 'source',
-                    curveness: 0.3
-                },
-                emphasis: {
-                    lineStyle: {
-                        width: 10
-                    }
-                }
-            }
-        ]
-    };
+		<!--
+		Google Font
+		=========================== -->                    
+		
+		<!-- Oswald / Title Font -->
+		<link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+		<!-- Ubuntu / Body Font -->
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,300' rel='stylesheet' type='text/css'>
+		
+		<!-- Modernizer Script for old Browsers -->		
+        <script src="js/modernizr-2.6.2.min.js"></script>
 
-    myChart.setOption(option);
-}, 'xml');
-</script>
-</body>
+
+		
+	
+    </head>
+	
+    <body id="body">
+	    <!--
+	    Start Preloader
+	    ==================================== -->
+		<div id="loading-mask">
+			<div class="loading-img">
+				<img alt="Meghna Preloader" src="img/preloader.gif"  />
+			</div>
+		</div>
+        <!--
+        End Preloader
+        ==================================== -->
+		
+        <!--
+        Welcome Slider
+        ==================================== -->
+		<section id="home">	    
+		
+            <div id="slitSlider" class="sl-slider-wrapper">
+				<div class="sl-slider">
+					
+					<!-- single slide item -->
+					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+						<div class="sl-slide-inner">
+							<div class="bg-img bg-img-1"></div>
+						<div class="carousel-caption">
+							<div>
+								<img class="wow fadeInUp" src="img/meghna.png" alt="Meghna">
+								<h2 data-wow-duration="500ms"  data-wow-delay="500ms" class="heading animated fadeInRight">Welcome To BOOK TO MOVIE</h2>
+							</div>
+						</div>
+						</div>
+					</div>
+					<!-- /single slide item -->
+					
+					<!-- single slide item -->
+					<div class="sl-slide" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
+						<div class="sl-slide-inner">
+							<div class="bg-img bg-img-2"></div>
+						<div class="carousel-caption">
+							<div>
+								<h2 class="heading animated fadeInDown">Community Detection</h2>
+								<h3 class="animated fadeInUp">According to Users of DOUBAN</h3>
+								<a class="btn btn-green animated fadeInUp" href="#">Get Started</a>
+							</div>
+						</div>
+						</div>
+					</div>
+					<!-- /single slide item -->
+					
+
+				</div><!-- /sl-slider -->
+				
+				<nav id="nav-arrows" class="nav-arrows">
+					<span class="nav-arrow-prev">Previous</span>
+					<span class="nav-arrow-next">Next</span>
+				</nav>
+
+				<nav id="nav-dots" class="nav-dots">
+					<span class="nav-dot-current"></span>
+					<span></span>
+					<span></span>
+				</nav>
+
+			</div><!-- /slider-wrapper -->
+		</section>
+		<!--/#home section-->
+		
+        <!-- 
+        Fixed Navigation
+        ==================================== -->
+        <header id="navigation" class="navbar navbar-inverse">
+            <div class="container">
+                <div class="navbar-header">
+                    <!-- responsive nav button -->
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+					<!-- /responsive nav button -->
+					
+					<!-- logo -->
+                    <a class="navbar-brand" href="#body">
+						<h1 id="logo">
+							<img src="img/logo-meghna.png" alt="Meghna" />
+						</h1>
+					</a>
+					<!-- /logo -->
+                </div>
+
+				<!-- main nav -->
+                <nav class="collapse navbar-collapse navbar-right" role="Navigation">
+                    <ul id="nav" class="nav navbar-nav">
+                        <li class="current"><a href="#body">Home</a></li>
+                        <li><a href="#about">About Us</a></li>
+                        <li><a href="#our-team">Team</a></li>
+                        <li><a href="#blog">Graph</a></li>
+                    </ul>
+                </nav>
+				<!-- /main nav -->
+				
+            </div>
+        </header>
+      
+
+		
+	<!--
+		Start About Section
+		==================================== -->
+		<section id="about" class="bg-one">
+			<div class="container">
+				<div class="row">
+				
+					<!-- section title -->
+					<div class="title text-center wow fadeIn" data-wow-duration="1500ms" >
+						<h2>About <span class="color">Us</span></h2>
+						<div class="border"></div>
+					</div>
+					<!-- /section title -->
+					
+					<!-- About item -->
+					<div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms" >
+						<div class="wrap-about">							
+							<div class="icon-box">
+								<i class="fa fa-lightbulb-o fa-4x"></i>
+							</div>					
+							<!-- Express About Yourself -->
+							<div class="about-content text-center">
+								<h3 class="ddd">We're Creative</h3>								
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos</p>
+							</div>
+						</div>
+					</div> 
+					<!-- End About item -->
+					
+					<!-- About item -->
+					<div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="250ms">
+						<div class="wrap-about">
+							<div class="icon-box">
+								<i class="fa fa-users fa-4x"></i>
+							</div>
+							<!-- Express About Yourself -->
+							<div class="about-content text-center">
+								<h3>We're Professional</h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos</p>
+							</div>
+						</div>
+					</div> 
+					<!-- End About item -->
+					
+					<!-- About item -->					
+					<div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
+						<div class="wrap-about kill-margin-bottom">
+							<div class="icon-box">
+								<i class="fa fa-users fa-4x"></i>
+							</div>
+							<!-- Express About Yourself -->
+							<div class="about-content text-center">
+								<h3>We're Professional</h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos</p>
+							</div>
+						</div>
+					</div> 
+					<!-- End About item -->
+					
+				</div> 		<!-- End row -->
+			</div>   	<!-- End container -->
+		</section>   <!-- End section -->
+		
+		<!--
+		Start Counter Section
+		==================================== -->
+		
+		<section id="counter" class="parallax-section">
+			<div class="container">
+				<div class="row">
+				
+					<!-- first count item -->
+					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInDown" data-wow-duration="500ms">
+						<div class="counters-item">
+							<div>
+							    <span data-speed="3000" data-to="117">117</span>
+							</div>
+							<i class="fa fa-users fa-3x"></i>
+							<h3>117 Users</h3>
+						</div>
+					</div>
+					<!-- end first count item -->
+				
+					<!-- second count item -->
+					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="200ms">
+						<div class="counters-item">
+							<div>
+							    <span data-speed="3000" data-to="565">565</span>
+							</div>
+							<i class="fa fa-film fa-3x"></i>
+							<h3>565 Movies</h3>
+						</div>
+					</div>
+					<!-- end second count item -->
+				
+					<!-- third count item -->
+					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="400ms">
+						<div class="counters-item">
+							<div>
+							    <span data-speed="3000" data-to="400">400</span>
+								<!-- <span></span> -->
+							</div>
+							<!-- <i class="fa fa- fa-3x"></i> -->
+							<i class="fa fa-book fa-3x" aria-hidden="true"></i>
+				            <h3>400 Books</h3>
+							
+						</div>
+					</div>
+					<!-- end third count item -->
+					
+					<!-- fourth count item -->
+					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+						<div class="counters-item kill-margin-bottom">
+							<div>
+							    <span data-speed="3000" data-to="2500">2500</span>
+							</div>
+							<i class="fa fa-check-square fa-3x"></i>
+							<h3>2500 Datas</h3>
+						</div>
+					</div>
+					<!-- end fourth count item -->
+					
+				</div> 		<!-- end row -->
+			</div>   	<!-- end container -->
+		</section>   <!-- end section -->
+		
+		
+		
+		<!-- Start Our Team
+		=========================================== -->
+		
+		<section id="our-team">
+			<div class="container">
+				<div class="row">
+				
+					<!-- section title -->
+					<div class="title text-center wow fadeInUp" data-wow-duration="500ms">
+						<h2>Our <span class="color">Team</span></h2>
+						<div class="border"></div>
+					</div>
+					<!-- /section title -->
+					
+					<!-- team member -->
+					<div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="500ms">
+                       <article class="team-mate">
+							<div class="member-photo">
+								<!-- member photo -->
+								<img class="img-responsive" src="img/team/member-1.jpg" alt="Meghna">
+								<!-- /member photo -->
+								
+							
+							</div>
+							
+							<!-- member name & designation -->
+							<div class="member-title">
+								<h3>Liu Yihong</h3>
+								<!-- <span>CEO/Founder</span> -->
+							</div>
+							<!-- /member name & designation -->
+							
+							<!-- about member -->
+                           <div class="member-info">
+                               <p>2016,Sichuan University</p>
+                           </div>
+						   <!-- /about member -->
+						   
+                       </article>
+                    </div>
+					<!-- end team member -->
+					
+					<!-- team member -->
+					<div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="200ms">
+                       <article class="team-mate">
+							<div class="member-photo">
+								<!-- member photo -->
+								<img class="img-responsive" src="img/team/1/member-2.jpg" alt="Meghna">
+								<!-- /member photo -->
+								
+								
+							</div>
+							
+							<!-- member name & designation -->
+							<div class="member-title">
+								<h3>Peng Jiawei</h3>
+								<!-- <span>Manager</span> -->
+							</div>
+							<!-- /member name & designation -->
+							
+							<!-- about member -->
+                           <div class="member-info">
+                               <p>2017,Zhejiang University</p>
+                           </div>
+						   <!-- /about member -->
+						</article>
+                    </div>
+					<!-- end team member -->
+					
+					<!-- team member -->
+					<div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="400ms">
+                       <article class="team-mate">
+							<div class="member-photo">
+								<!-- member photo -->
+								<img class="img-responsive" src="img/team/1/member-3.jpg" alt="Meghna">
+								<!-- /member photo -->
+								
+								
+							</div>
+							
+							<!-- member name & designation -->
+							<div class="member-title">
+								<h3>Tian Fengrui</h3>
+								<!-- <span>Web Developer</span> -->
+							</div>
+							<!-- /member name & designation -->
+							
+							<!-- about member -->
+                           <div class="member-info">
+                               <p>2017,Xi'an Jiaotong University</p>
+                           </div>
+						   <!-- /about member -->
+                       </article>
+                    </div>
+					<!-- end team member -->
+					
+					<!-- team member -->
+					<div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                       <article class="team-mate kill-margin-bottom">
+							<div class="member-photo">
+								<!-- member photo -->
+								<img class="img-responsive" src="img/team/1/member-4.jpg" alt="Meghna">
+								<!-- /member photo -->
+								
+								
+							</div>
+							
+							<!-- member name & designation -->
+							<div class="member-title">
+								<h3>Ye Qihao</h3>
+								<!-- <span>SEO Specialist</span> -->
+							</div>
+							<!-- /member name & designation -->
+							
+							<!-- about member -->
+                           <div class="member-info">
+                               <p>2016,Southern University of Science and Technology</p>
+                           </div>
+						   <!-- /about member -->
+                       </article>
+                    </div>
+					<!-- end team member -->
+					
+				</div>  	<!-- End row -->
+			</div>   	<!-- End container -->
+		</section>   <!-- End section -->
+		
+		
+		
+		
+		
+		
+	
+		
+		<!--
+		Start Blog Section
+		=========================================== -->
+				
+		<section id="blog" class="bg-one">
+			<div class="container">
+				<div class="row">
+
+					<!-- section title -->
+					<div class="title text-center wow fadeInDown">
+						<h2> Latest <span class="color">Posts</span></h2>
+						<div class="border"></div>
+					</div>
+					<!-- /section title -->
+
+					<div class="clearfix">
+					
+						<!-- single blog post -->
+						<article class="col-md-3 col-sm-6 col-xs-12 clearfix wow fadeInUp" data-wow-duration="500ms">
+							<div class="note">
+								<div class="media-wrapper">
+									<img src="img/blog/amazing-caves-coverimage.jpg" alt="amazing caves coverimage" class="img-responsive">
+								</div>
+								
+								<div class="excerpt">
+									<h3>Simple Image Post</h3>
+									<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non skateboard dolor brunch.</p>
+									<!-- <a class="btn btn-transparent" href="single-post.html">Read more</a> -->
+								</div>
+							</div>						
+						</article>
+						<!-- /single blog post -->
+						
+						<!-- single blog post -->
+						<article class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="200ms">
+							<div class="note">
+								<div id="gallery-post" class="media-wrapper">
+									<div class="item">
+										<img src="img/blog/amazing-caves-coverimage.jpg" alt="amazing caves coverimage" class="img-responsive">
+									</div>
+									<div class="item">
+										<img src="img/blog/bicycle.jpg" alt="Flying bicycle" class="img-responsive">
+									</div>
+									<div class="item">
+										<img src="img/blog/3D-beach-art.jpg" alt="3D Beach Art | Meghna" class="img-responsive">
+									</div>
+								</div>
+								
+								<div class="excerpt">
+									<h3>Simple Slider Post</h3>
+									<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non skateboard dolor brunch.</p>
+									<!-- <a class="btn btn-transparent" href="single-post.html">Read more</a> -->
+								</div>
+							</div>						
+						</article>
+						<!-- end single blog post -->
+						
+						<!-- single blog post -->
+						<article class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="400ms">
+							<div class="note">
+								<div class="media-wrapper">
+									<img src="img/blog/amazing-caves-coverimage.jpg" alt="amazing caves coverimage" class="img-responsive">
+								</div>
+								
+								<div class="excerpt">
+									<h3>Simple Image Post</h3>
+									<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non skateboard dolor brunch.</p>
+									<!-- <a class="btn btn-transparent" href="single-post.html">Read more</a> -->
+								</div>
+							</div>						
+						</article>
+						<!-- end single blog post -->
+						
+						<!-- single blog post -->
+						<article class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
+							<div class="note kill-margin-bottom">
+								<div class="media-wrapper">
+									<img src="img/blog/amazing-caves-coverimage.jpg" alt="amazing caves coverimage" class="img-responsive">
+								</div>
+								<div class="excerpt">
+									<h3>Simple Image Post</h3>
+									<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non skateboard dolor brunch.</p>
+									<!-- <a class="btn btn-transparent" href="single-post.html">Read more</a> -->
+								</div>
+							</div>						
+						</article>
+						<!-- end single blog post -->
+					</div>
+
+					<div class="all-post text-center">
+						<a class="btn btn-transparent" href="graph1.html">View First Graph</a>
+					</div>
+					<div class="all-post text-center">
+						<a class="btn btn-transparent" href="graph1.html">View Second Graph</a>
+					</div>
+
+				</div> <!-- end row -->
+			</div> <!-- end container -->
+		</section> <!-- end section -->
+		
+		
+					
+			
+			<!-- Google Map -->
+			<div class="google-map wow fadeInDown" data-wow-duration="500ms">
+				<div id="map-canvas"></div>
+			</div>	
+			<!-- /Google Map -->
+			
+		</section> <!-- end section -->
+		
+		<!-- end Contact Area
+		========================================== -->
+		
+		<footer id="footer" class="bg-one">
+			<div class="container">
+			    <div class="row wow fadeInUp" data-wow-duration="500ms">
+					<div class="col-lg-12">
+						
+						<!-- Footer Social Links -->
+						<!-- <div class="social-icon">
+							<ul>
+								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+								<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+								<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+							</ul>
+						</div> -->
+						<!--/. End Footer Social Links -->
+
+						<!-- copyright -->
+						<div class="copyright text-center">
+							<a href="index.html">
+								<img src="img/logo-meghna.png" alt="Meghna" /> 
+							</a>
+							<br />
+							
+							<!-- <p>Copyright &copy; 2017.Company name All rights reserved.</p> -->
+						</div>
+						<!-- /copyright -->
+						
+					</div> <!-- end col lg 12 -->
+				</div> <!-- end row -->
+			</div> <!-- end container -->
+		</footer> <!-- end footer -->
+		
+		<!-- Back to Top
+		============================== -->
+		<a href="javascript:;" id="scrollUp">
+			<i class="fa fa-angle-up fa-2x"></i>
+		</a>
+		
+		<!-- end Footer Area
+		========================================== -->
+		
+		<!-- 
+		Essential Scripts
+		=====================================-->
+		
+		<!-- Main jQuery -->
+		<script src="js/jquery-1.11.0.min.js"></script>
+		<!-- Bootstrap 3.1 -->
+		<script src="js/bootstrap.min.js"></script>
+		<!-- Slitslider -->
+		<script src="js/jquery.slitslider.js"></script>
+		<script src="js/jquery.ba-cond.min.js"></script>
+		<!-- Parallax -->
+		<script src="js/jquery.parallax-1.1.3.js"></script>
+		<!-- Owl Carousel -->
+		<script src="js/owl.carousel.min.js"></script>
+		<!-- Portfolio Filtering -->
+		<script src="js/jquery.mixitup.min.js"></script>
+		<!-- Custom Scrollbar -->
+		<script src="js/jquery.nicescroll.min.js"></script>
+		<!-- Jappear js -->
+		<script src="js/jquery.appear.js"></script>
+		<!-- Pie Chart -->
+		<script src="js/easyPieChart.js"></script>
+		<!-- jQuery Easing -->
+		<script src="js/jquery.easing-1.3.pack.js"></script>
+		<!-- tweetie.min -->
+		<script src="js/tweetie.min.js"></script>
+
+		<!-- Highlight menu item -->
+		<script src="js/jquery.nav.js"></script>
+		<!-- Sticky Nav -->
+		<script src="js/jquery.sticky.js"></script>
+		<!-- Number Counter Script -->
+		<script src="js/jquery.countTo.js"></script>
+		<!-- wow.min Script -->
+		<script src="js/wow.min.js"></script>
+		<!-- For video responsive -->
+		<script src="js/jquery.fitvids.js"></script>
+		<!-- Grid js -->
+		<script src="js/grid.js"></script>
+		<!-- Custom js -->
+		<script src="js/custom.js"></script>
+
+    </body>
 </html>
