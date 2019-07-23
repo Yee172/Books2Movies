@@ -688,8 +688,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .member-photo {
-	height: 225px;
-	width: 225px;
+/*	height: 225px;
+	width: 225px;*/
 	overflow: hidden;
 	position: relative;
 }
