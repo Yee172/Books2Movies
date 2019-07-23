@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5, h6 {
 	overflow:hidden;
 }
 #loading-mask {
-    background: #333439;
+    background: #000000;
     height: 100%;
     left: 0;
     opacity: 1;
@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 100%;
     left: 0;
     position: fixed;
-    top: 50%;
+    top: 20%;
     width: 100%;
 }
 
@@ -688,6 +688,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .member-photo {
+	height: 225px;
+	width: 225px;
 	overflow: hidden;
 	position: relative;
 }
