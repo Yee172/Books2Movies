@@ -10,17 +10,24 @@
     <script type="text/javascript" src="incubator-echarts-4.2.1/test/lib/jquery.min.js"></script>
     <script type="text/javascript" src="incubator-echarts-4.2.1/dist/echarts.min.js"></script>
     <script type="text/javascript" src="incubator-echarts-4.2.1/dist/extension/dataTool.js"></script>
+    <style type="text/css">
+        .test{
+                height: 100%;
+                width: 100%;
+            }
+    </style>
     <!-- <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>-->
 </head>
 <body>
-<div id="main" style="width: 1550px; height:800px;"></div>
+<!-- <div id="main" style="width: 1550px; height: 800px;"></div> -->
+<div id="main" class="test"></div>
 <script type="text/javascript">
     "use strict"
 	var myChart = echarts.init(document.getElementById('main'));
     myChart.width = document.documentElement.clientWidth;
     myChart.height = document.documentElement.clientHeight;
 	myChart.showLoading();
-$.get('gephi_graph/test2.gexf', function (xml) {
+$.get('gephi_graph/book2user.gexf', function (xml) {
     myChart.hideLoading();
 
     var graph = echarts.dataTool.gexf.parse(xml);
