@@ -16,7 +16,9 @@
 <div id="main" style="width: 1550px; height:800px;"></div>
 <script type="text/javascript">
     "use strict"
-	var myChart = echarts.init(document.getElementById('main'))
+	var myChart = echarts.init(document.getElementById('main'));
+    myChart.width = document.documentElement.clientWidth;
+    canvas.height = document.documentElement.clientHeight;
 	myChart.showLoading();
 $.get('gephi_graph/test2.gexf', function (xml) {
     myChart.hideLoading();
