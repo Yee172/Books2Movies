@@ -1,0 +1,28 @@
+Community 1 : ['0C6', '1C3']
+Length of every Community:  2
+Community 2 : ['4C6|C3', '5C6|C3', '9C3', '7C6']
+Length of every Community:  4
+Community 3 : ['6C2', '12C2|C6']
+Length of every Community:  2
+Community 4 : ['8C2|C3', '10C2', '16C2', '15C6', '23C5|C6', '31C6', '17C2', '28C6|C2', '38C5|C6', '30C6|C3', '33C2|C5|C3', '46C3|C6', '25C2', '36C5|C3', '39C5', '43C3|C2', '44C3']
+Length of every Community:  17
+Community 5 : ['11C4', '14C4', '21C4|C6', '22C3', '29C1|C4', '35C2|C4', '27C6|C2']
+Length of every Community:  7
+Community 6 : ['19C2', '20C6', '24C2', '45C6', '32C3', '37C6', '54C2', '56C6|C3', '40C5|C1', '61C5|C6', '62C3', '77C5', '80C5|C2', '91C6|C5']
+Length of every Community:  14
+Community 7 : ['26C3|C6', '47C6', '41C6|C2', '42C3']
+Length of every Community:  4
+Community 8 : ['48C6', '49C6|C2', '55C2', '57C6', '51C6|C2', '58C6|C3', '70C2|C3', '76C2', '53C2', '64C2', '66C3', '67C2|C3', '73C3', '75C3|C6', '78C2|C6', '63C2|C6']
+Length of every Community:  16
+Community 9 : ['52C2', '34C6', '59C3|C2', '68C2', '50C2', '60C1|C3', '69C1|C2', '98C2', '85C3|C2', '124C6|C2', '116C4|C6', '109C4|C3']
+Length of every Community:  12
+Community 10 : ['79C3|C6', '83C6', '84C6', '65C6', '90C1|C6|C5', '72C2|C6', '81C2|C6', '93C3|C6', '99C3|C6', '111C6', '112C6', '96C5|C6']
+Length of every Community:  12
+Community 11 : ['82C3|C2', '95C6|C2', '104C2|C3', '107C1|C2', '113C2', '114C2', '115C3|C2', '117C3|C2', '118C2|C3', '87C2', '102C4|C3', '106C6', '122C2']
+Length of every Community:  13
+Community 12 : ['71C4|C6|C2', '94C4|C2', '74C4|C2', '97C2|C4|C3']
+Length of every Community:  4
+Community 13 : ['110C2|C6', '86C5|C4', '105C5|C4|C6|C3', '89C3|C6', '119C6', '100C2', '121C6|C2', '123C2|C6']
+Length of every Community:  8
+Community 14 : ['92C5|C1', '101C5|C1']
+Length of every Community:  2
