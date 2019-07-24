@@ -1,0 +1,380 @@
+程序	https://book.douban.com/subject/2378124/	C++Templates中文版
+程序	https://book.douban.com/subject/1792165/	ASP.NET动态网站开发基础教程
+程序	https://book.douban.com/subject/1180576/	系统分析与设计方法
+程序	https://book.douban.com/subject/1792179/	Effective STL中文版
+程序	https://book.douban.com/subject/1792387/	UML和模式应用
+程序	https://book.douban.com/subject/1792543/	TCP/IP网络管理
+程序	https://book.douban.com/subject/1794389/	Haskell
+程序	https://book.douban.com/subject/1780219/	Object-Oriented Design Heuristics
+程序	https://book.douban.com/subject/1770051/	Ruby Cookbook
+程序	https://book.douban.com/subject/1550498/	最高人民法院《关于行政诉讼证据若干问题的规定》释义与适用
+程序	https://book.douban.com/subject/1584327/	组成论
+程序	https://book.douban.com/subject/1632977/	The Little Schemer - 4th Edition
+程序	https://book.douban.com/subject/1683654/	计算机算法导引
+程序	https://book.douban.com/subject/1748395/	Text Processing in Python
+程序	https://book.douban.com/subject/1757853/	Beginning JavaScript with DOM Scripting and Ajax
+程序	https://book.douban.com/subject/1760738/	编程卓越之道
+程序	https://book.douban.com/subject/1762127/	A Discipline of Programming
+程序	https://book.douban.com/subject/1764643/	The Haskell School of Expression
+程序	https://book.douban.com/subject/1765253/	Java Servlet &amp; JSP Cookbook
+程序	https://book.douban.com/subject/1765832/	Mastering JavaServer Faces
+程序	https://book.douban.com/subject/1769295/	BSD Hacks
+程序	https://book.douban.com/subject/1796164/	Software Paradigms
+程序	https://book.douban.com/subject/1798896/	The Definitive Guide to Django
+程序	https://book.douban.com/subject/1770051/	Ruby Cookbook
+程序	https://book.douban.com/subject/1769295/	BSD Hacks
+程序	https://book.douban.com/subject/1632977/	The Little Schemer - 4th Edition
+程序	https://book.douban.com/subject/1231822/	莱昂氏UNIX源代码分析
+程序	https://book.douban.com/subject/1231697/	Perl语言编程
+程序	https://book.douban.com/subject/1683654/	计算机算法导引
+程序	https://book.douban.com/subject/1726083/	The Seasoned Schemer
+程序	https://book.douban.com/subject/1748395/	Text Processing in Python
+程序	https://book.douban.com/subject/1231633/	Servlet与JSP核心技术
+程序	https://book.douban.com/subject/1757853/	Beginning JavaScript with DOM Scripting and Ajax
+程序	https://book.douban.com/subject/1760738/	编程卓越之道
+程序	https://book.douban.com/subject/1231615/	XML完全探索
+程序	https://book.douban.com/subject/1762127/	A Discipline of Programming
+程序	https://book.douban.com/subject/1764643/	The Haskell School of Expression
+程序	https://book.douban.com/subject/1231239/	UML基础与Rose建模案例
+程序	https://book.douban.com/subject/1765253/	Java Servlet &amp; JSP Cookbook
+程序	https://book.douban.com/subject/1765832/	Mastering JavaServer Faces
+程序	https://book.douban.com/subject/1231142/	UML基础、案例与应用
+程序	https://book.douban.com/subject/1283244/	ACM图灵奖演讲集
+程序	https://book.douban.com/subject/1278262/	八年级数学(华东师大版)-解题升级-解题快速反应一本通(新课标)
+程序	https://book.douban.com/subject/1277288/	Intel系列微处理器体系结构、编程与接口
+程序	https://book.douban.com/subject/1262909/	Java程序设计与应用开发
+程序	https://book.douban.com/subject/1246454/	C语言程序设计上机指导与习题选解
+程序	https://book.douban.com/subject/1246044/	VC++.NET入门
+程序	https://book.douban.com/subject/1243974/	C++面向对象程序设计
+程序	https://book.douban.com/subject/1446666/	UNIX教程
+程序	https://book.douban.com/subject/1446810/	Java5.0Tiger程序高手秘笈
+程序	https://book.douban.com/subject/1476032/	程序员2005精华本
+程序	https://book.douban.com/subject/1470838/	Imperfect C++中文版
+程序	https://book.douban.com/subject/1470267/	The Elements of Programming Style, 2nd Edition
+程序	https://book.douban.com/subject/1467587/	UNIX编程艺术
+程序	https://book.douban.com/subject/1465781/	法律论证理论
+程序	https://book.douban.com/subject/1460831/	C# Primer Plus
+程序	https://book.douban.com/subject/1459782/	Hibernate
+程序	https://book.douban.com/subject/1459039/	Spring
+程序	https://book.douban.com/subject/1452125/	Twisted Network Programming Essentials
+程序	https://book.douban.com/subject/1450763/	精通正则表达式
+程序	https://book.douban.com/subject/1448904/	精通EJB
+程序	https://book.douban.com/subject/1504641/	UML基础与Rose建模教程
+程序	https://book.douban.com/subject/1503819/	Linux内核设计与实现
+程序	https://book.douban.com/subject/1493443/	Linux Device Drivers
+程序	https://book.douban.com/subject/1488824/	《电脑报》2005年合订本（上下）
+程序	https://book.douban.com/subject/1486020/	Web Caching
+程序	https://book.douban.com/subject/1482240/	深入浅出 MFC 第二版
+程序	https://book.douban.com/subject/1481058/	How to Think Like a Computer Scientist: Learning with Python
+程序	https://book.douban.com/subject/1632977/	The Little Schemer - 4th Edition
+程序	https://book.douban.com/subject/1683654/	计算机算法导引
+程序	https://book.douban.com/subject/1769295/	BSD Hacks
+程序	https://book.douban.com/subject/1174976/	UML风格
+程序	https://book.douban.com/subject/1765832/	Mastering JavaServer Faces
+程序	https://book.douban.com/subject/1765253/	Java Servlet &amp; JSP Cookbook
+程序	https://book.douban.com/subject/1175319/	Microsoft Windows程序设计
+程序	https://book.douban.com/subject/1764643/	The Haskell School of Expression
+程序	https://book.douban.com/subject/1762127/	A Discipline of Programming
+程序	https://book.douban.com/subject/1760738/	编程卓越之道
+程序	https://book.douban.com/subject/1757853/	Beginning JavaScript with DOM Scripting and Ajax
+程序	https://book.douban.com/subject/1748395/	Text Processing in Python
+程序	https://book.douban.com/subject/1726083/	The Seasoned Schemer
+程序	https://book.douban.com/subject/1441780/	游戏之旅
+程序	https://book.douban.com/subject/2378124/	C++Templates中文版
+程序	https://book.douban.com/subject/1313472/	About Face 2.0
+程序	https://book.douban.com/subject/1291204/	哥德尔、艾舍尔、巴赫
+程序	https://book.douban.com/subject/1460831/	C# Primer Plus
+程序	https://book.douban.com/subject/1465781/	法律论证理论
+程序	https://book.douban.com/subject/1467587/	UNIX编程艺术
+程序	https://book.douban.com/subject/1550498/	最高人民法院《关于行政诉讼证据若干问题的规定》释义与适用
+程序	https://book.douban.com/subject/1546802/	合议制度研究
+程序	https://book.douban.com/subject/1507646/	VISUAL BASIC 6.0 WINDOWS API讲座
+程序	https://book.douban.com/subject/1504641/	UML基础与Rose建模教程
+程序	https://book.douban.com/subject/1503819/	Linux内核设计与实现
+程序	https://book.douban.com/subject/1493443/	Linux Device Drivers
+程序	https://book.douban.com/subject/1488824/	《电脑报》2005年合订本（上下）
+程序	https://book.douban.com/subject/1486020/	Web Caching
+程序	https://book.douban.com/subject/1482240/	深入浅出 MFC 第二版
+程序	https://book.douban.com/subject/1481058/	How to Think Like a Computer Scientist: Learning with Python
+程序	https://book.douban.com/subject/1476032/	程序员2005精华本
+程序	https://book.douban.com/subject/1470838/	Imperfect C++中文版
+程序	https://book.douban.com/subject/1470267/	The Elements of Programming Style, 2nd Edition
+程序	https://book.douban.com/subject/1792179/	Effective STL中文版
+程序	https://book.douban.com/subject/1792165/	ASP.NET动态网站开发基础教程
+程序	https://book.douban.com/subject/1790308/	ASP.NET 2.0开发指南
+程序	https://book.douban.com/subject/1240105/	Oricle8i Web开发指南
+程序	https://book.douban.com/subject/1787103/	How to Design Programs
+程序	https://book.douban.com/subject/1787096/	The Lambda Calculus, Its Syntax and Semantics . Revised Edition
+程序	https://book.douban.com/subject/1798896/	The Definitive Guide to Django
+程序	https://book.douban.com/subject/1804020/	Flash第一步
+程序	https://book.douban.com/subject/1844778/	嵌入式Linux应用程序开发详解
+程序	https://book.douban.com/subject/1844630/	操作系统基础教程
+程序	https://book.douban.com/subject/1843100/	数据挖掘技术
+程序	https://book.douban.com/subject/1839273/	应用Rails进行敏捷Web开发
+程序	https://book.douban.com/subject/1837454/	UML用户指南
+程序	https://book.douban.com/subject/1837404/	SQL完全手册
+程序	https://book.douban.com/subject/1237261/	用UML构建Web应用
+程序	https://book.douban.com/subject/1830509/	Spring技术手册
+程序	https://book.douban.com/subject/1829262/	.NET设计规范
+程序	https://book.douban.com/subject/1827723/	Visual C#2005从入门到精通
+程序	https://book.douban.com/subject/1819768/	深入浅出Ajax
+程序	https://book.douban.com/subject/1808611/	复杂网络理论及其应用
+程序	https://book.douban.com/subject/1446250/	汇编语言程序设计
+程序	https://book.douban.com/subject/1486020/	Web Caching
+程序	https://book.douban.com/subject/1488824/	《电脑报》2005年合订本（上下）
+程序	https://book.douban.com/subject/1493443/	Linux Device Drivers
+程序	https://book.douban.com/subject/1765832/	Mastering JavaServer Faces
+程序	https://book.douban.com/subject/1765253/	Java Servlet &amp; JSP Cookbook
+程序	https://book.douban.com/subject/1151672/	代码阅读方法与实践
+程序	https://book.douban.com/subject/1762127/	A Discipline of Programming
+程序	https://book.douban.com/subject/1760738/	编程卓越之道
+程序	https://book.douban.com/subject/1757853/	Beginning JavaScript with DOM Scripting and Ajax
+程序	https://book.douban.com/subject/1748395/	Text Processing in Python
+程序	https://book.douban.com/subject/1726083/	The Seasoned Schemer
+程序	https://book.douban.com/subject/1683654/	计算机算法导引
+程序	https://book.douban.com/subject/1632977/	The Little Schemer - 4th Edition
+程序	https://book.douban.com/subject/1584327/	组成论
+程序	https://book.douban.com/subject/1550498/	最高人民法院《关于行政诉讼证据若干问题的规定》释义与适用
+程序	https://book.douban.com/subject/1546802/	合议制度研究
+程序	https://book.douban.com/subject/1507646/	VISUAL BASIC 6.0 WINDOWS API讲座
+程序	https://book.douban.com/subject/1504641/	UML基础与Rose建模教程
+程序	https://book.douban.com/subject/1503819/	Linux内核设计与实现
+程序	https://book.douban.com/subject/1446250/	汇编语言程序设计
+程序	https://book.douban.com/subject/1488824/	《电脑报》2005年合订本（上下）
+程序	https://book.douban.com/subject/1493443/	Linux Device Drivers
+程序	https://book.douban.com/subject/1769295/	BSD Hacks
+程序	https://book.douban.com/subject/1765832/	Mastering JavaServer Faces
+程序	https://book.douban.com/subject/1765253/	Java Servlet &amp; JSP Cookbook
+程序	https://book.douban.com/subject/1764643/	The Haskell School of Expression
+程序	https://book.douban.com/subject/1762127/	A Discipline of Programming
+程序	https://book.douban.com/subject/1760738/	编程卓越之道
+程序	https://book.douban.com/subject/1757853/	Beginning JavaScript with DOM Scripting and Ajax
+程序	https://book.douban.com/subject/1748395/	Text Processing in Python
+程序	https://book.douban.com/subject/1726083/	The Seasoned Schemer
+程序	https://book.douban.com/subject/1683654/	计算机算法导引
+程序	https://book.douban.com/subject/1632977/	The Little Schemer - 4th Edition
+程序	https://book.douban.com/subject/1584327/	组成论
+程序	https://book.douban.com/subject/1550498/	最高人民法院《关于行政诉讼证据若干问题的规定》释义与适用
+程序	https://book.douban.com/subject/1546802/	合议制度研究
+程序	https://book.douban.com/subject/1507646/	VISUAL BASIC 6.0 WINDOWS API讲座
+程序	https://book.douban.com/subject/1504641/	UML基础与Rose建模教程
+程序	https://book.douban.com/subject/1503819/	Linux内核设计与实现
+程序	https://book.douban.com/subject/1482240/	深入浅出 MFC 第二版
+程序	https://book.douban.com/subject/1486020/	Web Caching
+程序	https://book.douban.com/subject/1488824/	《电脑报》2005年合订本（上下）
+程序	https://book.douban.com/subject/1765832/	Mastering JavaServer Faces
+程序	https://book.douban.com/subject/1765253/	Java Servlet &amp; JSP Cookbook
+程序	https://book.douban.com/subject/1764643/	The Haskell School of Expression
+程序	https://book.douban.com/subject/1762127/	A Discipline of Programming
+程序	https://book.douban.com/subject/1760738/	编程卓越之道
+程序	https://book.douban.com/subject/1757853/	Beginning JavaScript with DOM Scripting and Ajax
+程序	https://book.douban.com/subject/1748395/	Text Processing in Python
+程序	https://book.douban.com/subject/1726083/	The Seasoned Schemer
+程序	https://book.douban.com/subject/1683654/	计算机算法导引
+程序	https://book.douban.com/subject/1632977/	The Little Schemer - 4th Edition
+程序	https://book.douban.com/subject/1584327/	组成论
+程序	https://book.douban.com/subject/1550498/	最高人民法院《关于行政诉讼证据若干问题的规定》释义与适用
+程序	https://book.douban.com/subject/1546802/	合议制度研究
+程序	https://book.douban.com/subject/1507646/	VISUAL BASIC 6.0 WINDOWS API讲座
+程序	https://book.douban.com/subject/1504641/	UML基础与Rose建模教程
+程序	https://book.douban.com/subject/1503819/	Linux内核设计与实现
+程序	https://book.douban.com/subject/1493443/	Linux Device Drivers
+程序	https://book.douban.com/subject/1837404/	SQL完全手册
+程序	https://book.douban.com/subject/1241361/	学习bash
+程序	https://book.douban.com/subject/1240105/	Oricle8i Web开发指南
+程序	https://book.douban.com/subject/1886156/	VISUAL FOXPRO程序设计实用教程习题解答与实验指导
+程序	https://book.douban.com/subject/1231615/	XML完全探索
+程序	https://book.douban.com/subject/1231633/	Servlet与JSP核心技术
+程序	https://book.douban.com/subject/1231697/	Perl语言编程
+程序	https://book.douban.com/subject/1231822/	莱昂氏UNIX源代码分析
+程序	https://book.douban.com/subject/1231933/	计算机程序设计艺术（第1卷）
+程序	https://book.douban.com/subject/1231934/	Perl语言入门
+程序	https://book.douban.com/subject/1232017/	面向模式的软件体系结构(卷1) (平装)
+程序	https://book.douban.com/subject/1232029/	C专家编程
+程序	https://book.douban.com/subject/1232756/	程序的力量
+程序	https://book.douban.com/subject/1237261/	用UML构建Web应用
+程序	https://book.douban.com/subject/1237970/	旷世之战――IBM深蓝夺冠之路
+程序	https://book.douban.com/subject/1239416/	Visual C++/Turbo C串口通信编程实践
+程序	https://book.douban.com/subject/1910326/	编程珠玑
+程序	https://book.douban.com/subject/1907939/	You Can Program in C++
+程序	https://book.douban.com/subject/1898098/	精通CSS
+程序	https://book.douban.com/subject/1896792/	程序员面试宝典
+程序	https://book.douban.com/subject/1769295/	BSD Hacks
+程序	https://book.douban.com/subject/1770051/	Ruby Cookbook
+程序	https://book.douban.com/subject/1780219/	Object-Oriented Design Heuristics
+程序	https://book.douban.com/subject/1784887/	Hacker&#39;s Delight
+程序	https://book.douban.com/subject/1786120/	数据挖掘导论
+程序	https://book.douban.com/subject/1787096/	The Lambda Calculus, Its Syntax and Semantics . Revised Edition
+程序	https://book.douban.com/subject/1787103/	How to Design Programs
+程序	https://book.douban.com/subject/1790308/	ASP.NET 2.0开发指南
+程序	https://book.douban.com/subject/1792165/	ASP.NET动态网站开发基础教程
+程序	https://book.douban.com/subject/1765832/	Mastering JavaServer Faces
+程序	https://book.douban.com/subject/1765253/	Java Servlet &amp; JSP Cookbook
+程序	https://book.douban.com/subject/1584327/	组成论
+程序	https://book.douban.com/subject/1632977/	The Little Schemer - 4th Edition
+程序	https://book.douban.com/subject/1683654/	计算机算法导引
+程序	https://book.douban.com/subject/1726083/	The Seasoned Schemer
+程序	https://book.douban.com/subject/1748395/	Text Processing in Python
+程序	https://book.douban.com/subject/1757853/	Beginning JavaScript with DOM Scripting and Ajax
+程序	https://book.douban.com/subject/1760738/	编程卓越之道
+程序	https://book.douban.com/subject/1762127/	A Discipline of Programming
+程序	https://book.douban.com/subject/1764643/	The Haskell School of Expression
+程序	https://book.douban.com/subject/1790308/	ASP.NET 2.0开发指南
+程序	https://book.douban.com/subject/1792165/	ASP.NET动态网站开发基础教程
+程序	https://book.douban.com/subject/1792179/	Effective STL中文版
+程序	https://book.douban.com/subject/1792387/	UML和模式应用
+程序	https://book.douban.com/subject/1792543/	TCP/IP网络管理
+程序	https://book.douban.com/subject/1794389/	Haskell
+程序	https://book.douban.com/subject/1796164/	Software Paradigms
+程序	https://book.douban.com/subject/1798896/	The Definitive Guide to Django
+程序	https://book.douban.com/subject/1787096/	The Lambda Calculus, Its Syntax and Semantics . Revised Edition
+程序	https://book.douban.com/subject/1786120/	数据挖掘导论
+程序	https://book.douban.com/subject/1784887/	Hacker&#39;s Delight
+程序	https://book.douban.com/subject/1757853/	Beginning JavaScript with DOM Scripting and Ajax
+程序	https://book.douban.com/subject/1760738/	编程卓越之道
+程序	https://book.douban.com/subject/1762127/	A Discipline of Programming
+程序	https://book.douban.com/subject/1764643/	The Haskell School of Expression
+程序	https://book.douban.com/subject/1765253/	Java Servlet &amp; JSP Cookbook
+程序	https://book.douban.com/subject/1765832/	Mastering JavaServer Faces
+程序	https://book.douban.com/subject/1769295/	BSD Hacks
+程序	https://book.douban.com/subject/1770051/	Ruby Cookbook
+程序	https://book.douban.com/subject/1780219/	Object-Oriented Design Heuristics
+程序	https://book.douban.com/subject/1231934/	Perl语言入门
+程序	https://book.douban.com/subject/1231933/	计算机程序设计艺术（第1卷）
+程序	https://book.douban.com/subject/2057790/	Java JDK6学习笔记
+程序	https://book.douban.com/subject/2058456/	Ajax模式与最佳实践
+程序	https://book.douban.com/subject/2058457/	AJAX HACKS中文版
+程序	https://book.douban.com/subject/1231822/	莱昂氏UNIX源代码分析
+程序	https://book.douban.com/subject/2082177/	编程卓越之道
+程序	https://book.douban.com/subject/2084131/	High Performance Web Sites
+程序	https://book.douban.com/subject/2098492/	数理逻辑
+程序	https://book.douban.com/subject/2050871/	轻松学习visual basic
+程序	https://book.douban.com/subject/2044818/	操作系统设计与实现（上册）
+程序	https://book.douban.com/subject/2005944/	巧用整站程序建网站
+程序	https://book.douban.com/subject/2005949/	精通SOA
+程序	https://book.douban.com/subject/1232756/	程序的力量
+程序	https://book.douban.com/subject/2022644/	征服Ajax
+程序	https://book.douban.com/subject/2024655/	数据结构
+程序	https://book.douban.com/subject/1232029/	C专家编程
+程序	https://book.douban.com/subject/2030712/	Perl语言入门
+程序	https://book.douban.com/subject/1232017/	面向模式的软件体系结构(卷1) (平装)
+程序	https://book.douban.com/subject/2035961/	Prototype and Scriptaculous in Action
+程序	https://book.douban.com/subject/1830509/	Spring技术手册
+程序	https://book.douban.com/subject/1837404/	SQL完全手册
+程序	https://book.douban.com/subject/1837454/	UML用户指南
+程序	https://book.douban.com/subject/1839273/	应用Rails进行敏捷Web开发
+程序	https://book.douban.com/subject/1843100/	数据挖掘技术
+程序	https://book.douban.com/subject/1844630/	操作系统基础教程
+程序	https://book.douban.com/subject/1798896/	The Definitive Guide to Django
+程序	https://book.douban.com/subject/1796164/	Software Paradigms
+程序	https://book.douban.com/subject/1794389/	Haskell
+程序	https://book.douban.com/subject/1770051/	Ruby Cookbook
+程序	https://book.douban.com/subject/1780219/	Object-Oriented Design Heuristics
+程序	https://book.douban.com/subject/1784887/	Hacker&#39;s Delight
+程序	https://book.douban.com/subject/1786120/	数据挖掘导论
+程序	https://book.douban.com/subject/1787096/	The Lambda Calculus, Its Syntax and Semantics . Revised Edition
+程序	https://book.douban.com/subject/1787103/	How to Design Programs
+程序	https://book.douban.com/subject/1790308/	ASP.NET 2.0开发指南
+程序	https://book.douban.com/subject/1792165/	ASP.NET动态网站开发基础教程
+程序	https://book.douban.com/subject/1792179/	Effective STL中文版
+程序	https://book.douban.com/subject/1792387/	UML和模式应用
+程序	https://book.douban.com/subject/1792543/	TCP/IP网络管理
+程序	https://book.douban.com/subject/1867642/	世界是平的
+程序	https://book.douban.com/subject/1868178/	Scalable Internet Architectures
+程序	https://book.douban.com/subject/1869705/	JavaScript高级程序设计
+程序	https://book.douban.com/subject/1874839/	Core Python Programming
+程序	https://book.douban.com/subject/1881630/	Access2003数据库开发典型范例
+程序	https://book.douban.com/subject/1830509/	Spring技术手册
+程序	https://book.douban.com/subject/1829262/	.NET设计规范
+程序	https://book.douban.com/subject/1827723/	Visual C#2005从入门到精通
+程序	https://book.douban.com/subject/1787103/	How to Design Programs
+程序	https://book.douban.com/subject/1790308/	ASP.NET 2.0开发指南
+程序	https://book.douban.com/subject/1792165/	ASP.NET动态网站开发基础教程
+程序	https://book.douban.com/subject/1792179/	Effective STL中文版
+程序	https://book.douban.com/subject/1792387/	UML和模式应用
+程序	https://book.douban.com/subject/1792543/	TCP/IP网络管理
+程序	https://book.douban.com/subject/1794389/	Haskell
+程序	https://book.douban.com/subject/1796164/	Software Paradigms
+程序	https://book.douban.com/subject/1798896/	The Definitive Guide to Django
+程序	https://book.douban.com/subject/1804020/	Flash第一步
+程序	https://book.douban.com/subject/1808611/	复杂网络理论及其应用
+程序	https://book.douban.com/subject/1819768/	深入浅出Ajax
+程序	https://book.douban.com/subject/1882483/	C程序设计语言
+程序	https://book.douban.com/subject/1886156/	VISUAL FOXPRO程序设计实用教程习题解答与实验指导
+程序	https://book.douban.com/subject/1896792/	程序员面试宝典
+程序	https://book.douban.com/subject/1898098/	精通CSS
+程序	https://book.douban.com/subject/1907939/	You Can Program in C++
+程序	https://book.douban.com/subject/1843100/	数据挖掘技术
+程序	https://book.douban.com/subject/1839273/	应用Rails进行敏捷Web开发
+程序	https://book.douban.com/subject/1792387/	UML和模式应用
+程序	https://book.douban.com/subject/1792543/	TCP/IP网络管理
+程序	https://book.douban.com/subject/1794389/	Haskell
+程序	https://book.douban.com/subject/1796164/	Software Paradigms
+程序	https://book.douban.com/subject/1798896/	The Definitive Guide to Django
+程序	https://book.douban.com/subject/1804020/	Flash第一步
+程序	https://book.douban.com/subject/1808611/	复杂网络理论及其应用
+程序	https://book.douban.com/subject/1819768/	深入浅出Ajax
+程序	https://book.douban.com/subject/1827723/	Visual C#2005从入门到精通
+程序	https://book.douban.com/subject/1829262/	.NET设计规范
+程序	https://book.douban.com/subject/1830509/	Spring技术手册
+程序	https://book.douban.com/subject/1837404/	SQL完全手册
+程序	https://book.douban.com/subject/1837454/	UML用户指南
+程序	https://book.douban.com/subject/1910326/	编程珠玑
+程序	https://book.douban.com/subject/1936917/	圣殿祭司的ASP.NET 2.0开发详解
+程序	https://book.douban.com/subject/1937913/	无懈可击的Web设计
+程序	https://book.douban.com/subject/1944729/	程序设计语言理论基础
+程序	https://book.douban.com/subject/1867642/	世界是平的
+程序	https://book.douban.com/subject/1866231/	Compilers
+程序	https://book.douban.com/subject/1844778/	嵌入式Linux应用程序开发详解
+程序	https://book.douban.com/subject/1796164/	Software Paradigms
+程序	https://book.douban.com/subject/1798896/	The Definitive Guide to Django
+程序	https://book.douban.com/subject/1804020/	Flash第一步
+程序	https://book.douban.com/subject/1808611/	复杂网络理论及其应用
+程序	https://book.douban.com/subject/1819768/	深入浅出Ajax
+程序	https://book.douban.com/subject/1827723/	Visual C#2005从入门到精通
+程序	https://book.douban.com/subject/1829262/	.NET设计规范
+程序	https://book.douban.com/subject/1830509/	Spring技术手册
+程序	https://book.douban.com/subject/1837404/	SQL完全手册
+程序	https://book.douban.com/subject/1837454/	UML用户指南
+程序	https://book.douban.com/subject/1839273/	应用Rails进行敏捷Web开发
+程序	https://book.douban.com/subject/1843100/	数据挖掘技术
+程序	https://book.douban.com/subject/1844630/	操作系统基础教程
+程序	https://book.douban.com/subject/1951158/	代码大全
+程序	https://book.douban.com/subject/1954135/	LEMON语法分析生成器
+程序	https://book.douban.com/subject/1957183/	Solaris内核结构
+程序	https://book.douban.com/subject/1958256/	程序员2006精华本
+程序	https://book.douban.com/subject/1881630/	Access2003数据库开发典型范例
+程序	https://book.douban.com/subject/1874839/	Core Python Programming
+程序	https://book.douban.com/subject/1819768/	深入浅出Ajax
+程序	https://book.douban.com/subject/1827723/	Visual C#2005从入门到精通
+程序	https://book.douban.com/subject/1829262/	.NET设计规范
+程序	https://book.douban.com/subject/1830509/	Spring技术手册
+程序	https://book.douban.com/subject/1837404/	SQL完全手册
+程序	https://book.douban.com/subject/1837454/	UML用户指南
+程序	https://book.douban.com/subject/1839273/	应用Rails进行敏捷Web开发
+程序	https://book.douban.com/subject/1843100/	数据挖掘技术
+程序	https://book.douban.com/subject/1844630/	操作系统基础教程
+程序	https://book.douban.com/subject/1844778/	嵌入式Linux应用程序开发详解
+程序	https://book.douban.com/subject/1866231/	Compilers
+程序	https://book.douban.com/subject/1867642/	世界是平的
+程序	https://book.douban.com/subject/1868178/	Scalable Internet Architectures
+程序	https://book.douban.com/subject/1869705/	JavaScript高级程序设计
+程序	https://book.douban.com/subject/2005622/	PYTHON技术手册
+程序	https://book.douban.com/subject/1907939/	You Can Program in C++
+程序	https://book.douban.com/subject/1898098/	精通CSS
+程序	https://book.douban.com/subject/1896792/	程序员面试宝典
+程序	https://book.douban.com/subject/1837404/	SQL完全手册
+程序	https://book.douban.com/subject/1837454/	UML用户指南
+程序	https://book.douban.com/subject/1839273/	应用Rails进行敏捷Web开发
+程序	https://book.douban.com/subject/1843100/	数据挖掘技术
+程序	https://book.douban.com/subject/1844630/	操作系统基础教程
+程序	https://book.douban.com/subject/1844778/	嵌入式Linux应用程序开发详解
+程序	https://book.douban.com/subject/1866231/	Compilers
+程序	https://book.douban.com/subject/1867642/	世界是平的
+程序	https://book.douban.com/subject/1868178/	Scalable Internet Architectures
+程序	https://book.douban.com/subject/1869705/	JavaScript高级程序设计
+程序	https://book.douban.com/subject/1874839/	Core Python Programming
+程序	https://book.douban.com/subject/1881630/	Access2003数据库开发典型范例
+程序	https://book.douban.com/subject/1882483/	C程序设计语言
+程序	https://book.douban.com/subject/1886156/	VISUAL FOXPRO程序设计实用教程习题解答与实验指导
+程序	https://book.douban.com/subject/2005944/	巧用整站程序建网站

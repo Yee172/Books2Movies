@@ -1,0 +1,500 @@
+编程	https://book.douban.com/subject/30352656/	正则指引（第2版）
+编程	https://book.douban.com/subject/30221593/	图解深度学习
+编程	https://book.douban.com/subject/2295097/	Learning Python, 3rd Edition
+编程	https://book.douban.com/subject/3374637/	Java第一步
+编程	https://book.douban.com/subject/26993995/	操作系统
+编程	https://book.douban.com/subject/26772834/	手游创业：从开发到推广那些事
+编程	https://book.douban.com/subject/4088038/	Perl语言入门
+编程	https://book.douban.com/subject/27084134/	Python金融衍生品大数据分析：建模、模拟、校准与对冲
+编程	https://book.douban.com/subject/3892590/	面向对象分析与设计
+编程	https://book.douban.com/subject/25732463/	淘宝十年产品事
+编程	https://book.douban.com/subject/30273769/	Rust编程(影印版)(英文版)
+编程	https://book.douban.com/subject/26617209/	Teach Your Kids to Code
+编程	https://book.douban.com/subject/24872314/	恰如其分的软件架构
+编程	https://book.douban.com/subject/2082177/	编程卓越之道
+编程	https://book.douban.com/subject/27092363/	算法设计指南
+编程	https://book.douban.com/subject/25803364/	C语言入门经典（第5版）
+编程	https://book.douban.com/subject/4851107/	Hacking Vim 7.2
+编程	https://book.douban.com/subject/33416615/	Java核心技术 卷I 基础知识 第11版 英文版 上下册
+编程	https://book.douban.com/subject/1451438/	Peopleware
+编程	https://book.douban.com/subject/5337333/	深入浅出JavaScript（中文版）
+编程	https://book.douban.com/subject/26363333/	iOS应用逆向工程 第2版
+编程	https://book.douban.com/subject/30426701/	DirectX 12 3D 游戏开发实战
+编程	https://book.douban.com/subject/25798102/	MongoDB权威指南（第2版）
+编程	https://book.douban.com/subject/4031965/	Python UNIX和Linux系统管理指南
+编程	https://book.douban.com/subject/1484262/	Inside the C++ Object Model
+编程	https://book.douban.com/subject/27035127/	Spark
+编程	https://book.douban.com/subject/1754619/	Paradigms of Artificial Intelligence Programming
+编程	https://book.douban.com/subject/27125254/	HTML5+CSS3+JavaScript从入门到精通（标准版）
+编程	https://book.douban.com/subject/11232785/	Java 7入门经典
+编程	https://book.douban.com/subject/26838547/	深入理解 Flask
+编程	https://book.douban.com/subject/26281496/	Build Your Own Lisp
+编程	https://book.douban.com/subject/3425827/	算法概论
+编程	https://book.douban.com/subject/1231794/	Windows图形编程
+编程	https://book.douban.com/subject/33408564/	PyTorch深度学习
+编程	https://book.douban.com/subject/3229243/	Linux内核完全剖析
+编程	https://book.douban.com/subject/10442221/	数控车床编程100例
+编程	https://book.douban.com/subject/1943128/	How Tomcat Works
+编程	https://book.douban.com/subject/30179599/	轻量级Java EE企业应用实战（第5版）
+编程	https://book.douban.com/subject/3040870/	Head First HTML与CSS、XHTML（中文版）
+编程	https://book.douban.com/subject/26437262/	智取程序员面试
+编程	https://book.douban.com/subject/19965586/	深入分析Java Web技术内幕
+编程	https://book.douban.com/subject/4175538/	Flash ActionScript 3.0 动画高级教程
+编程	https://book.douban.com/subject/7046813/	精通MATLAB R2011a
+编程	https://book.douban.com/subject/25863872/	深入理解Android：Wi-Fi、NFC和GPS卷
+编程	https://book.douban.com/subject/3802826/	Elements of Programming
+编程	https://book.douban.com/subject/25814739/	Flask Web Development
+编程	https://book.douban.com/subject/5269219/	数据之美
+编程	https://book.douban.com/subject/33408772/	Python 3破冰人工智能 从入门到实战
+编程	https://book.douban.com/subject/1246983/	C语言贯通教程——C，C++，Visual C++及Windows 应用程序 (精装)
+编程	https://book.douban.com/subject/3098386/	Problem Solving with Algorithms and Data Structures Using Python
+编程	https://book.douban.com/subject/26363669/	Clojure for the Brave and True
+编程	https://book.douban.com/subject/26314527/	若为自由故
+编程	https://book.douban.com/subject/24700704/	Netty in Action
+编程	https://book.douban.com/subject/30312231/	深入浅出Rust
+编程	https://book.douban.com/subject/3729201/	零基础学C语言
+编程	https://book.douban.com/subject/30336828/	神奇的逻辑思维游戏书
+编程	https://book.douban.com/subject/25798462/	Python数据分析基础教程（第2版）
+编程	https://book.douban.com/subject/6039359/	Programming Concurrency on the JVM
+编程	https://book.douban.com/subject/26740545/	Scala程序设计（第2版）
+编程	https://book.douban.com/subject/30937400/	Java核心技术 卷II：高级特性（第9版 英文版）（套装上下册）
+编程	https://book.douban.com/subject/1927014/	ArcGIS开发宝典---从入门到精通
+编程	https://book.douban.com/subject/1795950/	The Haskell School of Expression
+编程	https://book.douban.com/subject/1869681/	Algorithms in C, Parts 1-4
+编程	https://book.douban.com/subject/10798975/	程序语言的奥妙
+编程	https://book.douban.com/subject/26421130/	Optimized C++
+编程	https://book.douban.com/subject/26642317/	Java多线程编程实战指南（设计模式篇）
+编程	https://book.douban.com/subject/23678951/	The Art of Unit Testing
+编程	https://book.douban.com/subject/4138920/	算法竞赛入门经典
+编程	https://book.douban.com/subject/3344305/	C#高级编程
+编程	https://book.douban.com/subject/27068347/	Python Web Scraping - Second Edition
+编程	https://book.douban.com/subject/25806797/	Selenium自动化测试指南
+编程	https://book.douban.com/subject/1796047/	Debugging with GDB
+编程	https://book.douban.com/subject/33384403/	Modern C
+编程	https://book.douban.com/subject/1241423/	泛型编程与STL
+编程	https://book.douban.com/subject/26740705/	C++ Without Fear
+编程	https://book.douban.com/subject/4089837/	JavaScript学习指南
+编程	https://book.douban.com/subject/10831897/	数据之魅
+编程	https://book.douban.com/subject/33450010/	动手学深度学习
+编程	https://book.douban.com/subject/26953756/	计算机程序设计艺术・卷3
+编程	https://book.douban.com/subject/1583135/	CSS Mastery
+编程	https://book.douban.com/subject/27592738/	Linux二进制分析
+编程	https://book.douban.com/subject/3413682/	21天学通Java
+编程	https://book.douban.com/subject/26937390/	Node.js硬实战：115个核心技巧
+编程	https://book.douban.com/subject/4843567/	深入Linux内核架构
+编程	https://book.douban.com/subject/26937393/	Swift：面向协议编程
+编程	https://book.douban.com/subject/2877490/	The Soul of a New Machine
+编程	https://book.douban.com/subject/10774590/	OpenGL超级宝典
+编程	https://book.douban.com/subject/1452107/	The C++ Programming Language, Special Edition
+编程	https://book.douban.com/subject/24533312/	Java虚拟机并发编程
+编程	https://book.douban.com/subject/1419359/	Refactoring
+编程	https://book.douban.com/subject/1886305/	数据结构与算法
+编程	https://book.douban.com/subject/24807528/	Introducing Python
+编程	https://book.douban.com/subject/23780706/	Node.js入门经典
+编程	https://book.douban.com/subject/1099889/	C++程序设计语言（特别版）
+编程	https://book.douban.com/subject/1231891/	计算机程序设计艺术（第2卷）
+编程	https://book.douban.com/subject/24758390/	来吧！带你玩转 Excel VBA
+编程	https://book.douban.com/subject/3319935/	走出软件作坊
+编程	https://book.douban.com/subject/1247361/	计算机程序设计艺术(第3卷)-排序和查找(英文影印版)
+编程	https://book.douban.com/subject/26921107/	七周七语言（卷2）
+编程	https://book.douban.com/subject/30173345/	Python程序设计基础(第2版计算机系列教材)
+编程	https://book.douban.com/subject/5318823/	编程大师智慧
+编程	https://book.douban.com/subject/10438832/	Big Data
+编程	https://book.douban.com/subject/25790644/	A Byte of Vim
+编程	https://book.douban.com/subject/4311129/	OpenGL编程指南（原书第7版）
+编程	https://book.douban.com/subject/4212921/	Python高级编程
+编程	https://book.douban.com/subject/21317828/	征服C指针
+编程	https://book.douban.com/subject/30250702/	结构化并行程序设计
+编程	https://book.douban.com/subject/26208470/	Pro Git (Second Edition)
+编程	https://book.douban.com/subject/3205338/	Beginning Python
+编程	https://book.douban.com/subject/26740958/	垃圾回收算法手册：自动内存管理的艺术
+编程	https://book.douban.com/subject/30288107/	Node.js实战（第2版）
+编程	https://book.douban.com/subject/3549421/	PHP和MySQL Web开发(原书第4版)
+编程	https://book.douban.com/subject/25782529/	程序员面试攻略(原书第3版)
+编程	https://book.douban.com/subject/1116431/	计算机算法
+编程	https://book.douban.com/subject/2307272/	Groovy入门经典
+编程	https://book.douban.com/subject/1231141/	实时计算机图形学
+编程	https://book.douban.com/subject/1247542/	精通shell编程
+编程	https://book.douban.com/subject/4196673/	程序员的爱情
+编程	https://book.douban.com/subject/30157131/	程序员的英语
+编程	https://book.douban.com/subject/24734031/	C++ GUI Qt 4编程
+编程	https://book.douban.com/subject/1231195/	游戏编程精粹 1
+编程	https://book.douban.com/subject/1042781/	Java 2 核心技术 卷Ⅰ--基础知识
+编程	https://book.douban.com/subject/24316255/	Go Web编程
+编程	https://book.douban.com/subject/19933548/	JavaScript编程精解
+编程	https://book.douban.com/subject/25872755/	Java Performance
+编程	https://book.douban.com/subject/1173876/	Servlet与JSP核心编程
+编程	https://book.douban.com/subject/1218873/	黑客反汇编揭秘
+科学	https://book.douban.com/subject/1034282/	时间简史
+科学	https://book.douban.com/subject/25985021/	人类简史
+科学	https://book.douban.com/subject/1102715/	从一到无穷大
+科学	https://book.douban.com/subject/1467022/	上帝掷骰子吗
+科学	https://book.douban.com/subject/1291204/	哥德尔、艾舍尔、巴赫
+科学	https://book.douban.com/subject/33385217/	全球科技通史
+科学	https://book.douban.com/subject/30379527/	世界观（原书第2版）
+科学	https://book.douban.com/subject/30404521/	一想到还有95%的问题留给人类，我就放心了
+科学	https://book.douban.com/subject/26697350/	极简宇宙史
+科学	https://book.douban.com/subject/33408247/	病毒星球
+科学	https://book.douban.com/subject/26772731/	七堂极简物理课
+科学	https://book.douban.com/subject/33385402/	事实
+科学	https://book.douban.com/subject/30459652/	十问
+科学	https://book.douban.com/subject/20376550/	科学革命的结构
+科学	https://book.douban.com/subject/30428815/	起源
+科学	https://book.douban.com/subject/25742211/	上帝掷骰子吗?
+科学	https://book.douban.com/subject/26992254/	时间的形状
+科学	https://book.douban.com/subject/27168433/	基因传
+科学	https://book.douban.com/subject/30354451/	皮肤的秘密
+科学	https://book.douban.com/subject/1320282/	什么是数学
+科学	https://book.douban.com/subject/6952036/	对伪心理学说不
+科学	https://book.douban.com/subject/27023900/	睡眠革命
+科学	https://book.douban.com/subject/1317485/	生命是什么
+科学	https://book.douban.com/subject/11445548/	自私的基因
+科学	https://book.douban.com/subject/1257217/	时间简史
+科学	https://book.douban.com/subject/30320887/	我的世界观
+科学	https://book.douban.com/subject/33424487/	时间的秩序
+科学	https://book.douban.com/subject/30262617/	生命3.0
+科学	https://book.douban.com/subject/26593084/	迷人的材料
+科学	https://book.douban.com/subject/30244461/	规模
+科学	https://book.douban.com/subject/3930318/	超越时空
+科学	https://book.douban.com/subject/26852425/	什么是科学
+科学	https://book.douban.com/subject/27156306/	现实不似你所见
+科学	https://book.douban.com/subject/6749832/	复杂
+科学	https://book.douban.com/subject/10750155/	数学之美
+科学	https://book.douban.com/subject/30354898/	圣经、新教与自然科学的兴起
+科学	https://book.douban.com/subject/1225983/	万物简史
+科学	https://book.douban.com/subject/27025492/	上帝的手术刀
+科学	https://book.douban.com/subject/26364209/	那些古怪又让人忧心的问题
+科学	https://book.douban.com/subject/5248516/	改变心理学的40项研究
+科学	https://book.douban.com/subject/30335756/	我是个怪圈
+科学	https://book.douban.com/subject/26592648/	癌症·真相
+科学	https://book.douban.com/subject/30432502/	药物简史
+科学	https://book.douban.com/subject/1034279/	果壳中的宇宙
+科学	https://book.douban.com/subject/26890706/	科学与宗教的领地
+科学	https://book.douban.com/subject/26314627/	万物
+科学	https://book.douban.com/subject/25745879/	物种起源
+科学	https://book.douban.com/subject/26837082/	消失的微生物
+科学	https://book.douban.com/subject/27074686/	我的世界观
+科学	https://book.douban.com/subject/33377950/	野鸟形态图鉴
+科学	https://book.douban.com/subject/30420866/	DK大历史
+科学	https://book.douban.com/subject/1037602/	别闹了，费曼先生
+科学	https://book.douban.com/subject/3144300/	通向实在之路
+科学	https://book.douban.com/subject/1761114/	物理学的进化
+科学	https://book.douban.com/subject/25847160/	What If?
+科学	https://book.douban.com/subject/25752043/	信息简史
+科学	https://book.douban.com/subject/30390660/	联结
+科学	https://book.douban.com/subject/6855803/	奇点临近
+科学	https://book.douban.com/subject/33440284/	那些活了很久很久的树
+科学	https://book.douban.com/subject/1322358/	费马大定理
+科学	https://book.douban.com/subject/26826089/	那些古怪又让人忧心的问题
+科学	https://book.douban.com/subject/1880660/	自然哲学的数学原理
+科学	https://book.douban.com/subject/10531723/	爱因斯坦传
+科学	https://book.douban.com/subject/26776967/	发现的乐趣
+科学	https://book.douban.com/subject/30471580/	改写
+科学	https://book.douban.com/subject/3370214/	深奥的简洁
+科学	https://book.douban.com/subject/1292405/	自私的基因
+科学	https://book.douban.com/subject/20507206/	众病之王
+科学	https://book.douban.com/subject/27041829/	大师说科学与哲学
+科学	https://book.douban.com/subject/33381164/	你一定爱读的人工智能简史
+科学	https://book.douban.com/subject/30164677/	我们为什么会生病
+科学	https://book.douban.com/subject/26807573/	流浪地球
+科学	https://book.douban.com/subject/6434486/	上帝掷骰子吗？
+科学	https://book.douban.com/subject/27139938/	哲学·科学·常识
+科学	https://book.douban.com/subject/26214114/	暗淡蓝点
+科学	https://book.douban.com/subject/25986341/	万万没想到
+科学	https://book.douban.com/subject/6784981/	几何原本
+科学	https://book.douban.com/subject/27174411/	思维简史
+科学	https://book.douban.com/subject/21336200/	基因之河
+科学	https://book.douban.com/subject/1626392/	女士品茶
+科学	https://book.douban.com/subject/3117464/	平行宇宙
+科学	https://book.douban.com/subject/26890863/	我们如何走到今天
+科学	https://book.douban.com/subject/26902370/	宇宙
+科学	https://book.douban.com/subject/1707050/	狭义与广义相对论浅说
+科学	https://book.douban.com/subject/1322336/	控制论与科学方法论
+科学	https://book.douban.com/subject/30233984/	科学作为天职
+科学	https://book.douban.com/subject/27089022/	海洋中的爱与性
+科学	https://book.douban.com/subject/24846072/	隐藏的现实
+科学	https://book.douban.com/subject/25829287/	数学
+科学	https://book.douban.com/subject/1000121/	昆虫记
+科学	https://book.douban.com/subject/30296201/	鸟类的天赋
+科学	https://book.douban.com/subject/30305866/	物理学的进化
+科学	https://book.douban.com/subject/33446874/	无穷小
+科学	https://book.douban.com/subject/1277169/	古今数学思想（一）
+科学	https://book.douban.com/subject/5422665/	大设计
+科学	https://book.douban.com/subject/27017590/	品尝的科学
+科学	https://book.douban.com/subject/5989373/	失控
+科学	https://book.douban.com/subject/26413155/	星际穿越
+科学	https://book.douban.com/subject/26686251/	这才是心理学
+科学	https://book.douban.com/subject/30373573/	十亿美元分子
+科学	https://book.douban.com/subject/26163454/	数学之美 （第二版）
+科学	https://book.douban.com/subject/25775662/	可畏的对称
+科学	https://book.douban.com/subject/26652354/	世界重启
+科学	https://book.douban.com/subject/10571608/	第一推动丛书（珍藏版套书）
+科学	https://book.douban.com/subject/10539147/	宇宙的结构
+科学	https://book.douban.com/subject/1053174/	你干吗在乎别人怎么想？
+科学	https://book.douban.com/subject/10522003/	艾伦·图灵传
+科学	https://book.douban.com/subject/2356843/	控制论
+科学	https://book.douban.com/subject/26376353/	世界图景的机械化
+科学	https://book.douban.com/subject/26679862/	生命的跃升
+科学	https://book.douban.com/subject/3349509/	科学发现的逻辑
+科学	https://book.douban.com/subject/26901529/	怎样观察一棵树
+科学	https://book.douban.com/subject/27088125/	人类思维的自然史
+科学	https://book.douban.com/subject/1065156/	我生活的种种模式
+科学	https://book.douban.com/subject/26831075/	诗意的原子
+科学	https://book.douban.com/subject/1509898/	神经科学
+科学	https://book.douban.com/subject/26184242/	无穷的开始
+科学	https://book.douban.com/subject/27054267/	黑洞不是黑的
+科学	https://book.douban.com/subject/3216250/	认知、脑与意识
+科学	https://book.douban.com/subject/4822685/	编码
+科学	https://book.douban.com/subject/30389948/	爱因斯坦与柏格森之辩
+科学	https://book.douban.com/subject/24884999/	食物与厨艺
+科学	https://book.douban.com/subject/2283961/	相对论
+科学	https://book.douban.com/subject/2350407/	寂静的春天
+科学	https://book.douban.com/subject/30368111/	生命密码
+科学	https://book.douban.com/subject/30258598/	火焰中的秘密
+科学	https://book.douban.com/subject/27050905/	失效的科学
+科学	https://book.douban.com/subject/30327855/	茶杯里的风暴
+科学	https://book.douban.com/subject/10455982/	什么是数学
+科学	https://book.douban.com/subject/3476139/	院士思维（16开4卷）
+科学	https://book.douban.com/subject/30460634/	治愈未来：数字困境的全球解决方案
+科学	https://book.douban.com/subject/5352345/	黑洞战争
+科学	https://book.douban.com/subject/3550249/	科学哲学
+科学	https://book.douban.com/subject/25923082/	万物运转的秘密
+科学	https://book.douban.com/subject/30305868/	从一到无穷大
+科学	https://book.douban.com/subject/1052973/	科学的历程
+科学	https://book.douban.com/subject/1062309/	基因组
+科学	https://book.douban.com/subject/25777854/	科学革命
+科学	https://book.douban.com/subject/24885010/	食物与厨艺
+科学	https://book.douban.com/subject/1016827/	阿西莫夫最新科学指南（上下册）
+科学	https://book.douban.com/subject/20494401/	费马大定理
+科学	https://book.douban.com/subject/1046620/	我们为什么生病
+科学	https://book.douban.com/subject/26876440/	吃货的生物学修养
+科学	https://book.douban.com/subject/26336612/	物理学咬文嚼字 卷一（增补卷）
+科学	https://book.douban.com/subject/26353666/	量子物理史話
+科学	https://book.douban.com/subject/30359816/	名画在左 科学在右
+科学	https://book.douban.com/subject/1500045/	猜想与反驳
+科学	https://book.douban.com/subject/26362918/	自然与希腊人　科学与人文主义
+科学	https://book.douban.com/subject/1123740/	科学革命的结构
+科学	https://book.douban.com/subject/2090728/	LSD：我那惹是生非的孩子
+科学	https://book.douban.com/subject/1206206/	皇帝新脑
+科学	https://book.douban.com/subject/27077159/	编码宝典
+科学	https://book.douban.com/subject/27119240/	国家地理终极观星指南
+科学	https://book.douban.com/subject/3805815/	控制论
+科学	https://book.douban.com/subject/1315265/	从混沌到有序
+科学	https://book.douban.com/subject/26309060/	生命是什么
+科学	https://book.douban.com/subject/2143904/	进化心理学
+科学	https://book.douban.com/subject/5937126/	认知神经科学
+科学	https://book.douban.com/subject/30243004/	蓝色思维
+科学	https://book.douban.com/subject/1834728/	人工智能的未来
+科学	https://book.douban.com/subject/27131873/	每个人的战争
+科学	https://book.douban.com/subject/24527652/	科学哲学
+科学	https://book.douban.com/subject/26920424/	从封闭世界到无限宇宙
+科学	https://book.douban.com/subject/1322880/	夸克与美洲豹
+科学	https://book.douban.com/subject/30355429/	外星生命简史
+科学	https://book.douban.com/subject/26989163/	文明之光（第四册）
+科学	https://book.douban.com/subject/6861475/	意识探秘
+科学	https://book.douban.com/subject/3732346/	疯狂实验史
+科学	https://book.douban.com/subject/2987179/	科学究竟是什么
+科学	https://book.douban.com/subject/1070820/	上帝与新物理学
+科学	https://book.douban.com/subject/1013707/	大众天文学(上下两册)
+科学	https://book.douban.com/subject/26785898/	强力与弱力
+科学	https://book.douban.com/subject/30243002/	食物与科学的美味邂逅
+科学	https://book.douban.com/subject/6060527/	爱因斯坦文集（全三卷）
+科学	https://book.douban.com/subject/10607615/	第三种黑猩猩
+科学	https://book.douban.com/subject/1221479/	与“众”不同的心理学
+科学	https://book.douban.com/subject/30229646/	阿波罗
+科学	https://book.douban.com/subject/26953160/	给孩子讲量子力学
+科学	https://book.douban.com/subject/24307342/	哈默手稿
+科学	https://book.douban.com/subject/30205907/	Factfulness
+科学	https://book.douban.com/subject/4712530/	科学史
+科学	https://book.douban.com/subject/26830979/	宇宙
+科学	https://book.douban.com/subject/7162591/	《地球编年史》指南
+科学	https://book.douban.com/subject/27078158/	基因社会
+科学	https://book.douban.com/subject/30281339/	万物皆数
+科学	https://book.douban.com/subject/26939315/	宇宙信息图
+科学	https://book.douban.com/subject/25981522/	一面多彩的镜子
+科学	https://book.douban.com/subject/5985153/	视觉之旅
+科学	https://book.douban.com/subject/25793667/	植物知道生命的答案
+科学	https://book.douban.com/subject/30209490/	上帝与新物理学
+科学	https://book.douban.com/subject/27154067/	宇宙之美
+科学	https://book.douban.com/subject/1128158/	一颗原子的时空之旅
+科学	https://book.douban.com/subject/1030054/	水知道答案
+科学	https://book.douban.com/subject/27596897/	演化的故事
+科学	https://book.douban.com/subject/26352270/	《三体》中的物理学
+科学	https://book.douban.com/subject/1030898/	复杂
+科学	https://book.douban.com/subject/3071402/	物理世界奇遇记
+科学	https://book.douban.com/subject/30162456/	科学的意义
+科学	https://book.douban.com/subject/1507315/	自然哲学之数学原理
+科学	https://book.douban.com/subject/26992747/	它们没大脑，但它们有智能
+科学	https://book.douban.com/subject/26337663/	无言的宇宙
+科学	https://book.douban.com/subject/1270267/	通过知识获得解放
+科学	https://book.douban.com/subject/6873632/	冒烟的耳朵和尖叫的牙齿
+科学	https://book.douban.com/subject/1049136/	数学：确定性的丧失
+科学	https://book.douban.com/subject/27599520/	无言的宇宙
+科学	https://book.douban.com/subject/1024846/	所罗门王的指环
+科学	https://book.douban.com/subject/26412113/	机器人叛乱
+科学	https://book.douban.com/subject/2221395/	经度
+科学	https://book.douban.com/subject/26814078/	万物解释者
+科学	https://book.douban.com/subject/24749708/	西方科学的起源
+科学	https://book.douban.com/subject/1238685/	统计与真理
+科学	https://book.douban.com/subject/2270925/	病者生存
+科学	https://book.douban.com/subject/30263244/	生命是什么
+科学	https://book.douban.com/subject/26171042/	悖论
+科学	https://book.douban.com/subject/25782226/	狭义与广义相对论浅说
+科学	https://book.douban.com/subject/26585183/	科学研究的艺术
+科学	https://book.douban.com/subject/26790125/	注意力
+科学	https://book.douban.com/subject/4753726/	宗教与科学
+科学	https://book.douban.com/subject/1084257/	别闹了，费曼先生
+科学	https://book.douban.com/subject/30351884/	Brief Answers to the Big Questions
+科学	https://book.douban.com/subject/4247329/	致青年学者
+科学	https://book.douban.com/subject/1773585/	Godel, Escher, Bach
+科学	https://book.douban.com/subject/4263995/	解码宇宙
+科学	https://book.douban.com/subject/26865821/	文明的滴定
+科学	https://book.douban.com/subject/7647487/	时间的形状
+科学	https://book.douban.com/subject/27079203/	人类的终极命运
+科学	https://book.douban.com/subject/6730363/	人工智能
+科学	https://book.douban.com/subject/5346017/	博弈论
+科学	https://book.douban.com/subject/1782675/	GEB——一条永恒的金带
+科学	https://book.douban.com/subject/25719703/	科学史与科学哲学导论
+科学	https://book.douban.com/subject/27624390/	云彩收集者手册
+科学	https://book.douban.com/subject/26114102/	六十八年心路
+科学	https://book.douban.com/subject/3930317/	确定性的终结
+科学	https://book.douban.com/subject/10738199/	宇宙简史
+科学	https://book.douban.com/subject/30390954/	鱼类的崛起：5亿年的进化
+科学	https://book.douban.com/subject/30178123/	亿亿万万
+科学	https://book.douban.com/subject/4258923/	穿越歧路花园
+科学	https://book.douban.com/subject/25902222/	文明之光（第二册）
+科学	https://book.douban.com/subject/4578536/	阿司匹林传奇
+科学	https://book.douban.com/subject/2112914/	从存在到演化
+科学	https://book.douban.com/subject/1067603/	暗淡蓝点
+科学	https://book.douban.com/subject/1474050/	时间简史(普及版)
+科学	https://book.douban.com/subject/27180603/	端粒效應
+科学	https://book.douban.com/subject/33644238/	颠覆式学习
+科学	https://book.douban.com/subject/25812830/	性
+科学	https://book.douban.com/subject/26976211/	美国科学·生命科学·一年级
+科学	https://book.douban.com/subject/30408669/	菌群大脑
+科学	https://book.douban.com/subject/30171335/	逻辑的引擎
+科学	https://book.douban.com/subject/27017432/	科学的终结（修订版）
+科学	https://book.douban.com/subject/27001165/	地球之美
+科学	https://book.douban.com/subject/25723282/	元素的盛宴
+科学	https://book.douban.com/subject/2122352/	万物简史
+科学	https://book.douban.com/subject/26901293/	牛顿研究
+科学	https://book.douban.com/subject/19989298/	费曼讲物理
+科学	https://book.douban.com/subject/30204745/	疯狂的进化
+科学	https://book.douban.com/subject/26728065/	生命的未来
+科学	https://book.douban.com/subject/25847649/	复杂性思维：物质、精神和人类的计算动力学
+科学	https://book.douban.com/subject/30488255/	独异性社会
+科学	https://book.douban.com/subject/26953883/	时间重生
+科学	https://book.douban.com/subject/2116353/	不列颠百科全书（全20卷）
+科学	https://book.douban.com/subject/1313582/	千亿个太阳
+科学	https://book.douban.com/subject/6024015/	蚕丝：钱学森传
+科学	https://book.douban.com/subject/26733566/	知识大融通
+科学	https://book.douban.com/subject/3435537/	大流感
+科学	https://book.douban.com/subject/26594366/	魔鬼数学
+科学	https://book.douban.com/subject/3258219/	混沌与分形
+科学	https://book.douban.com/subject/1986050/	哲学 科学 常识
+科学	https://book.douban.com/subject/33427026/	科学本来很有趣
+科学	https://book.douban.com/subject/27061912/	什么是数学：对思想和方法的基本研究（第四版）
+科学	https://book.douban.com/subject/26734520/	物理学与生活
+科学	https://book.douban.com/subject/20492371/	师从天才
+科学	https://book.douban.com/subject/30371936/	万物漫游指南（套装2册）
+科学	https://book.douban.com/subject/20271213/	通俗天文学
+科学	https://book.douban.com/subject/26685563/	演化
+科学	https://book.douban.com/subject/1437852/	费恩曼物理学讲义（第1卷）
+科学	https://book.douban.com/subject/33456854/	近代中西医的博弈
+科学	https://book.douban.com/subject/25817381/	普林斯顿数学指南（第一卷）
+科学	https://book.douban.com/subject/1315187/	植物的欲望
+科学	https://book.douban.com/subject/26891160/	科技之巅
+科学	https://book.douban.com/subject/26432962/	量子理论
+科学	https://book.douban.com/subject/19985902/	最有人性的“人”
+科学	https://book.douban.com/subject/25761310/	汽车是怎样跑起来的
+科学	https://book.douban.com/subject/30355428/	铸造《自然》
+科学	https://book.douban.com/subject/24885007/	食物与厨艺
+科学	https://book.douban.com/subject/10532684/	赶往火星
+科学	https://book.douban.com/subject/30463857/	人人都该懂的科学哲学
+科学	https://book.douban.com/subject/1257218/	果壳中的宇宙
+科学	https://book.douban.com/subject/24844888/	蝴蝶效应之谜：走近分形与混沌
+科学	https://book.douban.com/subject/27171491/	豹式健身
+科学	https://book.douban.com/subject/30317231/	天气预报
+科学	https://book.douban.com/subject/26712820/	论人的本性
+科学	https://book.douban.com/subject/3119865/	物理学的概念与文化素养
+科学	https://book.douban.com/subject/30227355/	一本有趣又有料的科学书
+科学	https://book.douban.com/subject/26844088/	医学的真相
+科学	https://book.douban.com/subject/27016304/	迷人的温度
+科学	https://book.douban.com/subject/26737842/	大脑的未来
+科学	https://book.douban.com/subject/1400030/	推理的迷宫
+科学	https://book.douban.com/subject/30309613/	自私的基因
+科学	https://book.douban.com/subject/1899804/	涌现
+科学	https://book.douban.com/subject/30481930/	写给所有人的编程思维
+科学	https://book.douban.com/subject/1195595/	人工科学
+科学	https://book.douban.com/subject/20282961/	科学革命的编史学研究
+科学	https://book.douban.com/subject/1867455/	像外行一样思考，像专家一样实践——科研成功之道
+科学	https://book.douban.com/subject/26976067/	假设的世界
+科学	https://book.douban.com/subject/3522427/	星际航行概论
+科学	https://book.douban.com/subject/33398706/	认识身体2：永不停歇的变化
+科学	https://book.douban.com/subject/26877916/	盲眼钟表匠：生命自然选择的秘密
+科学	https://book.douban.com/subject/20283570/	所罗门王的指环
+科学	https://book.douban.com/subject/30155297/	时间的悖论
+科学	https://book.douban.com/subject/1123129/	中国科学与科学革命
+科学	https://book.douban.com/subject/24699866/	反对完美
+科学	https://book.douban.com/subject/3228668/	上帝掷骰子吗
+科学	https://book.douban.com/subject/1967264/	工程控制论
+科学	https://book.douban.com/subject/30459271/	极简天文学
+科学	https://book.douban.com/subject/27028378/	科学哲学的历史导论
+科学	https://book.douban.com/subject/30213638/	永恒的图灵：20位科学家对图灵思想的解构与超越
+科学	https://book.douban.com/subject/2104842/	数理化通俗演义
+科学	https://book.douban.com/subject/5350988/	我们从未现代过
+科学	https://book.douban.com/subject/25880301/	改变世界的1001项发明
+科学	https://book.douban.com/subject/26773296/	魔鬼的牧师
+科学	https://book.douban.com/subject/26863416/	唤醒大脑：神经可塑性如何帮助大脑自我疗愈
+科学	https://book.douban.com/subject/26642322/	地球的主人
+科学	https://book.douban.com/subject/10808841/	夜观星空
+科学	https://book.douban.com/subject/25823194/	图解时间简史
+科学	https://book.douban.com/subject/20441131/	QED
+科学	https://book.douban.com/subject/2033768/	批评中医
+科学	https://book.douban.com/subject/1468622/	A New Kind of Science
+科学	https://book.douban.com/subject/26921233/	种子的胜利
+科学	https://book.douban.com/subject/3180844/	地质学原理
+科学	https://book.douban.com/subject/2124111/	世界科学技术通史
+科学	https://book.douban.com/subject/25954720/	量子力学（第一卷）
+科学	https://book.douban.com/subject/26419624/	世界觀
+科学	https://book.douban.com/subject/27167268/	海滩上的爱因斯坦
+科学	https://book.douban.com/subject/27105031/	上帝的错觉
+科学	https://book.douban.com/subject/1075771/	科学与近代世界
+科学	https://book.douban.com/subject/1944205/	追寻记忆的痕迹
+科学	https://book.douban.com/subject/1428117/	普通生物学
+科学	https://book.douban.com/subject/2026245/	李昌钰博士犯罪现场勘查手册
+科学	https://book.douban.com/subject/2157346/	笛卡尔的错误
+科学	https://book.douban.com/subject/26995630/	那些让你更聪明的科学新概念
+科学	https://book.douban.com/subject/2059252/	力学
+科学	https://book.douban.com/subject/1707158/	微积分学教程（第一卷）
+科学	https://book.douban.com/subject/5336588/	The Emperor of All Maladies
+科学	https://book.douban.com/subject/20278805/	鱼为什么放屁
+科学	https://book.douban.com/subject/1134230/	数学与猜想（第一卷）
+科学	https://book.douban.com/subject/25775846/	枪与玫瑰的使用方法
+科学	https://book.douban.com/subject/4312810/	裸猿
+科学	https://book.douban.com/subject/1036413/	密码故事
+科学	https://book.douban.com/subject/26710297/	KK三部曲
+科学	https://book.douban.com/subject/30134674/	宇宙的琴弦
+科学	https://book.douban.com/subject/2970042/	登陆火星
+科学	https://book.douban.com/subject/25817569/	世界观
+科学	https://book.douban.com/subject/26284518/	超弦理论
+科学	https://book.douban.com/subject/5976617/	裸男
+科学	https://book.douban.com/subject/33395291/	死亡的故事
+科学	https://book.douban.com/subject/1159821/	意识的宇宙
+科学	https://book.douban.com/subject/1430203/	系统的哲学
+科学	https://book.douban.com/subject/3240683/	高级迷信
+科学	https://book.douban.com/subject/1266422/	可怕的对称
+科学	https://book.douban.com/subject/27104158/	艾伦·图灵传
+科学	https://book.douban.com/subject/24720345/	反叛的科学家
+科学	https://book.douban.com/subject/1037290/	莎士比亚、牛顿和贝多芬
+科学	https://book.douban.com/subject/10794070/	心外传奇
+科学	https://book.douban.com/subject/25834607/	自由的进化
+科学	https://book.douban.com/subject/30125592/	发现的乐趣
+科学	https://book.douban.com/subject/4928961/	人有人的用处
+科学	https://book.douban.com/subject/26752488/	双螺旋
+科学	https://book.douban.com/subject/1291817/	细胞生命的礼赞
+科学	https://book.douban.com/subject/27072133/	太空全书
+科学	https://book.douban.com/subject/3430197/	皇帝内经养生全集
+科学	https://book.douban.com/subject/1455960/	人有人的用处
+科学	https://book.douban.com/subject/1423236/	科学在行动
+科学	https://book.douban.com/subject/2160556/	十万个为什么

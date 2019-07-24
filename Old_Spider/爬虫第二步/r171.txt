@@ -1,0 +1,500 @@
+数学	https://book.douban.com/subject/3126381/	一位数学家的经历
+数学	https://book.douban.com/subject/2135227/	一个数学家的辩白
+数学	https://book.douban.com/subject/27170067/	赌神数学家
+数学	https://book.douban.com/subject/1070474/	微分几何讲义
+数学	https://book.douban.com/subject/27170478/	数学简史
+数学	https://book.douban.com/subject/3258219/	混沌与分形
+数学	https://book.douban.com/subject/30480264/	极简数学
+数学	https://book.douban.com/subject/1513359/	数学基础
+数学	https://book.douban.com/subject/25811213/	矩阵分析与应用（第2版）
+数学	https://book.douban.com/subject/26368286/	近世代数
+数学	https://book.douban.com/subject/27040309/	这才是数学
+数学	https://book.douban.com/subject/3996242/	数理统计学教程
+数学	https://book.douban.com/subject/1211041/	古今数学思想（三）
+数学	https://book.douban.com/subject/1448727/	博弈论基础
+数学	https://book.douban.com/subject/10779604/	图灵的秘密
+数学	https://book.douban.com/subject/11631667/	数学分析教程
+数学	https://book.douban.com/subject/27180370/	Lost in Math
+数学	https://book.douban.com/subject/26320883/	丈量世界
+数学	https://book.douban.com/subject/2195654/	高等数学（第六版）（下册）
+数学	https://book.douban.com/subject/10486319/	深入浅出数字信号处理
+数学	https://book.douban.com/subject/2990698/	3-8岁儿童的数学经验
+数学	https://book.douban.com/subject/2982753/	话说微积分
+数学	https://book.douban.com/subject/1885170/	算法导论（原书第2版）
+数学	https://book.douban.com/subject/2180094/	实分析
+数学	https://book.douban.com/subject/1230085/	实分析与复分析
+数学	https://book.douban.com/subject/27182584/	从一到无穷大
+数学	https://book.douban.com/subject/4605553/	e的故事
+数学	https://book.douban.com/subject/2197140/	工程数学.线性代数
+数学	https://book.douban.com/subject/1238685/	统计与真理
+数学	https://book.douban.com/subject/30205645/	像数学家一样思考
+数学	https://book.douban.com/subject/6990041/	数学在19世纪的发展（第二卷）
+数学	https://book.douban.com/subject/10430689/	代数
+数学	https://book.douban.com/subject/1231175/	微积分五讲
+数学	https://book.douban.com/subject/24545678/	Nonlinear Dynamics and Chaos
+数学	https://book.douban.com/subject/7064456/	研究之美
+数学	https://book.douban.com/subject/3165271/	概率论与数理统计
+数学	https://book.douban.com/subject/3082090/	科学美国人趣味数学集锦之二
+数学	https://book.douban.com/subject/1281171/	机会的数学原理
+数学	https://book.douban.com/subject/1707156/	微积分学教程（第3卷）
+数学	https://book.douban.com/subject/5975393/	矩阵计算
+数学	https://book.douban.com/subject/27094425/	费马最终定理
+数学	https://book.douban.com/subject/30305868/	从一到无穷大
+数学	https://book.douban.com/subject/1134231/	数学与猜想（第二卷）
+数学	https://book.douban.com/subject/1740461/	图论导引
+数学	https://book.douban.com/subject/6434486/	上帝掷骰子吗？
+数学	https://book.douban.com/subject/1167098/	阿基米德全集
+数学	https://book.douban.com/subject/1462025/	Algebra
+数学	https://book.douban.com/subject/4214656/	统计推断
+数学	https://book.douban.com/subject/1167509/	归纳·递推·无字证明·坐标·复数
+数学	https://book.douban.com/subject/10785235/	自然科学问题的数学分析
+数学	https://book.douban.com/subject/11637344/	从一元一次方程到伽罗瓦理论
+数学	https://book.douban.com/subject/11506872/	黎曼猜想漫谈
+数学	https://book.douban.com/subject/27055700/	爸爸教的数学
+数学	https://book.douban.com/subject/2152400/	生活中的魔法数学
+数学	https://book.douban.com/subject/10606626/	组合数学
+数学	https://book.douban.com/subject/1734820/	教材全解-七年级语文下
+数学	https://book.douban.com/subject/27179289/	数学世界的探奇之旅
+数学	https://book.douban.com/subject/1464795/	Statistical Inference
+数学	https://book.douban.com/subject/3422719/	数学问题
+数学	https://book.douban.com/subject/26922761/	妈妈教的数学
+数学	https://book.douban.com/subject/26838150/	女士品茶
+数学	https://book.douban.com/subject/1089331/	数学手册
+数学	https://book.douban.com/subject/27073410/	DK儿童数学思维手册
+数学	https://book.douban.com/subject/3586999/	数学哲学
+数学	https://book.douban.com/subject/30325727/	迷人的逻辑题
+数学	https://book.douban.com/subject/26647601/	解析几何 (第三版)
+数学	https://book.douban.com/subject/25918542/	浴缸里的惊叹
+数学	https://book.douban.com/subject/30202992/	超越无穷大
+数学	https://book.douban.com/subject/1391740/	逻辑的引擎
+数学	https://book.douban.com/subject/6983584/	怎样解题
+数学	https://book.douban.com/subject/1400419/	3D数学基础
+数学	https://book.douban.com/subject/3227374/	华罗庚科普著作选集
+数学	https://book.douban.com/subject/1130384/	数学分析新讲（第二册）
+数学	https://book.douban.com/subject/1130500/	计算机程序设计艺术（第1卷）
+数学	https://book.douban.com/subject/25837616/	矩阵计算
+数学	https://book.douban.com/subject/1728598/	经典力学的数学方法
+数学	https://book.douban.com/subject/1245531/	算术基础
+数学	https://book.douban.com/subject/1122660/	数学分析新讲（第三册）
+数学	https://book.douban.com/subject/5939667/	复分析导论（第一卷）
+数学	https://book.douban.com/subject/1712695/	数学竞赛研究教程（上下）
+数学	https://book.douban.com/subject/25813568/	概率论基础教程（原书第9版）
+数学	https://book.douban.com/subject/3515083/	高等数学引论（第一册）
+数学	https://book.douban.com/subject/27083477/	高数笔谈
+数学	https://book.douban.com/subject/1237821/	测度论与概率论基础
+数学	https://book.douban.com/subject/33509559/	万物有数学
+数学	https://book.douban.com/subject/3294335/	The Elements of Statistical Learning
+数学	https://book.douban.com/subject/3369848/	金融随机分析（共2册）
+数学	https://book.douban.com/subject/2016788/	数学分析（第二卷）
+数学	https://book.douban.com/subject/1803862/	概率论基础教程
+数学	https://book.douban.com/subject/30140146/	斐波那契的兔子
+数学	https://book.douban.com/subject/2016789/	线性代数
+数学	https://book.douban.com/subject/26609543/	這才是數學
+数学	https://book.douban.com/subject/1280093/	微积分和数学分析引论（第二卷）
+数学	https://book.douban.com/subject/30140553/	白话统计
+数学	https://book.douban.com/subject/3893574/	计算几何
+数学	https://book.douban.com/subject/1116520/	高等数学（下册）
+数学	https://book.douban.com/subject/1231393/	高等数学（上册）
+数学	https://book.douban.com/subject/7162744/	几何天才的杰作
+数学	https://book.douban.com/subject/1248122/	数理哲学导论
+数学	https://book.douban.com/subject/3902335/	《科学美国人》趣味数学集锦之一
+数学	https://book.douban.com/subject/27107822/	数学的天空
+数学	https://book.douban.com/subject/4888398/	怎样解题
+数学	https://book.douban.com/subject/1801389/	拓扑学
+数学	https://book.douban.com/subject/27667473/	疯狂的罗素
+数学	https://book.douban.com/subject/26987692/	Milnor眼中的数学和数学家
+数学	https://book.douban.com/subject/3181810/	数学与哲学
+数学	https://book.douban.com/subject/1281543/	矩阵分析
+数学	https://book.douban.com/subject/1797658/	All the Mathematics You Missed
+数学	https://book.douban.com/subject/27618869/	概率的烦恼
+数学	https://book.douban.com/subject/3018479/	圆锥曲线论（卷Ⅰ-Ⅳ）
+数学	https://book.douban.com/subject/1011543/	与天为敌
+数学	https://book.douban.com/subject/1650656/	Stochastic Calculus for Finance II
+数学	https://book.douban.com/subject/1953795/	高等近世代数
+数学	https://book.douban.com/subject/30285146/	百面机器学习
+数学	https://book.douban.com/subject/20451391/	神奇的数学
+数学	https://book.douban.com/subject/4010125/	漫画线性代数
+数学	https://book.douban.com/subject/4010127/	漫画傅里叶解析
+数学	https://book.douban.com/subject/26628523/	&#34;十二五&#34;普通高等教育本科国家级规划教材
+数学	https://book.douban.com/subject/1758235/	Linear Algebra and Its Applications, 4e
+数学	https://book.douban.com/subject/2970298/	图解数学学习法
+数学	https://book.douban.com/subject/25793478/	建筑中的数学之旅
+数学	https://book.douban.com/subject/24531914/	写给全人类的数学魔法书
+数学	https://book.douban.com/subject/1627109/	线性代数五讲
+数学	https://book.douban.com/subject/4916533/	代数的历史
+数学	https://book.douban.com/subject/2298747/	现代世界中的数学
+数学	https://book.douban.com/subject/21706191/	An Introduction to Statistical Learning
+数学	https://book.douban.com/subject/26220204/	生活中的概率趣事
+数学	https://book.douban.com/subject/6002758/	数学的思维方式与创新
+数学	https://book.douban.com/subject/3422711/	数学在科学和社会中的作用
+数学	https://book.douban.com/subject/19986936/	深入浅出密码学
+数学	https://book.douban.com/subject/5458356/	A Book of Abstract Algebra
+数学	https://book.douban.com/subject/3422797/	笛卡儿几何
+数学	https://book.douban.com/subject/27081341/	国外优秀数学教材系列·那些年你没学明白的数学
+数学	https://book.douban.com/subject/1456890/	How to Solve It
+数学	https://book.douban.com/subject/3283778/	不等式
+数学	https://book.douban.com/subject/6028251/	数学及其历史
+数学	https://book.douban.com/subject/30227556/	陶哲轩实分析（第3版）
+数学	https://book.douban.com/subject/2309401/	应用随机过程
+数学	https://book.douban.com/subject/3808718/	Visual Group Theory
+数学	https://book.douban.com/subject/20282921/	辛几何讲义
+数学	https://book.douban.com/subject/1220147/	曲线与曲面的微分几何
+数学	https://book.douban.com/subject/6749832/	复杂
+数学	https://book.douban.com/subject/2146105/	素数的音乐
+数学	https://book.douban.com/subject/5373898/	科学与方法
+数学	https://book.douban.com/subject/1859573/	Solving Mathematical Problems
+数学	https://book.douban.com/subject/30417015/	A Programmer&#39;s Introduction to Mathematics
+数学	https://book.douban.com/subject/3107523/	计算机视觉中的数学方法
+数学	https://book.douban.com/subject/3776705/	金融时间序列分析
+数学	https://book.douban.com/subject/30171335/	逻辑的引擎
+数学	https://book.douban.com/subject/1401116/	Men of Mathematics
+数学	https://book.douban.com/subject/1884445/	数论概论
+数学	https://book.douban.com/subject/1884446/	线性代数
+数学	https://book.douban.com/subject/26607925/	Statistical Rethinking
+数学	https://book.douban.com/subject/5955948/	数学3
+数学	https://book.douban.com/subject/1622491/	孙维刚高中数学
+数学	https://book.douban.com/subject/26845663/	Differential Geometry of Curves and Surfaces
+数学	https://book.douban.com/subject/2353915/	数学2
+数学	https://book.douban.com/subject/2048547/	从大学数学走向现代数学
+数学	https://book.douban.com/subject/20513346/	万物皆数
+数学	https://book.douban.com/subject/30376615/	数学大师：从芝诺到庞加莱
+数学	https://book.douban.com/subject/10773362/	随机漫步的傻瓜
+数学	https://book.douban.com/subject/30286841/	初等数学解题方法研究
+数学	https://book.douban.com/subject/1729578/	数理逻辑
+数学	https://book.douban.com/subject/3654708/	数学恩仇录
+数学	https://book.douban.com/subject/1238134/	抽象代数讲义（第1卷）
+数学	https://book.douban.com/subject/27174197/	数理逻辑导引
+数学	https://book.douban.com/subject/5998092/	概率论与数理统计教程
+数学	https://book.douban.com/subject/26600976/	数学与音乐的创造力
+数学	https://book.douban.com/subject/25929253/	从抛物线谈起
+数学	https://book.douban.com/subject/1771053/	Probability Theory
+数学	https://book.douban.com/subject/3171910/	线性代数
+数学	https://book.douban.com/subject/25839176/	数学的故事
+数学	https://book.douban.com/subject/33450010/	动手学深度学习
+数学	https://book.douban.com/subject/30344829/	线性代数导引
+数学	https://book.douban.com/subject/21360920/	数学分析教程-下册-第3版
+数学	https://book.douban.com/subject/2410223/	The Mathematics of Poker
+数学	https://book.douban.com/subject/3016613/	微积分入门I
+数学	https://book.douban.com/subject/4859891/	数学、科学和认识论
+数学	https://book.douban.com/subject/1231163/	高等代数简明教程（下册）
+数学	https://book.douban.com/subject/7006529/	博士的爱情算式
+数学	https://book.douban.com/subject/1239362/	代数几何
+数学	https://book.douban.com/subject/33426489/	数学本来很简单
+数学	https://book.douban.com/subject/26732914/	最优化导论
+数学	https://book.douban.com/subject/1231271/	数学建模
+数学	https://book.douban.com/subject/1231326/	当代数学大师
+数学	https://book.douban.com/subject/1133053/	代数数论简史
+数学	https://book.douban.com/subject/4860419/	三角之美
+数学	https://book.douban.com/subject/1231379/	数学分析（上册）
+数学	https://book.douban.com/subject/1477210/	混沌的本质
+数学	https://book.douban.com/subject/26593890/	数学分析八讲（修订版）
+数学	https://book.douban.com/subject/5253771/	你不可不知的50个数学知识
+数学	https://book.douban.com/subject/4025012/	如何切蛋糕
+数学	https://book.douban.com/subject/1231554/	特殊函数概论
+数学	https://book.douban.com/subject/1239801/	数学分析（下册）
+数学	https://book.douban.com/subject/4860746/	复变函数
+数学	https://book.douban.com/subject/1919857/	Finite-Dimensional Vector Spaces
+数学	https://book.douban.com/subject/2108337/	复分析
+数学	https://book.douban.com/subject/1813616/	数学分析中的典型问题与方法
+数学	https://book.douban.com/subject/30297224/	平面国
+数学	https://book.douban.com/subject/1232071/	如何求解问题
+数学	https://book.douban.com/subject/20286693/	古今数学思想（第3册）
+数学	https://book.douban.com/subject/1035596/	蚁迹寻踪及其他数学探索
+数学	https://book.douban.com/subject/2289059/	偏微分方程
+数学	https://book.douban.com/subject/26857187/	如何唤醒数学脑
+数学	https://book.douban.com/subject/26873703/	论可计算数
+数学	https://book.douban.com/subject/25964663/	高考数学你真的掌握了吗？
+数学	https://book.douban.com/subject/26783732/	Algorithms to Live By
+数学	https://book.douban.com/subject/2152447/	近世代数概论
+数学	https://book.douban.com/subject/20492316/	大宇之形
+数学	https://book.douban.com/subject/4010128/	漫画统计学
+数学	https://book.douban.com/subject/1660981/	数论妙趣
+数学	https://book.douban.com/subject/6001061/	数学史概论
+数学	https://book.douban.com/subject/26284518/	超弦理论
+数学	https://book.douban.com/subject/2151033/	一个数学家的自白
+数学	https://book.douban.com/subject/1987206/	Calculus, Vol. 1
+数学	https://book.douban.com/subject/1110681/	黎曼几何初步
+数学	https://book.douban.com/subject/1209013/	泛函分析讲义（上册）
+数学	https://book.douban.com/subject/2185342/	数学家的眼光
+数学	https://book.douban.com/subject/4707118/	2的平方根
+数学	https://book.douban.com/subject/1725267/	微分几何入门与广义相对论（上册·第二版）
+数学	https://book.douban.com/subject/25842521/	How Not to Be Wrong
+数学	https://book.douban.com/subject/20435906/	傅立叶分析导论
+数学	https://book.douban.com/subject/1012558/	数：科学的语言
+数学	https://book.douban.com/subject/1020974/	数学的奇妙
+数学	https://book.douban.com/subject/25809763/	古今数学思想(第2册)
+数学	https://book.douban.com/subject/30405731/	优雅的等式
+数学	https://book.douban.com/subject/6124650/	九章算术
+数学	https://book.douban.com/subject/6124651/	几何原本
+数学	https://book.douban.com/subject/2856363/	Real Analysis
+数学	https://book.douban.com/subject/20536905/	Mathematics without Apologies
+数学	https://book.douban.com/subject/1160646/	数学分析（上册）
+数学	https://book.douban.com/subject/30250554/	从掷骰子到阿尔法狗：趣谈概率
+数学	https://book.douban.com/subject/1734216/	代数学基础
+数学	https://book.douban.com/subject/3069699/	康托的无穷的数学和哲学
+数学	https://book.douban.com/subject/25794324/	概率论及其应用（卷1•第3版）
+数学	https://book.douban.com/subject/1685349/	世界数学通史
+数学	https://book.douban.com/subject/3921816/	解题·成长·快乐——陶哲轩教你学数学
+数学	https://book.douban.com/subject/2037741/	数学（第一卷）
+数学	https://book.douban.com/subject/26761202/	应用随机过程
+数学	https://book.douban.com/subject/10745998/	The Joy of x
+数学	https://book.douban.com/subject/1890724/	Real Analysis
+数学	https://book.douban.com/subject/3422710/	一个数学家的辩白
+数学	https://book.douban.com/subject/4897351/	微积分之屠龙宝刀
+数学	https://book.douban.com/subject/5397287/	Bayesian Reasoning and Machine Learning
+数学	https://book.douban.com/subject/4201293/	近世代数引论
+数学	https://book.douban.com/subject/5282719/	传奇数学家华罗庚
+数学	https://book.douban.com/subject/26688502/	散度、旋度、梯度释义（图解版）
+数学	https://book.douban.com/subject/3783784/	令你苦思冥想的数学趣题
+数学	https://book.douban.com/subject/1096817/	圆锥曲线的几何性质
+数学	https://book.douban.com/subject/1973407/	Nonlinear Dynamics And Chaos
+数学	https://book.douban.com/subject/1801399/	集合论基础
+数学	https://book.douban.com/subject/1400030/	推理的迷宫
+数学	https://book.douban.com/subject/1899804/	涌现
+数学	https://book.douban.com/subject/2874816/	Concepts of Modern Mathematics
+数学	https://book.douban.com/subject/25837031/	算法心得：高效算法的奥秘（原书第2版）
+数学	https://book.douban.com/subject/1674326/	微积分教程
+数学	https://book.douban.com/subject/4767375/	Partial Differential Equations
+数学	https://book.douban.com/subject/27606713/	大数据技术原理与应用（第2版）
+数学	https://book.douban.com/subject/3088209/	Engineering Mathematics
+数学	https://book.douban.com/subject/5373796/	自然科学中确定性问题的应用数学
+数学	https://book.douban.com/subject/1310584/	初等数论
+数学	https://book.douban.com/subject/1327048/	做数学之美妙
+数学	https://book.douban.com/subject/1433604/	数学与头脑相遇的地方
+数学	https://book.douban.com/subject/10199068/	小学教材全解-四年级数学下
+数学	https://book.douban.com/subject/3121186/	逻辑人生
+数学	https://book.douban.com/subject/1441866/	阿哈！灵机一动
+数学	https://book.douban.com/subject/26304641/	当代大数学家画传
+数学	https://book.douban.com/subject/1245344/	统计推断
+数学	https://book.douban.com/subject/1040623/	数学游戏与欣赏
+数学	https://book.douban.com/subject/1974597/	从孙子的神奇妙算谈起
+数学	https://book.douban.com/subject/1974607/	动力系统导论
+数学	https://book.douban.com/subject/21267860/	数值线性代数
+数学	https://book.douban.com/subject/26468881/	高效商业分析——Excel建模与决策
+数学	https://book.douban.com/subject/1999387/	递归可枚举集和图灵度
+数学	https://book.douban.com/subject/1836464/	MATLAB数值计算
+数学	https://book.douban.com/subject/1507931/	统计学习理论的本质
+数学	https://book.douban.com/subject/3334813/	儿童怎样学习数学
+数学	https://book.douban.com/subject/1893050/	信息论、推理与学习算法
+数学	https://book.douban.com/subject/4839187/	高等代数（上册）
+数学	https://book.douban.com/subject/1230315/	工程数学:复变函数(第四版)
+数学	https://book.douban.com/subject/4916157/	7天搞定微积分
+数学	https://book.douban.com/subject/2196426/	有限群的线性表示
+数学	https://book.douban.com/subject/26638192/	线性代数（原书第9版）
+数学	https://book.douban.com/subject/6751237/	数学模型选谈
+数学	https://book.douban.com/subject/2221063/	概率
+数学	https://book.douban.com/subject/3179534/	Real and Complex Analysis
+数学	https://book.douban.com/subject/2056370/	概率与计算
+数学	https://book.douban.com/subject/26600495/	数值分析
+数学	https://book.douban.com/subject/1852515/	计算理论导引
+数学	https://book.douban.com/subject/6423666/	纳什均衡与博弈论
+数学	https://book.douban.com/subject/1885303/	Journey through Genius
+数学	https://book.douban.com/subject/3810450/	怎样证明数学题
+数学	https://book.douban.com/subject/22963396/	几何的有名定理
+数学	https://book.douban.com/subject/25904364/	数学原来可以这样学
+数学	https://book.douban.com/subject/3008042/	概率
+数学	https://book.douban.com/subject/26944807/	市场的（错误）行为
+数学	https://book.douban.com/subject/1320281/	数学与知识的探求
+数学	https://book.douban.com/subject/3302787/	著名几何问题及其解法
+数学	https://book.douban.com/subject/26806658/	数字游戏
+数学	https://book.douban.com/subject/3171735/	行为科学统计
+数学	https://book.douban.com/subject/5326315/	Probability
+数学	https://book.douban.com/subject/1230329/	数学（第二卷）
+数学	https://book.douban.com/subject/3761705/	数学是什么？
+数学	https://book.douban.com/subject/3081883/	小平邦彦复分析
+数学	https://book.douban.com/subject/2197148/	现代几何学（第3卷）
+数学	https://book.douban.com/subject/4859569/	数学与人文
+数学	https://book.douban.com/subject/1230525/	代数
+数学	https://book.douban.com/subject/1230546/	测度论
+数学	https://book.douban.com/subject/30271228/	别拿相关当因果！因果关系简易入门
+数学	https://book.douban.com/subject/1672958/	初等几何的著名问题
+数学	https://book.douban.com/subject/2877309/	Linear Algebra Done Right
+数学	https://book.douban.com/subject/1902505/	Morse Theory
+数学	https://book.douban.com/subject/26552265/	张宇高等数学18讲
+数学	https://book.douban.com/subject/26171042/	悖论
+数学	https://book.douban.com/subject/6432768/	线性代数及其应用
+数学	https://book.douban.com/subject/25913349/	A Mind For Numbers
+数学	https://book.douban.com/subject/19965965/	安野光雅“美丽的数学”系列绘本
+数学	https://book.douban.com/subject/1165348/	抽象代数讲义
+数学	https://book.douban.com/subject/27150468/	利己主义的数学解析
+数学	https://book.douban.com/subject/1239173/	数学分析解题指南
+数学	https://book.douban.com/subject/2361641/	微积分和数学分析引论-第1卷
+数学	https://book.douban.com/subject/27052200/	庞加莱的遗产(第Ⅰ部分第二年的数学博客选文)(英文版)(精)/美国数学会经典影印系列
+数学	https://book.douban.com/subject/1075376/	圆的历史：数学推理与物理宇宙
+数学	https://book.douban.com/subject/3795165/	10000个科学难题（数学卷）
+数学	https://book.douban.com/subject/26265880/	Linear Algebra Done Right (3rd ed)
+数学	https://book.douban.com/subject/1239371/	域和伽罗瓦理论
+数学	https://book.douban.com/subject/1419619/	逻辑人生
+数学	https://book.douban.com/subject/1231212/	常微分方程
+数学	https://book.douban.com/subject/1231273/	常微分方程
+数学	https://book.douban.com/subject/1943986/	微分几何讲义
+数学	https://book.douban.com/subject/1173952/	高等代数
+数学	https://book.douban.com/subject/1231314/	世界著名数学家传记
+数学	https://book.douban.com/subject/1010147/	奇妙的数王国
+数学	https://book.douban.com/subject/1247847/	简明线性代数
+数学	https://book.douban.com/subject/4904722/	数学沉思录
+数学	https://book.douban.com/subject/1313462/	我的大脑敞开了
+数学	https://book.douban.com/subject/24537845/	Our Mathematical Universe
+数学	https://book.douban.com/subject/3132271/	数理逻辑
+数学	https://book.douban.com/subject/1239940/	微积分（上册）
+数学	https://book.douban.com/subject/3099540/	数论概论
+数学	https://book.douban.com/subject/1256358/	数学拾遗
+数学	https://book.douban.com/subject/2083796/	常微分方程
+数学	https://book.douban.com/subject/10791971/	我比你大我五岁
+数学	https://book.douban.com/subject/26752880/	数学天书中的证明（第五版）
+数学	https://book.douban.com/subject/3689672/	跳跃的无穷
+数学	https://book.douban.com/subject/26864861/	3D游戏与计算机图形学中的数学方法
+数学	https://book.douban.com/subject/6724831/	初等不等式的证明方法
+数学	https://book.douban.com/subject/3178576/	数学游戏（上下）
+数学	https://book.douban.com/subject/26922384/	费马大定理
+数学	https://book.douban.com/subject/30182844/	数学天方夜谭
+数学	https://book.douban.com/subject/2051555/	Calculus With Analytic Geometry
+数学	https://book.douban.com/subject/1910697/	孙维刚谈立志成才
+数学	https://book.douban.com/subject/11226618/	Foundations of Machine Learning
+数学	https://book.douban.com/subject/1781319/	Calculus
+数学	https://book.douban.com/subject/2074553/	古希腊名题与现代数学
+数学	https://book.douban.com/subject/4935258/	实分析
+数学	https://book.douban.com/subject/2371168/	数学方法论十二讲
+数学	https://book.douban.com/subject/26848915/	Category Theory in Context
+数学	https://book.douban.com/subject/3256009/	马克思数学手稿
+数学	https://book.douban.com/subject/4828876/	实变函数论
+数学	https://book.douban.com/subject/2338513/	抽象代数基础教程
+数学	https://book.douban.com/subject/26004211/	数值最优化方法
+数学	https://book.douban.com/subject/10768127/	有趣的数学旅行
+数学	https://book.douban.com/subject/3919652/	数学分析讲义（第一册）
+数学	https://book.douban.com/subject/26857346/	泛函分析史
+数学	https://book.douban.com/subject/1152912/	算法导论
+数学	https://book.douban.com/subject/3878841/	拓扑学教程
+数学	https://book.douban.com/subject/4706310/	Matrix Differential Calculus with Applications in Statistics and Econometrics
+数学	https://book.douban.com/subject/24752219/	通城学典·暑期升级训练
+数学	https://book.douban.com/subject/1224798/	计算机图形学几何工具算法详解
+数学	https://book.douban.com/subject/5333693/	Mathematics as Metaphor
+数学	https://book.douban.com/subject/2977911/	代数学引论.第二卷,线性代数:第3版
+数学	https://book.douban.com/subject/1036413/	密码故事
+数学	https://book.douban.com/subject/4010147/	漫画统计学之回归分析
+数学	https://book.douban.com/subject/1822897/	Numerical Optimization
+数学	https://book.douban.com/subject/1237717/	近世代数基础
+数学	https://book.douban.com/subject/26947847/	The Art Of Data Science
+数学	https://book.douban.com/subject/27914526/	几率
+数学	https://book.douban.com/subject/6435110/	奇妙的数王国
+数学	https://book.douban.com/subject/30134619/	统计学七支柱
+数学	https://book.douban.com/subject/2863847/	Div, Grad, Curl, and All That
+数学	https://book.douban.com/subject/21983612/	Love and Math
+数学	https://book.douban.com/subject/2273757/	数学与自然科学之哲学
+数学	https://book.douban.com/subject/6558200/	离散数学及其应用（原书第6版）
+数学	https://book.douban.com/subject/3535356/	虚数的故事
+数学	https://book.douban.com/subject/27591424/	实变函数论
+数学	https://book.douban.com/subject/1954341/	基础偏微分方程
+数学	https://book.douban.com/subject/1323573/	美丽心灵
+数学	https://book.douban.com/subject/3011192/	Computational Science and Engineering
+数学	https://book.douban.com/subject/26546914/	科学的极致：漫谈人工智能
+数学	https://book.douban.com/subject/4182775/	你真的会＋－×÷吗-可怕的科学
+数学	https://book.douban.com/subject/1118984/	给讨厌数学的人
+数学	https://book.douban.com/subject/2061116/	Pattern Recognition and Machine Learning
+数学	https://book.douban.com/subject/1812629/	Introduction to Probability
+数学	https://book.douban.com/subject/2306947/	素数论
+数学	https://book.douban.com/subject/20509585/	数学-四年级下册-人教实验版-七彩课堂
+数学	https://book.douban.com/subject/3085353/	不完备性
+数学	https://book.douban.com/subject/1766488/	Adventures of a Mathematician
+数学	https://book.douban.com/subject/30381202/	算法分析导论（第2版）
+数学	https://book.douban.com/subject/30323890/	Reinforcement Learning
+数学	https://book.douban.com/subject/26842322/	行为科学统计精要
+数学	https://book.douban.com/subject/27063527/	数学真好玩
+数学	https://book.douban.com/subject/1652002/	Principles of Mathematical Analysis
+数学	https://book.douban.com/subject/3519805/	实用多元统计分析
+数学	https://book.douban.com/subject/2381124/	牛津迷案
+数学	https://book.douban.com/subject/26776903/	自然哲学的数学原理
+数学	https://book.douban.com/subject/20387164/	从数学观点看物理世界
+数学	https://book.douban.com/subject/1078706/	趣味几何学
+数学	https://book.douban.com/subject/1996256/	Algorithms
+数学	https://book.douban.com/subject/2160123/	数学精英
+数学	https://book.douban.com/subject/3135003/	解析函数论初步
+数学	https://book.douban.com/subject/2274854/	自动机理论、语言和计算导论(英文版.第3版)
+数学	https://book.douban.com/subject/1734231/	数值最优化
+数学	https://book.douban.com/subject/2111105/	数学走进现代化学与生物
+数学	https://book.douban.com/subject/1437298/	Model Theory
+数学	https://book.douban.com/subject/4012328/	数学分析（第一册）
+数学	https://book.douban.com/subject/1660711/	当代数学
+数学	https://book.douban.com/subject/3544903/	知无涯者
+数学	https://book.douban.com/subject/2316108/	平面几何中的小花
+数学	https://book.douban.com/subject/2037627/	好玩的数学
+数学	https://book.douban.com/subject/3151792/	运筹学导论
+数学	https://book.douban.com/subject/2193381/	Introduction to Graph Theory
+数学	https://book.douban.com/subject/4200433/	线性代数-第2版
+数学	https://book.douban.com/subject/1239381/	现代数学物理方法（第4卷）
+数学	https://book.douban.com/subject/1972231/	来自圣经的证明
+数学	https://book.douban.com/subject/6751235/	极小曲面
+数学	https://book.douban.com/subject/1579065/	基础几何学
+数学	https://book.douban.com/subject/30373956/	怎样解题
+数学	https://book.douban.com/subject/30373957/	素数之恋
+数学	https://book.douban.com/subject/4266082/	数学归纳法
+数学	https://book.douban.com/subject/1833087/	数学悖论与三次数学危机
+数学	https://book.douban.com/subject/3651403/	组合数学
+数学	https://book.douban.com/subject/5912733/	The Calculus Lifesaver
+数学	https://book.douban.com/subject/3930317/	确定性的终结
+数学	https://book.douban.com/subject/6822205/	微积分
+数学	https://book.douban.com/subject/2013529/	黎曼几何
+数学	https://book.douban.com/subject/25819486/	西方文化中的数学
+数学	https://book.douban.com/subject/2070882/	数学1
+数学	https://book.douban.com/subject/25893254/	分形学
+数学	https://book.douban.com/subject/1079698/	哥德尔
+数学	https://book.douban.com/subject/3715244/	A First Course in Probability
+数学	https://book.douban.com/subject/1759689/	傅立叶分析导论
+数学	https://book.douban.com/subject/2185715/	数学爵士乐
+数学	https://book.douban.com/subject/26293336/	素数之恋
+数学	https://book.douban.com/subject/4897350/	微积分之倚天宝剑
+数学	https://book.douban.com/subject/3930856/	数字情种
+数学	https://book.douban.com/subject/3177211/	The Probabilistic Method
+数学	https://book.douban.com/subject/1030974/	天才引导的历程
+数学	https://book.douban.com/subject/6519655/	安野光雅数学绘本
+数学	https://book.douban.com/subject/27114350/	基本有用的计量经济学
+数学	https://book.douban.com/subject/5946276/	An Introduction to Manifolds
+数学	https://book.douban.com/subject/4275111/	实变函数论与泛函分析
+数学	https://book.douban.com/subject/26696651/	数学思维导论
+数学	https://book.douban.com/subject/3865548/	微分几何
+数学	https://book.douban.com/subject/1725606/	几何原本
+数学	https://book.douban.com/subject/27024419/	脑洞大开的微积分
+数学	https://book.douban.com/subject/21335108/	直观几何（上册）
+数学	https://book.douban.com/subject/26631265/	计算理论导引
+数学	https://book.douban.com/subject/2006139/	Naive Set Theory
+数学	https://book.douban.com/subject/25779326/	可能与不可能的边界
+数学	https://book.douban.com/subject/4619399/	初等概率论（第4版）
+数学	https://book.douban.com/subject/1391754/	微积分之倚天宝剑
+数学	https://book.douban.com/subject/21706140/	Applied Predictive Modeling
+数学	https://book.douban.com/subject/3677371/	Causality
+数学	https://book.douban.com/subject/1768683/	Geometry, Topology and Physics, Second Edition
+数学	https://book.douban.com/subject/3071402/	物理世界奇遇记
+数学	https://book.douban.com/subject/26713558/	The Probabilistic Method (4th Edition)
+数学	https://book.douban.com/subject/2317840/	数学5
+数学	https://book.douban.com/subject/4283937/	Basic Algebra I
+数学	https://book.douban.com/subject/1932861/	偏微分方程教程
+数学	https://book.douban.com/subject/1146446/	金融数学
+数学	https://book.douban.com/subject/4759127/	概率论基础-第三版
+数学	https://book.douban.com/subject/1474193/	The Man Who Loved Only Numbers
+数学	https://book.douban.com/subject/26763772/	学前儿童数学学习与发展核心经验
+数学	https://book.douban.com/subject/3923753/	数学建模
+数学	https://book.douban.com/subject/1433399/	Introduction to Algorithms
+数学	https://book.douban.com/subject/3235797/	啊哈！原来如此
+数学	https://book.douban.com/subject/2080790/	数的趣谈
+数学	https://book.douban.com/subject/24703731/	LaTeX入门
+数学	https://book.douban.com/subject/1966122/	A User&#39;s Guide to Measure Theoretic Probability
+数学	https://book.douban.com/subject/3702847/	经济机制设计
+数学	https://book.douban.com/subject/1761370/	How to Lie with Statistics
+数学	https://book.douban.com/subject/30269555/	High-Dimensional Statistics
+数学	https://book.douban.com/subject/2105464/	泛函分析（影印版）
+数学	https://book.douban.com/subject/26894458/	数学写真集（第3季）
+数学	https://book.douban.com/subject/1753109/	Fourier Analysis
+数学	https://book.douban.com/subject/1876100/	哥德尔不完备定理
+数学	https://book.douban.com/subject/11579804/	折纸与数学
+数学	https://book.douban.com/subject/30466214/	从一到无穷大
+数学	https://book.douban.com/subject/26206378/	Doing Bayesian Data Analysis, Second Edition
+数学	https://book.douban.com/subject/10797229/	数理统计学导论
+数学	https://book.douban.com/subject/30171333/	数学的意义
+数学	https://book.douban.com/subject/2334932/	广义相对论
+数学	https://book.douban.com/subject/3302782/	趣味密码术与密写术
+数学	https://book.douban.com/subject/11550972/	Introduction to Statistical Inference
+数学	https://book.douban.com/subject/3612930/	偏微分方程习题集
+数学	https://book.douban.com/subject/3613832/	微分几何入门与广义相对论(中册.第二版)
+数学	https://book.douban.com/subject/10757509/	Introduction to Smooth Manifolds
+数学	https://book.douban.com/subject/1822197/	Elements of Information Theory
+数学	https://book.douban.com/subject/3596603/	群论和量子力学中的对称性

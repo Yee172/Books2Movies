@@ -1,0 +1,500 @@
+web	https://book.douban.com/subject/4199483/	Spring技术内幕
+web	https://book.douban.com/subject/1832177/	Build Your Own Web Site the Right Way Using HTML &amp; CSS
+web	https://book.douban.com/subject/4233429/	Ext JS源码分析与开发实例宝典
+web	https://book.douban.com/subject/4194212/	Beginning Smartphone Web Development
+web	https://book.douban.com/subject/6525823/	Python 3 Web Development Beginner&#39;s Guide
+web	https://book.douban.com/subject/25711796/	XSS跨站脚本攻击剖析与防御
+web	https://book.douban.com/subject/4705094/	Building Web Reputation Systems
+web	https://book.douban.com/subject/10540527/	写给Web开发人员看的HTML5教程
+web	https://book.douban.com/subject/24706036/	HTML5移动Web开发实战
+web	https://book.douban.com/subject/6688826/	Head First HTML5 Programming
+web	https://book.douban.com/subject/6854551/	REST实战
+web	https://book.douban.com/subject/2383209/	Mashups Web 2.0开发技术—— 基于Amazon.com
+web	https://book.douban.com/subject/4136355/	RESTful Java Web Services
+web	https://book.douban.com/subject/4196842/	PHP实战
+web	https://book.douban.com/subject/1767951/	Essential PHP Security
+web	https://book.douban.com/subject/3033419/	Ruby on Rails敏捷开发最佳实践
+web	https://book.douban.com/subject/1774156/	Python Web Programming
+web	https://book.douban.com/subject/2383209/	Mashups Web 2.0开发技术—— 基于Amazon.com
+web	https://book.douban.com/subject/4199483/	Spring技术内幕
+web	https://book.douban.com/subject/25966259/	CSS高效开发实战—CSS 3、LESS、SASS、Bootstrap、Foundation
+web	https://book.douban.com/subject/1780671/	Weaving the Web
+web	https://book.douban.com/subject/25750362/	WebGL高级编程
+web	https://book.douban.com/subject/1764249/	Web Design in a Nutshell
+web	https://book.douban.com/subject/4233429/	Ext JS源码分析与开发实例宝典
+web	https://book.douban.com/subject/1832177/	Build Your Own Web Site the Right Way Using HTML &amp; CSS
+web	https://book.douban.com/subject/10540527/	写给Web开发人员看的HTML5教程
+web	https://book.douban.com/subject/4705094/	Building Web Reputation Systems
+web	https://book.douban.com/subject/24246865/	Two Scoops of Django
+web	https://book.douban.com/subject/4136355/	RESTful Java Web Services
+web	https://book.douban.com/subject/4194212/	Beginning Smartphone Web Development
+web	https://book.douban.com/subject/6688826/	Head First HTML5 Programming
+web	https://book.douban.com/subject/25711796/	XSS跨站脚本攻击剖析与防御
+web	https://book.douban.com/subject/3948393/	Java Web编程从入门到实践
+web	https://book.douban.com/subject/2338578/	Grails权威指南
+web	https://book.douban.com/subject/4199483/	Spring技术内幕
+web	https://book.douban.com/subject/3220004/	Hadoop: The Definitive Guide
+web	https://book.douban.com/subject/25966259/	CSS高效开发实战—CSS 3、LESS、SASS、Bootstrap、Foundation
+web	https://book.douban.com/subject/26581686/	Java Web高级编程
+web	https://book.douban.com/subject/2383209/	Mashups Web 2.0开发技术—— 基于Amazon.com
+web	https://book.douban.com/subject/4705094/	Building Web Reputation Systems
+web	https://book.douban.com/subject/10540527/	写给Web开发人员看的HTML5教程
+web	https://book.douban.com/subject/3653432/	Web Design for Developers
+web	https://book.douban.com/subject/25750362/	WebGL高级编程
+web	https://book.douban.com/subject/6510270/	迎接互联网的明天
+web	https://book.douban.com/subject/6525823/	Python 3 Web Development Beginner&#39;s Guide
+web	https://book.douban.com/subject/1767951/	Essential PHP Security
+web	https://book.douban.com/subject/6854551/	REST实战
+web	https://book.douban.com/subject/1474667/	搜
+web	https://book.douban.com/subject/25909353/	使用HTML5和Node构建超媒体API
+web	https://book.douban.com/subject/24706036/	HTML5移动Web开发实战
+web	https://book.douban.com/subject/1774156/	Python Web Programming
+web	https://book.douban.com/subject/26351021/	你不知道的JavaScript（上卷）
+web	https://book.douban.com/subject/2337351/	Painting the Web
+web	https://book.douban.com/subject/20471011/	Web应用安全威胁与防治
+web	https://book.douban.com/subject/1756106/	Modeling the Internet and the Web
+web	https://book.douban.com/subject/26758035/	Clojure Web开发实战
+web	https://book.douban.com/subject/4735487/	Servlet&amp;JSP学习笔记
+web	https://book.douban.com/subject/4820690/	博客秘诀：超人气博客是怎样炼成的
+web	https://book.douban.com/subject/11018063/	ClojureScript
+web	https://book.douban.com/subject/1474667/	搜
+web	https://book.douban.com/subject/1859207/	Learning JavaScript
+web	https://book.douban.com/subject/1481177/	PHP|Architect&#39;s Guide to PHP Design Patterns
+web	https://book.douban.com/subject/3864460/	JavaScript实战
+web	https://book.douban.com/subject/10540527/	写给Web开发人员看的HTML5教程
+web	https://book.douban.com/subject/1552156/	Writing Apache Modules with Perl and C
+web	https://book.douban.com/subject/1478528/	Designing with Web Standards
+web	https://book.douban.com/subject/25966259/	CSS高效开发实战—CSS 3、LESS、SASS、Bootstrap、Foundation
+web	https://book.douban.com/subject/1832177/	Build Your Own Web Site the Right Way Using HTML &amp; CSS
+web	https://book.douban.com/subject/4199483/	Spring技术内幕
+web	https://book.douban.com/subject/3592733/	The Web Designer&#39;s Idea Book
+web	https://book.douban.com/subject/4233429/	Ext JS源码分析与开发实例宝典
+web	https://book.douban.com/subject/26077205/	Web应用安全权威指南
+web	https://book.douban.com/subject/2337351/	Painting the Web
+web	https://book.douban.com/subject/10759600/	疯狂HTML 5/CSS 3/JavaScript讲义
+web	https://book.douban.com/subject/1774156/	Python Web Programming
+web	https://book.douban.com/subject/1481177/	PHP|Architect&#39;s Guide to PHP Design Patterns
+web	https://book.douban.com/subject/24706036/	HTML5移动Web开发实战
+web	https://book.douban.com/subject/11018063/	ClojureScript
+web	https://book.douban.com/subject/25756111/	HTML5经典实例
+web	https://book.douban.com/subject/25792550/	渐进增强的Web设计
+web	https://book.douban.com/subject/3380985/	Head First Rails
+web	https://book.douban.com/subject/6010570/	Linked Data (Synthesis Lectures on the Semantic Web
+web	https://book.douban.com/subject/1879443/	ASP.NET 2.0入门经典
+web	https://book.douban.com/subject/25735841/	Web 2.0界面设计模式
+web	https://book.douban.com/subject/6414998/	精通Web Analytics 2.0
+web	https://book.douban.com/subject/3625182/	Twitter API
+web	https://book.douban.com/subject/1911540/	HTML网页设计参考手册
+web	https://book.douban.com/subject/3396111/	网络营销实战密码
+web	https://book.douban.com/subject/3265738/	网站入侵与脚本攻防修炼
+web	https://book.douban.com/subject/6428937/	ASP.NET 4高级程序设计（第4版）
+web	https://book.douban.com/subject/1230410/	PHP高级编程
+web	https://book.douban.com/subject/3522852/	实用语义网
+web	https://book.douban.com/subject/25786074/	HTML5权威指南
+web	https://book.douban.com/subject/3670867/	UCD火花集
+web	https://book.douban.com/subject/7174575/	PHP求职宝典
+web	https://book.douban.com/subject/3625182/	Twitter API
+web	https://book.douban.com/subject/1879443/	ASP.NET 2.0入门经典
+web	https://book.douban.com/subject/3522852/	实用语义网
+web	https://book.douban.com/subject/6860891/	黑客大曝光
+web	https://book.douban.com/subject/25894686/	构建跨平台APP：jQuery Mobile移动应用实战
+web	https://book.douban.com/subject/1835397/	征服Ajax Web 2.0快速入门与项目实践
+web	https://book.douban.com/subject/3717165/	众包
+web	https://book.douban.com/subject/1799652/	深入浅出HTML与CSS、XHTML
+web	https://book.douban.com/subject/3142173/	PHP+MySQL八大动态Web应用实战
+web	https://book.douban.com/subject/3167955/	Web 2.0 Heroes
+web	https://book.douban.com/subject/6010570/	Linked Data (Synthesis Lectures on the Semantic Web
+web	https://book.douban.com/subject/25792550/	渐进增强的Web设计
+web	https://book.douban.com/subject/3380985/	Head First Rails
+web	https://book.douban.com/subject/3265738/	网站入侵与脚本攻防修炼
+web	https://book.douban.com/subject/3215423/	IT不再重要
+web	https://book.douban.com/subject/3396111/	网络营销实战密码
+web	https://book.douban.com/subject/1230410/	PHP高级编程
+web	https://book.douban.com/subject/1911540/	HTML网页设计参考手册
+web	https://book.douban.com/subject/1350815/	Web Design
+web	https://book.douban.com/subject/25735841/	Web 2.0界面设计模式
+web	https://book.douban.com/subject/25786074/	HTML5权威指南
+web	https://book.douban.com/subject/4818688/	与50位网站主编面对面
+web	https://book.douban.com/subject/26383331/	You Don&#39;t Know JS
+web	https://book.douban.com/subject/1835397/	征服Ajax Web 2.0快速入门与项目实践
+web	https://book.douban.com/subject/25756111/	HTML5经典实例
+web	https://book.douban.com/subject/2340459/	Web Design Index 8
+web	https://book.douban.com/subject/3396111/	网络营销实战密码
+web	https://book.douban.com/subject/21792530/	编写可维护的JavaScript
+web	https://book.douban.com/subject/4727011/	Rails之道
+web	https://book.douban.com/subject/3167955/	Web 2.0 Heroes
+web	https://book.douban.com/subject/1350815/	Web Design
+web	https://book.douban.com/subject/3522852/	实用语义网
+web	https://book.douban.com/subject/10528446/	Web开发敏捷之道
+web	https://book.douban.com/subject/25894686/	构建跨平台APP：jQuery Mobile移动应用实战
+web	https://book.douban.com/subject/4742843/	Beginning iPhone and iPad Web Apps
+web	https://book.douban.com/subject/4891457/	Programming the Mobile Web
+web	https://book.douban.com/subject/25844628/	网站运维技术与实践
+web	https://book.douban.com/subject/3891449/	IIS 7开发与管理完全参考手册
+web	https://book.douban.com/subject/24672242/	Sass and Compass for Designers
+web	https://book.douban.com/subject/3142173/	PHP+MySQL八大动态Web应用实战
+web	https://book.douban.com/subject/3265738/	网站入侵与脚本攻防修炼
+web	https://book.douban.com/subject/22704150/	HTML5移动应用开发入门经典
+web	https://book.douban.com/subject/20509115/	CoffeeScript程序设计
+web	https://book.douban.com/subject/1769274/	XML Hacks
+web	https://book.douban.com/subject/25756111/	HTML5经典实例
+web	https://book.douban.com/subject/3128099/	Visual Thinking
+web	https://book.douban.com/subject/24529300/	Lighttpd源码分析
+web	https://book.douban.com/subject/21761879/	JavaScript和jQuery实战手册
+web	https://book.douban.com/subject/3215423/	IT不再重要
+web	https://book.douban.com/subject/3625182/	Twitter API
+web	https://book.douban.com/subject/10797904/	开发高质量PHP框架与应用的实际案例解析
+web	https://book.douban.com/subject/1230410/	PHP高级编程
+web	https://book.douban.com/subject/11227458/	Ethnography and Virtual Worlds
+web	https://book.douban.com/subject/1799652/	深入浅出HTML与CSS、XHTML
+web	https://book.douban.com/subject/1799065/	Blog Design Solutions
+web	https://book.douban.com/subject/26383331/	You Don&#39;t Know JS
+web	https://book.douban.com/subject/4027725/	CSS精粹
+web	https://book.douban.com/subject/26331370/	Wireshark网络分析实战
+web	https://book.douban.com/subject/2154075/	AdvancED DOM Scripting
+web	https://book.douban.com/subject/3670867/	UCD火花集
+web	https://book.douban.com/subject/10586326/	Node Web开发
+web	https://book.douban.com/subject/10580362/	网站转换率优化之道
+web	https://book.douban.com/subject/4727011/	Rails之道
+web	https://book.douban.com/subject/26331370/	Wireshark网络分析实战
+web	https://book.douban.com/subject/1435939/	JSP应用开发技术
+web	https://book.douban.com/subject/1436131/	Expert One-on-One J2EE Development without EJB中文版
+web	https://book.douban.com/subject/1436143/	JSP网站开发四“酷”全书
+web	https://book.douban.com/subject/4196907/	Host Your Web Site In The Cloud
+web	https://book.douban.com/subject/1882597/	风云Flash ActionScript高级编程艺术
+web	https://book.douban.com/subject/20444708/	Responsive Web Design with HTML5 and CSS3
+web	https://book.douban.com/subject/4031961/	iPhone开发实战
+web	https://book.douban.com/subject/4099306/	PHP经典实例
+web	https://book.douban.com/subject/20135321/	Single Page Web Applications
+web	https://book.douban.com/subject/20172623/	优秀网站设计
+web	https://book.douban.com/subject/1101529/	人本界面
+web	https://book.douban.com/subject/3889178/	Rework
+web	https://book.douban.com/subject/3865371/	Google将带来什么?
+web	https://book.douban.com/subject/1229907/	Web应用测试
+web	https://book.douban.com/subject/1438631/	Eric Meyer on CSS
+web	https://book.douban.com/subject/1229907/	Web应用测试
+web	https://book.douban.com/subject/1392997/	Dreamweaver基础教程
+web	https://book.douban.com/subject/20135321/	Single Page Web Applications
+web	https://book.douban.com/subject/3586821/	Coming of Age in Second Life
+web	https://book.douban.com/subject/4711365/	The Definitive Guide to MongoDB
+web	https://book.douban.com/subject/1185932/	可用性工程
+web	https://book.douban.com/subject/4099306/	PHP经典实例
+web	https://book.douban.com/subject/1807880/	PHP Solutions
+web	https://book.douban.com/subject/10813253/	Stylin&#39; with CSS
+web	https://book.douban.com/subject/4031961/	iPhone开发实战
+web	https://book.douban.com/subject/1101529/	人本界面
+web	https://book.douban.com/subject/1819569/	Spring框架高级编程
+web	https://book.douban.com/subject/1438631/	Eric Meyer on CSS
+web	https://book.douban.com/subject/1436143/	JSP网站开发四“酷”全书
+web	https://book.douban.com/subject/1436131/	Expert One-on-One J2EE Development without EJB中文版
+web	https://book.douban.com/subject/1435939/	JSP应用开发技术
+web	https://book.douban.com/subject/3889178/	Rework
+web	https://book.douban.com/subject/24737674/	图解TCP/IP（第5版）
+web	https://book.douban.com/subject/1858571/	ASP.NET 2.0技术内幕
+web	https://book.douban.com/subject/1860418/	闪魂FLASH8网站建设实录
+web	https://book.douban.com/subject/24744215/	Java Web入门经典
+web	https://book.douban.com/subject/3865371/	Google将带来什么?
+web	https://book.douban.com/subject/1819569/	Spring框架高级编程
+web	https://book.douban.com/subject/3302413/	Web Style Guide, 3rd edition
+web	https://book.douban.com/subject/3334666/	Django 1.0 Template Development
+web	https://book.douban.com/subject/4196907/	Host Your Web Site In The Cloud
+web	https://book.douban.com/subject/3421275/	A Project Guide to UX Design
+web	https://book.douban.com/subject/1774952/	SCWCD Exam Study Kit Second Edition
+web	https://book.douban.com/subject/4031961/	iPhone开发实战
+web	https://book.douban.com/subject/1414865/	个性化网页设计与鉴赏
+web	https://book.douban.com/subject/24737674/	图解TCP/IP（第5版）
+web	https://book.douban.com/subject/1783740/	The JavaScript Anthology
+web	https://book.douban.com/subject/3640666/	深入浅出Struts 2
+web	https://book.douban.com/subject/3685945/	Twitter Power
+web	https://book.douban.com/subject/1807880/	PHP Solutions
+web	https://book.douban.com/subject/1392997/	Dreamweaver基础教程
+web	https://book.douban.com/subject/1396503/	Google成功的七堂课
+web	https://book.douban.com/subject/1101529/	人本界面
+web	https://book.douban.com/subject/1784993/	Ajax Design Patterns
+web	https://book.douban.com/subject/1229907/	Web应用测试
+web	https://book.douban.com/subject/2056769/	DESIGNING DATA-INTENSIVE WEB APPLICATIONS
+web	https://book.douban.com/subject/6983664/	Web Development Recipes
+web	https://book.douban.com/subject/5290566/	筑巢引凤
+web	https://book.douban.com/subject/1774952/	SCWCD Exam Study Kit Second Edition
+web	https://book.douban.com/subject/4935915/	[Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ (WEB+DB PRESS plusシリーズ)
+web	https://book.douban.com/subject/1229907/	Web应用测试
+web	https://book.douban.com/subject/1783740/	The JavaScript Anthology
+web	https://book.douban.com/subject/4196907/	Host Your Web Site In The Cloud
+web	https://book.douban.com/subject/25854151/	R语言与网站分析
+web	https://book.douban.com/subject/4937201/	Agile Web Application Development with Yii 1.1 and PHP5
+web	https://book.douban.com/subject/3077173/	PHP项目开发全程实录
+web	https://book.douban.com/subject/20135321/	Single Page Web Applications
+web	https://book.douban.com/subject/1265680/	PHP&amp;MySQL Web数据库应用开发指南
+web	https://book.douban.com/subject/6805117/	Node.js in Action
+web	https://book.douban.com/subject/6990607/	网页设计创意书（卷2）
+web	https://book.douban.com/subject/25850033/	D3.js in Action
+web	https://book.douban.com/subject/5213267/	Webを支える技術 -HTTP、URI、HTML、そしてREST (WEB+DB PRESS plus)
+web	https://book.douban.com/subject/2994946/	Ruby on Rails电子商务实战
+web	https://book.douban.com/subject/10747833/	精彩绝伦的jQuery
+web	https://book.douban.com/subject/3586821/	Coming of Age in Second Life
+web	https://book.douban.com/subject/1392997/	Dreamweaver基础教程
+web	https://book.douban.com/subject/25910557/	白帽子讲Web安全（纪念版）
+web	https://book.douban.com/subject/4031961/	iPhone开发实战
+web	https://book.douban.com/subject/25868275/	高性能HTML5
+web	https://book.douban.com/subject/25850033/	D3.js in Action
+web	https://book.douban.com/subject/1858571/	ASP.NET 2.0技术内幕
+web	https://book.douban.com/subject/24737674/	图解TCP/IP（第5版）
+web	https://book.douban.com/subject/4742949/	The Web Designer&#39;s Idea Book, Vol. 2
+web	https://book.douban.com/subject/26345790/	You Don&#39;t Know JS
+web	https://book.douban.com/subject/2056769/	DESIGNING DATA-INTENSIVE WEB APPLICATIONS
+web	https://book.douban.com/subject/4196907/	Host Your Web Site In The Cloud
+web	https://book.douban.com/subject/1438631/	Eric Meyer on CSS
+web	https://book.douban.com/subject/10733265/	无懈可击的Web设计
+web	https://book.douban.com/subject/1436143/	JSP网站开发四“酷”全书
+web	https://book.douban.com/subject/3063496/	Web Form Design
+web	https://book.douban.com/subject/1436131/	Expert One-on-One J2EE Development without EJB中文版
+web	https://book.douban.com/subject/1435939/	JSP应用开发技术
+web	https://book.douban.com/subject/26588599/	Using WebPageTest
+web	https://book.douban.com/subject/26386597/	网站开发案例课堂：HTML5+CSS3+JavaScript网页设计案例课堂
+web	https://book.douban.com/subject/1313472/	About Face 2.0
+web	https://book.douban.com/subject/25850033/	D3.js in Action
+web	https://book.douban.com/subject/1236894/	闪魂Flash网站建设实录
+web	https://book.douban.com/subject/26931434/	Python项目开发实战（第2版）
+web	https://book.douban.com/subject/1504761/	天涯虚拟社区
+web	https://book.douban.com/subject/3302413/	Web Style Guide, 3rd edition
+web	https://book.douban.com/subject/3290207/	Professional ASP.NET MVC 1.0
+web	https://book.douban.com/subject/26345789/	You Don&#39;t Know JS
+web	https://book.douban.com/subject/2272845/	Ajax与.NET 2.0高级程序设计
+web	https://book.douban.com/subject/26268767/	Wireshark网络分析就这么简单
+web	https://book.douban.com/subject/4099306/	PHP经典实例
+web	https://book.douban.com/subject/10747833/	精彩绝伦的jQuery
+web	https://book.douban.com/subject/3063496/	Web Form Design
+web	https://book.douban.com/subject/2056769/	DESIGNING DATA-INTENSIVE WEB APPLICATIONS
+web	https://book.douban.com/subject/10813253/	Stylin&#39; with CSS
+web	https://book.douban.com/subject/3077173/	PHP项目开发全程实录
+web	https://book.douban.com/subject/2225136/	Learning PHP &amp; MySQL
+web	https://book.douban.com/subject/25874675/	响应式Web图形设计
+web	https://book.douban.com/subject/1313472/	About Face 2.0
+web	https://book.douban.com/subject/3245909/	深入解析Spring MVC与Web Flow
+web	https://book.douban.com/subject/6021440/	黑客与画家
+web	https://book.douban.com/subject/2340449/	Web Design
+web	https://book.douban.com/subject/1236894/	闪魂Flash网站建设实录
+web	https://book.douban.com/subject/1435939/	JSP应用开发技术
+web	https://book.douban.com/subject/1436131/	Expert One-on-One J2EE Development without EJB中文版
+web	https://book.douban.com/subject/1436143/	JSP网站开发四“酷”全书
+web	https://book.douban.com/subject/4935915/	[Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ (WEB+DB PRESS plusシリーズ)
+web	https://book.douban.com/subject/2338561/	HTML和CSS从入门到精通
+web	https://book.douban.com/subject/1396503/	Google成功的七堂课
+web	https://book.douban.com/subject/2695770/	The Apache Modules Book
+web	https://book.douban.com/subject/26809374/	信息架构
+web	https://book.douban.com/subject/1965519/	Struts Hibernate Spring集成开发宝典
+web	https://book.douban.com/subject/1414865/	个性化网页设计与鉴赏
+web	https://book.douban.com/subject/6039240/	安全之美
+web	https://book.douban.com/subject/1440225/	JavaScript Definitive Guide
+web	https://book.douban.com/subject/1434812/	Internet与WWW程序设计教程（第三版）
+web	https://book.douban.com/subject/6397551/	Scalability Rules
+web	https://book.douban.com/subject/6352828/	The Book of CSS3
+web	https://book.douban.com/subject/6533777/	Data Mining
+web	https://book.douban.com/subject/6105648/	China Handbook: Internet in China
+web	https://book.douban.com/subject/6392919/	云计算安全与隐私
+web	https://book.douban.com/subject/6895075/	JavaScript修炼之道
+web	https://book.douban.com/subject/6892312/	Designing for Emotion
+web	https://book.douban.com/subject/6880217/	网页配色实用手册
+web	https://book.douban.com/subject/1900934/	Beginning PHP and MySQL 5
+web	https://book.douban.com/subject/6707211/	Web Design Index 10
+web	https://book.douban.com/subject/6725098/	Web Data Mining
+web	https://book.douban.com/subject/6041346/	网站搜索设计
+web	https://book.douban.com/subject/1440225/	JavaScript Definitive Guide
+web	https://book.douban.com/subject/6908777/	Pro HTML5 and CSS3 Design Patterns
+web	https://book.douban.com/subject/6709783/	浪潮之巅
+web	https://book.douban.com/subject/6801489/	JavaScript &amp; jQuery
+web	https://book.douban.com/subject/6039240/	安全之美
+web	https://book.douban.com/subject/1432165/	WebWork in Action
+web	https://book.douban.com/subject/1870286/	Convergence Culture
+web	https://book.douban.com/subject/6397551/	Scalability Rules
+web	https://book.douban.com/subject/1071334/	CGI 程序设计自学通
+web	https://book.douban.com/subject/1432344/	Mastering Regular Expressions, Second Edition
+web	https://book.douban.com/subject/1875213/	Speed Up Your Site
+web	https://book.douban.com/subject/1434812/	Internet与WWW程序设计教程（第三版）
+web	https://book.douban.com/subject/6792322/	认知与设计
+web	https://book.douban.com/subject/1432165/	WebWork in Action
+web	https://book.douban.com/subject/1431614/	勇敢新世界‧互聯網罪與罰
+web	https://book.douban.com/subject/6975800/	PHP典型模块与项目实战大全
+web	https://book.douban.com/subject/6880217/	网页配色实用手册
+web	https://book.douban.com/subject/7153332/	APIs
+web	https://book.douban.com/subject/5502782/	DIV+CSS网站布局从入门到精通
+web	https://book.douban.com/subject/6895075/	JavaScript修炼之道
+web	https://book.douban.com/subject/6908777/	Pro HTML5 and CSS3 Design Patterns
+web	https://book.douban.com/subject/1900934/	Beginning PHP and MySQL 5
+web	https://book.douban.com/subject/6958339/	HTML 5实战
+web	https://book.douban.com/subject/6981692/	Java EE WEB开发与项目实战
+web	https://book.douban.com/subject/7006719/	这就是搜索引擎
+web	https://book.douban.com/subject/5924990/	网站入侵与脚本技术快速防杀
+web	https://book.douban.com/subject/5394982/	Hardboiled Web Design
+web	https://book.douban.com/subject/1099110/	PHP高级开发技术与应用
+web	https://book.douban.com/subject/6039240/	安全之美
+web	https://book.douban.com/subject/7068646/	Web Design DeMYSTiFieD
+web	https://book.douban.com/subject/7070590/	Mobilizing Web Sites
+web	https://book.douban.com/subject/6707211/	Web Design Index 10
+web	https://book.douban.com/subject/6709783/	浪潮之巅
+web	https://book.douban.com/subject/1400519/	Flash MX 2004游戏制作完全攻略
+web	https://book.douban.com/subject/1400486/	巧学巧用HTML、CSS、JavaScript制作网页
+web	https://book.douban.com/subject/6895075/	JavaScript修炼之道
+web	https://book.douban.com/subject/5502782/	DIV+CSS网站布局从入门到精通
+web	https://book.douban.com/subject/5442003/	从零开始学PHP
+web	https://book.douban.com/subject/6981692/	Java EE WEB开发与项目实战
+web	https://book.douban.com/subject/5394982/	Hardboiled Web Design
+web	https://book.douban.com/subject/1870286/	Convergence Culture
+web	https://book.douban.com/subject/1863300/	Beginning XML with DOM and Ajax
+web	https://book.douban.com/subject/6105648/	China Handbook: Internet in China
+web	https://book.douban.com/subject/6880217/	网页配色实用手册
+web	https://book.douban.com/subject/1432165/	WebWork in Action
+web	https://book.douban.com/subject/1431614/	勇敢新世界‧互聯網罪與罰
+web	https://book.douban.com/subject/7070590/	Mobilizing Web Sites
+web	https://book.douban.com/subject/7006719/	这就是搜索引擎
+web	https://book.douban.com/subject/6975800/	PHP典型模块与项目实战大全
+web	https://book.douban.com/subject/6908777/	Pro HTML5 and CSS3 Design Patterns
+web	https://book.douban.com/subject/6892312/	Designing for Emotion
+web	https://book.douban.com/subject/6862828/	PHP与MySQL权威指南
+web	https://book.douban.com/subject/5375620/	失控
+web	https://book.douban.com/subject/6880217/	网页配色实用手册
+web	https://book.douban.com/subject/6892312/	Designing for Emotion
+web	https://book.douban.com/subject/6975800/	PHP典型模块与项目实战大全
+web	https://book.douban.com/subject/1855257/	Spring Into HTML and CSS
+web	https://book.douban.com/subject/4734064/	HTML5
+web	https://book.douban.com/subject/6981692/	Java EE WEB开发与项目实战
+web	https://book.douban.com/subject/6533777/	Data Mining
+web	https://book.douban.com/subject/1188452/	Java Script深度剖析
+web	https://book.douban.com/subject/6707211/	Web Design Index 10
+web	https://book.douban.com/subject/5924990/	网站入侵与脚本技术快速防杀
+web	https://book.douban.com/subject/1795587/	Wikis For Dummies
+web	https://book.douban.com/subject/1797513/	Programming Python
+web	https://book.douban.com/subject/6011420/	网站重构（第3版）
+web	https://book.douban.com/subject/6352828/	The Book of CSS3
+web	https://book.douban.com/subject/6397551/	Scalability Rules
+web	https://book.douban.com/subject/7070590/	Mobilizing Web Sites
+web	https://book.douban.com/subject/1814784/	解决网页设计一定会遇到的210个问题
+web	https://book.douban.com/subject/10537875/	一目了然
+web	https://book.douban.com/subject/6958339/	HTML 5实战
+web	https://book.douban.com/subject/5375620/	失控
+web	https://book.douban.com/subject/1762413/	Building Websites with Joomla!
+web	https://book.douban.com/subject/4286452/	Head First WordPress
+web	https://book.douban.com/subject/6707211/	Web Design Index 10
+web	https://book.douban.com/subject/1778973/	Ajax开发精要
+web	https://book.douban.com/subject/6892312/	Designing for Emotion
+web	https://book.douban.com/subject/1814784/	解决网页设计一定会遇到的210个问题
+web	https://book.douban.com/subject/6801489/	JavaScript &amp; jQuery
+web	https://book.douban.com/subject/6725098/	Web Data Mining
+web	https://book.douban.com/subject/6533777/	Data Mining
+web	https://book.douban.com/subject/1797513/	Programming Python
+web	https://book.douban.com/subject/1795587/	Wikis For Dummies
+web	https://book.douban.com/subject/20056014/	Basics of Web Design
+web	https://book.douban.com/subject/6352828/	The Book of CSS3
+web	https://book.douban.com/subject/1071334/	CGI 程序设计自学通
+web	https://book.douban.com/subject/1784275/	Beginning XSLT 2.0
+web	https://book.douban.com/subject/4304206/	Alone Together
+web	https://book.douban.com/subject/10750116/	Learning JavaScript Design Patterns
+web	https://book.douban.com/subject/5442003/	从零开始学PHP
+web	https://book.douban.com/subject/1782032/	Charlotte&#39;s Web
+web	https://book.douban.com/subject/4836722/	Java Web开发从初学到精通
+web	https://book.douban.com/subject/20056014/	Basics of Web Design
+web	https://book.douban.com/subject/6709783/	浪潮之巅
+web	https://book.douban.com/subject/6958339/	HTML 5实战
+web	https://book.douban.com/subject/7070590/	Mobilizing Web Sites
+web	https://book.douban.com/subject/1400486/	巧学巧用HTML、CSS、JavaScript制作网页
+web	https://book.douban.com/subject/1400519/	Flash MX 2004游戏制作完全攻略
+web	https://book.douban.com/subject/10483528/	测试驱动的JavaScript开发
+web	https://book.douban.com/subject/11229419/	CSS3 Solutions
+web	https://book.douban.com/subject/19894872/	Head First HTML5 Programming（中文版）
+web	https://book.douban.com/subject/6105648/	China Handbook: Internet in China
+web	https://book.douban.com/subject/6039240/	安全之美
+web	https://book.douban.com/subject/1362803/	Namo Webeditor5.5一看就懂.
+web	https://book.douban.com/subject/4203857/	Web程序设计
+web	https://book.douban.com/subject/4304206/	Alone Together
+web	https://book.douban.com/subject/1315047/	深入浅出Hibernate
+web	https://book.douban.com/subject/1316484/	闪魂
+web	https://book.douban.com/subject/1316512/	The Paradox of Choice
+web	https://book.douban.com/subject/5375620/	失控
+web	https://book.douban.com/subject/5394982/	Hardboiled Web Design
+web	https://book.douban.com/subject/5924990/	网站入侵与脚本技术快速防杀
+web	https://book.douban.com/subject/4037291/	Ext JS学习指南
+web	https://book.douban.com/subject/20438376/	HTML5与CSS3基础教程（第7版）
+web	https://book.douban.com/subject/24528820/	Webbots、Spiders和Screen Scrapers
+web	https://book.douban.com/subject/6725098/	Web Data Mining
+web	https://book.douban.com/subject/1177137/	网络传播学
+web	https://book.douban.com/subject/2261182/	xHTML+CSS+Dreamweaver CS3标准网站构建实例详解
+web	https://book.douban.com/subject/2261183/	CSS精粹
+web	https://book.douban.com/subject/10747451/	深入浅出HTML5编程
+web	https://book.douban.com/subject/24860884/	What Is HTML5
+web	https://book.douban.com/subject/1400519/	Flash MX 2004游戏制作完全攻略
+web	https://book.douban.com/subject/5263109/	Ruby on Rails 3 Tutorial
+web	https://book.douban.com/subject/1665034/	PHP and MySQL for Dynamic Web Sites : Visual QuickPro Guide
+web	https://book.douban.com/subject/1400486/	巧学巧用HTML、CSS、JavaScript制作网页
+web	https://book.douban.com/subject/2280162/	JSF第一步
+web	https://book.douban.com/subject/5292938/	Beginning Google Maps API 3
+web	https://book.douban.com/subject/5293871/	Beginning ASP.NET 4 in C# and Vb
+web	https://book.douban.com/subject/2284655/	Flexible Rails
+web	https://book.douban.com/subject/2287687/	从零到百亿
+web	https://book.douban.com/subject/1159981/	网页美工传奇
+web	https://book.douban.com/subject/4836722/	Java Web开发从初学到精通
+web	https://book.douban.com/subject/2158766/	Practical JavaScript, DOM Scripting and Ajax Projects
+web	https://book.douban.com/subject/2155506/	Beginning JavaScript, 3rd Edition
+web	https://book.douban.com/subject/4156312/	Web服务
+web	https://book.douban.com/subject/2154713/	精通正则表达式
+web	https://book.douban.com/subject/2154077/	The Essential Guide to Dreamweaver CS3 with CSS, Ajax, and PHP
+web	https://book.douban.com/subject/4304206/	Alone Together
+web	https://book.douban.com/subject/6908777/	Pro HTML5 and CSS3 Design Patterns
+web	https://book.douban.com/subject/1797513/	Programming Python
+web	https://book.douban.com/subject/24807524/	Head First JavaScript Programming
+web	https://book.douban.com/subject/2228777/	PHP for the World Wide Web, Second Edition (Visual QuickStart Guide)
+web	https://book.douban.com/subject/1784275/	Beginning XSLT 2.0
+web	https://book.douban.com/subject/6709783/	浪潮之巅
+web	https://book.douban.com/subject/6792322/	认知与设计
+web	https://book.douban.com/subject/2208541/	Rails Cookbook
+web	https://book.douban.com/subject/3782464/	揭秘Web应用程序攻击技术
+web	https://book.douban.com/subject/2187465/	Jakarta Struts Cookbook中文版
+web	https://book.douban.com/subject/1795587/	Wikis For Dummies
+web	https://book.douban.com/subject/2180183/	Web技术
+web	https://book.douban.com/subject/4734064/	HTML5
+web	https://book.douban.com/subject/3675853/	21天学通Java Web开发
+web	https://book.douban.com/subject/6041346/	网站搜索设计
+web	https://book.douban.com/subject/1362803/	Namo Webeditor5.5一看就懂.
+web	https://book.douban.com/subject/10747451/	深入浅出HTML5编程
+web	https://book.douban.com/subject/6725098/	Web Data Mining
+web	https://book.douban.com/subject/3782464/	揭秘Web应用程序攻击技术
+web	https://book.douban.com/subject/2147094/	Bulletproof Web Design
+web	https://book.douban.com/subject/2146392/	Dreamweaver CS3 Bible
+web	https://book.douban.com/subject/1246628/	XML与WML整合应用
+web	https://book.douban.com/subject/1246989/	JavaScript编程起步
+web	https://book.douban.com/subject/2140652/	Essential ActionScript 3.0
+web	https://book.douban.com/subject/2137049/	Textpattern Solutions
+web	https://book.douban.com/subject/2129650/	Spring 2.0核心技术与最佳实践
+web	https://book.douban.com/subject/2125561/	網頁視覺設計的王道：超越式CSS
+web	https://book.douban.com/subject/3908071/	豆瓣，流行的秘密
+web	https://book.douban.com/subject/3932520/	免费
+web	https://book.douban.com/subject/1251616/	网页设计实训教程
+web	https://book.douban.com/subject/4007372/	JavaScript征途
+web	https://book.douban.com/subject/2121387/	Ajax in Practice
+web	https://book.douban.com/subject/4221586/	PHP应用程序安全编程
+web	https://book.douban.com/subject/21357723/	PHP、MySQL和Apache入门经典
+web	https://book.douban.com/subject/2147094/	Bulletproof Web Design
+web	https://book.douban.com/subject/22135555/	Pro ASP.NET Web API
+web	https://book.douban.com/subject/10537875/	一目了然
+web	https://book.douban.com/subject/10483528/	测试驱动的JavaScript开发
+web	https://book.douban.com/subject/6011420/	网站重构（第3版）
+web	https://book.douban.com/subject/6105648/	China Handbook: Internet in China
+web	https://book.douban.com/subject/6352828/	The Book of CSS3
+web	https://book.douban.com/subject/4760078/	Developer&#39;s Guide to Social Programming
+web	https://book.douban.com/subject/4743057/	JavaScript凌厉开发
+web	https://book.douban.com/subject/6725098/	Web Data Mining
+web	https://book.douban.com/subject/1362803/	Namo Webeditor5.5一看就懂.
+web	https://book.douban.com/subject/4734064/	HTML5
+web	https://book.douban.com/subject/6892312/	Designing for Emotion
+web	https://book.douban.com/subject/6975800/	PHP典型模块与项目实战大全
+web	https://book.douban.com/subject/2159712/	Ajax for Web Application Developers
+web	https://book.douban.com/subject/7006719/	这就是搜索引擎
+web	https://book.douban.com/subject/1863300/	Beginning XML with DOM and Ajax
+web	https://book.douban.com/subject/10344930/	社交网站的数据挖掘与分析
+web	https://book.douban.com/subject/2146392/	Dreamweaver CS3 Bible
+web	https://book.douban.com/subject/3675853/	21天学通Java Web开发
+web	https://book.douban.com/subject/2037837/	php|architect&#39;s Guide to PHP Security
+web	https://book.douban.com/subject/2228777/	PHP for the World Wide Web, Second Edition (Visual QuickStart Guide)
+web	https://book.douban.com/subject/1246628/	XML与WML整合应用
+web	https://book.douban.com/subject/2261182/	xHTML+CSS+Dreamweaver CS3标准网站构建实例详解
+web	https://book.douban.com/subject/2261183/	CSS精粹
+web	https://book.douban.com/subject/3649501/	JavaScript基础教程

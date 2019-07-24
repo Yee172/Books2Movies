@@ -1,0 +1,500 @@
+通信	https://book.douban.com/subject/2882919/	MIMO Wireless Communications
+通信	https://book.douban.com/subject/2881342/	The RF in RFID
+通信	https://book.douban.com/subject/2332160/	现代数字信号处理
+通信	https://book.douban.com/subject/2878105/	Resource Management in Satellite Networks
+通信	https://book.douban.com/subject/2881342/	The RF in RFID
+通信	https://book.douban.com/subject/2882919/	MIMO Wireless Communications
+通信	https://book.douban.com/subject/3081687/	IEC60870-5系列协议应用指南
+通信	https://book.douban.com/subject/1545403/	微机原理及应用
+通信	https://book.douban.com/subject/3062485/	第三代移动通信网络系统技术、应用及演进
+通信	https://book.douban.com/subject/3060999/	3G移动通信系统概述
+通信	https://book.douban.com/subject/3056711/	信息科学与电子工程专业英语
+通信	https://book.douban.com/subject/1553307/	图解B-ISDN宽带综合业务数字网
+通信	https://book.douban.com/subject/1577043/	移动通信
+通信	https://book.douban.com/subject/1591081/	电力系统光纤通信线路设计
+通信	https://book.douban.com/subject/3044128/	通信系统概论
+通信	https://book.douban.com/subject/3040972/	Signals and Systems
+通信	https://book.douban.com/subject/3038191/	通信软件设计基础
+通信	https://book.douban.com/subject/1610332/	Understanding and Deploying LDAP Directory Services
+通信	https://book.douban.com/subject/1648498/	Cisco IP路由
+通信	https://book.douban.com/subject/3020785/	Mentor高速电路板设计与仿真
+通信	https://book.douban.com/subject/3002266/	无线通信调制与编码
+通信	https://book.douban.com/subject/2983503/	信号与系统
+通信	https://book.douban.com/subject/2983503/	信号与系统
+通信	https://book.douban.com/subject/3002266/	无线通信调制与编码
+通信	https://book.douban.com/subject/3020785/	Mentor高速电路板设计与仿真
+通信	https://book.douban.com/subject/1545403/	微机原理及应用
+通信	https://book.douban.com/subject/3144272/	WCDMA for UMTS
+通信	https://book.douban.com/subject/3124506/	UMTS中的无线资源管理策略
+通信	https://book.douban.com/subject/3117614/	3GPP LTE无线链路关键技术
+通信	https://book.douban.com/subject/1553307/	图解B-ISDN宽带综合业务数字网
+通信	https://book.douban.com/subject/3099877/	数字图像处理
+通信	https://book.douban.com/subject/3081687/	IEC60870-5系列协议应用指南
+通信	https://book.douban.com/subject/1577043/	移动通信
+通信	https://book.douban.com/subject/3062485/	第三代移动通信网络系统技术、应用及演进
+通信	https://book.douban.com/subject/3060999/	3G移动通信系统概述
+通信	https://book.douban.com/subject/3056711/	信息科学与电子工程专业英语
+通信	https://book.douban.com/subject/1610332/	Understanding and Deploying LDAP Directory Services
+通信	https://book.douban.com/subject/3044128/	通信系统概论
+通信	https://book.douban.com/subject/3040972/	Signals and Systems
+通信	https://book.douban.com/subject/1631892/	电力线通信
+通信	https://book.douban.com/subject/3038191/	通信软件设计基础
+通信	https://book.douban.com/subject/1648498/	Cisco IP路由
+通信	https://book.douban.com/subject/3040972/	Signals and Systems
+通信	https://book.douban.com/subject/3044128/	通信系统概论
+通信	https://book.douban.com/subject/3144272/	WCDMA for UMTS
+通信	https://book.douban.com/subject/1591081/	电力系统光纤通信线路设计
+通信	https://book.douban.com/subject/3145773/	信息论基础
+通信	https://book.douban.com/subject/1577043/	移动通信
+通信	https://book.douban.com/subject/1553307/	图解B-ISDN宽带综合业务数字网
+通信	https://book.douban.com/subject/1545403/	微机原理及应用
+通信	https://book.douban.com/subject/1515019/	现代通信原理
+通信	https://book.douban.com/subject/1513560/	数字调制解调基础
+通信	https://book.douban.com/subject/3124506/	UMTS中的无线资源管理策略
+通信	https://book.douban.com/subject/3117614/	3GPP LTE无线链路关键技术
+通信	https://book.douban.com/subject/1648498/	Cisco IP路由
+通信	https://book.douban.com/subject/1631892/	电力线通信
+通信	https://book.douban.com/subject/3056711/	信息科学与电子工程专业英语
+通信	https://book.douban.com/subject/3060999/	3G移动通信系统概述
+通信	https://book.douban.com/subject/3062485/	第三代移动通信网络系统技术、应用及演进
+通信	https://book.douban.com/subject/1610332/	Understanding and Deploying LDAP Directory Services
+通信	https://book.douban.com/subject/3081687/	IEC60870-5系列协议应用指南
+通信	https://book.douban.com/subject/3099877/	数字图像处理
+通信	https://book.douban.com/subject/1240792/	Internet核心协议权威指南
+通信	https://book.douban.com/subject/2734531/	Routing, Flow, and Capacity Design in Communication and Computer Networks
+通信	https://book.douban.com/subject/2850461/	Practical Electrical Network Automation and Communication Systems
+通信	https://book.douban.com/subject/2851464/	Introduction to Data Communications and Networking
+通信	https://book.douban.com/subject/2855490/	History of Wireless
+通信	https://book.douban.com/subject/2861689/	Next Generation SDH/SONET
+通信	https://book.douban.com/subject/2863478/	Communication Systems
+通信	https://book.douban.com/subject/2869662/	Orthogonal Frequency Division Multiplexing for Wireless Communications (Signals and Communication Technology)
+通信	https://book.douban.com/subject/2696320/	qmail
+通信	https://book.douban.com/subject/2361621/	微型计算机原理与接口技术
+通信	https://book.douban.com/subject/2360707/	Telecommunications Essentials, Second Edition
+通信	https://book.douban.com/subject/2307238/	TD-SCDMA无线系统原理与实现
+通信	https://book.douban.com/subject/2309150/	DSPs原理及应用教程
+通信	https://book.douban.com/subject/2315936/	移动多媒体商务
+通信	https://book.douban.com/subject/1244478/	DSP原理及应用
+通信	https://book.douban.com/subject/2332160/	现代数字信号处理
+通信	https://book.douban.com/subject/1241339/	光纤通信用新型光无源器件
+通信	https://book.douban.com/subject/2348759/	语音与数据通信原理
+通信	https://book.douban.com/subject/2350920/	重复累积码及其在通信系统中的应用
+通信	https://book.douban.com/subject/2356843/	控制论
+通信	https://book.douban.com/subject/1513560/	数字调制解调基础
+通信	https://book.douban.com/subject/1509378/	计算机英语
+通信	https://book.douban.com/subject/1509202/	面向21世纪课程教材·电子技术基础
+通信	https://book.douban.com/subject/1508196/	中国信息产业“十五”发展规划（通信卷）
+通信	https://book.douban.com/subject/1507677/	信号、系统与信号处理(上)
+通信	https://book.douban.com/subject/1485380/	Multiuser Detection
+通信	https://book.douban.com/subject/1481150/	The IMS Second Edition
+通信	https://book.douban.com/subject/1458426/	Cisco LAN Switching (CCIE Professional Development series)
+通信	https://book.douban.com/subject/1448497/	信号检测与估计理论
+通信	https://book.douban.com/subject/1515019/	现代通信原理
+通信	https://book.douban.com/subject/1545403/	微机原理及应用
+通信	https://book.douban.com/subject/3099877/	数字图像处理
+通信	https://book.douban.com/subject/1610332/	Understanding and Deploying LDAP Directory Services
+通信	https://book.douban.com/subject/3117614/	3GPP LTE无线链路关键技术
+通信	https://book.douban.com/subject/3124506/	UMTS中的无线资源管理策略
+通信	https://book.douban.com/subject/3144272/	WCDMA for UMTS
+通信	https://book.douban.com/subject/3145773/	信息论基础
+通信	https://book.douban.com/subject/1591081/	电力系统光纤通信线路设计
+通信	https://book.douban.com/subject/1577043/	移动通信
+通信	https://book.douban.com/subject/1553307/	图解B-ISDN宽带综合业务数字网
+通信	https://book.douban.com/subject/2877324/	Sphere Packings, Lattices and Groups
+通信	https://book.douban.com/subject/2878105/	Resource Management in Satellite Networks
+通信	https://book.douban.com/subject/1239786/	数字信号处理
+通信	https://book.douban.com/subject/2881342/	The RF in RFID
+通信	https://book.douban.com/subject/2882919/	MIMO Wireless Communications
+通信	https://book.douban.com/subject/2983503/	信号与系统
+通信	https://book.douban.com/subject/1239741/	信号与系统解题指南
+通信	https://book.douban.com/subject/2861689/	Next Generation SDH/SONET
+通信	https://book.douban.com/subject/2855490/	History of Wireless
+通信	https://book.douban.com/subject/2851464/	Introduction to Data Communications and Networking
+通信	https://book.douban.com/subject/2348759/	语音与数据通信原理
+通信	https://book.douban.com/subject/2350920/	重复累积码及其在通信系统中的应用
+通信	https://book.douban.com/subject/2356843/	控制论
+通信	https://book.douban.com/subject/2360707/	Telecommunications Essentials, Second Edition
+通信	https://book.douban.com/subject/2361621/	微型计算机原理与接口技术
+通信	https://book.douban.com/subject/1241339/	光纤通信用新型光无源器件
+通信	https://book.douban.com/subject/2696320/	qmail
+通信	https://book.douban.com/subject/2697264/	Inside Cisco Ios Software Architecture
+通信	https://book.douban.com/subject/2734531/	Routing, Flow, and Capacity Design in Communication and Computer Networks
+通信	https://book.douban.com/subject/2850461/	Practical Electrical Network Automation and Communication Systems
+通信	https://book.douban.com/subject/1392467/	UMTS网络技术
+通信	https://book.douban.com/subject/1322721/	电路分析
+通信	https://book.douban.com/subject/1322332/	光同步传输网技术
+通信	https://book.douban.com/subject/1320857/	通信系统概论
+通信	https://book.douban.com/subject/1222979/	新编电信技术概论
+通信	https://book.douban.com/subject/1314485/	无线移动自组织网
+通信	https://book.douban.com/subject/1291917/	复变函数与积分变换
+通信	https://book.douban.com/subject/1434949/	信息通信网络技术
+通信	https://book.douban.com/subject/1446919/	无线通信系统仿真
+通信	https://book.douban.com/subject/1446929/	数字通信导论
+通信	https://book.douban.com/subject/1515019/	现代通信原理
+通信	https://book.douban.com/subject/1513560/	数字调制解调基础
+通信	https://book.douban.com/subject/1509378/	计算机英语
+通信	https://book.douban.com/subject/1509202/	面向21世纪课程教材·电子技术基础
+通信	https://book.douban.com/subject/1508196/	中国信息产业“十五”发展规划（通信卷）
+通信	https://book.douban.com/subject/1507677/	信号、系统与信号处理(上)
+通信	https://book.douban.com/subject/1485380/	Multiuser Detection
+通信	https://book.douban.com/subject/1481150/	The IMS Second Edition
+通信	https://book.douban.com/subject/1458426/	Cisco LAN Switching (CCIE Professional Development series)
+通信	https://book.douban.com/subject/1448497/	信号检测与估计理论
+通信	https://book.douban.com/subject/2851464/	Introduction to Data Communications and Networking
+通信	https://book.douban.com/subject/2855490/	History of Wireless
+通信	https://book.douban.com/subject/2861689/	Next Generation SDH/SONET
+通信	https://book.douban.com/subject/2863478/	Communication Systems
+通信	https://book.douban.com/subject/2869662/	Orthogonal Frequency Division Multiplexing for Wireless Communications (Signals and Communication Technology)
+通信	https://book.douban.com/subject/2360707/	Telecommunications Essentials, Second Edition
+通信	https://book.douban.com/subject/2356843/	控制论
+通信	https://book.douban.com/subject/2350920/	重复累积码及其在通信系统中的应用
+通信	https://book.douban.com/subject/2291945/	光纤通信系统 第2版
+通信	https://book.douban.com/subject/2294382/	Long Term Evolution
+通信	https://book.douban.com/subject/2299605/	SSH, The Secure Shell
+通信	https://book.douban.com/subject/2304729/	Protel 2004电路设计入门与应用
+通信	https://book.douban.com/subject/1231192/	现代通信系统分析与仿真
+通信	https://book.douban.com/subject/2307238/	TD-SCDMA无线系统原理与实现
+通信	https://book.douban.com/subject/2309150/	DSPs原理及应用教程
+通信	https://book.douban.com/subject/2315936/	移动多媒体商务
+通信	https://book.douban.com/subject/2332160/	现代数字信号处理
+通信	https://book.douban.com/subject/1231172/	数字通信
+通信	https://book.douban.com/subject/1231170/	网络与通信技术百科全书
+通信	https://book.douban.com/subject/2348759/	语音与数据通信原理
+通信	https://book.douban.com/subject/3145773/	信息论基础
+通信	https://book.douban.com/subject/1239425/	扩频通信数字基带信号处理算法及其VLSI实现
+通信	https://book.douban.com/subject/1239310/	网络对抗原理
+通信	https://book.douban.com/subject/1239277/	微型计算机原理与应用
+通信	https://book.douban.com/subject/1239240/	通信英语
+通信	https://book.douban.com/subject/3062485/	第三代移动通信网络系统技术、应用及演进
+通信	https://book.douban.com/subject/3060999/	3G移动通信系统概述
+通信	https://book.douban.com/subject/3056711/	信息科学与电子工程专业英语
+通信	https://book.douban.com/subject/2983503/	信号与系统
+通信	https://book.douban.com/subject/1244478/	DSP原理及应用
+通信	https://book.douban.com/subject/1241413/	信号与系统
+通信	https://book.douban.com/subject/3002266/	无线通信调制与编码
+通信	https://book.douban.com/subject/1241339/	光纤通信用新型光无源器件
+通信	https://book.douban.com/subject/3020785/	Mentor高速电路板设计与仿真
+通信	https://book.douban.com/subject/1240792/	Internet核心协议权威指南
+通信	https://book.douban.com/subject/3038191/	通信软件设计基础
+通信	https://book.douban.com/subject/1239786/	数字信号处理
+通信	https://book.douban.com/subject/3040972/	Signals and Systems
+通信	https://book.douban.com/subject/3044128/	通信系统概论
+通信	https://book.douban.com/subject/1239741/	信号与系统解题指南
+通信	https://book.douban.com/subject/1238043/	小波与傅里叶分析基础
+通信	https://book.douban.com/subject/1238042/	多媒体通信系统
+通信	https://book.douban.com/subject/1238029/	小波十讲
+通信	https://book.douban.com/subject/1237733/	数据通信技术
+通信	https://book.douban.com/subject/3124506/	UMTS中的无线资源管理策略
+通信	https://book.douban.com/subject/3117614/	3GPP LTE无线链路关键技术
+通信	https://book.douban.com/subject/3099877/	数字图像处理
+通信	https://book.douban.com/subject/1244478/	DSP原理及应用
+通信	https://book.douban.com/subject/3020785/	Mentor高速电路板设计与仿真
+通信	https://book.douban.com/subject/1241413/	信号与系统
+通信	https://book.douban.com/subject/1241339/	光纤通信用新型光无源器件
+通信	https://book.douban.com/subject/3038191/	通信软件设计基础
+通信	https://book.douban.com/subject/3040972/	Signals and Systems
+通信	https://book.douban.com/subject/3044128/	通信系统概论
+通信	https://book.douban.com/subject/1240792/	Internet核心协议权威指南
+通信	https://book.douban.com/subject/3056711/	信息科学与电子工程专业英语
+通信	https://book.douban.com/subject/3060999/	3G移动通信系统概述
+通信	https://book.douban.com/subject/3062485/	第三代移动通信网络系统技术、应用及演进
+通信	https://book.douban.com/subject/1239786/	数字信号处理
+通信	https://book.douban.com/subject/3081687/	IEC60870-5系列协议应用指南
+通信	https://book.douban.com/subject/3675446/	多采样率系统
+通信	https://book.douban.com/subject/1322332/	光同步传输网技术
+通信	https://book.douban.com/subject/3697899/	通信声学
+通信	https://book.douban.com/subject/1320857/	通信系统概论
+通信	https://book.douban.com/subject/3707913/	Computer Networking
+通信	https://book.douban.com/subject/3566122/	Encyclopedia of Communication Theory
+通信	https://book.douban.com/subject/3565185/	通信设备
+通信	https://book.douban.com/subject/1446919/	无线通信系统仿真
+通信	https://book.douban.com/subject/1229951/	Computer Networks
+通信	https://book.douban.com/subject/1434949/	信息通信网络技术
+通信	https://book.douban.com/subject/1434885/	TD-SCDMA移动通信系统
+通信	https://book.douban.com/subject/3386142/	Communication and Concurrency
+通信	https://book.douban.com/subject/3393263/	开关电源电路识图
+通信	https://book.douban.com/subject/1410422/	现代移动通信中的先进技术
+通信	https://book.douban.com/subject/1400481/	3G与固定视频业务的融合
+通信	https://book.douban.com/subject/3527512/	移动通信原理与技术
+通信	https://book.douban.com/subject/3533243/	通信网技术基础
+通信	https://book.douban.com/subject/3533252/	全国计算机等级考试教程
+通信	https://book.douban.com/subject/3544622/	网络信息论
+通信	https://book.douban.com/subject/3549621/	现代交换技术
+通信	https://book.douban.com/subject/1400481/	3G与固定视频业务的融合
+通信	https://book.douban.com/subject/1392467/	UMTS网络技术
+通信	https://book.douban.com/subject/3740125/	Information Theory And Reliable Communication. Solutions Manual  Robert G. Gallager
+通信	https://book.douban.com/subject/3748512/	单片机原理及接口技术
+通信	https://book.douban.com/subject/3572535/	无线IP网络中视频FGS编码与传输研究
+通信	https://book.douban.com/subject/3566122/	Encyclopedia of Communication Theory
+通信	https://book.douban.com/subject/3565185/	通信设备
+通信	https://book.douban.com/subject/3386142/	Communication and Concurrency
+通信	https://book.douban.com/subject/3393263/	开关电源电路识图
+通信	https://book.douban.com/subject/1458426/	Cisco LAN Switching (CCIE Professional Development series)
+通信	https://book.douban.com/subject/1230137/	小波变换与工程应用
+通信	https://book.douban.com/subject/1448497/	信号检测与估计理论
+通信	https://book.douban.com/subject/1446929/	数字通信导论
+通信	https://book.douban.com/subject/1446919/	无线通信系统仿真
+通信	https://book.douban.com/subject/3527512/	移动通信原理与技术
+通信	https://book.douban.com/subject/3533243/	通信网技术基础
+通信	https://book.douban.com/subject/3533252/	全国计算机等级考试教程
+通信	https://book.douban.com/subject/3544622/	网络信息论
+通信	https://book.douban.com/subject/1434949/	信息通信网络技术
+通信	https://book.douban.com/subject/3549621/	现代交换技术
+通信	https://book.douban.com/subject/2250471/	通信原理学习辅导与考研指导
+通信	https://book.douban.com/subject/2250326/	Intel汇编语言程序设计
+通信	https://book.douban.com/subject/2247191/	Digital Communications and Spread Spectrum Systems
+通信	https://book.douban.com/subject/2142453/	信仰与政治哲学
+通信	https://book.douban.com/subject/2150042/	WCDMA无线网络规划与优化
+通信	https://book.douban.com/subject/2150043/	TD-SCDMA无线网络设计与规划
+通信	https://book.douban.com/subject/2151838/	数字信号处理
+通信	https://book.douban.com/subject/2151942/	通信系统工程
+通信	https://book.douban.com/subject/2152328/	软交换与SIP实用技术
+通信	https://book.douban.com/subject/2161381/	3GPP核心网技术
+通信	https://book.douban.com/subject/2161748/	射频通信电路学习指导
+通信	https://book.douban.com/subject/2179126/	单片机原理及接口技术习题详解与实验指导
+通信	https://book.douban.com/subject/2213774/	Fiber-Optic Communication Systems
+通信	https://book.douban.com/subject/2221153/	现代通信工程设计
+通信	https://book.douban.com/subject/2221503/	移动无线数据新业务
+通信	https://book.douban.com/subject/2222641/	无线网状网原理与技术
+通信	https://book.douban.com/subject/2223721/	(理论与算法)无线网络中的资源配置Resource allocation in wireless networks
+通信	https://book.douban.com/subject/2234553/	通信电路原理学习指导书
+通信	https://book.douban.com/subject/2236640/	OPNET Modeler与网络仿真
+通信	https://book.douban.com/subject/2240174/	IPTV关键技术及应用
+通信	https://book.douban.com/subject/1227600/	通信系统
+通信	https://book.douban.com/subject/3124506/	UMTS中的无线资源管理策略
+通信	https://book.douban.com/subject/3117614/	3GPP LTE无线链路关键技术
+通信	https://book.douban.com/subject/2881342/	The RF in RFID
+通信	https://book.douban.com/subject/2882919/	MIMO Wireless Communications
+通信	https://book.douban.com/subject/2983503/	信号与系统
+通信	https://book.douban.com/subject/1232028/	光波导理论与技术
+通信	https://book.douban.com/subject/3002266/	无线通信调制与编码
+通信	https://book.douban.com/subject/3020785/	Mentor高速电路板设计与仿真
+通信	https://book.douban.com/subject/1231750/	数字图像处理
+通信	https://book.douban.com/subject/1231700/	数字调制与编码
+通信	https://book.douban.com/subject/3038191/	通信软件设计基础
+通信	https://book.douban.com/subject/1231689/	计算机电话系统
+通信	https://book.douban.com/subject/3040972/	Signals and Systems
+通信	https://book.douban.com/subject/3044128/	通信系统概论
+通信	https://book.douban.com/subject/3056711/	信息科学与电子工程专业英语
+通信	https://book.douban.com/subject/3060999/	3G移动通信系统概述
+通信	https://book.douban.com/subject/3062485/	第三代移动通信网络系统技术、应用及演进
+通信	https://book.douban.com/subject/3081687/	IEC60870-5系列协议应用指南
+通信	https://book.douban.com/subject/3099877/	数字图像处理
+通信	https://book.douban.com/subject/2294382/	Long Term Evolution
+通信	https://book.douban.com/subject/2234553/	通信电路原理学习指导书
+通信	https://book.douban.com/subject/2223721/	(理论与算法)无线网络中的资源配置Resource allocation in wireless networks
+通信	https://book.douban.com/subject/2222641/	无线网状网原理与技术
+通信	https://book.douban.com/subject/2221503/	移动无线数据新业务
+通信	https://book.douban.com/subject/2221153/	现代通信工程设计
+通信	https://book.douban.com/subject/2213774/	Fiber-Optic Communication Systems
+通信	https://book.douban.com/subject/2179126/	单片机原理及接口技术习题详解与实验指导
+通信	https://book.douban.com/subject/2161748/	射频通信电路学习指导
+通信	https://book.douban.com/subject/2236640/	OPNET Modeler与网络仿真
+通信	https://book.douban.com/subject/2240174/	IPTV关键技术及应用
+通信	https://book.douban.com/subject/2247191/	Digital Communications and Spread Spectrum Systems
+通信	https://book.douban.com/subject/2291945/	光纤通信系统 第2版
+通信	https://book.douban.com/subject/2286547/	Communication Technology
+通信	https://book.douban.com/subject/2284322/	Computer Networking
+通信	https://book.douban.com/subject/2283538/	数字图像处理
+通信	https://book.douban.com/subject/2274622/	移动通信
+通信	https://book.douban.com/subject/2261678/	下一代移动系统3G/B3G
+通信	https://book.douban.com/subject/2250471/	通信原理学习辅导与考研指导
+通信	https://book.douban.com/subject/2250326/	Intel汇编语言程序设计
+通信	https://book.douban.com/subject/2339888/	现代信号谱分析
+通信	https://book.douban.com/subject/3424090/	UMTS蜂窝系统的QoS与QoE管理
+通信	https://book.douban.com/subject/3998719/	LTE空中接口技术与性能
+通信	https://book.douban.com/subject/4050672/	网络编码理论与技术
+通信	https://book.douban.com/subject/1803083/	通信法
+通信	https://book.douban.com/subject/2173188/	财富的诞生
+通信	https://book.douban.com/subject/1806997/	宽带接入技术及应用
+通信	https://book.douban.com/subject/26301083/	大话核心网
+通信	https://book.douban.com/subject/4903978/	现代移动通信
+通信	https://book.douban.com/subject/3351565/	电子电气工程师必知必会
+通信	https://book.douban.com/subject/1884153/	无线电收音机及无线电路的设计与制作
+通信	https://book.douban.com/subject/2226921/	工程电路分析
+通信	https://book.douban.com/subject/4798355/	Understanding Digital Signal Processing
+通信	https://book.douban.com/subject/26915289/	WebRTC权威指南
+通信	https://book.douban.com/subject/1101520/	光纤通信技术
+通信	https://book.douban.com/subject/2303661/	Fundamentals of Communication Systems
+通信	https://book.douban.com/subject/26945442/	窄带物联网标准与关键技术
+通信	https://book.douban.com/subject/18605892/	现代信号谱分析
+通信	https://book.douban.com/subject/26974802/	深入浅出4G网络
+通信	https://book.douban.com/subject/30384391/	大规模MIMO系统原理与设计分析
+UCD	https://book.douban.com/subject/2157554/	赢在用户
+UCD	https://book.douban.com/subject/3670867/	UCD火花集
+UCD	https://book.douban.com/subject/3279105/	About Face 3 交互设计精髓
+UCD	https://book.douban.com/subject/6114207/	UCD火花集2
+UCD	https://book.douban.com/subject/1138771/	人本界面
+UCD	https://book.douban.com/subject/4818690/	用户体验面面观
+UCD	https://book.douban.com/subject/1907341/	The User Is Always Right
+UCD	https://book.douban.com/subject/3639503/	细节决定交互设计的成败
+UCD	https://book.douban.com/subject/5394309/	简约至上
+UCD	https://book.douban.com/subject/4076216/	锦绣蓝图
+UCD	https://book.douban.com/subject/2365393/	Designing Interfaces中文版
+UCD	https://book.douban.com/subject/1237583/	用户中心设计
+UCD	https://book.douban.com/subject/5914587/	启示录
+UCD	https://book.douban.com/subject/1314262/	情感化设计
+UCD	https://book.douban.com/subject/24868911/	惊奇UCD
+UCD	https://book.douban.com/subject/3821157/	Web界面设计
+UCD	https://book.douban.com/subject/4909176/	社交网站界面设计
+UCD	https://book.douban.com/subject/1288844/	设计心理学
+UCD	https://book.douban.com/subject/4009856/	用户体验度量
+UCD	https://book.douban.com/subject/1440921/	Paper Prototyping
+UCD	https://book.douban.com/subject/4723970/	人人都是产品经理
+UCD	https://book.douban.com/subject/1907341/	The User Is Always Right
+UCD	https://book.douban.com/subject/1428942/	The Elements of User Experience
+UCD	https://book.douban.com/subject/1392475/	软件观念革命
+UCD	https://book.douban.com/subject/4903260/	重塑用户体验
+UCD	https://book.douban.com/subject/2579849/	Letting Go of the Words
+UCD	https://book.douban.com/subject/1445543/	用户中心设计
+UCD	https://book.douban.com/subject/1185932/	可用性工程
+UCD	https://book.douban.com/subject/1162546/	面向使用的软件设计
+UCD	https://book.douban.com/subject/4736118/	结网
+UCD	https://book.douban.com/subject/3021037/	移动设备交互设计
+UCD	https://book.douban.com/subject/1793267/	Understanding Your Users
+UCD	https://book.douban.com/subject/4606471/	设计心理学
+UCD	https://book.douban.com/subject/3742366/	胜于言传
+UCD	https://book.douban.com/subject/3169342/	Web信息架构(第3版)
+UCD	https://book.douban.com/subject/6523997/	用户体验要素
+UCD	https://book.douban.com/subject/5376384/	结网
+UCD	https://book.douban.com/subject/5312371/	洞悉用户
+UCD	https://book.douban.com/subject/1440223/	Don&#39;t Make Me Think
+UCD	https://book.douban.com/subject/3323633/	写给大家看的设计书（第3版）
+UCD	https://book.douban.com/subject/1268619/	GUI设计禁忌
+UCD	https://book.douban.com/subject/26857698/	体验设计白书
+UCD	https://book.douban.com/subject/3419173/	信息架构学
+UCD	https://book.douban.com/subject/3263946/	GUI设计禁忌2.0
+UCD	https://book.douban.com/subject/3326182/	Measuring the User Experience
+UCD	https://book.douban.com/subject/2974299/	用户界面设计指南
+UCD	https://book.douban.com/subject/2079208/	Sketching User Experiences
+UCD	https://book.douban.com/subject/2020442/	About Face 3
+UCD	https://book.douban.com/subject/3787852/	Designing Social Interfaces
+UCD	https://book.douban.com/subject/3990626/	Handbook of Usability Testing
+UCD	https://book.douban.com/subject/20471302/	在你身边，为你设计
+UCD	https://book.douban.com/subject/1138771/	人本界面
+UCD	https://book.douban.com/subject/19934344/	交互设计沉思录
+UCD	https://book.douban.com/subject/1176933/	探索需求
+UCD	https://book.douban.com/subject/3870630/	Rocket Surgery Made Easy
+UCD	https://book.douban.com/subject/1087502/	Web可用性设计
+UCD	https://book.douban.com/subject/4926708/	网站设计解构
+UCD	https://book.douban.com/subject/1237890/	用户界面设计
+UCD	https://book.douban.com/subject/4745051/	Usability Testing and Research
+UCD	https://book.douban.com/subject/1229926/	交互设计
+UCD	https://book.douban.com/subject/1441404/	Designing Web Usability
+UCD	https://book.douban.com/subject/6792322/	认知与设计
+UCD	https://book.douban.com/subject/1485856/	Making Use
+UCD	https://book.douban.com/subject/1102237/	Software for Use(英文版)
+UCD	https://book.douban.com/subject/1313472/	About Face 2.0
+UCD	https://book.douban.com/subject/6404782/	Effective UI
+UCD	https://book.douban.com/subject/4926083/	妙手回春
+UCD	https://book.douban.com/subject/1216773/	Web数据挖掘:将客户数据转化为客户价值
+UCD	https://book.douban.com/subject/3948372/	网站交互设计模式
+UCD	https://book.douban.com/subject/3908071/	豆瓣，流行的秘密
+UCD	https://book.douban.com/subject/26719922/	随心所欲
+UCD	https://book.douban.com/subject/4766571/	见微知著-WEB用户体验解构
+UCD	https://book.douban.com/subject/1230451/	网站重构
+UCD	https://book.douban.com/subject/1147347/	改变心理学的40项研究
+UCD	https://book.douban.com/subject/25833190/	用户体验设计成功之道
+UCD	https://book.douban.com/subject/25817190/	设计之下
+UCD	https://book.douban.com/subject/2377110/	User-Centered Design Stories
+UCD	https://book.douban.com/subject/6864391/	触动人心
+UCD	https://book.douban.com/subject/2115239/	人机交互
+UCD	https://book.douban.com/subject/3075969/	网站重构
+UCD	https://book.douban.com/subject/2005474/	产品经理手册
+UCD	https://book.douban.com/subject/2152772/	网站优化
+UCD	https://book.douban.com/subject/10570294/	User Experience Innovation
+UCD	https://book.douban.com/subject/26142616/	用户体验多面手
+UCD	https://book.douban.com/subject/1967469/	User-Centered Web Design
+UCD	https://book.douban.com/subject/1937913/	无懈可击的Web设计
+UCD	https://book.douban.com/subject/1894206/	Designing Interactions
+UCD	https://book.douban.com/subject/1868081/	Designing for Interaction
+UCD	https://book.douban.com/subject/25915629/	破茧成蝶：用户体验设计师的成长之路
+UCD	https://book.douban.com/subject/4243770/	创新者的窘境
+UCD	https://book.douban.com/subject/3612030/	Ten Years of UserFriendly.Org
+UCD	https://book.douban.com/subject/19933548/	JavaScript编程精解
+UCD	https://book.douban.com/subject/4881989/	交互设计指南
+UCD	https://book.douban.com/subject/1143222/	创新的艺术
+UCD	https://book.douban.com/subject/19933455/	引人入胜
+UCD	https://book.douban.com/subject/4845129/	设计的法则
+UCD	https://book.douban.com/subject/1151436/	客户如何思考
+UCD	https://book.douban.com/subject/4719162/	高性能网站建设进阶指南
+UCD	https://book.douban.com/subject/19961110/	自然用户界面设计
+UCD	https://book.douban.com/subject/4719443/	Financial Economics
+UCD	https://book.douban.com/subject/6872932/	Communicating Design中文版:高效设计沟通之道(原书第2版)
+UCD	https://book.douban.com/subject/20281463/	众妙之门
+UCD	https://book.douban.com/subject/20381558/	移动应用UI设计模式
+UCD	https://book.douban.com/subject/6398078/	iPhone应用用户体验设计实战与案例
+UCD	https://book.douban.com/subject/1159373/	产品经理的第一本书
+UCD	https://book.douban.com/subject/12273989/	Start Your Business in 7 Days
+UCD	https://book.douban.com/subject/10829320/	网站蓝图
+UCD	https://book.douban.com/subject/10797189/	编写可读代码的艺术
+UCD	https://book.douban.com/subject/6414998/	精通Web Analytics 2.0
+UCD	https://book.douban.com/subject/6431093/	互联网创业前奏曲第二部
+UCD	https://book.douban.com/subject/6435579/	iPhone用户界面设计典型实例
+UCD	https://book.douban.com/subject/6439419/	潜移默化
+UCD	https://book.douban.com/subject/1082923/	别做正常的傻瓜
+UCD	https://book.douban.com/subject/6530187/	服务设计
+UCD	https://book.douban.com/subject/6750510/	设计心理学2
+UCD	https://book.douban.com/subject/6790576/	顾客为什么购买
+UCD	https://book.douban.com/subject/5351808/	众妙之门
+UCD	https://book.douban.com/subject/10344930/	社交网站的数据挖掘与分析
+UCD	https://book.douban.com/subject/10540744/	怦然心动
+UCD	https://book.douban.com/subject/10557282/	About Face 3：交互设计精髓
+UCD	https://book.douban.com/subject/4934629/	精益求精
+UCD	https://book.douban.com/subject/5290524/	微革命
+UCD	https://book.douban.com/subject/5290563/	网页设计创意书
+UCD	https://book.douban.com/subject/5319798/	搜索模式
+UCD	https://book.douban.com/subject/10769591/	神一样的产品经理
+UCD	https://book.douban.com/subject/1135754/	你的灯亮着吗?
+UCD	https://book.douban.com/subject/1101529/	人本界面
+UCD	https://book.douban.com/subject/5951504/	Web表单设计
+UCD	https://book.douban.com/subject/6024020/	关键设计报告
+UCD	https://book.douban.com/subject/6850199/	优使性
+UCD	https://book.douban.com/subject/1919072/	长尾理论
+UCD	https://book.douban.com/subject/2382100/	完美网页设计艺术
+UCD	https://book.douban.com/subject/1555793/	术士们熬夜的地方--互联网络传奇
+UCD	https://book.douban.com/subject/2781553/	Introduction to Econometrics
+UCD	https://book.douban.com/subject/2859269/	Designing with Video
+UCD	https://book.douban.com/subject/1541636/	生活体验研究
+UCD	https://book.douban.com/subject/3042031/	Web设计创新思维
+UCD	https://book.douban.com/subject/2128082/	创意的构想
+UCD	https://book.douban.com/subject/3117227/	质性资料的分析
+UCD	https://book.douban.com/subject/1484357/	Usability Engineering
+UCD	https://book.douban.com/subject/3132277/	高性能网站建设指南
+UCD	https://book.douban.com/subject/1481855/	Designing the User Interface
+UCD	https://book.douban.com/subject/3260737/	精通Web Analytics
+UCD	https://book.douban.com/subject/1669595/	Human-Computer Interface Design人机界面设计
+UCD	https://book.douban.com/subject/1676271/	大众媒介研究导论
+UCD	https://book.douban.com/subject/1737592/	Web设计禁忌
+UCD	https://book.douban.com/subject/1922035/	Designing the Obvious
+UCD	https://book.douban.com/subject/1968938/	The Design of Sites
+UCD	https://book.douban.com/subject/1997584/	Rapid Contextual Design
+UCD	https://book.douban.com/subject/1862776/	心理学改变生活
+UCD	https://book.douban.com/subject/1830172/	The Laws of Simplicity
+UCD	https://book.douban.com/subject/2052176/	CSS禅意花园
+UCD	https://book.douban.com/subject/1828657/	A Pattern Approach to Interaction Design
+UCD	https://book.douban.com/subject/2084128/	The Myths of Innovation
+UCD	https://book.douban.com/subject/1768152/	达·芬奇的便携式电脑
+UCD	https://book.douban.com/subject/2244920/	The Design of Future Things
+UCD	https://book.douban.com/subject/2247738/	软件项目管理理论与案例分析
+UCD	https://book.douban.com/subject/2262838/	好用型设计
+UCD	https://book.douban.com/subject/1478928/	Designing Visual Interfaces
+UCD	https://book.douban.com/subject/1473323/	引爆点
+UCD	https://book.douban.com/subject/3802046/	Inspired
+UCD	https://book.douban.com/subject/2013459/	认知心理学
+UCD	https://book.douban.com/subject/3861583/	Essentials of Accounting
+UCD	https://book.douban.com/subject/1336091/	工业产品造型设计
+UCD	https://book.douban.com/subject/1315168/	原始分类
+UCD	https://book.douban.com/subject/27050614/	贴心的设计
+UCD	https://book.douban.com/subject/4030551/	The Presentation Secrets of Steve Jobs
+UCD	https://book.douban.com/subject/4031899/	一线架构师实践指南
+UCD	https://book.douban.com/subject/1246807/	Web软件用户界面设计指南
+UCD	https://book.douban.com/subject/1241065/	人机界面设计
+UCD	https://book.douban.com/subject/4149893/	每天懂一点好玩心理学
+UCD	https://book.douban.com/subject/4189515/	产品设计的消费者分析
+UCD	https://book.douban.com/subject/1352449/	劇本導引SCENARIO-ORIENTED DESIGN資訊代產品與服務設計新法
+UCD	https://book.douban.com/subject/3786755/	每天懂一点色彩心理学
+UCD	https://book.douban.com/subject/3735295/	未来是湿的
+UCD	https://book.douban.com/subject/3313897/	Web导航设计
+UCD	https://book.douban.com/subject/1463363/	Handbook of Human Factors and Ergonomics
+UCD	https://book.douban.com/subject/1444838/	最佳设计100细则

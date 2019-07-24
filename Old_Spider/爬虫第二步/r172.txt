@@ -1,0 +1,500 @@
+数学	https://book.douban.com/subject/25805152/	算法谜题
+数学	https://book.douban.com/subject/26984810/	概率论导论（英文影印中文导读版）
+数学	https://book.douban.com/subject/1646981/	数学与联想
+数学	https://book.douban.com/subject/30671254/	平面国
+数学	https://book.douban.com/subject/2990527/	数学与人类文明
+数学	https://book.douban.com/subject/3596754/	Introduction to Probability, 2nd Edition
+数学	https://book.douban.com/subject/25854430/	逻辑基础(修订版)
+数学	https://book.douban.com/subject/27075047/	从代数基本定理到超越数
+数学	https://book.douban.com/subject/1160617/	从微积分到上同调 (平装)
+数学	https://book.douban.com/subject/1999382/	高等代数
+数学	https://book.douban.com/subject/2867761/	Analysis I
+数学	https://book.douban.com/subject/27165237/	人脑如何学数学
+数学	https://book.douban.com/subject/4219448/	The Mathematical Theory of Finite Element Methods 3e
+数学	https://book.douban.com/subject/25812065/	实分析中的反例
+数学	https://book.douban.com/subject/4899412/	数学真好玩
+数学	https://book.douban.com/subject/1008227/	数学家的眼光
+数学	https://book.douban.com/subject/6893674/	群表示论
+数学	https://book.douban.com/subject/1000067/	美丽心灵
+数学	https://book.douban.com/subject/1106575/	数学思想史
+数学	https://book.douban.com/subject/1230275/	数学分析习题课讲义（上册）
+数学	https://book.douban.com/subject/4907691/	SPSS其实很简单
+数学	https://book.douban.com/subject/2253492/	证明与反驳
+数学	https://book.douban.com/subject/27615932/	数学家的艺术生活
+数学	https://book.douban.com/subject/1008319/	漫话数学
+数学	https://book.douban.com/subject/3515084/	莫斯科智力游戏
+数学	https://book.douban.com/subject/1237711/	整数与多项式
+数学	https://book.douban.com/subject/30401253/	Topology and Physics
+数学	https://book.douban.com/subject/3564282/	Introductory Combinatorics
+数学	https://book.douban.com/subject/5241269/	二十世纪数学哲学
+数学	https://book.douban.com/subject/4842265/	勾股定理
+数学	https://book.douban.com/subject/26854225/	趣味学数学
+数学	https://book.douban.com/subject/1254232/	数学营养菜
+数学	https://book.douban.com/subject/5260148/	心里有数的人生
+数学	https://book.douban.com/subject/4010133/	漫画微积分
+数学	https://book.douban.com/subject/1131428/	经济数学方法与模型
+数学	https://book.douban.com/subject/3164999/	数学文化
+数学	https://book.douban.com/subject/2122670/	如何培养学生的数感
+数学	https://book.douban.com/subject/2196428/	代数几何原理
+数学	https://book.douban.com/subject/10797226/	数值分析
+数学	https://book.douban.com/subject/3425284/	The Red Book of Varieties and Schemes
+数学	https://book.douban.com/subject/6751241/	同伦方法纵横谈
+数学	https://book.douban.com/subject/30221328/	完美博弈
+数学	https://book.douban.com/subject/1238043/	小波与傅里叶分析基础
+数学	https://book.douban.com/subject/1262630/	博弈论与信息经济学
+数学	https://book.douban.com/subject/25896013/	白话统计学
+数学	https://book.douban.com/subject/24380499/	协同学
+数学	https://book.douban.com/subject/5063766/	大学生数学竞赛习题精讲
+数学	https://book.douban.com/subject/3204188/	Calculus, 4th edition
+数学	https://book.douban.com/subject/1016958/	计算出人意料
+数学	https://book.douban.com/subject/2270743/	我的第一本数学书
+数学	https://book.douban.com/subject/1967264/	工程控制论
+数学	https://book.douban.com/subject/27075745/	数学颂
+数学	https://book.douban.com/subject/4244668/	神奇的符号
+数学	https://book.douban.com/subject/1025218/	初中数学解题技巧
+数学	https://book.douban.com/subject/1320174/	信息论基础
+数学	https://book.douban.com/subject/1680659/	数学八年级上册
+数学	https://book.douban.com/subject/1312041/	连续时间金融
+数学	https://book.douban.com/subject/1230125/	泛函分析
+数学	https://book.douban.com/subject/1230127/	复分析
+数学	https://book.douban.com/subject/2128777/	线性代数及其应用
+数学	https://book.douban.com/subject/26838345/	深入理解机器学习：从原理到算法
+数学	https://book.douban.com/subject/1230154/	统计学
+数学	https://book.douban.com/subject/1959247/	时间序列分析
+数学	https://book.douban.com/subject/30246247/	奇妙数学史 数字与生活
+数学	https://book.douban.com/subject/4900209/	Probability And Statistics: The Science Of Uncertainty
+数学	https://book.douban.com/subject/1451390/	Time Series Analysis
+数学	https://book.douban.com/subject/1615234/	数学百科全书第一卷
+数学	https://book.douban.com/subject/1820047/	黎曼博士的零点
+数学	https://book.douban.com/subject/1230257/	数学分析中的典型问题与方法
+数学	https://book.douban.com/subject/27067843/	折纸设计的秘密 折纸模型中的数学世界
+数学	https://book.douban.com/subject/26609097/	组合数学
+数学	https://book.douban.com/subject/6981074/	数数看
+数学	https://book.douban.com/subject/1230294/	发生函数论
+数学	https://book.douban.com/subject/4275110/	实变函数论与泛函分析
+数学	https://book.douban.com/subject/1230310/	代数学引论(第二版)
+数学	https://book.douban.com/subject/1230332/	数学机械化
+数学	https://book.douban.com/subject/26762154/	数学奇观
+数学	https://book.douban.com/subject/2108334/	线性代数辅导讲义
+数学	https://book.douban.com/subject/3925593/	一线串通的初等数学
+数学	https://book.douban.com/subject/3638826/	Numerical Linear Algebra
+数学	https://book.douban.com/subject/1230382/	基础拓扑学讲义
+数学	https://book.douban.com/subject/4572769/	Philosophy of Mathematics
+数学	https://book.douban.com/subject/1222244/	数学（第三卷）
+数学	https://book.douban.com/subject/2139767/	科学的价值
+数学	https://book.douban.com/subject/30295711/	数据思维实践
+数学	https://book.douban.com/subject/2148000/	Galois Theory
+数学	https://book.douban.com/subject/6514348/	毛起來說e
+数学	https://book.douban.com/subject/1230523/	泛函分析
+数学	https://book.douban.com/subject/10520265/	数学证明之美
+数学	https://book.douban.com/subject/1074899/	矩阵分析
+数学	https://book.douban.com/subject/3180280/	高等代数学习指南
+数学	https://book.douban.com/subject/2328335/	Differential Forms in Algebraic Topology
+数学	https://book.douban.com/subject/3049237/	数学
+数学	https://book.douban.com/subject/3098404/	Partial Differential Equations
+数学	https://book.douban.com/subject/3032889/	算得快
+数学	https://book.douban.com/subject/25970531/	数学写真集（第2季）
+数学	https://book.douban.com/subject/1165179/	数学分析教程（上册）
+数学	https://book.douban.com/subject/26986379/	Introduction to Logic
+数学	https://book.douban.com/subject/1435534/	矩阵分析
+数学	https://book.douban.com/subject/20383645/	复杂适应系统
+数学	https://book.douban.com/subject/7047107/	群和它的图象表示
+数学	https://book.douban.com/subject/2176676/	微积分概念发展史
+数学	https://book.douban.com/subject/26871793/	概率统治世界
+数学	https://book.douban.com/subject/20365664/	大夏书系 简单教数学
+数学	https://book.douban.com/subject/30296131/	数学的故事
+数学	https://book.douban.com/subject/5974094/	几何与拓扑的概念导引
+数学	https://book.douban.com/subject/1280094/	函数在你身边
+数学	https://book.douban.com/subject/24381562/	统计思维：程序员数学之概率统计
+数学	https://book.douban.com/subject/4819068/	黎曼几何学 正交标架法
+数学	https://book.douban.com/subject/1468622/	A New Kind of Science
+数学	https://book.douban.com/subject/26863824/	数值方法：设计、分析和算法实现
+数学	https://book.douban.com/subject/3180766/	交换代数
+数学	https://book.douban.com/subject/1763557/	Conformal Field Theory and Topology
+数学	https://book.douban.com/subject/1231087/	数学分析
+数学	https://book.douban.com/subject/1894641/	科学与假设
+数学	https://book.douban.com/subject/3934461/	数学
+数学	https://book.douban.com/subject/1157377/	动态最优化基础
+数学	https://book.douban.com/subject/5417227/	最后的消遣
+数学	https://book.douban.com/subject/1231135/	高等代数学（第2版）
+数学	https://book.douban.com/subject/1763633/	Learning with Kernels
+数学	https://book.douban.com/subject/1239346/	现代数学物理方法（第2卷）
+数学	https://book.douban.com/subject/1231155/	微分几何讲义
+数学	https://book.douban.com/subject/27126084/	计数之乐
+数学	https://book.douban.com/subject/1239375/	分析中的问题与定理（第1卷）
+数学	https://book.douban.com/subject/1239377/	基础代数几何（第1卷）
+数学	https://book.douban.com/subject/1239379/	现代数学物理方法（第3卷）
+数学	https://book.douban.com/subject/1231189/	概率论与数理统计
+数学	https://book.douban.com/subject/1239382/	现代数学物理方法（第1卷）
+数学	https://book.douban.com/subject/2874428/	Algebraic Number Theory
+数学	https://book.douban.com/subject/11610490/	数学与人类文明
+数学	https://book.douban.com/subject/1231244/	线性代数导论
+数学	https://book.douban.com/subject/26323362/	你一定爱读的极简统计学
+数学	https://book.douban.com/subject/25807272/	Measurement
+数学	https://book.douban.com/subject/2236899/	图论导引
+数学	https://book.douban.com/subject/6785460/	数字是靠不住的
+数学	https://book.douban.com/subject/1231286/	离散数学导学
+数学	https://book.douban.com/subject/6097348/	罗素的故事
+数学	https://book.douban.com/subject/26896839/	无限房间
+数学	https://book.douban.com/subject/24316364/	统计学
+数学	https://book.douban.com/subject/1141201/	信息论基础
+数学	https://book.douban.com/subject/2173399/	Numerical Recipes 3rd Edition
+数学	https://book.douban.com/subject/1436134/	算法引论
+数学	https://book.douban.com/subject/3155710/	算法概论
+数学	https://book.douban.com/subject/6539788/	元数学导论（上）
+数学	https://book.douban.com/subject/1674329/	高等微积分
+数学	https://book.douban.com/subject/26429992/	The Little Prover
+数学	https://book.douban.com/subject/26184242/	无穷的开始
+数学	https://book.douban.com/subject/1010232/	萨姆·劳埃德的数学趣题
+数学	https://book.douban.com/subject/4867855/	组合数学引论
+数学	https://book.douban.com/subject/30214805/	Introduction to Applied Linear Algebra
+数学	https://book.douban.com/subject/3934433/	数学
+数学	https://book.douban.com/subject/11537079/	Understanding Numbers in Elementary School Mathematics
+数学	https://book.douban.com/subject/1190595/	微积分
+数学	https://book.douban.com/subject/1424508/	The Fractal Geometry of Nature
+数学	https://book.douban.com/subject/10558598/	无穷小计算
+数学	https://book.douban.com/subject/11610921/	金融时间序列分析
+数学	https://book.douban.com/subject/26389290/	如何计出胜算 How to Figure the odds
+数学	https://book.douban.com/subject/2878317/	Mirror Symmetry
+数学	https://book.douban.com/subject/1551510/	近代欧氏几何学
+数学	https://book.douban.com/subject/2223004/	Secrets of Mental Math
+数学	https://book.douban.com/subject/1625008/	20世纪数学经纬
+数学	https://book.douban.com/subject/5385161/	史丰收速算法
+数学	https://book.douban.com/subject/26274850/	从求解多项式方程到阿贝尔不可能性定理
+数学	https://book.douban.com/subject/1838129/	数学分析讲义
+数学	https://book.douban.com/subject/26434657/	妈妈教的数学
+数学	https://book.douban.com/subject/21335109/	直观几何（下册）
+数学	https://book.douban.com/subject/27096933/	来自德国的数学盛宴
+数学	https://book.douban.com/subject/1231982/	身边的数学
+数学	https://book.douban.com/subject/4934847/	递归论导论
+数学	https://book.douban.com/subject/1707159/	微分几何与拓扑学简明教程
+数学	https://book.douban.com/subject/2133183/	突变论
+数学	https://book.douban.com/subject/3034327/	复分析导论
+数学	https://book.douban.com/subject/5401825/	应用线性回归模型
+数学	https://book.douban.com/subject/1674486/	管理运筹学
+数学	https://book.douban.com/subject/26856696/	上帝掷骰子吗?
+数学	https://book.douban.com/subject/1623167/	微分几何讲义
+数学	https://book.douban.com/subject/27012364/	数学万花筒2（修订版）
+数学	https://book.douban.com/subject/6828678/	数学建模算法与应用
+数学	https://book.douban.com/subject/1953108/	分析学
+数学	https://book.douban.com/subject/1543523/	拓扑实验
+数学	https://book.douban.com/subject/2157943/	Introduction to Linear Optimization
+数学	https://book.douban.com/subject/1947542/	这本书叫什么？
+数学	https://book.douban.com/subject/2862541/	Strang&#39;s Linear Algebra And Its Applications
+数学	https://book.douban.com/subject/24817131/	Math, Better Explained
+数学	https://book.douban.com/subject/25882201/	From Mathematics to Generic Programming
+数学	https://book.douban.com/subject/1789534/	Information Theory, Inference and Learning Algorithms
+数学	https://book.douban.com/subject/1904233/	Calculus
+数学	https://book.douban.com/subject/1548928/	数学珍宝
+数学	https://book.douban.com/subject/1478252/	Introductory Functional Analysis with Applications
+数学	https://book.douban.com/subject/6750826/	数学分析
+数学	https://book.douban.com/subject/20393616/	周髀算经译注
+数学	https://book.douban.com/subject/4107941/	Proofs from THE BOOK
+数学	https://book.douban.com/subject/4584049/	数学分析（第二册）
+数学	https://book.douban.com/subject/1027753/	数学花园漫游记
+数学	https://book.douban.com/subject/4714168/	All of Statistics
+数学	https://book.douban.com/subject/1183422/	物理学家用微分几何
+数学	https://book.douban.com/subject/1699539/	科学计算导论
+数学	https://book.douban.com/subject/4132590/	我就是数学
+数学	https://book.douban.com/subject/6811384/	史上最强脑力操
+数学	https://book.douban.com/subject/2215695/	变分法基础
+数学	https://book.douban.com/subject/1797910/	Probability with Martingales
+数学	https://book.douban.com/subject/1003301/	帮你学数学
+数学	https://book.douban.com/subject/27193132/	现代数学基础丛书（典藏版 第1辑 套装共50册）
+数学	https://book.douban.com/subject/1069704/	我要作数学家
+数学	https://book.douban.com/subject/26378900/	数学史
+数学	https://book.douban.com/subject/30396350/	未解之谜（上）
+数学	https://book.douban.com/subject/1724359/	流形上的微积分(双语版)
+数学	https://book.douban.com/subject/24760269/	The Outer Limits of Reason
+数学	https://book.douban.com/subject/1486824/	纪念陈省身先生文集
+数学	https://book.douban.com/subject/2985995/	爱上统计学
+数学	https://book.douban.com/subject/4722720/	拓扑学基础及应用
+数学	https://book.douban.com/subject/10580010/	Numerical Analysis
+数学	https://book.douban.com/subject/1962085/	Evolutionary Dynamics
+数学	https://book.douban.com/subject/6893675/	陈省身文选
+数学	https://book.douban.com/subject/2977910/	代数学引论(第三卷)基本结构(第2版)
+数学	https://book.douban.com/subject/2175108/	金融衍生工具数学导论
+数学	https://book.douban.com/subject/24744093/	数学经验
+数学	https://book.douban.com/subject/4010145/	漫画统计学之因子分析
+数学	https://book.douban.com/subject/3084452/	无法解出的方程
+数学	https://book.douban.com/subject/26857653/	Practical Statistics for Data Scientists
+数学	https://book.douban.com/subject/6508744/	数理统计与数据分析
+数学	https://book.douban.com/subject/26857681/	数学哲学
+数学	https://book.douban.com/subject/2330837/	Partial Differential Equations
+数学	https://book.douban.com/subject/25735387/	数学的故事
+数学	https://book.douban.com/subject/1667306/	数学史通论(第2版.翻译版)
+数学	https://book.douban.com/subject/5959958/	数学模型
+数学	https://book.douban.com/subject/3117362/	复几何;微分几何;低维几何;非交换几何
+数学	https://book.douban.com/subject/4247880/	周易的数学原理
+数学	https://book.douban.com/subject/2994505/	定性与半定量物理学
+数学	https://book.douban.com/subject/26022218/	高等线性代数学
+数学	https://book.douban.com/subject/27105338/	Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis
+数学	https://book.douban.com/subject/1888624/	上帝掷骰子吗-混沌之数学
+数学	https://book.douban.com/subject/2871704/	Companion to Concrete Mathematics
+数学	https://book.douban.com/subject/30462364/	常青藤爸爸对话特级教师书系：每个孩子都能学好数学
+数学	https://book.douban.com/subject/2216354/	结构稳定性与形态发生学
+数学	https://book.douban.com/subject/25933896/	微积分(上·第7版·影印版)
+数学	https://book.douban.com/subject/2249166/	Random Matrices, Volume 142, Third Edition (Pure and Applied Mathematics)
+数学	https://book.douban.com/subject/3076569/	啊哈！原来如此
+数学	https://book.douban.com/subject/2347503/	概率论及其应用
+数学	https://book.douban.com/subject/10564080/	不等式
+数学	https://book.douban.com/subject/10506740/	神经科学中的数学
+数学	https://book.douban.com/subject/3715575/	什么是数学
+数学	https://book.douban.com/subject/2667007/	Visualizing Quaternions (The Morgan Kaufmann Series in Interactive 3D Technology)
+数学	https://book.douban.com/subject/3117577/	无序系统;动力系统
+数学	https://book.douban.com/subject/1921554/	Functional Analysis (Pure and Applied Mathematics
+数学	https://book.douban.com/subject/1765938/	Algorithms on Strings, Trees and Sequences
+数学	https://book.douban.com/subject/26989133/	数学基本思想18讲
+数学	https://book.douban.com/subject/6730325/	高等微积分（第3版修订版）
+数学	https://book.douban.com/subject/3045502/	诗魂数学家的沉思
+数学	https://book.douban.com/subject/1209006/	实变函数论
+数学	https://book.douban.com/subject/30192338/	同步
+数学	https://book.douban.com/subject/25703135/	无穷分析引论(上)
+数学	https://book.douban.com/subject/11580128/	The Signal and the Noise
+数学	https://book.douban.com/subject/3797737/	简明复分析
+数学	https://book.douban.com/subject/2249489/	Partial Differential Equations with Numerical Methods (Texts in Applied Mathematics)
+数学	https://book.douban.com/subject/1127190/	数理经济学的基本方法
+数学	https://book.douban.com/subject/2249519/	Elements of Set Theory
+数学	https://book.douban.com/subject/1561399/	中国数学史大系
+数学	https://book.douban.com/subject/3691323/	图论及其应用
+数学	https://book.douban.com/subject/25940820/	拓扑群引论（第二版）
+数学	https://book.douban.com/subject/26317662/	数据库系统概论（第5版）
+数学	https://book.douban.com/subject/2298729/	Calculus Early Transcendentals 5th Ed with CD (Calculus Early Transcendentals 5e (CD included))
+数学	https://book.douban.com/subject/6826132/	数学4
+数学	https://book.douban.com/subject/3691386/	用计算的观点看世界
+数学	https://book.douban.com/subject/1504222/	中学教材全解.八年级数学.下
+数学	https://book.douban.com/subject/24753130/	数学帮帮忙
+数学	https://book.douban.com/subject/4068358/	微分方程
+数学	https://book.douban.com/subject/2143249/	The Finite Element Method
+数学	https://book.douban.com/subject/1651750/	Stochastic Calculus for Finance I
+数学	https://book.douban.com/subject/26293339/	代数(原书第2版)
+数学	https://book.douban.com/subject/2880610/	An Introduction to the Theory of Numbers
+数学	https://book.douban.com/subject/4871292/	计算机与人脑
+中国历史	https://book.douban.com/subject/1873231/	明朝那些事儿（壹）
+中国历史	https://book.douban.com/subject/1041482/	万历十五年
+中国历史	https://book.douban.com/subject/3674537/	明朝那些事儿（1-9）
+中国历史	https://book.douban.com/subject/1003479/	中国历代政治得失
+中国历史	https://book.douban.com/subject/30414743/	显微镜下的大明
+中国历史	https://book.douban.com/subject/3239549/	夹边沟记事
+中国历史	https://book.douban.com/subject/10758290/	东晋门阀政治
+中国历史	https://book.douban.com/subject/1015699/	中国大历史
+中国历史	https://book.douban.com/subject/1675478/	天朝的崩溃
+中国历史	https://book.douban.com/subject/26602453/	战国歧途
+中国历史	https://book.douban.com/subject/1046492/	國史大綱（上下）
+中国历史	https://book.douban.com/subject/1025723/	潜规则
+中国历史	https://book.douban.com/subject/30206117/	半小时漫画中国史2
+中国历史	https://book.douban.com/subject/10471333/	叫魂
+中国历史	https://book.douban.com/subject/20473505/	山月记
+中国历史	https://book.douban.com/subject/1077847/	史记（全十册）
+中国历史	https://book.douban.com/subject/25893465/	万历十五年
+中国历史	https://book.douban.com/subject/10434849/	中国历代政治得失
+中国历史	https://book.douban.com/subject/20424526/	邓小平时代
+中国历史	https://book.douban.com/subject/2029680/	资治通鉴
+中国历史	https://book.douban.com/subject/2032141/	陈寅恪魏晋南北朝史讲演录
+中国历史	https://book.douban.com/subject/20440053/	南京大屠杀
+中国历史	https://book.douban.com/subject/7000811/	国史大纲（上下新校本）
+中国历史	https://book.douban.com/subject/2376486/	中国近代史
+中国历史	https://book.douban.com/subject/3079029/	大秦帝国
+中国历史	https://book.douban.com/subject/32567709/	五四的另一面
+中国历史	https://book.douban.com/subject/11229072/	中国历代政治得失
+中国历史	https://book.douban.com/subject/27007549/	中央帝国的财政密码
+中国历史	https://book.douban.com/subject/1858410/	万历十五年
+中国历史	https://book.douban.com/subject/2052448/	明朝那些事儿（叁）
+中国历史	https://book.douban.com/subject/30132713/	讲给大家的中国历史01
+中国历史	https://book.douban.com/subject/26418524/	万历十五年
+中国历史	https://book.douban.com/subject/1949338/	明朝那些事儿（贰）
+中国历史	https://book.douban.com/subject/1463256/	大明王朝的七张面孔
+中国历史	https://book.douban.com/subject/6533042/	南明史
+中国历史	https://book.douban.com/subject/1006560/	血酬定律
+中国历史	https://book.douban.com/subject/25844017/	讲谈社·中国的历史（十卷本）
+中国历史	https://book.douban.com/subject/26847586/	哈佛中国史（全六卷）
+中国历史	https://book.douban.com/subject/1981042/	万历十五年（增订本）
+中国历史	https://book.douban.com/subject/26377063/	魏晋之际的政治权力与家族网络
+中国历史	https://book.douban.com/subject/2253642/	明朝那些事儿（肆）
+中国历史	https://book.douban.com/subject/10740958/	剑桥中国史（全十册）
+中国历史	https://book.douban.com/subject/3009821/	明朝那些事儿（伍）
+中国历史	https://book.douban.com/subject/11636077/	饥饿的盛世
+中国历史	https://book.douban.com/subject/3183094/	许倬云观世变
+中国历史	https://book.douban.com/subject/3274113/	明朝那些事儿（陆）
+中国历史	https://book.douban.com/subject/1476213/	中國近代史（上冊）
+中国历史	https://book.douban.com/subject/25912076/	叫魂
+中国历史	https://book.douban.com/subject/27591495/	万古江河
+中国历史	https://book.douban.com/subject/7163250/	明朝那些事儿
+中国历史	https://book.douban.com/subject/1012929/	二十四史
+中国历史	https://book.douban.com/subject/3746915/	资治通鉴
+中国历史	https://book.douban.com/subject/30232294/	半小时漫画中国史3
+中国历史	https://book.douban.com/subject/1926289/	三国志
+中国历史	https://book.douban.com/subject/1836555/	史记
+中国历史	https://book.douban.com/subject/26742784/	饥饿的盛世
+中国历史	https://book.douban.com/subject/1037060/	曾国藩（上中下）
+中国历史	https://book.douban.com/subject/5906321/	开放中的变迁
+中国历史	https://book.douban.com/subject/25938605/	天国之秋
+中国历史	https://book.douban.com/subject/3626924/	明朝那些事儿（柒）
+中国历史	https://book.douban.com/subject/1491537/	近代中国社会的新陈代谢
+中国历史	https://book.douban.com/subject/33436921/	战国歧途
+中国历史	https://book.douban.com/subject/20389202/	唐朝穿越指南
+中国历史	https://book.douban.com/subject/25914783/	你好小朋友
+中国历史	https://book.douban.com/subject/3009401/	中國通史
+中国历史	https://book.douban.com/subject/2040853/	紫禁城的黄昏
+中国历史	https://book.douban.com/subject/10769906/	中国历史通论
+中国历史	https://book.douban.com/subject/25819260/	易中天中华史
+中国历史	https://book.douban.com/subject/33454876/	中央帝国的军事密码
+中国历史	https://book.douban.com/subject/1060025/	中国近代史
+中国历史	https://book.douban.com/subject/1013253/	细说宋朝
+中国历史	https://book.douban.com/subject/1191433/	我的前半生
+中国历史	https://book.douban.com/subject/30486966/	孔子大历史
+中国历史	https://book.douban.com/subject/5906312/	兴盛与危机
+中国历史	https://book.douban.com/subject/3432401/	苦难辉煌
+中国历史	https://book.douban.com/subject/10797092/	蒋介石与现代中国
+中国历史	https://book.douban.com/subject/26603137/	危机与重构
+中国历史	https://book.douban.com/subject/1055304/	中国历史地图集（全八册）
+中国历史	https://book.douban.com/subject/6311230/	秦汉魏晋史探微
+中国历史	https://book.douban.com/subject/24859453/	这个历史挺靠谱
+中国历史	https://book.douban.com/subject/3707886/	中国通史
+中国历史	https://book.douban.com/subject/25935941/	天朝的崩溃（修订版）
+中国历史	https://book.douban.com/subject/1008176/	魏晋南北朝史
+中国历史	https://book.douban.com/subject/10472702/	重说中国近代史
+中国历史	https://book.douban.com/subject/26803736/	国史大纲
+中国历史	https://book.douban.com/subject/3409620/	东周列国志
+中国历史	https://book.douban.com/subject/1107841/	战国策
+中国历史	https://book.douban.com/subject/30306978/	讲给大家的中国历史02
+中国历史	https://book.douban.com/subject/30431051/	大英博物馆中国简史
+中国历史	https://book.douban.com/subject/26961138/	姚著中国史
+中国历史	https://book.douban.com/subject/30181646/	游牧者的抉择
+中国历史	https://book.douban.com/subject/1061155/	中国官僚政治研究
+中国历史	https://book.douban.com/subject/26392466/	从晚清到民国
+中国历史	https://book.douban.com/subject/30457516/	中国历史通论
+中国历史	https://book.douban.com/subject/30435253/	讲给大家的中国历史06
+中国历史	https://book.douban.com/subject/28135034/	南北战争三百年
+中国历史	https://book.douban.com/subject/6004630/	国史大纲（上下册）
+中国历史	https://book.douban.com/subject/25879507/	五四运动史
+中国历史	https://book.douban.com/subject/1016864/	士与中国文化
+中国历史	https://book.douban.com/subject/1427825/	中国人史纲（上中下）
+中国历史	https://book.douban.com/subject/26782702/	何以中国
+中国历史	https://book.douban.com/subject/26334500/	说中国
+中国历史	https://book.douban.com/subject/30277466/	南宋行暮
+中国历史	https://book.douban.com/subject/1000280/	袁氏当国
+中国历史	https://book.douban.com/subject/1017795/	隋唐制度渊源略论稿 唐代政治史述论稿
+中国历史	https://book.douban.com/subject/30206893/	中国历代政治得失
+中国历史	https://book.douban.com/subject/27594320/	易中天中华经典故事（全6册）
+中国历史	https://book.douban.com/subject/26676661/	从黄河文明到“一带一路”.第1卷
+中国历史	https://book.douban.com/subject/1823751/	中国近代史
+中国历史	https://book.douban.com/subject/26368070/	秦崩
+中国历史	https://book.douban.com/subject/1055347/	中国史纲
+中国历史	https://book.douban.com/subject/26377294/	坐天下
+中国历史	https://book.douban.com/subject/10796986/	魏晋之际的政治权力与家族网络
+中国历史	https://book.douban.com/subject/30376177/	历史的衣橱
+中国历史	https://book.douban.com/subject/3580750/	潜规则（修订版）
+中国历史	https://book.douban.com/subject/30377971/	曹操
+中国历史	https://book.douban.com/subject/33449976/	赵云
+中国历史	https://book.douban.com/subject/1427450/	白话本国史
+中国历史	https://book.douban.com/subject/2747765/	中国古代文化常识
+中国历史	https://book.douban.com/subject/26791320/	哇，历史原来可以这样学1
+中国历史	https://book.douban.com/subject/1012561/	上下五千年
+中国历史	https://book.douban.com/subject/3423098/	波峰与波谷
+中国历史	https://book.douban.com/subject/10575976/	中国近代史
+中国历史	https://book.douban.com/subject/10576095/	中华史纲
+中国历史	https://book.douban.com/subject/4146127/	春秋左传注（全四册）
+中国历史	https://book.douban.com/subject/30435244/	讲给大家的中国历史05
+中国历史	https://book.douban.com/subject/1337448/	简明中国历史地图集
+中国历史	https://book.douban.com/subject/26881055/	中国简史
+中国历史	https://book.douban.com/subject/26954784/	中华帝国的衰落
+中国历史	https://book.douban.com/subject/1314467/	读史方舆纪要
+中国历史	https://book.douban.com/subject/5922204/	曾国藩的正面与侧面
+中国历史	https://book.douban.com/subject/1269182/	叫魂
+中国历史	https://book.douban.com/subject/27664475/	中国史通论
+中国历史	https://book.douban.com/subject/33408138/	言利
+中国历史	https://book.douban.com/subject/26657935/	历史深处的民国
+中国历史	https://book.douban.com/subject/6980818/	浩荡两千年
+中国历史	https://book.douban.com/subject/26838266/	哈佛中国史05•挣扎的帝国：元与明
+中国历史	https://book.douban.com/subject/1050929/	隐蔽的秩序
+中国历史	https://book.douban.com/subject/3787085/	三国史话
+中国历史	https://book.douban.com/subject/1076378/	传统十论
+中国历史	https://book.douban.com/subject/26791323/	哇，历史原来可以这样学2
+中国历史	https://book.douban.com/subject/1805764/	宫女谈往录
+中国历史	https://book.douban.com/subject/25660928/	史记（点校本二十四史修订本）
+中国历史	https://book.douban.com/subject/26136469/	祖宗之法
+中国历史	https://book.douban.com/subject/4903692/	东京梦华录
+中国历史	https://book.douban.com/subject/26878735/	中国国民性演变历程
+中国历史	https://book.douban.com/subject/1011290/	中华上下五千年
+中国历史	https://book.douban.com/subject/26842761/	南朝，北朝
+中国历史	https://book.douban.com/subject/1022938/	中国历史研究法
+中国历史	https://book.douban.com/subject/25828759/	中华的崩溃与扩大： 魏晋南北朝
+中国历史	https://book.douban.com/subject/26747700/	撒马尔罕的金桃
+中国历史	https://book.douban.com/subject/25986743/	中国通史（上下册）
+中国历史	https://book.douban.com/subject/1132689/	洪业
+中国历史	https://book.douban.com/subject/10553731/	中国思想与宗教的奔流：宋朝
+中国历史	https://book.douban.com/subject/30386618/	长安与河北之间
+中国历史	https://book.douban.com/subject/1315258/	中国古代服饰研究
+中国历史	https://book.douban.com/subject/3067807/	中華二千年史
+中国历史	https://book.douban.com/subject/30428109/	五胡十六国
+中国历史	https://book.douban.com/subject/26987694/	易中天中华史·第十八卷:王安石变法
+中国历史	https://book.douban.com/subject/30216915/	四夷居中国
+中国历史	https://book.douban.com/subject/1014763/	三国志（全五册）
+中国历史	https://book.douban.com/subject/1072295/	資治通鑑（全二十冊）
+中国历史	https://book.douban.com/subject/26607789/	宫崎市定中国史
+中国历史	https://book.douban.com/subject/1065335/	朱熹的历史世界
+中国历史	https://book.douban.com/subject/1024528/	清史稿(全四十八册)
+中国历史	https://book.douban.com/subject/30401359/	千年悖论
+中国历史	https://book.douban.com/subject/1029723/	汉书（全十二册）
+中国历史	https://book.douban.com/subject/26838691/	易中天中华史 第九卷：两汉两罗马
+中国历史	https://book.douban.com/subject/1009529/	毛泽东、斯大林与朝鲜战争
+中国历史	https://book.douban.com/subject/3753913/	国史十六讲
+中国历史	https://book.douban.com/subject/30345415/	中国文化的精神
+中国历史	https://book.douban.com/subject/2173194/	中国文化史（上下）
+中国历史	https://book.douban.com/subject/30329246/	古代中国的战争之道
+中国历史	https://book.douban.com/subject/6015870/	雍正王朝之大义觉迷
+中国历史	https://book.douban.com/subject/1313715/	春秋史
+中国历史	https://book.douban.com/subject/34433981/	汴京之围
+中国历史	https://book.douban.com/subject/30289543/	龙
+中国历史	https://book.douban.com/subject/26988219/	洪业：清朝开国史
+中国历史	https://book.douban.com/subject/1421029/	帝国的惆怅
+中国历史	https://book.douban.com/subject/26882283/	历代经济变革得失（典藏版）
+中国历史	https://book.douban.com/subject/1052968/	剑桥中华人民共和国史（下卷）
+中国历史	https://book.douban.com/subject/30306986/	讲给大家的中国历史03
+中国历史	https://book.douban.com/subject/30306994/	讲给大家的中国历史04
+中国历史	https://book.douban.com/subject/25760457/	三案始末
+中国历史	https://book.douban.com/subject/1446867/	两晋南北朝史（上下）
+中国历史	https://book.douban.com/subject/26891290/	哈佛极简中国史
+中国历史	https://book.douban.com/subject/3522118/	资治通鉴（全四册）
+中国历史	https://book.douban.com/subject/1030503/	东晋门阀政治
+中国历史	https://book.douban.com/subject/6797768/	一寸河山一寸血.1
+中国历史	https://book.douban.com/subject/5372471/	党员、党权与党争
+中国历史	https://book.douban.com/subject/26860143/	易中天中华史  第十七卷：大宋革新
+中国历史	https://book.douban.com/subject/26704698/	易中天品三国
+中国历史	https://book.douban.com/subject/1006419/	十六世纪明代中国之财政与税收
+中国历史	https://book.douban.com/subject/26303324/	万历十五年（最新增订本）
+中国历史	https://book.douban.com/subject/1277267/	国史新论
+中国历史	https://book.douban.com/subject/1063540/	中华帝国晚期的叛乱及其敌人
+中国历史	https://book.douban.com/subject/4933054/	读罢春秋不成歌
+中国历史	https://book.douban.com/subject/30238504/	发现东亚
+中国历史	https://book.douban.com/subject/4827310/	“中间地带”的革命
+中国历史	https://book.douban.com/subject/5277994/	宫女谈往录
+中国历史	https://book.douban.com/subject/25709076/	洪业
+中国历史	https://book.douban.com/subject/1280568/	毛泽东与莫斯科的恩恩怨怨
+中国历史	https://book.douban.com/subject/1772151/	翻身
+中国历史	https://book.douban.com/subject/30190228/	年羹尧之死
+中国历史	https://book.douban.com/subject/2347492/	蒙曼说唐：武则天
+中国历史	https://book.douban.com/subject/1224279/	中国法律与中国社会
+中国历史	https://book.douban.com/subject/20516973/	从神话到历史：神话时代、夏王朝
+中国历史	https://book.douban.com/subject/24851460/	历代经济变革得失
+中国历史	https://book.douban.com/subject/26711101/	“边缘人”纪事
+中国历史	https://book.douban.com/subject/26612973/	易中天中华史:隋唐定局
+中国历史	https://book.douban.com/subject/26924391/	易中天中华史
+中国历史	https://book.douban.com/subject/27080746/	两晋(风流总被雨打风吹去)/读史馆
+中国历史	https://book.douban.com/subject/26368072/	楚亡
+中国历史	https://book.douban.com/subject/30275807/	发现燕然山铭
+中国历史	https://book.douban.com/subject/6060491/	现代中国的历程
+中国历史	https://book.douban.com/subject/26827219/	大秦帝国
+中国历史	https://book.douban.com/subject/29965219/	风流南宋
+中国历史	https://book.douban.com/subject/6806579/	资治通鉴
+中国历史	https://book.douban.com/subject/1957796/	我的前半生
+中国历史	https://book.douban.com/subject/5988185/	宅兹中国
+中国历史	https://book.douban.com/subject/6750187/	王氏之死
+中国历史	https://book.douban.com/subject/30335111/	魏晋南北朝简史
+中国历史	https://book.douban.com/subject/25837958/	曹寅与康熙
+中国历史	https://book.douban.com/subject/26476950/	制造汉武帝
+中国历史	https://book.douban.com/subject/5399227/	南渡北归（第一部）
+中国历史	https://book.douban.com/subject/33383557/	大汗之怒
+中国历史	https://book.douban.com/subject/26871212/	明朝历史的教训
+中国历史	https://book.douban.com/subject/33375669/	中國激進思潮的起源與後果

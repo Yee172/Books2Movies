@@ -1,0 +1,500 @@
+用户体验	https://book.douban.com/subject/3661214/	可视化数据
+用户体验	https://book.douban.com/subject/3687077/	请给我结果
+用户体验	https://book.douban.com/subject/1930235/	社会心理学
+用户体验	https://book.douban.com/subject/3717165/	众包
+用户体验	https://book.douban.com/subject/1928287/	设计师谈网页风格构成
+用户体验	https://book.douban.com/subject/1922035/	Designing the Obvious
+用户体验	https://book.douban.com/subject/31007457/	产品设计基础（全彩）
+用户体验	https://book.douban.com/subject/1921890/	JavaScript DOM编程艺术
+用户体验	https://book.douban.com/subject/1921890/	JavaScript DOM编程艺术
+用户体验	https://book.douban.com/subject/1922035/	Designing the Obvious
+用户体验	https://book.douban.com/subject/1930235/	社会心理学
+用户体验	https://book.douban.com/subject/1432131/	飞利浦设计思想
+用户体验	https://book.douban.com/subject/3465355/	潘义奎水粉静物范画
+用户体验	https://book.douban.com/subject/1440921/	Paper Prototyping
+用户体验	https://book.douban.com/subject/1440226/	HTTP
+用户体验	https://book.douban.com/subject/1439826/	Flash 99% Good
+用户体验	https://book.douban.com/subject/1433835/	The Elements of Style, Fourth Edition
+用户体验	https://book.douban.com/subject/1916758/	Beautiful Evidence
+用户体验	https://book.douban.com/subject/1912239/	蜂窝网络的端到端服务质量和用户体验质量
+用户体验	https://book.douban.com/subject/1096659/	网页界面设计艺术教程
+用户体验	https://book.douban.com/subject/3618849/	网页设计解析
+用户体验	https://book.douban.com/subject/3591151/	巴菲特教你读财报
+用户体验	https://book.douban.com/subject/3535970/	Mental Models in Discourse Processing and Reasoning
+用户体验	https://book.douban.com/subject/3529583/	如何做质性研究
+用户体验	https://book.douban.com/subject/3529582/	质性研究中的访谈
+用户体验	https://book.douban.com/subject/3518162/	社会研究方法
+用户体验	https://book.douban.com/subject/3446112/	jQuery实战
+用户体验	https://book.douban.com/subject/1928287/	设计师谈网页风格构成
+用户体验	https://book.douban.com/subject/3392046/	当彩色的声音尝起来是甜的
+用户体验	https://book.douban.com/subject/1432131/	飞利浦设计思想
+用户体验	https://book.douban.com/subject/31007457/	产品设计基础（全彩）
+用户体验	https://book.douban.com/subject/1433835/	The Elements of Style, Fourth Edition
+用户体验	https://book.douban.com/subject/1440226/	HTTP
+用户体验	https://book.douban.com/subject/1440921/	Paper Prototyping
+用户体验	https://book.douban.com/subject/3518162/	社会研究方法
+用户体验	https://book.douban.com/subject/3519877/	设计心理学
+用户体验	https://book.douban.com/subject/3529582/	质性研究中的访谈
+用户体验	https://book.douban.com/subject/1179656/	永恒的玩具
+用户体验	https://book.douban.com/subject/3535970/	Mental Models in Discourse Processing and Reasoning
+用户体验	https://book.douban.com/subject/3709579/	The Cathedral and the Bazaar
+用户体验	https://book.douban.com/subject/3691082/	基本日本語活字集成 OpenType版
+用户体验	https://book.douban.com/subject/3687077/	请给我结果
+用户体验	https://book.douban.com/subject/3661214/	可视化数据
+用户体验	https://book.douban.com/subject/3646172/	恶意
+用户体验	https://book.douban.com/subject/3618849/	网页设计解析
+用户体验	https://book.douban.com/subject/3591151/	巴菲特教你读财报
+用户体验	https://book.douban.com/subject/1439826/	Flash 99% Good
+用户体验	https://book.douban.com/subject/3529583/	如何做质性研究
+用户体验	https://book.douban.com/subject/1930235/	社会心理学
+用户体验	https://book.douban.com/subject/1440921/	Paper Prototyping
+用户体验	https://book.douban.com/subject/1440226/	HTTP
+用户体验	https://book.douban.com/subject/1439826/	Flash 99% Good
+用户体验	https://book.douban.com/subject/3360502/	Advanced Web Metrics with Google Analytics
+用户体验	https://book.douban.com/subject/1432131/	飞利浦设计思想
+用户体验	https://book.douban.com/subject/10546125/	JavaScript高级程序设计（第3版）
+用户体验	https://book.douban.com/subject/1922035/	Designing the Obvious
+用户体验	https://book.douban.com/subject/1921890/	JavaScript DOM编程艺术
+用户体验	https://book.douban.com/subject/3717165/	众包
+用户体验	https://book.douban.com/subject/3381707/	奇怪@壹
+用户体验	https://book.douban.com/subject/3376902/	失控
+用户体验	https://book.douban.com/subject/3359722/	实用罗夏墨迹测验
+用户体验	https://book.douban.com/subject/1087519/	互联网心理学
+用户体验	https://book.douban.com/subject/3351447/	产品第一，品牌第二
+用户体验	https://book.douban.com/subject/31007457/	产品设计基础（全彩）
+用户体验	https://book.douban.com/subject/1905141/	如何成為頂尖設計師
+用户体验	https://book.douban.com/subject/1912239/	蜂窝网络的端到端服务质量和用户体验质量
+用户体验	https://book.douban.com/subject/1916758/	Beautiful Evidence
+用户体验	https://book.douban.com/subject/10563858/	Content Strategy at Work
+用户体验	https://book.douban.com/subject/1440921/	Paper Prototyping
+用户体验	https://book.douban.com/subject/1440226/	HTTP
+用户体验	https://book.douban.com/subject/10572818/	情感@设计
+用户体验	https://book.douban.com/subject/1433835/	The Elements of Style, Fourth Edition
+用户体验	https://book.douban.com/subject/1432131/	飞利浦设计思想
+用户体验	https://book.douban.com/subject/10487031/	看不见的打字机
+用户体验	https://book.douban.com/subject/10484709/	让顾客自己来定价
+用户体验	https://book.douban.com/subject/1921890/	JavaScript DOM编程艺术
+用户体验	https://book.douban.com/subject/1916758/	Beautiful Evidence
+用户体验	https://book.douban.com/subject/1912239/	蜂窝网络的端到端服务质量和用户体验质量
+用户体验	https://book.douban.com/subject/1905141/	如何成為頂尖設計師
+用户体验	https://book.douban.com/subject/1889450/	赖声川的创意学
+用户体验	https://book.douban.com/subject/1887109/	Online Consumer Psychology
+用户体验	https://book.douban.com/subject/1876196/	Physical Computing
+用户体验	https://book.douban.com/subject/1874488/	别做正常的傻瓜
+用户体验	https://book.douban.com/subject/1871478/	Analog In, Digital Out
+用户体验	https://book.douban.com/subject/31007457/	产品设计基础（全彩）
+用户体验	https://book.douban.com/subject/10443158/	Designing Interactive Systems
+用户体验	https://book.douban.com/subject/10467108/	蜘蛛男
+用户体验	https://book.douban.com/subject/10876106/	咸鱼的滋味
+用户体验	https://book.douban.com/subject/11228394/	Killer UX Design
+用户体验	https://book.douban.com/subject/11405946/	Search User Interface Design
+用户体验	https://book.douban.com/subject/11498868/	图表之美
+用户体验	https://book.douban.com/subject/11501091/	User Experience in the Age of Sustainability
+用户体验	https://book.douban.com/subject/11501144/	Creative Boot Camp
+用户体验	https://book.douban.com/subject/11510723/	移动Web实现指南
+用户体验	https://book.douban.com/subject/11516311/	我是设计师
+用户体验	https://book.douban.com/subject/11594351/	一线之间
+用户体验	https://book.douban.com/subject/11610685/	Interactive Design
+用户体验	https://book.douban.com/subject/11623718/	给设计以灵魂
+用户体验	https://book.douban.com/subject/11627339/	Designing Information
+用户体验	https://book.douban.com/subject/11633096/	会员手机媒体化
+用户体验	https://book.douban.com/subject/11751955/	The Friction and Lubrication of Solids
+用户体验	https://book.douban.com/subject/12273989/	Start Your Business in 7 Days
+用户体验	https://book.douban.com/subject/12890824/	Design for Software
+用户体验	https://book.douban.com/subject/14336944/	卓越服务，非凡利润
+用户体验	https://book.douban.com/subject/19912141/	为真实的世界设计
+用户体验	https://book.douban.com/subject/19952397/	鲜活的数据
+用户体验	https://book.douban.com/subject/19992844/	Lean Analytics
+算法	https://book.douban.com/subject/26979890/	算法图解
+算法	https://book.douban.com/subject/33420587/	漫画算法：小灰的算法之旅
+算法	https://book.douban.com/subject/19952400/	算法（第4版）
+算法	https://book.douban.com/subject/10432347/	算法
+算法	https://book.douban.com/subject/20432061/	算法导论（原书第3版）
+算法	https://book.douban.com/subject/30155731/	算法之美
+算法	https://book.douban.com/subject/26827295/	算法笔记
+算法	https://book.douban.com/subject/1885170/	算法导论（原书第2版）
+算法	https://book.douban.com/subject/1139426/	数据结构与算法分析
+算法	https://book.douban.com/subject/26163454/	数学之美 （第二版）
+算法	https://book.douban.com/subject/26931430/	算法新解
+算法	https://book.douban.com/subject/3004255/	编程之美
+算法	https://book.douban.com/subject/1996256/	Algorithms
+算法	https://book.douban.com/subject/30357170/	我的第一本算法书
+算法	https://book.douban.com/subject/26708119/	机器学习
+算法	https://book.douban.com/subject/26638586/	程序员代码面试指南：IT名企算法与数据结构题目最优解
+算法	https://book.douban.com/subject/27087503/	深度学习
+算法	https://book.douban.com/subject/3227098/	编程珠玑
+算法	https://book.douban.com/subject/6966465/	剑指Offer
+算法	https://book.douban.com/subject/24749842/	挑战程序设计竞赛
+算法	https://book.douban.com/subject/1130500/	计算机程序设计艺术（第1卷）
+算法	https://book.douban.com/subject/10750155/	数学之美
+算法	https://book.douban.com/subject/25902102/	算法竞赛入门经典（第2版）
+算法	https://book.douban.com/subject/21323941/	具体数学
+算法	https://book.douban.com/subject/10769749/	推荐系统实践
+算法	https://book.douban.com/subject/26596778/	计算广告
+算法	https://book.douban.com/subject/27008702/	剑指Offer：名企面试官精讲典型编程题（第2版）
+算法	https://book.douban.com/subject/3288908/	集体智慧编程
+算法	https://book.douban.com/subject/27204953/	算法设计与应用
+算法	https://book.douban.com/subject/6424904/	大话数据结构
+算法	https://book.douban.com/subject/25894685/	啊哈!算法
+算法	https://book.douban.com/subject/26821357/	垃圾回收的算法与实现
+算法	https://book.douban.com/subject/26302533/	编程珠玑（第2版•修订版）
+算法	https://book.douban.com/subject/4048566/	算法设计手册
+算法	https://book.douban.com/subject/30243136/	美团机器学习实践
+算法	https://book.douban.com/subject/26337727/	算法设计与分析基础
+算法	https://book.douban.com/subject/27109832/	趣学算法
+算法	https://book.douban.com/subject/21249088/	凸优化
+算法	https://book.douban.com/subject/33377417/	数据结构与算法图解
+算法	https://book.douban.com/subject/25837031/	算法心得：高效算法的奥秘（原书第2版）
+算法	https://book.douban.com/subject/3155710/	算法概论
+算法	https://book.douban.com/subject/30295861/	算法霸权
+算法	https://book.douban.com/subject/30162908/	算法笔记上机训练实战指南
+算法	https://book.douban.com/subject/26681685/	计算机程序设计艺术
+算法	https://book.douban.com/subject/1765938/	Algorithms on Strings, Trees and Sequences
+算法	https://book.douban.com/subject/30136932/	算法竞赛进阶指南
+算法	https://book.douban.com/subject/26931905/	终极算法
+算法	https://book.douban.com/subject/3351237/	数据结构与算法分析
+算法	https://book.douban.com/subject/30199061/	内容算法
+算法	https://book.douban.com/subject/1148282/	计算机程序的构造和解释
+算法	https://book.douban.com/subject/25854872/	算法帝国
+算法	https://book.douban.com/subject/1152912/	算法导论
+算法	https://book.douban.com/subject/26783732/	Algorithms to Live By
+算法	https://book.douban.com/subject/24703171/	机器学习实战
+算法	https://book.douban.com/subject/5257905/	深入浅出数据分析
+算法	https://book.douban.com/subject/1477390/	代码大全（第2版）
+算法	https://book.douban.com/subject/30424415/	算法详解（卷1）——算法基础
+算法	https://book.douban.com/subject/26834485/	数据结构与算法经典问题解析
+算法	https://book.douban.com/subject/1971825/	数据结构与算法分析
+算法	https://book.douban.com/subject/25753386/	程序员面试金典（第5版）
+算法	https://book.douban.com/subject/7006719/	这就是搜索引擎
+算法	https://book.douban.com/subject/10590856/	统计学习方法
+算法	https://book.douban.com/subject/4924153/	数据结构与算法分析
+算法	https://book.douban.com/subject/26366784/	Grokking Algorithms
+算法	https://book.douban.com/subject/30422021/	程序员代码面试指南：IT名企算法与数据结构题目最优解（第2版）
+算法	https://book.douban.com/subject/25984046/	大数据日知录
+算法	https://book.douban.com/subject/25859528/	数据结构
+算法	https://book.douban.com/subject/30270959/	深度学习入门
+算法	https://book.douban.com/subject/26148763/	计算的本质
+算法	https://book.douban.com/subject/4065258/	算法：C语言实现
+算法	https://book.douban.com/subject/1755557/	Purely Functional Data Structures
+算法	https://book.douban.com/subject/26593822/	程序员的数学2
+算法	https://book.douban.com/subject/30161451/	程序员面试手册
+算法	https://book.douban.com/subject/26315483/	算法问题实战策略
+算法	https://book.douban.com/subject/26702568/	数据结构与算法：Python语言描述
+算法	https://book.douban.com/subject/26745780/	数据结构与算法分析
+算法	https://book.douban.com/subject/1232071/	如何求解问题
+算法	https://book.douban.com/subject/1241037/	计算机程序设计艺术（第3卷）
+算法	https://book.douban.com/subject/25805152/	算法谜题
+算法	https://book.douban.com/subject/5290339/	Pearls of Functional Algorithm Design
+算法	https://book.douban.com/subject/3072383/	The Algorithm Design Manual
+算法	https://book.douban.com/subject/26886659/	挑战程序设计竞赛2 算法和数据结构
+算法	https://book.douban.com/subject/33440473/	PHP程序员面试算法宝典
+算法	https://book.douban.com/subject/10607365/	Data Structures and Algorithms in Python
+算法	https://book.douban.com/subject/3904676/	Introduction to Algorithms, 3rd Edition
+算法	https://book.douban.com/subject/26713270/	算法之美
+算法	https://book.douban.com/subject/1475870/	Algorithm Design
+算法	https://book.douban.com/subject/25910559/	剑指Offer
+算法	https://book.douban.com/subject/21325184/	Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION
+算法	https://book.douban.com/subject/26316200/	离散数学及其应用（原书第7版）
+算法	https://book.douban.com/subject/26822106/	图解密码技术（第3版）
+算法	https://book.douban.com/subject/19949020/	程序员的数学
+算法	https://book.douban.com/subject/26351257/	算法的乐趣
+算法	https://book.douban.com/subject/2057924/	计算机程序设计艺术：第4卷 第4册（双语版）
+算法	https://book.douban.com/subject/30163021/	枕边算法书
+算法	https://book.douban.com/subject/26302596/	编程珠玑（续）（修订版）
+算法	https://book.douban.com/subject/24529132/	改变未来的九大算法
+算法	https://book.douban.com/subject/1231933/	计算机程序设计艺术（第1卷）
+算法	https://book.douban.com/subject/27116151/	数学与泛型编程
+算法	https://book.douban.com/subject/30442187/	白话机器学习算法
+算法	https://book.douban.com/subject/1110934/	STL源码剖析
+算法	https://book.douban.com/subject/1400498/	C语言名题精选百则技巧篇
+算法	https://book.douban.com/subject/5252170/	信息检索导论
+算法	https://book.douban.com/subject/30360968/	分布式机器学习：算法、理论与实践
+算法	https://book.douban.com/subject/1910326/	编程珠玑
+算法	https://book.douban.com/subject/26945096/	算法神探
+算法	https://book.douban.com/subject/26699412/	Python算法教程
+算法	https://book.douban.com/subject/26740548/	程序员的数学3
+算法	https://book.douban.com/subject/20254543/	算法竞赛入门经典
+算法	https://book.douban.com/subject/26265544/	图解密码技术
+算法	https://book.douban.com/subject/10606626/	组合数学
+算法	https://book.douban.com/subject/5947473/	图论算法理论、实现及应用
+算法	https://book.douban.com/subject/1224798/	计算机图形学几何工具算法详解
+算法	https://book.douban.com/subject/26857653/	Practical Statistics for Data Scientists
+算法	https://book.douban.com/subject/3191021/	How to Think About Algorithms
+算法	https://book.douban.com/subject/1116431/	计算机算法
+算法	https://book.douban.com/subject/26732914/	最优化导论
+算法	https://book.douban.com/subject/1102235/	机器学习
+算法	https://book.douban.com/subject/6793652/	MATLAB智能算法30个案例分析
+算法	https://book.douban.com/subject/1436134/	算法引论
+算法	https://book.douban.com/subject/19986936/	深入浅出密码学
+算法	https://book.douban.com/subject/30411520/	极简算法史：从数学到机器的故事
+算法	https://book.douban.com/subject/1968704/	算法设计与分析基础
+算法	https://book.douban.com/subject/1909336/	数据结构与算法分析
+算法	https://book.douban.com/subject/2130743/	离散数学及其应用（原书第5版）
+算法	https://book.douban.com/subject/25713498/	迷茫的旅行商
+算法	https://book.douban.com/subject/1737661/	算法设计
+算法	https://book.douban.com/subject/1231891/	计算机程序设计艺术（第2卷）
+算法	https://book.douban.com/subject/2038862/	柔性字符串匹配
+算法	https://book.douban.com/subject/1852515/	计算理论导引
+算法	https://book.douban.com/subject/3294335/	The Elements of Statistical Learning
+算法	https://book.douban.com/subject/1154204/	算法艺术与信息学竞赛
+算法	https://book.douban.com/subject/20472991/	Theory of Distributions for Locally Compact Spaces
+算法	https://book.douban.com/subject/1418402/	The Art of Computer Programming, Volumes 1-3 Boxed Set
+算法	https://book.douban.com/subject/30323938/	数据结构与算法：python语言实现
+算法	https://book.douban.com/subject/3695850/	Recommender Systems Handbook
+算法	https://book.douban.com/subject/30317874/	机器学习实战：基于Scikit-Learn和TensorFlow
+算法	https://book.douban.com/subject/5975393/	矩阵计算
+算法	https://book.douban.com/subject/26383785/	MATLAB数值计算
+算法	https://book.douban.com/subject/30213638/	永恒的图灵：20位科学家对图灵思想的解构与超越
+算法	https://book.douban.com/subject/6512234/	Graph Algorithms
+算法	https://book.douban.com/subject/5377669/	数据挖掘导论
+算法	https://book.douban.com/subject/1740461/	图论导引
+算法	https://book.douban.com/subject/6545083/	智能Web算法
+算法	https://book.douban.com/subject/3905078/	世界大学生程序设计竞赛
+算法	https://book.douban.com/subject/1433399/	Introduction to Algorithms
+算法	https://book.douban.com/subject/10798975/	程序语言的奥妙
+算法	https://book.douban.com/subject/4138920/	算法竞赛入门经典
+算法	https://book.douban.com/subject/30210075/	高效算法
+算法	https://book.douban.com/subject/26953756/	计算机程序设计艺术・卷3
+算法	https://book.douban.com/subject/6751237/	数学模型选谈
+算法	https://book.douban.com/subject/27105338/	Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis
+算法	https://book.douban.com/subject/2359365/	算法设计与分析导论
+算法	https://book.douban.com/subject/2035809/	算法设计
+算法	https://book.douban.com/subject/5952531/	神经网络与机器学习（原书第3版）
+算法	https://book.douban.com/subject/26028176/	深入理解OpenCV
+算法	https://book.douban.com/subject/1822897/	Numerical Optimization
+算法	https://book.douban.com/subject/26906838/	游戏编程算法与技巧
+算法	https://book.douban.com/subject/1896663/	算法：C语言实现
+算法	https://book.douban.com/subject/5286107/	数据挖掘导论
+算法	https://book.douban.com/subject/6801697/	C语言接口与实现
+算法	https://book.douban.com/subject/30286131/	人工智能 （第2版）
+算法	https://book.douban.com/subject/27092363/	算法设计指南
+算法	https://book.douban.com/subject/3893574/	计算几何
+算法	https://book.douban.com/subject/26741083/	算法基础（第5版）
+算法	https://book.douban.com/subject/4854123/	Algorithms
+算法	https://book.douban.com/subject/4317573/	算法技术手册
+算法	https://book.douban.com/subject/27091348/	程序员的算法趣题
+算法	https://book.douban.com/subject/1391000/	程序设计抽象思想
+算法	https://book.douban.com/subject/24746415/	推荐系统
+算法	https://book.douban.com/subject/27081206/	区块链核心算法解析
+算法	https://book.douban.com/subject/10482195/	编程语言实现模式
+算法	https://book.douban.com/subject/26727046/	Mazes for Programmers: Code Your Own Twisty Little Passages
+算法	https://book.douban.com/subject/26772147/	计算复杂性
+算法	https://book.douban.com/subject/1088180/	应用密码学
+算法	https://book.douban.com/subject/26434314/	算法分析导论（第2版）（英文版）
+算法	https://book.douban.com/subject/2061116/	Pattern Recognition and Machine Learning
+算法	https://book.douban.com/subject/2038599/	数据挖掘概念与技术
+算法	https://book.douban.com/subject/4178907/	算法引论
+算法	https://book.douban.com/subject/1170939/	自动机理论、语言和计算导论（原书第2版）
+算法	https://book.douban.com/subject/1231910/	具体数学（英文版第2版）
+算法	https://book.douban.com/subject/26639401/	学习JavaScript数据结构与算法
+算法	https://book.douban.com/subject/33441631/	学习JavaScript数据结构与算法（第3版）
+算法	https://book.douban.com/subject/1823807/	Approximation Algorithms
+算法	https://book.douban.com/subject/27620425/	图解算法
+算法	https://book.douban.com/subject/2030668/	Probability and Computing
+算法	https://book.douban.com/subject/30381202/	算法分析导论（第2版）
+算法	https://book.douban.com/subject/1316052/	网络流
+算法	https://book.douban.com/subject/26840281/	算法笔记
+算法	https://book.douban.com/subject/26850558/	计算机程序设计艺术・卷2
+算法	https://book.douban.com/subject/26696971/	算法基础
+算法	https://book.douban.com/subject/1676578/	算法的陷阱
+算法	https://book.douban.com/subject/4191525/	算法（第5部分）
+算法	https://book.douban.com/subject/1230206/	编程珠玑(第二版)
+算法	https://book.douban.com/subject/1949067/	Algorithms
+算法	https://book.douban.com/subject/1891912/	Distributed Algorithms
+算法	https://book.douban.com/subject/26437066/	推荐系统
+算法	https://book.douban.com/subject/1142226/	分布式算法
+算法	https://book.douban.com/subject/21349851/	非线性系统手册
+算法	https://book.douban.com/subject/2350559/	The Science of Programming
+算法	https://book.douban.com/subject/1826292/	C Interfaces and Implementations
+算法	https://book.douban.com/subject/6434299/	算法设计与分析
+算法	https://book.douban.com/subject/14267904/	算法精解
+算法	https://book.douban.com/subject/27129352/	学习JavaScript数据结构与算法（第2版）
+算法	https://book.douban.com/subject/3753486/	算法技术手册
+算法	https://book.douban.com/subject/27096665/	现代操作系统（原书第4版）
+算法	https://book.douban.com/subject/24530461/	复杂性思考
+算法	https://book.douban.com/subject/26943161/	未来简史
+算法	https://book.douban.com/subject/30131926/	Automating Inequality
+算法	https://book.douban.com/subject/33408772/	Python 3破冰人工智能 从入门到实战
+算法	https://book.douban.com/subject/3923731/	程序员实用算法
+算法	https://book.douban.com/subject/26421141/	数据结构、算法与应用（原书第2版）
+算法	https://book.douban.com/subject/30351275/	编程之美：微软技术面试心得
+算法	https://book.douban.com/subject/26570695/	Cracking the Coding Interview
+算法	https://book.douban.com/subject/26392541/	统计学习理论
+算法	https://book.douban.com/subject/1652744/	计算几何
+算法	https://book.douban.com/subject/1237002/	Data Structures and Algorithm Analysis in C (2nd Edition)
+算法	https://book.douban.com/subject/2144267/	Online Computation and Competitive Analysis
+算法	https://book.douban.com/subject/4722718/	编程的本质
+算法	https://book.douban.com/subject/1173548/	程序设计实践
+算法	https://book.douban.com/subject/4816562/	MATLAB神经网络30个案例分析
+算法	https://book.douban.com/subject/25837616/	矩阵计算
+算法	https://book.douban.com/subject/30140467/	If...Then
+算法	https://book.douban.com/subject/27023415/	算法基础与在线实践(北京大学程序设计与算法专项课程系列教材)
+算法	https://book.douban.com/subject/10436668/	Cracking the Coding Interview
+算法	https://book.douban.com/subject/2981954/	PHP 5权威编程
+算法	https://book.douban.com/subject/26761288/	编程珠玑・续（英文版）
+算法	https://book.douban.com/subject/26931280/	Python机器学习
+算法	https://book.douban.com/subject/27606713/	大数据技术原理与应用（第2版）
+算法	https://book.douban.com/subject/1224802/	统计自然语言处理基础
+算法	https://book.douban.com/subject/30229899/	演算法圖鑑
+算法	https://book.douban.com/subject/1247360/	计算机程序设计艺术 第2卷 半数值算法（第3版）（英文影印版）
+算法	https://book.douban.com/subject/1247361/	计算机程序设计艺术(第3卷)-排序和查找(英文影印版)
+算法	https://book.douban.com/subject/27605355/	阿里巴巴Java开发手册
+算法	https://book.douban.com/subject/2568362/	计算机程序设计艺术
+算法	https://book.douban.com/subject/2056370/	概率与计算
+算法	https://book.douban.com/subject/1620154/	解决问题的策略
+算法	https://book.douban.com/subject/25796795/	Distributed Algorithms
+算法	https://book.douban.com/subject/26976457/	Tensorflow：实战Google深度学习框架
+算法	https://book.douban.com/subject/26941642/	图解性能优化
+算法	https://book.douban.com/subject/30236893/	神经网络设计（原书第2版）
+算法	https://book.douban.com/subject/4727015/	数字图像处理与机器视觉
+算法	https://book.douban.com/subject/1138922/	神经网络原理(原书第2版)
+算法	https://book.douban.com/subject/1699539/	科学计算导论
+算法	https://book.douban.com/subject/2183420/	生物信息学算法导论
+算法	https://book.douban.com/subject/27074813/	深度学习轻松学
+算法	https://book.douban.com/subject/25782529/	程序员面试攻略(原书第3版)
+算法	https://book.douban.com/subject/2607370/	Image Processing, Analysis, and Machine Vision
+算法	https://book.douban.com/subject/26835220/	图解数据结构(第2版)
+算法	https://book.douban.com/subject/5339429/	算法交易与套利交易
+算法	https://book.douban.com/subject/27048282/	函数式算法设计珠玑
+算法	https://book.douban.com/subject/5394808/	自然计算导论
+算法	https://book.douban.com/subject/1446283/	线性规划导论
+算法	https://book.douban.com/subject/1134994/	编译原理
+算法	https://book.douban.com/subject/1231268/	矩阵论
+算法	https://book.douban.com/subject/4710825/	妙趣横生的算法
+算法	https://book.douban.com/subject/11542972/	数据挖掘
+算法	https://book.douban.com/subject/2173399/	Numerical Recipes 3rd Edition
+算法	https://book.douban.com/subject/3391962/	Synthesis and Optimization of Digital Circuits
+算法	https://book.douban.com/subject/1874395/	The Art of Computer Programming, Vol. 1
+算法	https://book.douban.com/subject/10758624/	Machine Learning
+算法	https://book.douban.com/subject/30425569/	Make Your Own Algorithmic Art
+算法	https://book.douban.com/subject/10471912/	数学世纪
+算法	https://book.douban.com/subject/33245675/	Genetic Algorithms and Machine Learning for Programmers
+算法	https://book.douban.com/subject/5462514/	The Algorithmic Beauty of Seaweeds, Sponges and Corals
+算法	https://book.douban.com/subject/5339665/	ACM程序设计竞赛基础教程
+算法	https://book.douban.com/subject/25737750/	Understanding Machine Learning
+算法	https://book.douban.com/subject/20962468/	Elements of Programming Interviews
+算法	https://book.douban.com/subject/3879470/	挑战编程
+算法	https://book.douban.com/subject/1856070/	Randomized Algorithms
+算法	https://book.douban.com/subject/1886305/	数据结构与算法
+算法	https://book.douban.com/subject/3328585/	Advanced Data Structures
+算法	https://book.douban.com/subject/1231452/	组合数学
+算法	https://book.douban.com/subject/3098386/	Problem Solving with Algorithms and Data Structures Using Python
+算法	https://book.douban.com/subject/1806974/	现代编译原理
+算法	https://book.douban.com/subject/3216002/	Geometric Folding Algorithms
+算法	https://book.douban.com/subject/1172109/	现代密码学理论与实践
+算法	https://book.douban.com/subject/25850519/	Experiments with MATLAB （英文版）
+算法	https://book.douban.com/subject/26880667/	Java核心技术·卷 I（原书第10版）
+算法	https://book.douban.com/subject/27034277/	数学的魔法
+算法	https://book.douban.com/subject/24699581/	数据结构（C语言版）
+算法	https://book.douban.com/subject/2622148/	Algorithms in C++ Part 5
+算法	https://book.douban.com/subject/4207325/	The Algorithmic Beauty of Sea Shells (The Virtual Laboratory)
+算法	https://book.douban.com/subject/26818024/	大数据架构商业之路
+算法	https://book.douban.com/subject/30137062/	TensorFlow：实战Google深度学习框架（第2版）
+算法	https://book.douban.com/subject/4915945/	Python Algorithms
+算法	https://book.douban.com/subject/30159603/	深度学习核心技术与实践
+算法	https://book.douban.com/subject/1929984/	数据库系统概念
+算法	https://book.douban.com/subject/2208525/	计算机算法的设计与分析
+算法	https://book.douban.com/subject/2016015/	数字信号处理教程
+算法	https://book.douban.com/subject/33444625/	数学女孩4
+算法	https://book.douban.com/subject/1157908/	垃圾收集
+算法	https://book.douban.com/subject/5407511/	Music Recommendation and Discovery
+算法	https://book.douban.com/subject/1757982/	计算机程序设计艺术
+算法	https://book.douban.com/subject/1444648/	数据结构与算法分析
+算法	https://book.douban.com/subject/20421419/	Algorithms Unlocked
+算法	https://book.douban.com/subject/1909548/	算法：C语言实现
+算法	https://book.douban.com/subject/1231696/	实用算法的分析与程序设计
+算法	https://book.douban.com/subject/26757972/	数值方法（MATLAB版）（原书第3版）
+算法	https://book.douban.com/subject/6384470/	Real-Time Shadows
+算法	https://book.douban.com/subject/26762081/	用户网络行为画像
+算法	https://book.douban.com/subject/26755944/	Quantum Monte Carlo Methods
+算法	https://book.douban.com/subject/26926568/	算法学习与应用从入门到精通
+算法	https://book.douban.com/subject/27116402/	Data Science Algorithms in a Week
+算法	https://book.douban.com/subject/26575738/	The Master Algorithm
+算法	https://book.douban.com/subject/7064456/	研究之美
+算法	https://book.douban.com/subject/3099540/	数论概论
+算法	https://book.douban.com/subject/24841112/	编程的修炼（中英双语）
+算法	https://book.douban.com/subject/25847620/	HotSpot实战
+算法	https://book.douban.com/subject/27200428/	高效机器学习
+算法	https://book.douban.com/subject/20435906/	傅立叶分析导论
+算法	https://book.douban.com/subject/26696651/	数学思维导论
+算法	https://book.douban.com/subject/26821588/	写给大家看的算法书
+算法	https://book.douban.com/subject/3269796/	随机算法
+算法	https://book.douban.com/subject/27667425/	营销三大算法
+算法	https://book.douban.com/subject/34261986/	从祖先到算法
+算法	https://book.douban.com/subject/30847972/	信息学奥赛课课通（C++）
+算法	https://book.douban.com/subject/20452340/	程序员面试逻辑题解析
+算法	https://book.douban.com/subject/6028283/	金融衍生产品保值与套利技术
+算法	https://book.douban.com/subject/26039302/	Distributed Systems
+算法	https://book.douban.com/subject/24675344/	Open Data Structures
+算法	https://book.douban.com/subject/26381341/	Python Cookbook 中文版，第 3 版
+算法	https://book.douban.com/subject/2147362/	计算机算法设计与分析
+算法	https://book.douban.com/subject/26418340/	Java虚拟机规范（Java SE 8版）
+算法	https://book.douban.com/subject/10564644/	算法之道(第2版)
+算法	https://book.douban.com/subject/30217266/	精通数据科学：从线性回归到深度学习
+算法	https://book.douban.com/subject/1784887/	Hacker&#39;s Delight
+算法	https://book.douban.com/subject/2300986/	程序设计导引及在线实践
+算法	https://book.douban.com/subject/30373386/	你也能看得懂的Python算法书
+算法	https://book.douban.com/subject/1420357/	优化建模与LINDO/LINGO软件
+算法	https://book.douban.com/subject/26940523/	Twenty Lectures on Algorithmic Game Theory
+算法	https://book.douban.com/subject/6962285/	Machine Learning in Action
+算法	https://book.douban.com/subject/25879674/	Mathematica与大学物理计算(第2版)
+算法	https://book.douban.com/subject/1391740/	逻辑的引擎
+算法	https://book.douban.com/subject/26643589/	Python语言程序设计
+算法	https://book.douban.com/subject/1152139/	数据结构与STL
+算法	https://book.douban.com/subject/10599575/	Java常用算法手册
+算法	https://book.douban.com/subject/1768600/	Writing Efficient Programs
+算法	https://book.douban.com/subject/30358716/	无处不在的算法
+算法	https://book.douban.com/subject/4916424/	计算机程序设计艺术
+算法	https://book.douban.com/subject/2305237/	信息论基础
+算法	https://book.douban.com/subject/26713328/	数据结构（C语言版 第2版）
+算法	https://book.douban.com/subject/4007200/	Probabilistic Graphical Models
+算法	https://book.douban.com/subject/4134213/	Linear Programming and Network Flows
+算法	https://book.douban.com/subject/1400374/	高级编译器设计与实现
+算法	https://book.douban.com/subject/2868285/	Planning Algorithms
+算法	https://book.douban.com/subject/6782289/	近似算法的设计与分析
+算法	https://book.douban.com/subject/2307411/	Data Structures and Network Algorithms
+算法	https://book.douban.com/subject/30285146/	百面机器学习
+算法	https://book.douban.com/subject/4613483/	Logic Synthesis and Verification Algorithms
+算法	https://book.douban.com/subject/2157943/	Introduction to Linear Optimization
+算法	https://book.douban.com/subject/26348921/	集体智慧编程
+算法	https://book.douban.com/subject/3253654/	Algorithms in a Nutshell
+算法	https://book.douban.com/subject/30416291/	AI极简经济学
+算法	https://book.douban.com/subject/24321451/	统计模拟
+算法	https://book.douban.com/subject/3722669/	Algorithms in C (Computer Science Series)
+算法	https://book.douban.com/subject/1437108/	图形程序开发人员指南
+算法	https://book.douban.com/subject/20014533/	Mathematical Modeling
+算法	https://book.douban.com/subject/1115600/	神经网络设计
+算法	https://book.douban.com/subject/26605032/	大数据算法
+算法	https://book.douban.com/subject/20112875/	Bandit Algorithms for Website Optimization
+算法	https://book.douban.com/subject/30338542/	Classic Computer Science Problems in Python
+算法	https://book.douban.com/subject/1822197/	Elements of Information Theory
+算法	https://book.douban.com/subject/11226618/	Foundations of Machine Learning
+算法	https://book.douban.com/subject/30481930/	写给所有人的编程思维
+算法	https://book.douban.com/subject/5410320/	Recommender Systems
+算法	https://book.douban.com/subject/1433114/	The Algorithm Design Manual
+算法	https://book.douban.com/subject/10532384/	计算机算法设计与分析
+算法	https://book.douban.com/subject/3425827/	算法概论
+算法	https://book.douban.com/subject/4603803/	模式识别
+算法	https://book.douban.com/subject/5406288/	凸分析
+算法	https://book.douban.com/subject/1052241/	设计模式
+算法	https://book.douban.com/subject/1193557/	代码优化
+算法	https://book.douban.com/subject/3745369/	矩阵计算
+算法	https://book.douban.com/subject/1789534/	Information Theory, Inference and Learning Algorithms
+算法	https://book.douban.com/subject/1400420/	经典密码学与现代密码学
+算法	https://book.douban.com/subject/27074156/	算法基础
+算法	https://book.douban.com/subject/6749842/	ACM国际大学生程序设计竞赛亚洲区预选赛真题题解
+算法	https://book.douban.com/subject/1441429/	Algorithms in C++, Parts 1-4
+算法	https://book.douban.com/subject/27057820/	Python机器学习(影印版)(英文版)
+算法	https://book.douban.com/subject/26902177/	技术之瞳——阿里巴巴技术笔试心得
+算法	https://book.douban.com/subject/1484451/	Programming Pearls
+算法	https://book.douban.com/subject/5258931/	计算机程序设计艺术卷1：基本算法(英文版.第3版)
+算法	https://book.douban.com/subject/5258933/	计算机程序设计艺术（第3卷 英文版·第2版）
+算法	https://book.douban.com/subject/1887927/	The Advent of the Algorithm
+算法	https://book.douban.com/subject/10503879/	Automate This
+算法	https://book.douban.com/subject/3802826/	Elements of Programming
+算法	https://book.douban.com/subject/30373587/	Node.js开发实战
+算法	https://book.douban.com/subject/30344917/	快乐算法
+算法	https://book.douban.com/subject/5269219/	数据之美
+算法	https://book.douban.com/subject/26281764/	The Black Box Society
+算法	https://book.douban.com/subject/6828678/	数学建模算法与应用
+算法	https://book.douban.com/subject/30293801/	Python深度学习

@@ -1,0 +1,500 @@
+交互	https://book.douban.com/subject/3792134/	Designing for the Digital Age
+交互	https://book.douban.com/subject/3787852/	Designing Social Interfaces
+交互	https://book.douban.com/subject/3752050/	Universal Access in Human-Computer Interaction. Addressing Diversity
+交互	https://book.douban.com/subject/3746065/	工程和设计中的人因学
+交互	https://book.douban.com/subject/3720234/	iWork &#39;09
+交互	https://book.douban.com/subject/3712207/	Change by Design
+交互	https://book.douban.com/subject/3319935/	走出软件作坊
+交互	https://book.douban.com/subject/3720234/	iWork &#39;09
+交互	https://book.douban.com/subject/3746065/	工程和设计中的人因学
+交互	https://book.douban.com/subject/3752050/	Universal Access in Human-Computer Interaction. Addressing Diversity
+交互	https://book.douban.com/subject/4308069/	信息设计
+交互	https://book.douban.com/subject/4263247/	为什么大猩猩比专家高明
+交互	https://book.douban.com/subject/4233474/	设计网事
+交互	https://book.douban.com/subject/4195708/	Data Flow 2
+交互	https://book.douban.com/subject/4149101/	Effective UI
+交互	https://book.douban.com/subject/4141730/	数字化成长3.0版
+交互	https://book.douban.com/subject/4135234/	The Visual Miscellaneum
+交互	https://book.douban.com/subject/4125520/	Diagrams
+交互	https://book.douban.com/subject/4016085/	Search Patterns
+交互	https://book.douban.com/subject/3998146/	Don&#39;t Make Me Think. Was ist Web Usability?.
+交互	https://book.douban.com/subject/3864073/	Objective-C基础教程
+交互	https://book.douban.com/subject/3854718/	认知心理学
+交互	https://book.douban.com/subject/3817241/	未来产品的设计
+交互	https://book.douban.com/subject/3815834/	Now You See It
+交互	https://book.douban.com/subject/3792134/	Designing for the Digital Age
+交互	https://book.douban.com/subject/3787852/	Designing Social Interfaces
+交互	https://book.douban.com/subject/6709783/	浪潮之巅
+交互	https://book.douban.com/subject/3118374/	就这么简单
+交互	https://book.douban.com/subject/6531663/	iPhone 4与iPad开发基础教程
+交互	https://book.douban.com/subject/3121178/	技术时代的人类心灵
+交互	https://book.douban.com/subject/6872840/	Making Things Talk
+交互	https://book.douban.com/subject/2818192/	Sensorium
+交互	https://book.douban.com/subject/10549733/	JavaScript权威指南(第6版)
+交互	https://book.douban.com/subject/2247738/	软件项目管理理论与案例分析
+交互	https://book.douban.com/subject/2269047/	游戏的人
+交互	https://book.douban.com/subject/10535344/	交互界面系统设计
+交互	https://book.douban.com/subject/10530232/	至关重要的设计
+交互	https://book.douban.com/subject/2299971/	Material ConneXion
+交互	https://book.douban.com/subject/2584572/	Thoughtful Interaction Design
+交互	https://book.douban.com/subject/2606799/	Making Stuff
+交互	https://book.douban.com/subject/10344930/	社交网站的数据挖掘与分析
+交互	https://book.douban.com/subject/2700948/	调查研究手册
+交互	https://book.douban.com/subject/6998852/	故事板
+交互	https://book.douban.com/subject/3521444/	德国设计图典
+交互	https://book.douban.com/subject/6899714/	编排设计
+交互	https://book.douban.com/subject/6878732/	交互界面设计
+交互	https://book.douban.com/subject/6998852/	故事板
+交互	https://book.douban.com/subject/2700948/	调查研究手册
+交互	https://book.douban.com/subject/10785583/	思考，快与慢
+交互	https://book.douban.com/subject/10779515/	圖解設計思考
+交互	https://book.douban.com/subject/2170932/	Multiple Intelligences
+交互	https://book.douban.com/subject/10599300/	爱上Processing
+交互	https://book.douban.com/subject/2175995/	CSS网站布局实录（第2版）
+交互	https://book.douban.com/subject/10550576/	设计心理学3
+交互	https://book.douban.com/subject/10549733/	JavaScript权威指南(第6版)
+交互	https://book.douban.com/subject/2247738/	软件项目管理理论与案例分析
+交互	https://book.douban.com/subject/2269047/	游戏的人
+交互	https://book.douban.com/subject/10535344/	交互界面系统设计
+交互	https://book.douban.com/subject/10530232/	至关重要的设计
+交互	https://book.douban.com/subject/2299971/	Material ConneXion
+交互	https://book.douban.com/subject/2584572/	Thoughtful Interaction Design
+交互	https://book.douban.com/subject/2606799/	Making Stuff
+交互	https://book.douban.com/subject/10344930/	社交网站的数据挖掘与分析
+交互	https://book.douban.com/subject/6709783/	浪潮之巅
+UE	https://book.douban.com/subject/6523997/	用户体验要素
+UE	https://book.douban.com/subject/5394309/	简约至上
+UE	https://book.douban.com/subject/3279105/	About Face 3 交互设计精髓
+UE	https://book.douban.com/subject/1493316/	交互设计之路
+UE	https://book.douban.com/subject/2297549/	用户体验的要素
+UE	https://book.douban.com/subject/1440223/	Don&#39;t Make Me Think
+UE	https://book.douban.com/subject/10557282/	About Face 3：交互设计精髓
+UE	https://book.douban.com/subject/2157554/	赢在用户
+UE	https://book.douban.com/subject/1461638/	Information Visualization, Second Edition
+UE	https://book.douban.com/subject/26857698/	体验设计白书
+UE	https://book.douban.com/subject/1288844/	设计心理学
+UE	https://book.douban.com/subject/25847187/	用户体验设计
+UE	https://book.douban.com/subject/26142616/	用户体验多面手
+UE	https://book.douban.com/subject/26359327/	腾讯网UED体验设计之旅
+UE	https://book.douban.com/subject/32581941/	去日本上设计课
+UE	https://book.douban.com/subject/3348282/	设计沟通十器
+UE	https://book.douban.com/subject/1138771/	人本界面
+UE	https://book.douban.com/subject/1314262/	情感化设计
+UE	https://book.douban.com/subject/26640058/	洞察用户体验
+UE	https://book.douban.com/subject/3313897/	Web导航设计
+UE	https://book.douban.com/subject/24753137/	移动设计
+UE	https://book.douban.com/subject/6439419/	潜移默化
+UE	https://book.douban.com/subject/30224253/	最好的UI设计师
+UE	https://book.douban.com/subject/3263946/	GUI设计禁忌2.0
+UE	https://book.douban.com/subject/24753137/	移动设计
+UE	https://book.douban.com/subject/6792322/	认知与设计
+UE	https://book.douban.com/subject/19934344/	交互设计沉思录
+UE	https://book.douban.com/subject/3821157/	Web界面设计
+UE	https://book.douban.com/subject/23008807/	众妙之门
+UE	https://book.douban.com/subject/3430960/	IDEO Method Cards
+UE	https://book.douban.com/subject/3323633/	写给大家看的设计书（第3版）
+UE	https://book.douban.com/subject/6864391/	触动人心
+UE	https://book.douban.com/subject/4841570/	下一站
+UE	https://book.douban.com/subject/1922035/	Designing the Obvious
+UE	https://book.douban.com/subject/2115239/	人机交互
+UE	https://book.douban.com/subject/5914587/	启示录
+UE	https://book.douban.com/subject/4076216/	锦绣蓝图
+UE	https://book.douban.com/subject/4886100/	Web表单设计
+UE	https://book.douban.com/subject/1440449/	The Inmates Are Running the Asylum : Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition)
+UE	https://book.douban.com/subject/10575920/	众妙之门
+UE	https://book.douban.com/subject/6114207/	UCD火花集2
+UE	https://book.douban.com/subject/1928289/	网站界面设计
+UE	https://book.douban.com/subject/1907341/	The User Is Always Right
+UE	https://book.douban.com/subject/1244410/	软件设计的艺术
+UE	https://book.douban.com/subject/1793267/	Understanding Your Users
+UE	https://book.douban.com/subject/26340963/	怦然心动——情感化交互设计指南（修订版）
+UE	https://book.douban.com/subject/1894206/	Designing Interactions
+UE	https://book.douban.com/subject/2155415/	Designing the Mobile User Experience
+UE	https://book.douban.com/subject/3436963/	Designing Web Interfaces
+UE	https://book.douban.com/subject/1246807/	Web软件用户界面设计指南
+UE	https://book.douban.com/subject/3059484/	Designing For The Social Web
+UE	https://book.douban.com/subject/10542579/	用户体验草图设计
+UE	https://book.douban.com/subject/3665205/	应需而变
+UE	https://book.douban.com/subject/3169342/	Web信息架构(第3版)
+UE	https://book.douban.com/subject/1878625/	Information Architecture for the World Wide Web
+UE	https://book.douban.com/subject/4606471/	设计心理学
+UE	https://book.douban.com/subject/20278578/	亲爱的界面
+UE	https://book.douban.com/subject/25983558/	About Face
+UE	https://book.douban.com/subject/6439419/	潜移默化
+UE	https://book.douban.com/subject/4903260/	重塑用户体验
+UE	https://book.douban.com/subject/4909176/	社交网站界面设计
+UE	https://book.douban.com/subject/26359327/	腾讯网UED体验设计之旅
+UE	https://book.douban.com/subject/3313897/	Web导航设计
+UE	https://book.douban.com/subject/30224253/	最好的UI设计师
+UE	https://book.douban.com/subject/2262838/	好用型设计
+UE	https://book.douban.com/subject/1467740/	The Humane Interface
+UE	https://book.douban.com/subject/1277926/	工程心理学与人的作业
+UE	https://book.douban.com/subject/1196206/	Microsoft Windows 用户经验
+UE	https://book.douban.com/subject/26394924/	不止情感设计
+UE	https://book.douban.com/subject/3433034/	Building Social Web Applications
+UE	https://book.douban.com/subject/25858031/	妙手回春 网站可用性测试及优化指南（修订版）
+UE	https://book.douban.com/subject/1230451/	网站重构
+UE	https://book.douban.com/subject/25915629/	破茧成蝶：用户体验设计师的成长之路
+UE	https://book.douban.com/subject/2046334/	网页设计效果优化艺术
+UE	https://book.douban.com/subject/1138771/	人本界面
+UE	https://book.douban.com/subject/1185932/	可用性工程
+UE	https://book.douban.com/subject/1365318/	The Design of Everyday Things
+UE	https://book.douban.com/subject/26291332/	移动优先+响应式Web设计
+UE	https://book.douban.com/subject/2155045/	Experience Design
+UE	https://book.douban.com/subject/3421275/	A Project Guide to UX Design
+UE	https://book.douban.com/subject/1461638/	Information Visualization, Second Edition
+UE	https://book.douban.com/subject/1087502/	Web可用性设计
+UE	https://book.douban.com/subject/23008818/	当用户体验设计遇上敏捷
+UE	https://book.douban.com/subject/3653121/	When Search Meets Web Usability
+UE	https://book.douban.com/subject/30318281/	Sketch交互设计之美
+UE	https://book.douban.com/subject/23708491/	设计师要懂心理学
+UE	https://book.douban.com/subject/4924293/	赢在设计
+UE	https://book.douban.com/subject/1967469/	User-Centered Web Design
+UE	https://book.douban.com/subject/1845594/	电子商务大赢家
+UE	https://book.douban.com/subject/1941558/	设计中的设计
+UE	https://book.douban.com/subject/3787852/	Designing Social Interfaces
+UE	https://book.douban.com/subject/26313852/	点石成金
+UE	https://book.douban.com/subject/2709105/	The Inmates Are Running the Asylum
+UE	https://book.douban.com/subject/1241266/	软件开发的创新思维
+UE	https://book.douban.com/subject/25746680/	随意搜寻
+UE	https://book.douban.com/subject/4723970/	人人都是产品经理
+UE	https://book.douban.com/subject/6398078/	iPhone应用用户体验设计实战与案例
+UE	https://book.douban.com/subject/5948757/	Designing Interfaces
+UE	https://book.douban.com/subject/5951504/	Web表单设计
+UE	https://book.douban.com/subject/6522698/	IDEO，设计改变一切
+UE	https://book.douban.com/subject/4233474/	设计网事
+UE	https://book.douban.com/subject/5263559/	設計思考改造世界
+UE	https://book.douban.com/subject/25932290/	认知与设计
+UE	https://book.douban.com/subject/10537875/	一目了然
+UE	https://book.douban.com/subject/25817261/	方寸指间
+UE	https://book.douban.com/subject/10530232/	至关重要的设计
+UE	https://book.douban.com/subject/3812313/	Don&#39;t Make Me Think!
+UE	https://book.douban.com/subject/25744600/	微交互
+UE	https://book.douban.com/subject/3639503/	细节决定交互设计的成败
+UE	https://book.douban.com/subject/1455616/	Designing Interfaces
+UE	https://book.douban.com/subject/1445543/	用户中心设计
+UE	https://book.douban.com/subject/25769796/	胜于言传：Web内容创作与设计的艺术
+UE	https://book.douban.com/subject/25842108/	设计调研
+UE	https://book.douban.com/subject/21765319/	原來設計是一種品味
+UE	https://book.douban.com/subject/1494682/	Emotional Design
+UE	https://book.douban.com/subject/1237849/	软件创新之路
+UE	https://book.douban.com/subject/1392475/	软件观念革命
+UE	https://book.douban.com/subject/25847187/	用户体验设计
+UE	https://book.douban.com/subject/3052851/	Mental Models
+UE	https://book.douban.com/subject/3346766/	Moderating Usability Tests
+UE	https://book.douban.com/subject/2998812/	心智模型的阐释
+UE	https://book.douban.com/subject/20381558/	移动应用UI设计模式
+UE	https://book.douban.com/subject/2373551/	Design Accessible Web Sites
+UE	https://book.douban.com/subject/26841181/	设计调研（第2版）
+UE	https://book.douban.com/subject/3260737/	精通Web Analytics
+UE	https://book.douban.com/subject/6393626/	秩序之美
+UE	https://book.douban.com/subject/6021440/	黑客与画家
+UE	https://book.douban.com/subject/5997521/	用户界面设计
+UE	https://book.douban.com/subject/1481855/	Designing the User Interface
+UE	https://book.douban.com/subject/1483907/	社会心理学
+UE	https://book.douban.com/subject/6709783/	浪潮之巅
+UE	https://book.douban.com/subject/5434237/	A Practical Guide to Information Architecture
+UE	https://book.douban.com/subject/5397784/	This is Service Design Thinking
+UE	https://book.douban.com/subject/1499783/	将心注入
+UE	https://book.douban.com/subject/5376384/	结网
+UE	https://book.douban.com/subject/1137278/	系统化思维导论（银年纪念版）
+UE	https://book.douban.com/subject/10591127/	修炼之道
+UE	https://book.douban.com/subject/6404782/	Effective UI
+UE	https://book.douban.com/subject/1229926/	交互设计
+UE	https://book.douban.com/subject/10516877/	体验经济
+UE	https://book.douban.com/subject/7906793/	Getting Started with OAuth 2.0
+UE	https://book.douban.com/subject/10550576/	设计心理学3
+UE	https://book.douban.com/subject/6967955/	天生是个审美的人
+UE	https://book.douban.com/subject/1313472/	About Face 2.0
+UE	https://book.douban.com/subject/6750510/	设计心理学2
+UE	https://book.douban.com/subject/6721974/	蔣道設計
+UE	https://book.douban.com/subject/1316642/	The Visual Display of Quantitative Information
+UE	https://book.douban.com/subject/1428162/	Bulletproof Web Design
+UE	https://book.douban.com/subject/6435579/	iPhone用户界面设计典型实例
+UE	https://book.douban.com/subject/5375620/	失控
+UE	https://book.douban.com/subject/1504286/	用户界面设计
+UE	https://book.douban.com/subject/5320866/	重来
+UE	https://book.douban.com/subject/2345964/	超越CSS
+UE	https://book.douban.com/subject/2364721/	交互广告学
+UE	https://book.douban.com/subject/3618849/	网页设计解析
+UE	https://book.douban.com/subject/2409737/	Game Interface Design
+UE	https://book.douban.com/subject/2627016/	Technology As Experience
+UE	https://book.douban.com/subject/2972658/	包容的智慧
+UE	https://book.douban.com/subject/3003591/	平面设计师职场调研手册
+UE	https://book.douban.com/subject/3007076/	精通JavaScript
+UE	https://book.douban.com/subject/3021255/	Flex程序设计
+UE	https://book.douban.com/subject/3039216/	构建可扩展的Web站点
+UE	https://book.douban.com/subject/3063496/	Web Form Design
+UE	https://book.douban.com/subject/3071563/	分布式计算
+UE	https://book.douban.com/subject/3132277/	高性能网站建设指南
+UE	https://book.douban.com/subject/3326182/	Measuring the User Experience
+UE	https://book.douban.com/subject/2341848/	身体语言密码
+UE	https://book.douban.com/subject/2340450/	Icon Design
+UE	https://book.douban.com/subject/2306849/	和谐界面
+UE	https://book.douban.com/subject/5271603/	卡片分类
+UE	https://book.douban.com/subject/1765779/	什么是网页设计
+UE	https://book.douban.com/subject/1812358/	Designing with Web Standards (2nd Edition)
+UE	https://book.douban.com/subject/1815077/	破译创新的前端
+UE	https://book.douban.com/subject/1849293/	Building Accessible Websites (With CD-ROM)
+UE	https://book.douban.com/subject/33405808/	交互思维：详解交互设计师技能树（全彩）
+UE	https://book.douban.com/subject/1868081/	Designing for Interaction
+UE	https://book.douban.com/subject/1869705/	JavaScript高级程序设计
+UE	https://book.douban.com/subject/1873732/	Research-Based Web Design &amp; Usability Guidelines
+UE	https://book.douban.com/subject/1873926/	CSS网站布局实录
+UE	https://book.douban.com/subject/1898098/	精通CSS
+UE	https://book.douban.com/subject/1921890/	JavaScript DOM编程艺术
+UE	https://book.douban.com/subject/2238320/	版式设计原理
+UE	https://book.douban.com/subject/2294289/	Beginning Mac OS X Tiger Dashboard Widget Development
+UE	https://book.douban.com/subject/33405808/	交互思维：详解交互设计师技能树（全彩）
+UE	https://book.douban.com/subject/4741480/	Designing with the Mind in Mind
+UE	https://book.douban.com/subject/1229926/	交互设计
+UE	https://book.douban.com/subject/4914146/	大巧不工
+UE	https://book.douban.com/subject/5271603/	卡片分类
+UE	https://book.douban.com/subject/5320866/	重来
+UE	https://book.douban.com/subject/5375620/	失控
+UE	https://book.douban.com/subject/3618849/	网页设计解析
+UE	https://book.douban.com/subject/3414987/	關鍵設計報告
+UE	https://book.douban.com/subject/1316642/	The Visual Display of Quantitative Information
+UE	https://book.douban.com/subject/2627016/	Technology As Experience
+UE	https://book.douban.com/subject/2972658/	包容的智慧
+UE	https://book.douban.com/subject/3003591/	平面设计师职场调研手册
+UE	https://book.douban.com/subject/3007076/	精通JavaScript
+UE	https://book.douban.com/subject/3021255/	Flex程序设计
+UE	https://book.douban.com/subject/3039216/	构建可扩展的Web站点
+UE	https://book.douban.com/subject/3063496/	Web Form Design
+UE	https://book.douban.com/subject/3071563/	分布式计算
+UE	https://book.douban.com/subject/3132277/	高性能网站建设指南
+UE	https://book.douban.com/subject/3326182/	Measuring the User Experience
+UE	https://book.douban.com/subject/5397784/	This is Service Design Thinking
+UE	https://book.douban.com/subject/5434237/	A Practical Guide to Information Architecture
+UE	https://book.douban.com/subject/1313472/	About Face 2.0
+UE	https://book.douban.com/subject/5997521/	用户界面设计
+UE	https://book.douban.com/subject/1465328/	Emotional Design
+UE	https://book.douban.com/subject/4741480/	Designing with the Mind in Mind
+UE	https://book.douban.com/subject/1476651/	社会心理学
+UE	https://book.douban.com/subject/1765779/	什么是网页设计
+UE	https://book.douban.com/subject/3764948/	Google API大全
+UE	https://book.douban.com/subject/3815834/	Now You See It
+UE	https://book.douban.com/subject/1504286/	用户界面设计
+UE	https://book.douban.com/subject/1499783/	将心注入
+UE	https://book.douban.com/subject/1483907/	社会心理学
+UE	https://book.douban.com/subject/4020885/	设计中的视觉思维
+UE	https://book.douban.com/subject/1481855/	Designing the User Interface
+UE	https://book.douban.com/subject/4091981/	聚焦用户
+UE	https://book.douban.com/subject/4149101/	Effective UI
+UE	https://book.douban.com/subject/1481496/	Things That Make Us Smart
+UE	https://book.douban.com/subject/4254789/	计较，是贫穷的开始
+UE	https://book.douban.com/subject/2340450/	Icon Design
+UE	https://book.douban.com/subject/1765779/	什么是网页设计
+UE	https://book.douban.com/subject/1504286/	用户界面设计
+UE	https://book.douban.com/subject/6967955/	天生是个审美的人
+UE	https://book.douban.com/subject/5434237/	A Practical Guide to Information Architecture
+UE	https://book.douban.com/subject/5397784/	This is Service Design Thinking
+UE	https://book.douban.com/subject/1868081/	Designing for Interaction
+UE	https://book.douban.com/subject/4741480/	Designing with the Mind in Mind
+UE	https://book.douban.com/subject/1946247/	Designing for Small Screens Studio
+UE	https://book.douban.com/subject/1937913/	无懈可击的Web设计
+UE	https://book.douban.com/subject/1936755/	Web Standards Creativity
+UE	https://book.douban.com/subject/1921890/	JavaScript DOM编程艺术
+UE	https://book.douban.com/subject/4914146/	大巧不工
+UE	https://book.douban.com/subject/1898098/	精通CSS
+UE	https://book.douban.com/subject/1873926/	CSS网站布局实录
+UE	https://book.douban.com/subject/1873732/	Research-Based Web Design &amp; Usability Guidelines
+UE	https://book.douban.com/subject/5271603/	卡片分类
+UE	https://book.douban.com/subject/5320866/	重来
+UE	https://book.douban.com/subject/1869705/	JavaScript高级程序设计
+UE	https://book.douban.com/subject/5375620/	失控
+UE	https://book.douban.com/subject/5376384/	结网
+UE	https://book.douban.com/subject/3071563/	分布式计算
+UE	https://book.douban.com/subject/3063496/	Web Form Design
+UE	https://book.douban.com/subject/3021255/	Flex程序设计
+UE	https://book.douban.com/subject/3007076/	精通JavaScript
+UE	https://book.douban.com/subject/3003591/	平面设计师职场调研手册
+UE	https://book.douban.com/subject/2972658/	包容的智慧
+UE	https://book.douban.com/subject/2627016/	Technology As Experience
+UE	https://book.douban.com/subject/2409737/	Game Interface Design
+UE	https://book.douban.com/subject/3132277/	高性能网站建设指南
+UE	https://book.douban.com/subject/3326182/	Measuring the User Experience
+UE	https://book.douban.com/subject/3414987/	關鍵設計報告
+UE	https://book.douban.com/subject/1021379/	社会心理学
+UE	https://book.douban.com/subject/3815834/	Now You See It
+UE	https://book.douban.com/subject/3764948/	Google API大全
+UE	https://book.douban.com/subject/3742366/	胜于言传
+UE	https://book.douban.com/subject/3712207/	Change by Design
+UE	https://book.douban.com/subject/3711709/	娱乐至死 童年的消逝
+UE	https://book.douban.com/subject/3704618/	Forms that Work
+UE	https://book.douban.com/subject/3618849/	网页设计解析
+UE	https://book.douban.com/subject/2364721/	交互广告学
+通信	https://book.douban.com/subject/26743649/	通信之道——从微积分到5G
+通信	https://book.douban.com/subject/25752043/	信息简史
+通信	https://book.douban.com/subject/30208944/	深入浅出通信原理
+通信	https://book.douban.com/subject/4199502/	大话无线通信
+通信	https://book.douban.com/subject/2305237/	信息论基础
+通信	https://book.douban.com/subject/30476355/	5G无线系统设计与国际标准
+通信	https://book.douban.com/subject/26847413/	大话5G
+通信	https://book.douban.com/subject/3671502/	大话通信
+通信	https://book.douban.com/subject/6876925/	大话移动通信
+通信	https://book.douban.com/subject/1689224/	高通方程式
+通信	https://book.douban.com/subject/3759690/	信号与系统
+通信	https://book.douban.com/subject/1392977/	射频和无线技术入门
+通信	https://book.douban.com/subject/1085209/	通信革命
+通信	https://book.douban.com/subject/27023280/	5G移动无线通信技术/5G丛书
+通信	https://book.douban.com/subject/4703192/	信息论与编码
+通信	https://book.douban.com/subject/1446684/	通信原理
+通信	https://book.douban.com/subject/30422823/	5G NR: The Next Generation Wireless Access Technology
+通信	https://book.douban.com/subject/1142324/	信号与系统的结构和解释
+通信	https://book.douban.com/subject/2188086/	数据通信与网络
+通信	https://book.douban.com/subject/33375290/	国之重器出版工程 5G移动通信 面向全连接的世界
+通信	https://book.douban.com/subject/26945105/	5G 移动通信系统
+通信	https://book.douban.com/subject/5380310/	光纤通信
+通信	https://book.douban.com/subject/1311706/	现代通信系统
+通信	https://book.douban.com/subject/2122726/	无线通信
+通信	https://book.douban.com/subject/27105137/	5G：开启未来无线通信创新之路
+通信	https://book.douban.com/subject/26757693/	无线通信
+通信	https://book.douban.com/subject/1229910/	数字通信
+通信	https://book.douban.com/subject/3507692/	通信专业实务
+通信	https://book.douban.com/subject/2152330/	无线通信基础
+通信	https://book.douban.com/subject/26376333/	全面详解LTE：MATLAB建模、仿真与实现
+通信	https://book.douban.com/subject/1191310/	数字微波通信系统
+通信	https://book.douban.com/subject/30608942/	物联网之芯：传感器件与通信芯片设计
+通信	https://book.douban.com/subject/4850456/	张元济傅增湘论书尺牍
+通信	https://book.douban.com/subject/3777361/	数字通信
+通信	https://book.douban.com/subject/30256287/	高速光纤通信中数字信号处理算法原理与应用(第1卷单载波调制技术)(精)/变革性光科学与
+通信	https://book.douban.com/subject/5325856/	逆流而上
+通信	https://book.douban.com/subject/1231907/	通信系统工程
+通信	https://book.douban.com/subject/1159588/	天线（上册）
+通信	https://book.douban.com/subject/30731789/	5G网络架构
+通信	https://book.douban.com/subject/1062827/	信号与系统
+通信	https://book.douban.com/subject/3191980/	业余无线电入门
+通信	https://book.douban.com/subject/1226286/	完整无线设计
+通信	https://book.douban.com/subject/1309999/	离散时间信号处理
+通信	https://book.douban.com/subject/1240113/	纠错码
+通信	https://book.douban.com/subject/1190072/	数字集成电路
+通信	https://book.douban.com/subject/1843553/	无线通信原理与应用
+通信	https://book.douban.com/subject/1189694/	业余无线电通信
+通信	https://book.douban.com/subject/1821877/	通信网性能分析基础
+通信	https://book.douban.com/subject/24740558/	计算机网络（第6版）
+通信	https://book.douban.com/subject/4122422/	洗牌
+通信	https://book.douban.com/subject/1918022/	The Mathematical Theory of Communication
+通信	https://book.douban.com/subject/3537825/	移动通信设备安装工艺图解
+通信	https://book.douban.com/subject/30440905/	5G之道
+通信	https://book.douban.com/subject/30318178/	芯想事成 中国芯片产业的博弈与突围
+通信	https://book.douban.com/subject/1434831/	IT通史
+通信	https://book.douban.com/subject/1933520/	通信原理
+通信	https://book.douban.com/subject/6964050/	冰与火之歌·卷一·权力的游戏（全三册）
+通信	https://book.douban.com/subject/4916564/	对话通信原理
+通信	https://book.douban.com/subject/5388602/	物联网导论
+通信	https://book.douban.com/subject/1101407/	数字与模拟通信系统
+通信	https://book.douban.com/subject/1725154/	数字电子技术基础
+通信	https://book.douban.com/subject/2031077/	疯狂的投资
+通信	https://book.douban.com/subject/3144273/	3G Evolution, Second Edition
+通信	https://book.douban.com/subject/1101417/	信号与系统
+通信	https://book.douban.com/subject/1139562/	信号与系统(上册)
+通信	https://book.douban.com/subject/1813484/	微波工程
+通信	https://book.douban.com/subject/5386194/	TCP/IP协议族
+通信	https://book.douban.com/subject/1320174/	信息论基础
+通信	https://book.douban.com/subject/3228144/	Principles of Digital Communication
+通信	https://book.douban.com/subject/1100046/	光纤通信
+通信	https://book.douban.com/subject/11903614/	The Gift of Correspondence in Classical Rome
+通信	https://book.douban.com/subject/27127039/	短线灵魂KDJ趋势交易实战技术精解
+通信	https://book.douban.com/subject/27606908/	无线紫外光通信技术与应用
+通信	https://book.douban.com/subject/1101949/	数字通信
+通信	https://book.douban.com/subject/1436158/	超宽带无线电技术
+通信	https://book.douban.com/subject/2381079/	卡莱尔、爱默生通信集
+通信	https://book.douban.com/subject/24740558/	计算机网络（第6版）
+通信	https://book.douban.com/subject/1142324/	信号与系统的结构和解释
+通信	https://book.douban.com/subject/3691313/	TCP/IP入门经典
+通信	https://book.douban.com/subject/27023280/	5G移动无线通信技术/5G丛书
+通信	https://book.douban.com/subject/26881976/	通信之美
+通信	https://book.douban.com/subject/1806994/	802.11无线网络权威指南
+通信	https://book.douban.com/subject/1091427/	数字通信
+通信	https://book.douban.com/subject/30476355/	5G无线系统设计与国际标准
+通信	https://book.douban.com/subject/5327384/	大话TD-SCDMA
+通信	https://book.douban.com/subject/3008580/	无线通信FPGA设计
+通信	https://book.douban.com/subject/25834772/	通信原理（第7版）
+通信	https://book.douban.com/subject/2341001/	无线通信
+通信	https://book.douban.com/subject/7050904/	500万人的大迁徙
+通信	https://book.douban.com/subject/1246231/	电路
+通信	https://book.douban.com/subject/26945105/	5G 移动通信系统
+通信	https://book.douban.com/subject/26779704/	大话传送网
+通信	https://book.douban.com/subject/21266848/	LTE协议栈与信令分析
+通信	https://book.douban.com/subject/4703192/	信息论与编码
+通信	https://book.douban.com/subject/7967767/	Game Theory in Wireless and Communication Networks
+通信	https://book.douban.com/subject/1813484/	微波工程
+通信	https://book.douban.com/subject/4318891/	3G演进
+通信	https://book.douban.com/subject/3731815/	WCDMA系统原理与无线网络优化
+通信	https://book.douban.com/subject/1852457/	数据通信与网络
+通信	https://book.douban.com/subject/1533214/	GSM无线网络规划与优化
+通信	https://book.douban.com/subject/1914664/	通信·网络类职位应聘指南
+通信	https://book.douban.com/subject/3025910/	VoIP技术构架
+通信	https://book.douban.com/subject/1101407/	数字与模拟通信系统
+通信	https://book.douban.com/subject/2254984/	信息论与编码
+通信	https://book.douban.com/subject/4864934/	通信概论
+通信	https://book.douban.com/subject/5291190/	信息论基础习题解答
+通信	https://book.douban.com/subject/1100854/	TCP/IP路由技术（第2卷）
+通信	https://book.douban.com/subject/1088054/	TCP/IP详解 卷1：协议
+通信	https://book.douban.com/subject/3795386/	无线通信的MATLAB和FPGA实现
+通信	https://book.douban.com/subject/3039471/	通信电子电路
+通信	https://book.douban.com/subject/1320174/	信息论基础
+通信	https://book.douban.com/subject/1576792/	通信基础知识
+通信	https://book.douban.com/subject/3369793/	亲爱的安德烈
+通信	https://book.douban.com/subject/2142558/	Error Control Coding
+通信	https://book.douban.com/subject/1265275/	IMS
+通信	https://book.douban.com/subject/2016017/	通信原理
+通信	https://book.douban.com/subject/1224035/	通信原理
+通信	https://book.douban.com/subject/10774605/	移动支付改变生活
+通信	https://book.douban.com/subject/3000788/	通信英语
+通信	https://book.douban.com/subject/1897063/	移动无线通信
+通信	https://book.douban.com/subject/1769498/	Modern Digital and Analog Communication Systems (The Oxford Series in Electrical and Computer Engineering)
+通信	https://book.douban.com/subject/1918022/	The Mathematical Theory of Communication
+通信	https://book.douban.com/subject/6533831/	4G
+通信	https://book.douban.com/subject/1239416/	Visual C++/Turbo C串口通信编程实践
+通信	https://book.douban.com/subject/27105137/	5G：开启未来无线通信创新之路
+通信	https://book.douban.com/subject/2701402/	软件无线电
+通信	https://book.douban.com/subject/1545408/	通信网络基础
+通信	https://book.douban.com/subject/1240113/	纠错码
+通信	https://book.douban.com/subject/1834458/	Simulink通信仿真教程
+通信	https://book.douban.com/subject/6938342/	详解MATLAB/Simulink通信系统建模与仿真
+通信	https://book.douban.com/subject/5388602/	物联网导论
+通信	https://book.douban.com/subject/1237355/	通信信号处理
+通信	https://book.douban.com/subject/3151584/	UMTS中的WCDMA
+通信	https://book.douban.com/subject/6709783/	浪潮之巅
+通信	https://book.douban.com/subject/3359582/	通信企业市场营销
+通信	https://book.douban.com/subject/1927590/	数字通信
+通信	https://book.douban.com/subject/2339839/	数字与模拟通信系统
+通信	https://book.douban.com/subject/2984294/	无线通信
+通信	https://book.douban.com/subject/1899500/	Wireless Communications
+通信	https://book.douban.com/subject/1230065/	现代通信系统
+通信	https://book.douban.com/subject/3032282/	纠错编码的艺术
+通信	https://book.douban.com/subject/5410501/	业余无线电通信
+通信	https://book.douban.com/subject/22627062/	Structure and Interpretation of Signals and Systems
+通信	https://book.douban.com/subject/1225200/	电磁场与电磁波
+通信	https://book.douban.com/subject/1159588/	天线（上册）
+通信	https://book.douban.com/subject/10593478/	LTE轻松进阶
+通信	https://book.douban.com/subject/26787056/	通信IC设计
+通信	https://book.douban.com/subject/2139917/	通信系统原理
+通信	https://book.douban.com/subject/6809017/	4G革命
+通信	https://book.douban.com/subject/6000212/	统计信号处理基础
+通信	https://book.douban.com/subject/5325856/	逆流而上
+通信	https://book.douban.com/subject/6520380/	无线电基础电路实作
+通信	https://book.douban.com/subject/3164449/	LTE-B3G/4G移动通信系统无线技术
+通信	https://book.douban.com/subject/3708518/	LTE for UMTS - OFDMA and SC-FDMA Based Radio Access
+通信	https://book.douban.com/subject/1933517/	微波工程
+通信	https://book.douban.com/subject/2052721/	锁相环设计、仿真与应用
+通信	https://book.douban.com/subject/1429051/	通信原理
+通信	https://book.douban.com/subject/10455749/	TD-LTE-Advanced移动通信系统设计
+通信	https://book.douban.com/subject/1843555/	现代交换原理与技术
+通信	https://book.douban.com/subject/3705285/	从零起步学电子
+通信	https://book.douban.com/subject/1879674/	移动革命
+通信	https://book.douban.com/subject/3544978/	移动基站设备与维护
+通信	https://book.douban.com/subject/1821923/	通信系统原理
+通信	https://book.douban.com/subject/20258520/	LTE/LTE-Advanced
+通信	https://book.douban.com/subject/19952190/	漫话IP
+通信	https://book.douban.com/subject/21266846/	GPRS网络信令实例详解
+通信	https://book.douban.com/subject/1240967/	现代通信最新技术
+通信	https://book.douban.com/subject/3301529/	Xilinx FPGA开发实用教程
+通信	https://book.douban.com/subject/5490956/	MIMO-OFDM Wireless Communications with MATLAB
+通信	https://book.douban.com/subject/5404176/	WSN RFID 物联网原理与应用
+通信	https://book.douban.com/subject/25902109/	FreeSWITCH权威指南
+通信	https://book.douban.com/subject/2172339/	IMS
+通信	https://book.douban.com/subject/1974138/	短距离无线数据通信入门与实战

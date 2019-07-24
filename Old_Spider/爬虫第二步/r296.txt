@@ -1,0 +1,500 @@
+UCD	https://book.douban.com/subject/1444091/	认知心理学
+UCD	https://book.douban.com/subject/3414987/	關鍵設計報告
+UCD	https://book.douban.com/subject/3421275/	A Project Guide to UX Design
+UCD	https://book.douban.com/subject/3518162/	社会研究方法
+UCD	https://book.douban.com/subject/3567853/	Getting Real
+UCD	https://book.douban.com/subject/1441403/	Observing the User Experience
+UCD	https://book.douban.com/subject/1428958/	搜主义
+UCD	https://book.douban.com/subject/1423423/	基于信息理解的信息构建
+UCD	https://book.douban.com/subject/3717183/	餐巾纸的背面
+UCD	https://book.douban.com/subject/4223580/	UI进化论
+UCD	https://book.douban.com/subject/3421275/	A Project Guide to UX Design
+UCD	https://book.douban.com/subject/27050614/	贴心的设计
+UCD	https://book.douban.com/subject/3313897/	Web导航设计
+UCD	https://book.douban.com/subject/1968938/	The Design of Sites
+UCD	https://book.douban.com/subject/1997584/	Rapid Contextual Design
+UCD	https://book.douban.com/subject/2013459/	认知心理学
+UCD	https://book.douban.com/subject/2052176/	CSS禅意花园
+UCD	https://book.douban.com/subject/2084128/	The Myths of Innovation
+UCD	https://book.douban.com/subject/2128082/	创意的构想
+UCD	https://book.douban.com/subject/2244920/	The Design of Future Things
+UCD	https://book.douban.com/subject/2247738/	软件项目管理理论与案例分析
+UCD	https://book.douban.com/subject/2262838/	好用型设计
+UCD	https://book.douban.com/subject/2382100/	完美网页设计艺术
+UCD	https://book.douban.com/subject/2781553/	Introduction to Econometrics
+UCD	https://book.douban.com/subject/2859269/	Designing with Video
+UCD	https://book.douban.com/subject/3042031/	Web设计创新思维
+UCD	https://book.douban.com/subject/3117227/	质性资料的分析
+UCD	https://book.douban.com/subject/3132277/	高性能网站建设指南
+UCD	https://book.douban.com/subject/3260737/	精通Web Analytics
+UCD	https://book.douban.com/subject/3313897/	Web导航设计
+UCD	https://book.douban.com/subject/3414987/	關鍵設計報告
+UCD	https://book.douban.com/subject/4719162/	高性能网站建设进阶指南
+神经网络	https://book.douban.com/subject/30293801/	Python深度学习
+神经网络	https://book.douban.com/subject/30192800/	Python神经网络编程
+神经网络	https://book.douban.com/subject/30270959/	深度学习入门
+神经网络	https://book.douban.com/subject/5952531/	神经网络与机器学习（原书第3版）
+神经网络	https://book.douban.com/subject/26727997/	Neural Networks and Deep Learning
+神经网络	https://book.douban.com/subject/33414479/	深度学习的数学
+神经网络	https://book.douban.com/subject/3676140/	神经网络与机器学习
+神经网络	https://book.douban.com/subject/33409947/	神经网络与深度学习
+神经网络	https://book.douban.com/subject/26666358/	连接组：造就独一无二的你
+神经网络	https://book.douban.com/subject/26840215/	Hands-On Machine Learning with Scikit-Learn and TensorFlow
+神经网络	https://book.douban.com/subject/30286131/	人工智能 （第2版）
+神经网络	https://book.douban.com/subject/1115600/	神经网络设计
+神经网络	https://book.douban.com/subject/2584657/	Neural Networks and Learning Machines
+神经网络	https://book.douban.com/subject/1159821/	意识的宇宙
+神经网络	https://book.douban.com/subject/30236893/	神经网络设计（原书第2版）
+神经网络	https://book.douban.com/subject/6346890/	Learning Deep Architectures for AI
+神经网络	https://book.douban.com/subject/26820803/	神经网络与深度学习
+神经网络	https://book.douban.com/subject/30213194/	神经网络算法与实现
+神经网络	https://book.douban.com/subject/27032271/	Neural Network Methods in Natural Language Processing
+神经网络	https://book.douban.com/subject/3689605/	基函数神经网络及应用
+神经网络	https://book.douban.com/subject/30774406/	神经网络导论
+神经网络	https://book.douban.com/subject/1121288/	行为自动机研究
+神经网络	https://book.douban.com/subject/25723403/	神经科学原理
+神经网络	https://book.douban.com/subject/27087503/	深度学习
+神经网络	https://book.douban.com/subject/3987476/	模式识别与神经网络
+神经网络	https://book.douban.com/subject/11026330/	Learning From Data
+神经网络	https://book.douban.com/subject/26945232/	Make Your Own Neural Network
+神经网络	https://book.douban.com/subject/2073245/	Neural Networks for Pattern Recognition
+神经网络	https://book.douban.com/subject/6784219/	生物心理学
+神经网络	https://book.douban.com/subject/1681499/	人工神经网络与模拟进化计算
+神经网络	https://book.douban.com/subject/30283570/	Python深度学习
+神经网络	https://book.douban.com/subject/2061116/	Pattern Recognition and Machine Learning
+神经网络	https://book.douban.com/subject/4250559/	精通MATLAB神经网络
+神经网络	https://book.douban.com/subject/21249088/	凸优化
+神经网络	https://book.douban.com/subject/4580000/	Tutorial on Neural Systems Modeling
+神经网络	https://book.douban.com/subject/26925069/	神秘的镜像神经元
+神经网络	https://book.douban.com/subject/26718687/	双脑记
+神经网络	https://book.douban.com/subject/26975184/	神经科学讲什么
+神经网络	https://book.douban.com/subject/5937126/	认知神经科学
+神经网络	https://book.douban.com/subject/5287018/	基于MATLAB与fuzzyTECH的模糊与神经网络设计
+神经网络	https://book.douban.com/subject/30312301/	认知的维度
+神经网络	https://book.douban.com/subject/1037298/	视觉信息处理的脑机制
+神经网络	https://book.douban.com/subject/30159603/	深度学习核心技术与实践
+神经网络	https://book.douban.com/subject/1154379/	大规模人工神经网络理论基础
+神经网络	https://book.douban.com/subject/1241128/	人工神经网络实用教程
+神经网络	https://book.douban.com/subject/1822059/	神经计算科学
+神经网络	https://book.douban.com/subject/6951001/	MATLAB神经网络编程
+神经网络	https://book.douban.com/subject/1227331/	神经网络的综合基础
+神经网络	https://book.douban.com/subject/1456010/	The Handbook of Brain Theory and Neural Networks
+神经网络	https://book.douban.com/subject/10317203/	Supervised Sequence Labelling with Recurrent Neural Networks 2011
+神经网络	https://book.douban.com/subject/3769058/	神经网络
+神经网络	https://book.douban.com/subject/30286131/	人工智能 （第2版）
+神经网络	https://book.douban.com/subject/26370878/	Neural Network Design
+神经网络	https://book.douban.com/subject/1214549/	MATLAB神经网络仿真与应用
+神经网络	https://book.douban.com/subject/3777673/	面向MATLAB工具箱的神经网络理论与应用
+神经网络	https://book.douban.com/subject/1834728/	人工智能的未来
+神经网络	https://book.douban.com/subject/3890040/	神经网络控制
+神经网络	https://book.douban.com/subject/30312301/	认知的维度
+神经网络	https://book.douban.com/subject/4004907/	Computational Simulation in Evolutionary Linguistics
+神经网络	https://book.douban.com/subject/30333961/	图解深度学习与神经网络：从张量到TensorFlow实现
+神经网络	https://book.douban.com/subject/26945232/	Make Your Own Neural Network
+神经网络	https://book.douban.com/subject/1121288/	行为自动机研究
+神经网络	https://book.douban.com/subject/3626964/	Parallel Distributed Processing, Vol. 1
+神经网络	https://book.douban.com/subject/3353518/	数据挖掘
+神经网络	https://book.douban.com/subject/5287018/	基于MATLAB与fuzzyTECH的模糊与神经网络设计
+神经网络	https://book.douban.com/subject/2284034/	Matlab神经网络与应用
+神经网络	https://book.douban.com/subject/2061116/	Pattern Recognition and Machine Learning
+神经网络	https://book.douban.com/subject/2059057/	细胞神经网络动力学
+神经网络	https://book.douban.com/subject/26422676/	模式识别与智能计算―MATLAB技术实现
+神经网络	https://book.douban.com/subject/30213194/	神经网络算法与实现
+神经网络	https://book.douban.com/subject/3689605/	基函数神经网络及应用
+神经网络	https://book.douban.com/subject/2039947/	A Universe Of Consciousness
+神经网络	https://book.douban.com/subject/4793046/	Neural Network Learning
+神经网络	https://book.douban.com/subject/30354653/	PyTorch 机器学习从入门到实战
+神经网络	https://book.douban.com/subject/30403904/	Neural Networks and Deep Learning
+神经网络	https://book.douban.com/subject/1872576/	From Molecules to Networks
+神经网络	https://book.douban.com/subject/1200307/	神经计算智能基础
+神经网络	https://book.douban.com/subject/1128289/	模糊控制·神经控制和智能控制论
+神经网络	https://book.douban.com/subject/1280653/	人工神经网络建造
+神经网络	https://book.douban.com/subject/5913452/	人工智慧概論
+神经网络	https://book.douban.com/subject/2223777/	Biomimetic neural learning for intelligent robots
+神经网络	https://book.douban.com/subject/26678946/	神经网络与教育
+神经网络	https://book.douban.com/subject/1708319/	电子电路识图
+神经网络	https://book.douban.com/subject/3035802/	人工神经网络与微粒群优化
+神经网络	https://book.douban.com/subject/2876200/	Recurrent Neural Networks for Prediction
+神经网络	https://book.douban.com/subject/1513573/	基于神经网络的结构优化与损伤检测
+神经网络	https://book.douban.com/subject/1177196/	递归人工神经网络的定性分析和综合
+神经网络	https://book.douban.com/subject/10535339/	MATLAB神经网络应用设计
+神经网络	https://book.douban.com/subject/4375143/	Observed Brain Dynamics
+神经网络	https://book.douban.com/subject/4288595/	生物计算机 —日本的下一代计算机
+神经网络	https://book.douban.com/subject/5352712/	神经网络权值直接确定法
+神经网络	https://book.douban.com/subject/1209378/	从神经元芯片到控制网络
+神经网络	https://book.douban.com/subject/26912214/	深度学习
+神经网络	https://book.douban.com/subject/26436438/	应用MATLAB实现神经网络
+神经网络	https://book.douban.com/subject/25926823/	智能时代
+神经网络	https://book.douban.com/subject/7947632/	An Introduction to Neural Networks
+神经网络	https://book.douban.com/subject/1185224/	神经网络及其应用
+神经网络	https://book.douban.com/subject/1246906/	MATLAB神经网络应用设计/MATLAB语言应用系列
+神经网络	https://book.douban.com/subject/22226746/	MATLAB 神经网络设计与应用
+神经网络	https://book.douban.com/subject/1740284/	人工神经网络原理及应用
+神经网络	https://book.douban.com/subject/1246752/	智能控制理论与技术
+神经网络	https://book.douban.com/subject/1241221/	MATLAB 6.5辅助神经网络分析与设计
+神经网络	https://book.douban.com/subject/26428711/	MATLAB神经网络超级学习手册
+神经网络	https://book.douban.com/subject/10342249/	Brain-Like Computing and Intelligent Information Systems
+神经网络	https://book.douban.com/subject/1124900/	人工神经网络与盲信号处理
+神经网络	https://book.douban.com/subject/3172621/	Pattern Recognition and Neural Networks
+神经网络	https://book.douban.com/subject/2038604/	社会动力学与信息化理论
+神经网络	https://book.douban.com/subject/3101322/	混沌系统的模糊神经网络控制理论与方法
+神经网络	https://book.douban.com/subject/1102235/	机器学习
+神经网络	https://book.douban.com/subject/1086267/	人工神经网络与模拟化计算
+神经网络	https://book.douban.com/subject/2844407/	Rethinking Innateness
+神经网络	https://book.douban.com/subject/1516461/	二进前向人工神经网络-----理论与应用
+神经网络	https://book.douban.com/subject/1591072/	人工神经网络原理及其应用
+神经网络	https://book.douban.com/subject/1591165/	人工神经网络技术及应用/机电工程师继续教育丛书
+神经网络	https://book.douban.com/subject/1071936/	隐秩序
+神经网络	https://book.douban.com/subject/2283765/	外汇汇率与国际原油价格波动预测
+神经网络	https://book.douban.com/subject/1638904/	人工神经网络理论、设计及应用
+神经网络	https://book.douban.com/subject/27663327/	深度学习
+神经网络	https://book.douban.com/subject/30186130/	TensorFlow深度学习
+神经网络	https://book.douban.com/subject/1494521/	基于神经网络的智能诊断
+神经网络	https://book.douban.com/subject/3712109/	Parallel Distributed Processing, Vol. 2
+神经网络	https://book.douban.com/subject/3716904/	Introduction to Neural Networks for C#, 2nd Edition
+神经网络	https://book.douban.com/subject/1430302/	信用评价与股市预测模型研究及应用
+神经网络	https://book.douban.com/subject/1945383/	Introduction to Artificial Neural Systems
+神经网络	https://book.douban.com/subject/3907641/	Introduction to Neural Networks for Java, 2nd Edition
+神经网络	https://book.douban.com/subject/1435385/	神经网络气象预报建模理论方法与应用
+神经网络	https://book.douban.com/subject/1841044/	人工神经网络与自然计算研究进展
+神经网络	https://book.douban.com/subject/26428945/	MATLAB神经网络30例
+神经网络	https://book.douban.com/subject/3222291/	意识的解释
+神经网络	https://book.douban.com/subject/26320242/	幡云世界Ⅰ
+神经网络	https://book.douban.com/subject/26163454/	数学之美 （第二版）
+神经网络	https://book.douban.com/subject/26310702/	第六代计算机
+神经网络	https://book.douban.com/subject/26883982/	Deep Learning
+神经网络	https://book.douban.com/subject/24645013/	Mathematics of Neural Networks
+神经网络	https://book.douban.com/subject/6751472/	Neural Networks and Learning Machines
+神经网络	https://book.douban.com/subject/4608959/	Parallel Distributed Processing - 2 Vol. Set
+神经网络	https://book.douban.com/subject/1200250/	模糊系统、模糊神经网络及应用程序设计
+神经网络	https://book.douban.com/subject/11741199/	Connectionism
+神经网络	https://book.douban.com/subject/10750155/	数学之美
+神经网络	https://book.douban.com/subject/6324119/	Quantum Neural Computation (Intelligent Systems, Control and Automation
+神经网络	https://book.douban.com/subject/2666780/	The Harmonic Mind: From Neural Computation to Optimality-Theoretic Grammar
+神经网络	https://book.douban.com/subject/1190532/	人工神经网络导论
+神经网络	https://book.douban.com/subject/2860857/	Neural Networks Theory
+神经网络	https://book.douban.com/subject/30147788/	scikit learn机器学习
+神经网络	https://book.douban.com/subject/1138189/	模式分类
+神经网络	https://book.douban.com/subject/23774653/	前馈神经网络及其应用
+神经网络	https://book.douban.com/subject/3982071/	Nonlinear Dispersive Waves
+神经网络	https://book.douban.com/subject/3802273/	机器学习导论
+神经网络	https://book.douban.com/subject/3779588/	基于神经网络的优化设计及应用
+神经网络	https://book.douban.com/subject/1507931/	统计学习理论的本质
+神经网络	https://book.douban.com/subject/3216250/	认知、脑与意识
+神经网络	https://book.douban.com/subject/3111282/	世界的逻辑构造
+神经网络	https://book.douban.com/subject/2125378/	Neural Networks in Finance
+神经网络	https://book.douban.com/subject/2996375/	神经网络实用教程
+神经网络	https://book.douban.com/subject/2856229/	Modelling and Control of Robot Manipulators
+神经网络	https://book.douban.com/subject/2848329/	Making Up the Mind
+神经网络	https://book.douban.com/subject/1631471/	神经网络、模糊系统及其在运动控制中的确应用
+神经网络	https://book.douban.com/subject/1655215/	计算物理学
+神经网络	https://book.douban.com/subject/2133967/	智能简史
+神经网络	https://book.douban.com/subject/1728699/	数字创世纪
+神经网络	https://book.douban.com/subject/1774301/	Theoretical Neuroscience
+神经网络	https://book.douban.com/subject/1789534/	Information Theory, Inference and Learning Algorithms
+神经网络	https://book.douban.com/subject/1810352/	灵魂机器的时代
+神经网络	https://book.douban.com/subject/1444114/	自由与神经生物学
+神经网络	https://book.douban.com/subject/4114164/	智能模糊控制的若干问题研究
+神经网络	https://book.douban.com/subject/4239728/	Neural Network Modeling Using SAS Enterprise Miner
+神经网络	https://book.douban.com/subject/21337906/	神经网络模糊推理智能信息融合及其工程应用
+神经网络	https://book.douban.com/subject/20458680/	The Hippocampus as a Cognitive Map
+神经网络	https://book.douban.com/subject/18056454/	Spiking Neural Networks
+神经网络	https://book.douban.com/subject/14129904/	Container Formats
+神经网络	https://book.douban.com/subject/12550835/	Handbook of Exact String Matching Algorithms
+神经网络	https://book.douban.com/subject/11587005/	神经网络结构优化方法及应用
+神经网络	https://book.douban.com/subject/10678769/	基于人工神经网络的旅游市场趋势预测方法研究
+神经网络	https://book.douban.com/subject/10532477/	经济预测方法及MATLAB实现
+神经网络	https://book.douban.com/subject/6861475/	意识探秘
+神经网络	https://book.douban.com/subject/6855803/	奇点临近
+神经网络	https://book.douban.com/subject/6749832/	复杂
+神经网络	https://book.douban.com/subject/30774406/	神经网络导论
+神经网络	https://book.douban.com/subject/1267556/	智能控制技术
+神经网络	https://book.douban.com/subject/4730564/	Programming Tool
+神经网络	https://book.douban.com/subject/4264880/	超越谷歌
+神经网络	https://book.douban.com/subject/4251756/	人工智能
+神经网络	https://book.douban.com/subject/4243759/	神经网络设计方法与实例分析
+神经网络	https://book.douban.com/subject/20458680/	The Hippocampus as a Cognitive Map
+神经网络	https://book.douban.com/subject/1881556/	人工智能哲学
+神经网络	https://book.douban.com/subject/26428945/	MATLAB神经网络30例
+神经网络	https://book.douban.com/subject/1444114/	自由与神经生物学
+神经网络	https://book.douban.com/subject/6855803/	奇点临近
+神经网络	https://book.douban.com/subject/2004775/	神经网络模式识别及其实现
+神经网络	https://book.douban.com/subject/1418329/	大脑设计
+神经网络	https://book.douban.com/subject/30774406/	神经网络导论
+神经网络	https://book.douban.com/subject/4114164/	智能模糊控制的若干问题研究
+神经网络	https://book.douban.com/subject/4239728/	Neural Network Modeling Using SAS Enterprise Miner
+神经网络	https://book.douban.com/subject/1507931/	统计学习理论的本质
+神经网络	https://book.douban.com/subject/4243759/	神经网络设计方法与实例分析
+神经网络	https://book.douban.com/subject/21337906/	神经网络模糊推理智能信息融合及其工程应用
+神经网络	https://book.douban.com/subject/1855894/	Anti-Patterns and Patterns in Software Configuration Management
+神经网络	https://book.douban.com/subject/2133967/	智能简史
+神经网络	https://book.douban.com/subject/23774653/	前馈神经网络及其应用
+神经网络	https://book.douban.com/subject/4264880/	超越谷歌
+神经网络	https://book.douban.com/subject/4251756/	人工智能
+神经网络	https://book.douban.com/subject/26163454/	数学之美 （第二版）
+神经网络	https://book.douban.com/subject/26310702/	第六代计算机
+神经网络	https://book.douban.com/subject/1030898/	复杂
+神经网络	https://book.douban.com/subject/4239728/	Neural Network Modeling Using SAS Enterprise Miner
+神经网络	https://book.douban.com/subject/4243759/	神经网络设计方法与实例分析
+神经网络	https://book.douban.com/subject/4251756/	人工智能
+神经网络	https://book.douban.com/subject/4264880/	超越谷歌
+神经网络	https://book.douban.com/subject/4730564/	Programming Tool
+神经网络	https://book.douban.com/subject/4735359/	2009-2010智能科学与技术学科发展报告
+神经网络	https://book.douban.com/subject/4756354/	Backpropagation
+神经网络	https://book.douban.com/subject/5309377/	随机过程导论
+神经网络	https://book.douban.com/subject/5336893/	Python自然语言处理
+神经网络	https://book.douban.com/subject/6529821/	Unsupervised Learning
+神经网络	https://book.douban.com/subject/6749832/	复杂
+神经网络	https://book.douban.com/subject/26428945/	MATLAB神经网络30例
+程序	https://book.douban.com/subject/26264642/	&#34;笨办法&#34;学Python
+程序	https://book.douban.com/subject/25837031/	算法心得：高效算法的奥秘（原书第2版）
+程序	https://book.douban.com/subject/10795044/	实用机械设计VB编程及实例
+程序	https://book.douban.com/subject/1119944/	Web协议与实践
+程序	https://book.douban.com/subject/5336890/	深入浅出Rails
+程序	https://book.douban.com/subject/1241037/	计算机程序设计艺术（第3卷）
+程序	https://book.douban.com/subject/5918414/	交易系统
+程序	https://book.douban.com/subject/1278482/	机械设计实践
+程序	https://book.douban.com/subject/2299605/	SSH, The Secure Shell
+程序	https://book.douban.com/subject/2030264/	C++大学教程
+程序	https://book.douban.com/subject/1754490/	UML精粹:标准对象建模语言简明指南(第3版)(英文影印版)
+程序	https://book.douban.com/subject/4189498/	Linux从入门到精通
+程序	https://book.douban.com/subject/27666334/	产品经理必懂的技术那点事儿：成为全栈产品经理
+程序	https://book.douban.com/subject/27080946/	The Little Schemer
+程序	https://book.douban.com/subject/1152111/	程序员修炼之道
+程序	https://book.douban.com/subject/21622482/	Python语言程序设计
+程序	https://book.douban.com/subject/1761621/	Head First Design Patterns—深入淺出設計模式
+程序	https://book.douban.com/subject/6052205/	MATLAB在数学建模中的应用
+程序	https://book.douban.com/subject/4915895/	松本行弘的程式世界
+程序	https://book.douban.com/subject/4189498/	Linux从入门到精通
+程序	https://book.douban.com/subject/1431996/	从问题到程序
+程序	https://book.douban.com/subject/6516576/	Java语言精粹
+程序	https://book.douban.com/subject/1921890/	JavaScript DOM编程艺术
+程序	https://book.douban.com/subject/1230413/	深入理解计算机系统
+程序	https://book.douban.com/subject/25728189/	像计算机科学家一样思考Python
+程序	https://book.douban.com/subject/2367743/	Object-Oriented Multithreading Using C++
+程序	https://book.douban.com/subject/26201913/	Swift语言实战入门
+程序	https://book.douban.com/subject/1767741/	C++ Primer 中文版（第 4 版）
+程序	https://book.douban.com/subject/1775608/	JavaScript: The Definitive Guide, 5th Edition
+程序	https://book.douban.com/subject/1313042/	Java编程思想
+程序	https://book.douban.com/subject/2054931/	Effective C# 中文版
+程序	https://book.douban.com/subject/6021440/	黑客与画家
+程序	https://book.douban.com/subject/5372651/	程序员的思维修炼
+程序	https://book.douban.com/subject/1241037/	计算机程序设计艺术（第3卷）
+程序	https://book.douban.com/subject/3062105/	iBATIS实战
+程序	https://book.douban.com/subject/1911882/	轻快的Java
+程序	https://book.douban.com/subject/1119873/	程序员修炼之道（影印版）
+程序	https://book.douban.com/subject/3142280/	梦断代码
+程序	https://book.douban.com/subject/1792276/	JAVA语言规范(英文版,第3版)
+程序	https://book.douban.com/subject/1052241/	设计模式
+程序	https://book.douban.com/subject/6433169/	Linux内核设计的艺术
+程序	https://book.douban.com/subject/4199741/	代码整洁之道
+程序	https://book.douban.com/subject/4719230/	编程之魂
+程序	https://book.douban.com/subject/11631340/	法治构图
+程序	https://book.douban.com/subject/3227098/	编程珠玑
+程序	https://book.douban.com/subject/1438677/	Algorithms + Data Structures = Programs
+程序	https://book.douban.com/subject/1885170/	算法导论（原书第2版）
+程序	https://book.douban.com/subject/1122321/	结构化计算机组成
+程序	https://book.douban.com/subject/1950173/	电脑报（上下册）
+程序	https://book.douban.com/subject/2052176/	CSS禅意花园
+程序	https://book.douban.com/subject/5918414/	交易系统
+程序	https://book.douban.com/subject/4924419/	C语言深度解剖
+程序	https://book.douban.com/subject/2022595/	深入浅出Tapestry
+程序	https://book.douban.com/subject/3892178/	司法的过程
+程序	https://book.douban.com/subject/1835397/	征服Ajax Web 2.0快速入门与项目实践
+程序	https://book.douban.com/subject/1231298/	程序设计语言
+程序	https://book.douban.com/subject/4865667/	MATLAB高效编程技巧与应用
+程序	https://book.douban.com/subject/1363643/	PERL學習手札.
+程序	https://book.douban.com/subject/3628911/	Dive Into Python 3
+程序	https://book.douban.com/subject/3774655/	Visual C# 2008入门经典
+程序	https://book.douban.com/subject/3264493/	MFC编程技巧与范例详解
+程序	https://book.douban.com/subject/3009651/	程序与法治
+程序	https://book.douban.com/subject/3132277/	高性能网站建设指南
+程序	https://book.douban.com/subject/3012828/	JAVASCRIPT语言精髓与编程实践
+程序	https://book.douban.com/subject/1239651/	单元测试之道Java版
+程序	https://book.douban.com/subject/1428049/	Learning PHP 5
+程序	https://book.douban.com/subject/25854719/	程序员的数学思维修炼（趣味解读）
+程序	https://book.douban.com/subject/25899625/	机器学习系统设计
+程序	https://book.douban.com/subject/2281373/	软件预构艺术（中文版）
+程序	https://book.douban.com/subject/2073826/	Linux程序设计
+程序	https://book.douban.com/subject/1236999/	The  C Programming Language
+程序	https://book.douban.com/subject/3565840/	Apache Tomcat 6高级编程
+程序	https://book.douban.com/subject/1312929/	精通Spring
+程序	https://book.douban.com/subject/3513205/	民事诉讼程序研究
+程序	https://book.douban.com/subject/3360807/	Effective java 中文版（第2版）
+程序	https://book.douban.com/subject/1105202/	Visual C++网络通信协议分析与应用实现
+程序	https://book.douban.com/subject/25702414/	Haskell函数式编程基础
+程序	https://book.douban.com/subject/1972754/	Beginning Java Objects中文版从概念到代码
+程序	https://book.douban.com/subject/1897846/	正当法律程序简史
+程序	https://book.douban.com/subject/1141154/	程序开发心理学
+程序	https://book.douban.com/subject/4830390/	Ruby on Rails实践之路
+程序	https://book.douban.com/subject/6756090/	松本行弘的程序世界
+程序	https://book.douban.com/subject/10546125/	JavaScript高级程序设计（第3版）
+程序	https://book.douban.com/subject/27666334/	产品经理必懂的技术那点事儿：成为全栈产品经理
+程序	https://book.douban.com/subject/1119894/	ASP.NET网页制作教程
+程序	https://book.douban.com/subject/1139426/	数据结构与算法分析
+程序	https://book.douban.com/subject/5387402/	程序员修炼之道
+程序	https://book.douban.com/subject/25747747/	MultiCharts Powerlanguage 语法字典
+程序	https://book.douban.com/subject/2243615/	Head First 设计模式（中文版）
+程序	https://book.douban.com/subject/1764900/	Ajax实战
+程序	https://book.douban.com/subject/5286105/	跟我学Java Web
+程序	https://book.douban.com/subject/1792177/	Visual LISP程序设计
+程序	https://book.douban.com/subject/5355285/	编程人生
+程序	https://book.douban.com/subject/3049085/	Pragmatic Thinking and Learning
+程序	https://book.douban.com/subject/1440658/	Dive Into Python
+程序	https://book.douban.com/subject/2054896/	Big C++中文版
+程序	https://book.douban.com/subject/6860890/	黑客
+程序	https://book.douban.com/subject/1754490/	UML精粹:标准对象建模语言简明指南(第3版)(英文影印版)
+程序	https://book.douban.com/subject/2778632/	C陷阱与缺陷
+程序	https://book.douban.com/subject/11530329/	30天自制操作系统
+程序	https://book.douban.com/subject/1420424/	Series 60 应用程序开发
+程序	https://book.douban.com/subject/2130190/	Java编程思想 （第4版）
+程序	https://book.douban.com/subject/2023370/	Beautiful Code
+程序	https://book.douban.com/subject/2254254/	金融计算与建模
+程序	https://book.douban.com/subject/4833653/	Ruby语言入门
+程序	https://book.douban.com/subject/1340507/	PHP和MySQL Web开发
+程序	https://book.douban.com/subject/11639780/	Effective Programming
+程序	https://book.douban.com/subject/3125048/	ActionScript 3.0精彩范例词典
+程序	https://book.douban.com/subject/6850996/	CASIO fx-5800P编程计算器公路与铁路施工测量程序
+程序	https://book.douban.com/subject/5922756/	程序员2010精华本
+程序	https://book.douban.com/subject/3892590/	面向对象分析与设计
+程序	https://book.douban.com/subject/3991702/	数据结构与算法
+程序	https://book.douban.com/subject/4123421/	Java Web服务：构建与运行
+程序	https://book.douban.com/subject/2152386/	Python网络编程基础
+程序	https://book.douban.com/subject/1488693/	程序的法理
+程序	https://book.douban.com/subject/1472607/	Ajax基础教程
+程序	https://book.douban.com/subject/4866934/	Python基础教程（第2版）
+程序	https://book.douban.com/subject/4262627/	重构
+程序	https://book.douban.com/subject/3576066/	JavaScript入门经典
+程序	https://book.douban.com/subject/1507275/	C++ How to Program (5th Edition) (How to Program)
+程序	https://book.douban.com/subject/10506679/	C语言基础
+程序	https://book.douban.com/subject/3151586/	黑客入侵网页攻防修炼
+程序	https://book.douban.com/subject/1672297/	计算机操作系统
+程序	https://book.douban.com/subject/3349773/	UML风格
+程序	https://book.douban.com/subject/3354137/	彩色UML建模
+程序	https://book.douban.com/subject/3420144/	Pro Git
+程序	https://book.douban.com/subject/1649817/	程序与民主
+程序	https://book.douban.com/subject/6038371/	JavaScript DOM编程艺术 （第2版）
+程序	https://book.douban.com/subject/1481173/	Linux内核完全剖析
+程序	https://book.douban.com/subject/1140457/	敏捷软件开发
+程序	https://book.douban.com/subject/1229923/	重构
+程序	https://book.douban.com/subject/3288908/	集体智慧编程
+程序	https://book.douban.com/subject/3884108/	可爱的Python
+程序	https://book.douban.com/subject/4722708/	系统程序员成长计划
+程序	https://book.douban.com/subject/4164024/	高效程序员的45个习惯
+程序	https://book.douban.com/subject/1102259/	人月神话
+程序	https://book.douban.com/subject/4986437/	能量分析攻击
+程序	https://book.douban.com/subject/5336890/	深入浅出Rails
+程序	https://book.douban.com/subject/1102165/	从规范出发的程序设计
+程序	https://book.douban.com/subject/6713152/	软件研发之道
+程序	https://book.douban.com/subject/10440818/	苹果的味道
+程序	https://book.douban.com/subject/2208530/	鸟哥的Linux私房菜 基础学习篇(第二版)
+程序	https://book.douban.com/subject/3137255/	JavaScript开发王
+程序	https://book.douban.com/subject/1126084/	软件测试
+程序	https://book.douban.com/subject/3852290/	现代操作系统（第3版）
+程序	https://book.douban.com/subject/7564093/	编程原本
+程序	https://book.douban.com/subject/10555435/	七周七语言
+程序	https://book.douban.com/subject/19978430/	编程.建筑
+程序	https://book.douban.com/subject/1119944/	Web协议与实践
+程序	https://book.douban.com/subject/1173548/	程序设计实践
+程序	https://book.douban.com/subject/1175322/	.NET框架程序设计
+程序	https://book.douban.com/subject/1195791/	法律程序的意义:对中国法制建设的另一种思考
+程序	https://book.douban.com/subject/7000171/	JavaScript快速开发工具箱
+程序	https://book.douban.com/subject/2354769/	高质量程序设计艺术
+程序	https://book.douban.com/subject/1223239/	JSP 2.0技术手册
+程序	https://book.douban.com/subject/2858461/	Google API开发详解
+程序	https://book.douban.com/subject/1967180/	C++编程风格
+程序	https://book.douban.com/subject/1787855/	Programming From The Ground Up
+程序	https://book.douban.com/subject/2367867/	ActionScript 3.0 Cookbook中文版
+程序	https://book.douban.com/subject/1278482/	机械设计实践
+程序	https://book.douban.com/subject/1231910/	具体数学（英文版第2版）
+程序	https://book.douban.com/subject/1797513/	Programming Python
+程序	https://book.douban.com/subject/1866824/	理解专业程序员
+程序	https://book.douban.com/subject/1879443/	ASP.NET 2.0入门经典
+程序	https://book.douban.com/subject/1911557/	Head First EJB（中文版）
+程序	https://book.douban.com/subject/1232061/	JAVASCRIPT权威指南(第四版)
+程序	https://book.douban.com/subject/1922986/	JUnit Recipes中文版
+程序	https://book.douban.com/subject/1240002/	C Primer Plus
+程序	https://book.douban.com/subject/1149168/	程序正义论
+程序	https://book.douban.com/subject/27094860/	自己动手做iOS App
+程序	https://book.douban.com/subject/1090640/	微机原理与接口技术
+程序	https://book.douban.com/subject/1121290/	面向对象软件开发原理
+程序	https://book.douban.com/subject/1175319/	Microsoft Windows程序设计
+程序	https://book.douban.com/subject/1174976/	UML风格
+程序	https://book.douban.com/subject/1313472/	About Face 2.0
+程序	https://book.douban.com/subject/1172101/	高级用例建模(卷1) (平装)
+程序	https://book.douban.com/subject/1289136/	C语言的科学和艺术
+程序	https://book.douban.com/subject/1262909/	Java程序设计与应用开发
+程序	https://book.douban.com/subject/1291204/	哥德尔、艾舍尔、巴赫
+程序	https://book.douban.com/subject/1180576/	系统分析与设计方法
+程序	https://book.douban.com/subject/1188452/	Java Script深度剖析
+程序	https://book.douban.com/subject/2378124/	C++Templates中文版
+程序	https://book.douban.com/subject/1241039/	Fortran95程序设计
+程序	https://book.douban.com/subject/1241247/	Linux集群体系结构
+程序	https://book.douban.com/subject/1241361/	学习bash
+程序	https://book.douban.com/subject/1243974/	C++面向对象程序设计
+程序	https://book.douban.com/subject/1246044/	VC++.NET入门
+程序	https://book.douban.com/subject/1246454/	C语言程序设计上机指导与习题选解
+程序	https://book.douban.com/subject/1041635/	QBasic语言程序设计教程(第2版习题解答)
+程序	https://book.douban.com/subject/1277288/	Intel系列微处理器体系结构、编程与接口
+程序	https://book.douban.com/subject/1278262/	八年级数学(华东师大版)-解题升级-解题快速反应一本通(新课标)
+程序	https://book.douban.com/subject/1283244/	ACM图灵奖演讲集
+程序	https://book.douban.com/subject/1088054/	TCP/IP详解 卷1：协议
+程序	https://book.douban.com/subject/1241361/	学习bash
+程序	https://book.douban.com/subject/1241247/	Linux集群体系结构
+程序	https://book.douban.com/subject/1241039/	Fortran95程序设计
+程序	https://book.douban.com/subject/1240105/	Oricle8i Web开发指南
+程序	https://book.douban.com/subject/1239416/	Visual C++/Turbo C串口通信编程实践
+程序	https://book.douban.com/subject/1237970/	旷世之战――IBM深蓝夺冠之路
+程序	https://book.douban.com/subject/1283244/	ACM图灵奖演讲集
+程序	https://book.douban.com/subject/1289136/	C语言的科学和艺术
+程序	https://book.douban.com/subject/1121290/	面向对象软件开发原理
+程序	https://book.douban.com/subject/2378124/	C++Templates中文版
+程序	https://book.douban.com/subject/1152912/	算法导论
+程序	https://book.douban.com/subject/1155487/	面向对象技术UML教程
+程序	https://book.douban.com/subject/1171448/	现代体系结构的优化编译器
+程序	https://book.douban.com/subject/1172101/	高级用例建模(卷1) (平装)
+程序	https://book.douban.com/subject/1174976/	UML风格
+程序	https://book.douban.com/subject/1175319/	Microsoft Windows程序设计
+程序	https://book.douban.com/subject/1180576/	系统分析与设计方法
+程序	https://book.douban.com/subject/1188452/	Java Script深度剖析
+程序	https://book.douban.com/subject/1313472/	About Face 2.0
+程序	https://book.douban.com/subject/1291204/	哥德尔、艾舍尔、巴赫
+程序	https://book.douban.com/subject/1237970/	旷世之战――IBM深蓝夺冠之路
+程序	https://book.douban.com/subject/1237261/	用UML构建Web应用
+程序	https://book.douban.com/subject/1232756/	程序的力量
+程序	https://book.douban.com/subject/1241039/	Fortran95程序设计
+程序	https://book.douban.com/subject/1241247/	Linux集群体系结构
+程序	https://book.douban.com/subject/1241361/	学习bash
+程序	https://book.douban.com/subject/1770051/	Ruby Cookbook
+程序	https://book.douban.com/subject/1769295/	BSD Hacks
+程序	https://book.douban.com/subject/1291204/	哥德尔、艾舍尔、巴赫
+程序	https://book.douban.com/subject/1765832/	Mastering JavaServer Faces
+程序	https://book.douban.com/subject/2378124/	C++Templates中文版
+程序	https://book.douban.com/subject/1289136/	C语言的科学和艺术
+程序	https://book.douban.com/subject/1283244/	ACM图灵奖演讲集
+程序	https://book.douban.com/subject/1278262/	八年级数学(华东师大版)-解题升级-解题快速反应一本通(新课标)
+程序	https://book.douban.com/subject/1277288/	Intel系列微处理器体系结构、编程与接口
+程序	https://book.douban.com/subject/1110934/	STL源码剖析
+程序	https://book.douban.com/subject/1262909/	Java程序设计与应用开发
+程序	https://book.douban.com/subject/1121290/	面向对象软件开发原理
+程序	https://book.douban.com/subject/1246454/	C语言程序设计上机指导与习题选解
+程序	https://book.douban.com/subject/1246044/	VC++.NET入门
+程序	https://book.douban.com/subject/1765832/	Mastering JavaServer Faces
+程序	https://book.douban.com/subject/1769295/	BSD Hacks
+程序	https://book.douban.com/subject/1770051/	Ruby Cookbook
+程序	https://book.douban.com/subject/1780219/	Object-Oriented Design Heuristics
+程序	https://book.douban.com/subject/1784887/	Hacker&#39;s Delight
+程序	https://book.douban.com/subject/1786120/	数据挖掘导论
+程序	https://book.douban.com/subject/1787096/	The Lambda Calculus, Its Syntax and Semantics . Revised Edition
+程序	https://book.douban.com/subject/1787103/	How to Design Programs
+程序	https://book.douban.com/subject/1764643/	The Haskell School of Expression
+程序	https://book.douban.com/subject/1762127/	A Discipline of Programming
+程序	https://book.douban.com/subject/1760738/	编程卓越之道
+程序	https://book.douban.com/subject/1175319/	Microsoft Windows程序设计
+程序	https://book.douban.com/subject/1174976/	UML风格
+程序	https://book.douban.com/subject/1172101/	高级用例建模(卷1) (平装)
+程序	https://book.douban.com/subject/1171448/	现代体系结构的优化编译器
+程序	https://book.douban.com/subject/1155487/	面向对象技术UML教程
+程序	https://book.douban.com/subject/1152912/	算法导论
+程序	https://book.douban.com/subject/1151672/	代码阅读方法与实践
+程序	https://book.douban.com/subject/1151455/	数据结构教程

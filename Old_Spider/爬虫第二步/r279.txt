@@ -1,0 +1,500 @@
+编程	https://book.douban.com/subject/3864436/	Let Over Lambda
+编程	https://book.douban.com/subject/30133440/	Java编程的逻辑
+编程	https://book.douban.com/subject/30346440/	Spring in Action
+编程	https://book.douban.com/subject/26635862/	Modern PHP（中文版）
+编程	https://book.douban.com/subject/30379614/	支付宝小程序开发实战
+编程	https://book.douban.com/subject/25841326/	Java核心技术（卷2）：高级特性（原书第9版）
+编程	https://book.douban.com/subject/26877215/	魔力Haskell
+编程	https://book.douban.com/subject/10546925/	白帽子讲Web安全
+编程	https://book.douban.com/subject/20254543/	算法竞赛入门经典
+编程	https://book.douban.com/subject/26346017/	Java 8函数式编程
+编程	https://book.douban.com/subject/11530329/	30天自制操作系统
+编程	https://book.douban.com/subject/6860890/	黑客
+编程	https://book.douban.com/subject/4253716/	Unix &amp; Linux大学教程
+编程	https://book.douban.com/subject/27665114/	Kafka权威指南
+编程	https://book.douban.com/subject/4854123/	Algorithms
+编程	https://book.douban.com/subject/1208843/	C语言程序设计
+编程	https://book.douban.com/subject/4805165/	.NET设计规范
+编程	https://book.douban.com/subject/1765938/	Algorithms on Strings, Trees and Sequences
+编程	https://book.douban.com/subject/19952184/	别怕，Excel VBA其实很简单
+编程	https://book.douban.com/subject/26358448/	人月神话(40周年中文纪念版)
+编程	https://book.douban.com/subject/26702570/	python绝技：运用python成为顶级黑客
+编程	https://book.douban.com/subject/24703731/	LaTeX入门
+编程	https://book.douban.com/subject/26366784/	Grokking Algorithms
+编程	https://book.douban.com/subject/1921890/	JavaScript DOM编程艺术
+编程	https://book.douban.com/subject/26586598/	性能之巅
+编程	https://book.douban.com/subject/6116205/	手把手教你学DSP
+编程	https://book.douban.com/subject/26284938/	Automate the Boring Stuff with Python
+编程	https://book.douban.com/subject/26268555/	程序员思维修炼
+编程	https://book.douban.com/subject/4838430/	数据库系统实现
+编程	https://book.douban.com/subject/27620408/	你不知道的JavaScript（下卷）
+编程	https://book.douban.com/subject/1103015/	Effective Java 中文版
+编程	https://book.douban.com/subject/10769749/	推荐系统实践
+编程	https://book.douban.com/subject/10417500/	Head First HTML and CSS
+编程	https://book.douban.com/subject/30455287/	PHP 7底层设计与源码实现
+编程	https://book.douban.com/subject/6114900/	The Clean Coder
+编程	https://book.douban.com/subject/26834485/	数据结构与算法经典问题解析
+编程	https://book.douban.com/subject/1971825/	数据结构与算法分析
+编程	https://book.douban.com/subject/25712292/	Software Foundations
+编程	https://book.douban.com/subject/6756090/	松本行弘的程序世界
+编程	https://book.douban.com/subject/30185212/	Java工程师修炼之道
+编程	https://book.douban.com/subject/10745760/	Qt Creator快速入门
+编程	https://book.douban.com/subject/26302596/	编程珠玑（续）（修订版）
+编程	https://book.douban.com/subject/4831448/	Linux程序设计
+编程	https://book.douban.com/subject/21338365/	HTML &amp; CSS设计与构建网站
+编程	https://book.douban.com/subject/1882483/	C程序设计语言
+编程	https://book.douban.com/subject/3037562/	汇编语言（第2版）
+编程	https://book.douban.com/subject/26745255/	深入理解Nginx（第2版）
+编程	https://book.douban.com/subject/10549733/	JavaScript权威指南(第6版)
+编程	https://book.douban.com/subject/19986936/	深入浅出密码学
+编程	https://book.douban.com/subject/1096216/	C++语言的设计和演化
+编程	https://book.douban.com/subject/27065013/	Android编程权威指南（第3版）
+编程	https://book.douban.com/subject/26581686/	Java Web高级编程
+编程	https://book.douban.com/subject/1219329/	Unix/Linux编程实践教程
+编程	https://book.douban.com/subject/3234692/	编程珠玑II
+编程	https://book.douban.com/subject/33389549/	架构修炼之道——亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践
+编程	https://book.douban.com/subject/26352658/	JavaScript面向对象精要
+编程	https://book.douban.com/subject/26745943/	CSS揭秘
+编程	https://book.douban.com/subject/6003832/	软件框架设计的艺术
+编程	https://book.douban.com/subject/26918038/	深入React技术栈
+编程	https://book.douban.com/subject/2112672/	精通脚本黑客
+编程	https://book.douban.com/subject/27114728/	程序化广告实战
+编程	https://book.douban.com/subject/26287363/	The iOS Apprentice
+编程	https://book.douban.com/subject/4291903/	Parsing Techniques
+编程	https://book.douban.com/subject/3775842/	C标准库
+编程	https://book.douban.com/subject/5273955/	Windows程序设计
+编程	https://book.douban.com/subject/3210669/	编程匠艺
+编程	https://book.douban.com/subject/25837031/	算法心得：高效算法的奥秘（原书第2版）
+编程	https://book.douban.com/subject/26836475/	500 Lines or Less
+编程	https://book.douban.com/subject/26590745/	Java语言程序设计（基础篇 原书第10版）
+编程	https://book.douban.com/subject/33463930/	操作系统导论
+编程	https://book.douban.com/subject/26943280/	啊哈C语言！逻辑的挑战（修订版）
+编程	https://book.douban.com/subject/30293851/	Flask Web开发
+编程	https://book.douban.com/subject/19971952/	快学Scala
+编程	https://book.douban.com/subject/25927585/	代码之髓
+编程	https://book.douban.com/subject/1236999/	The  C Programming Language
+编程	https://book.douban.com/subject/27000879/	深入理解计算机系统（英文版·第3版）
+编程	https://book.douban.com/subject/27074608/	Python数据处理
+编程	https://book.douban.com/subject/1138768/	深入Java虚拟机(原书第2版)
+编程	https://book.douban.com/subject/24641620/	High Performance Python
+编程	https://book.douban.com/subject/26599538/	Android开发艺术探索
+编程	https://book.douban.com/subject/25716079/	啊哈C！思考快你一步
+编程	https://book.douban.com/subject/26886337/	Python机器学习及实践
+编程	https://book.douban.com/subject/3351927/	Tomcat与Java Web开发技术详解（第2版）
+编程	https://book.douban.com/subject/26869992/	用Python写网络爬虫
+编程	https://book.douban.com/subject/1679623/	C程序设计
+编程	https://book.douban.com/subject/27074612/	深入理解Android内核设计思想（第2版 套装上下册）
+编程	https://book.douban.com/subject/3072383/	The Algorithm Design Manual
+编程	https://book.douban.com/subject/4137365/	你必须知道的261个Java语言问题
+编程	https://book.douban.com/subject/4710825/	妙趣横生的算法
+编程	https://book.douban.com/subject/2269648/	正则表达式必知必会
+编程	https://book.douban.com/subject/26649050/	App研发录：架构设计、Crash分析和竞品技术分析
+编程	https://book.douban.com/subject/26419721/	C++标准库（第2版）
+编程	https://book.douban.com/subject/4006425/	我是一只IT小小鸟
+编程	https://book.douban.com/subject/27615777/	CSS世界
+编程	https://book.douban.com/subject/1139244/	编程高手箴言
+编程	https://book.douban.com/subject/26468916/	Python 3面向对象编程
+编程	https://book.douban.com/subject/26354292/	实战Java虚拟机
+编程	https://book.douban.com/subject/1761910/	Types and Programming Languages
+编程	https://book.douban.com/subject/4719230/	编程之魂
+编程	https://book.douban.com/subject/30311070/	自制编程语言 基于C语言
+编程	https://book.douban.com/subject/4604591/	C++程序设计语言
+编程	https://book.douban.com/subject/26772149/	Scala函数式编程
+编程	https://book.douban.com/subject/24699632/	R语言编程艺术
+编程	https://book.douban.com/subject/4033320/	学习OpenCV（中文版）
+编程	https://book.douban.com/subject/4924164/	软件开发者路线图
+编程	https://book.douban.com/subject/30262030/	Effective Java（第3版）（英文版）
+编程	https://book.douban.com/subject/30155590/	Python编程导论（第2版）
+编程	https://book.douban.com/subject/10773324/	Python标准库
+编程	https://book.douban.com/subject/10773334/	易读代码的艺术
+编程	https://book.douban.com/subject/1114971/	Java2 核心技术
+编程	https://book.douban.com/subject/30294881/	Scratch高手密码：编程思维改变未来
+编程	https://book.douban.com/subject/2065284/	Release It!
+编程	https://book.douban.com/subject/25805804/	C和C++安全编码
+编程	https://book.douban.com/subject/26613247/	零基础学Minecraft编程
+编程	https://book.douban.com/subject/26757974/	R for Data Science
+编程	https://book.douban.com/subject/25713498/	迷茫的旅行商
+编程	https://book.douban.com/subject/4015134/	深入理解LINUX网络技术内幕
+编程	https://book.douban.com/subject/24708143/	MySQL技术内幕
+编程	https://book.douban.com/subject/1459281/	The Practice of Programming
+编程	https://book.douban.com/subject/26371167/	Java学习笔记
+编程	https://book.douban.com/subject/27608170/	最高休息法
+编程	https://book.douban.com/subject/26952826/	精通Spring 4.x
+编程	https://book.douban.com/subject/1230036/	测试驱动开发
+编程	https://book.douban.com/subject/4130141/	C++ Concurrency in Action
+编程	https://book.douban.com/subject/25953851/	深入分析Java Web技术内幕（修订版）
+编程	https://book.douban.com/subject/1230206/	编程珠玑(第二版)
+编程	https://book.douban.com/subject/21325184/	Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION
+编程	https://book.douban.com/subject/6800774/	SQL反模式
+编程	https://book.douban.com/subject/25716166/	从缺陷中学习C/C++
+编程	https://book.douban.com/subject/1459728/	Thinking in C++
+编程	https://book.douban.com/subject/10470970/	Spring技术内幕（第2版）
+编程	https://book.douban.com/subject/2147916/	深入浅出面向对象分析与设计
+编程	https://book.douban.com/subject/30271075/	奔跑吧，程序员
+编程	https://book.douban.com/subject/1102097/	C陷阱与缺陷
+编程	https://book.douban.com/subject/1214074/	Java与模式
+编程	https://book.douban.com/subject/32581281/	深入浅出Vue.js
+编程	https://book.douban.com/subject/4048566/	算法设计手册
+编程	https://book.douban.com/subject/27196747/	R语言编程指南
+编程	https://book.douban.com/subject/2057924/	计算机程序设计艺术：第4卷 第4册（双语版）
+编程	https://book.douban.com/subject/26945232/	Make Your Own Neural Network
+编程	https://book.douban.com/subject/26994394/	流利的Python语言 (影印版)
+编程	https://book.douban.com/subject/21661495/	Clojure编程
+编程	https://book.douban.com/subject/24749903/	世界是数字的
+编程	https://book.douban.com/subject/27666339/	C++性能优化指南
+编程	https://book.douban.com/subject/30418855/	Kubernetes in Action中文版
+编程	https://book.douban.com/subject/11577300/	Go语言编程
+编程	https://book.douban.com/subject/28510175/	Scratch从入门到精通
+编程	https://book.douban.com/subject/4065258/	算法：C语言实现
+编程	https://book.douban.com/subject/25741352/	领域专用语言实战
+编程	https://book.douban.com/subject/24733747/	像程序员一样思考
+编程	https://book.douban.com/subject/26937425/	一路编程
+编程	https://book.douban.com/subject/26285940/	CLR via C#
+编程	https://book.douban.com/subject/25741413/	Processing语言权威指南
+编程	https://book.douban.com/subject/30402683/	代码里的世界观——通往架构师之路
+编程	https://book.douban.com/subject/27101353/	Java核心技术(卷Ⅱ高级特性上下第10版英文版)
+编程	https://book.douban.com/subject/27166893/	Ruby基础教程 第5版
+编程	https://book.douban.com/subject/24529132/	改变未来的九大算法
+编程	https://book.douban.com/subject/3259433/	代码之道
+编程	https://book.douban.com/subject/6801697/	C语言接口与实现
+编程	https://book.douban.com/subject/1231142/	UML基础、案例与应用
+编程	https://book.douban.com/subject/2607402/	Head First Java (2nd Edition)
+编程	https://book.douban.com/subject/25856314/	Web性能权威指南
+编程	https://book.douban.com/subject/3893574/	计算几何
+编程	https://book.douban.com/subject/10536031/	C++语言的设计与演化
+编程	https://book.douban.com/subject/27072230/	深入理解ES6
+编程	https://book.douban.com/subject/1134994/	编译原理
+编程	https://book.douban.com/subject/1755557/	Purely Functional Data Structures
+编程	https://book.douban.com/subject/26634683/	Think Python
+编程	https://book.douban.com/subject/26823135/	别怕，Excel VBA其实很简单（第2版）
+编程	https://book.douban.com/subject/6892016/	深入浅出Python（影印版）
+编程	https://book.douban.com/subject/7006719/	这就是搜索引擎
+编程	https://book.douban.com/subject/26366425/	软件随想录 卷2
+编程	https://book.douban.com/subject/27068939/	实用机器学习
+编程	https://book.douban.com/subject/3836472/	Artificial Intelligence for Games, Second Edition
+编程	https://book.douban.com/subject/26978888/	数据分析技术白皮书
+编程	https://book.douban.com/subject/2116178/	计算机图形学
+编程	https://book.douban.com/subject/11874748/	JavaScript语言精粹
+编程	https://book.douban.com/subject/30419577/	推荐系统与深度学习
+编程	https://book.douban.com/subject/11610789/	Python入门经典
+编程	https://book.douban.com/subject/25856712/	树莓派学习指南
+编程	https://book.douban.com/subject/2994636/	计算机组成原理
+编程	https://book.douban.com/subject/1215178/	汇编语言
+编程	https://book.douban.com/subject/1836464/	MATLAB数值计算
+编程	https://book.douban.com/subject/10794788/	鸟哥的Linux私房菜
+编程	https://book.douban.com/subject/1723151/	Linux设备驱动程序
+编程	https://book.douban.com/subject/26389274/	Python高手之路
+编程	https://book.douban.com/subject/26708954/	ES6 标准入门（第2版）
+编程	https://book.douban.com/subject/7007204/	编程大师访谈录
+编程	https://book.douban.com/subject/1494026/	Code
+编程	https://book.douban.com/subject/26373138/	Netty权威指南（第2版）
+编程	https://book.douban.com/subject/6524000/	程序设计实践
+编程	https://book.douban.com/subject/1231980/	Java 2核心技术（卷Ⅱ）
+编程	https://book.douban.com/subject/23055481/	编程语言原理
+编程	https://book.douban.com/subject/26266751/	How Linux Works
+编程	https://book.douban.com/subject/7564417/	Linux/Unix设计思想
+编程	https://book.douban.com/subject/3673223/	Coders at Work
+编程	https://book.douban.com/subject/1944729/	程序设计语言理论基础
+编程	https://book.douban.com/subject/1232071/	如何求解问题
+编程	https://book.douban.com/subject/25881855/	大教堂与集市
+编程	https://book.douban.com/subject/4189498/	Linux从入门到精通
+编程	https://book.douban.com/subject/27102599/	编程风格
+编程	https://book.douban.com/subject/26971561/	Redis开发与运维
+编程	https://book.douban.com/subject/10759600/	疯狂HTML 5/CSS 3/JavaScript讲义
+编程	https://book.douban.com/subject/30379453/	软件调试 第2版
+编程	https://book.douban.com/subject/10767809/	Accelerated C++中文版通过示例进行编程实践
+编程	https://book.douban.com/subject/1142213/	计算机科学导论
+编程	https://book.douban.com/subject/21335502/	零基础学按键精灵
+编程	https://book.douban.com/subject/26586582/	黑客秘笈
+编程	https://book.douban.com/subject/24153574/	Android 4高级编程
+编程	https://book.douban.com/subject/24530461/	复杂性思考
+编程	https://book.douban.com/subject/11628134/	Programming Languages
+编程	https://book.douban.com/subject/26414709/	零基础学Python
+编程	https://book.douban.com/subject/1781451/	JAVA 2核心技术 卷Ⅰ
+编程	https://book.douban.com/subject/27021033/	Python语言程序设计基础（第2版）
+编程	https://book.douban.com/subject/3329887/	Ruby编程语言
+编程	https://book.douban.com/subject/26791781/	Expert Python Programming - Second Edition
+编程	https://book.douban.com/subject/26808217/	R语言入门与实践
+编程	https://book.douban.com/subject/26570695/	Cracking the Coding Interview
+编程	https://book.douban.com/subject/27594722/	Java函数式编程
+编程	https://book.douban.com/subject/6828074/	解析极限编程
+编程	https://book.douban.com/subject/10555435/	七周七语言
+编程	https://book.douban.com/subject/27013197/	The Rust Programming Language
+编程	https://book.douban.com/subject/25866350/	Spring源码深度解析
+编程	https://book.douban.com/subject/30740591/	小创客的第一课：给孩子的编程启蒙书
+编程	https://book.douban.com/subject/25735333/	自制编程语言
+编程	https://book.douban.com/subject/30314669/	Python编程之美：最佳实践指南
+编程	https://book.douban.com/subject/3010746/	Advance Bash-Scripting Guide
+编程	https://book.douban.com/subject/33386709/	Python网络爬虫权威指南（第2版）
+编程	https://book.douban.com/subject/26906848/	动手玩转ScratchJr编程
+编程	https://book.douban.com/subject/1290512/	SAP程序设计
+编程	https://book.douban.com/subject/4149534/	C安全编码标准
+编程	https://book.douban.com/subject/5377415/	Scala编程
+编程	https://book.douban.com/subject/33419618/	Kotlin核心编程
+编程	https://book.douban.com/subject/1418618/	Domain-Driven Design
+编程	https://book.douban.com/subject/30429574/	python编程从零基础到项目实战（微课视频版）
+编程	https://book.douban.com/subject/30159269/	Node.js 设计模式（第 2 版）
+编程	https://book.douban.com/subject/26644935/	Android 源码设计模式解析与实战
+编程	https://book.douban.com/subject/1888733/	Java Concurrency in Practice
+编程	https://book.douban.com/subject/26604008/	计算机组成与设计（原书第5版）
+编程	https://book.douban.com/subject/26849801/	Laravel框架关键技术解析
+编程	https://book.douban.com/subject/30364208/	Android音视频开发
+编程	https://book.douban.com/subject/33387077/	Database Internals
+编程	https://book.douban.com/subject/19894872/	Head First HTML5 Programming（中文版）
+编程	https://book.douban.com/subject/27013734/	Docker开发指南
+编程	https://book.douban.com/subject/6730363/	人工智能
+编程	https://book.douban.com/subject/1806974/	现代编译原理
+编程	https://book.douban.com/subject/26727046/	Mazes for Programmers: Code Your Own Twisty Little Passages
+编程	https://book.douban.com/subject/1929984/	数据库系统概念
+编程	https://book.douban.com/subject/31829519/	Graph Algorithms
+编程	https://book.douban.com/subject/10785602/	Exceptional C++（中文版）
+编程	https://book.douban.com/subject/2208626/	代码大全
+编程	https://book.douban.com/subject/26284925/	Web Scraping with Python
+编程	https://book.douban.com/subject/2044818/	操作系统设计与实现（上册）
+编程	https://book.douban.com/subject/1110941/	C++标准程序库
+编程	https://book.douban.com/subject/24859590/	The C++ Programming Language
+编程	https://book.douban.com/subject/3224524/	代码之美
+编程	https://book.douban.com/subject/27087826/	iOS编程（第5版）
+编程	https://book.douban.com/subject/25785318/	WPF 编程宝典
+编程	https://book.douban.com/subject/1422377/	自己动手写操作系统
+编程	https://book.douban.com/subject/26268767/	Wireshark网络分析就这么简单
+编程	https://book.douban.com/subject/26670241/	Python金融大数据分析
+编程	https://book.douban.com/subject/3904676/	Introduction to Algorithms, 3rd Edition
+编程	https://book.douban.com/subject/1144007/	Java数据结构和算法
+编程	https://book.douban.com/subject/5912193/	不插电的计算机科学
+编程	https://book.douban.com/subject/30323938/	数据结构与算法：python语言实现
+编程	https://book.douban.com/subject/6862062/	持续交付
+编程	https://book.douban.com/subject/19993871/	The Little SAS Book
+编程	https://book.douban.com/subject/5338398/	自己动手写网络爬虫
+编程	https://book.douban.com/subject/3519369/	Java TCP/IP Socket编程
+编程	https://book.douban.com/subject/20493657/	设计模式的艺术
+编程	https://book.douban.com/subject/19969386/	Java程序性能优化
+编程	https://book.douban.com/subject/19973015/	Operating Systems
+编程	https://book.douban.com/subject/4707725/	TCP/IP详解 卷1：协议（英文版）
+编程	https://book.douban.com/subject/26301904/	优质代码
+编程	https://book.douban.com/subject/30373386/	你也能看得懂的Python算法书
+编程	https://book.douban.com/subject/1193557/	代码优化
+编程	https://book.douban.com/subject/27055712/	SQL基础教程
+编程	https://book.douban.com/subject/26244729/	Go并发编程实战
+编程	https://book.douban.com/subject/26351257/	算法的乐趣
+编程	https://book.douban.com/subject/27195063/	Python游戏编程快速上手 第4版
+编程	https://book.douban.com/subject/1365710/	Creative Code
+编程	https://book.douban.com/subject/27039469/	理解信念：人工智能的科学理解
+编程	https://book.douban.com/subject/26826545/	我的第一本编程书
+编程	https://book.douban.com/subject/27178802/	Vue.js 实战
+编程	https://book.douban.com/subject/25892709/	Python for Informatics
+编程	https://book.douban.com/subject/27154347/	Scikit-Learn与TensorFlow机器学习实用指南（影印版）
+编程	https://book.douban.com/subject/2152385/	程序设计语言
+编程	https://book.douban.com/subject/26712028/	程序设计实践
+编程	https://book.douban.com/subject/1488876/	深入浅出设计模式（影印版）
+编程	https://book.douban.com/subject/27080694/	Android进阶之光
+编程	https://book.douban.com/subject/20445258/	简约之美
+编程	https://book.douban.com/subject/26966099/	C# 6.0本质论
+编程	https://book.douban.com/subject/26302645/	深入理解Scala
+编程	https://book.douban.com/subject/4828875/	Python Cookbook
+编程	https://book.douban.com/subject/11589828/	Linux命令行与shell脚本编程大全
+编程	https://book.douban.com/subject/10754300/	C程序设计的抽象思维
+编程	https://book.douban.com/subject/1087767/	TCP/IP详解 卷2：实现
+编程	https://book.douban.com/subject/2111801/	设计模式
+编程	https://book.douban.com/subject/27605361/	函数响应式领域建模
+编程	https://book.douban.com/subject/4241826/	高性能MySQL（第二版）
+编程	https://book.douban.com/subject/1431996/	从问题到程序
+编程	https://book.douban.com/subject/4037097/	我和LabVIEW
+编程	https://book.douban.com/subject/30358046/	Android进阶解密
+编程	https://book.douban.com/subject/27204133/	Go Web 编程
+编程	https://book.douban.com/subject/1852515/	计算理论导引
+编程	https://book.douban.com/subject/3324516/	实现模式
+编程	https://book.douban.com/subject/1391207/	计算机网络（第4版）
+编程	https://book.douban.com/subject/26761862/	High Performance Spark
+编程	https://book.douban.com/subject/25844377/	深入解析Windows操作系统：第6版（上册）
+编程	https://book.douban.com/subject/4496038/	Head First Java
+编程	https://book.douban.com/subject/25934516/	单元测试的艺术（第2版）
+编程	https://book.douban.com/subject/1456836/	Essential C++
+编程	https://book.douban.com/subject/25828043/	Java性能优化权威指南
+编程	https://book.douban.com/subject/3136252/	Essentials of Programming Languages, 3rd Edition
+编程	https://book.douban.com/subject/10607365/	Data Structures and Algorithms in Python
+编程	https://book.douban.com/subject/1456907/	The Art of the Metaobject Protocol
+编程	https://book.douban.com/subject/2054931/	Effective C# 中文版
+编程	https://book.douban.com/subject/1473329/	Java解惑
+编程	https://book.douban.com/subject/26409789/	Docker in Action
+编程	https://book.douban.com/subject/27115351/	Hadoop权威指南
+编程	https://book.douban.com/subject/25984046/	大数据日知录
+编程	https://book.douban.com/subject/25828490/	极客罗曼史
+编程	https://book.douban.com/subject/1154204/	算法艺术与信息学竞赛
+编程	https://book.douban.com/subject/1456906/	ANSI Common Lisp
+编程	https://book.douban.com/subject/27000110/	python机器学习
+编程	https://book.douban.com/subject/25828773/	Linux 系统编程（第二版）
+编程	https://book.douban.com/subject/20471211/	Linux多线程服务端编程
+编程	https://book.douban.com/subject/27188709/	微信小程序开发详解
+编程	https://book.douban.com/subject/1400374/	高级编译器设计与实现
+编程	https://book.douban.com/subject/26869340/	Vue.js权威指南
+编程	https://book.douban.com/subject/27082348/	自己动手写Docker
+编程	https://book.douban.com/subject/26820213/	Linux环境编程：从应用到内核
+编程	https://book.douban.com/subject/26902139/	Android高级进阶
+编程	https://book.douban.com/subject/27033213/	深入浅出React和Redux
+编程	https://book.douban.com/subject/4865667/	MATLAB高效编程技巧与应用
+编程	https://book.douban.com/subject/27082372/	ANTLR 4权威指南
+编程	https://book.douban.com/subject/26771136/	代码大全（第2版）英文版
+编程	https://book.douban.com/subject/25853677/	大话重构
+编程	https://book.douban.com/subject/26640135/	Python Web开发：测试驱动方法
+编程	https://book.douban.com/subject/3088353/	软件调试
+编程	https://book.douban.com/subject/7921516/	Discrete Mathematics and Its Applications
+编程	https://book.douban.com/subject/27180929/	从零开始学Python网络爬虫
+编程	https://book.douban.com/subject/30269326/	大数据平台基础架构指南
+编程	https://book.douban.com/subject/11509672/	面向对象分析与设计
+编程	https://book.douban.com/subject/30220267/	笨办法学C语言
+编程	https://book.douban.com/subject/1433583/	Java Nio
+编程	https://book.douban.com/subject/26320896/	OpenCV3编程入门
+编程	https://book.douban.com/subject/26681345/	贝尔实验室与美国革新大时代
+编程	https://book.douban.com/subject/26320899/	Python硬件编程实战
+编程	https://book.douban.com/subject/1237002/	Data Structures and Algorithm Analysis in C (2nd Edition)
+编程	https://book.douban.com/subject/1220624/	Verilog HDL高级数字设计
+编程	https://book.douban.com/subject/26386453/	Swifter : 100 个 Swift 开发必备 Tip
+编程	https://book.douban.com/subject/3095218/	Troubleshooting Oracle Performance
+编程	https://book.douban.com/subject/26607672/	A Byte of Python
+编程	https://book.douban.com/subject/10436668/	Cracking the Coding Interview
+编程	https://book.douban.com/subject/1417285/	Programming the Microsoft Windows Driver Model, Second Edition
+编程	https://book.douban.com/subject/30163021/	枕边算法书
+编程	https://book.douban.com/subject/25976913/	iOS编程实战
+编程	https://book.douban.com/subject/30457947/	Beginning ARKit for iPhone and iPad
+编程	https://book.douban.com/subject/5326182/	测试驱动开发的艺术
+编程	https://book.douban.com/subject/6856809/	DirectX 10 3D游戏编程深度探索
+编程	https://book.douban.com/subject/30302319/	深入探索Android热修复技术原理
+编程	https://book.douban.com/subject/26599539/	Android群英传
+编程	https://book.douban.com/subject/27091060/	微信开发深度解析
+编程	https://book.douban.com/subject/26992771/	Get Programming with Haskell
+编程	https://book.douban.com/subject/19961197/	C程序设计伴侣
+编程	https://book.douban.com/subject/3285148/	Expert Python Programming
+编程	https://book.douban.com/subject/1179807/	计算机网络
+编程	https://book.douban.com/subject/26419368/	深入应用C++11
+编程	https://book.douban.com/subject/3464889/	天才的拓荒者
+编程	https://book.douban.com/subject/30236842/	基于深度学习的自然语言处理
+编程	https://book.douban.com/subject/2023597/	LINGO和Excel在数学建模中的应用
+编程	https://book.douban.com/subject/6398127/	软件调试修炼之道
+编程	https://book.douban.com/subject/30425278/	小程序大时代
+编程	https://book.douban.com/subject/30276300/	Effective SQL
+编程	https://book.douban.com/subject/30979383/	micro:bit魔法修炼之Mpython初体验
+编程	https://book.douban.com/subject/26829015/	精通Python设计模式
+编程	https://book.douban.com/subject/1754490/	UML精粹:标准对象建模语言简明指南(第3版)(英文影印版)
+编程	https://book.douban.com/subject/1442019/	Learning the bash Shell
+编程	https://book.douban.com/subject/33431782/	iOS编程（第6版）
+编程	https://book.douban.com/subject/6512871/	Java核心技术
+编程	https://book.douban.com/subject/26992879/	Modbus软件开发实战指南
+编程	https://book.douban.com/subject/2302201/	Windows用户态程序高效排错
+编程	https://book.douban.com/subject/26337545/	The Go Programming Language
+编程	https://book.douban.com/subject/21823754/	疯狂Android讲义
+编程	https://book.douban.com/subject/30212367/	C语言实用之道
+编程	https://book.douban.com/subject/26435858/	Spring Boot in Action
+编程	https://book.douban.com/subject/24846626/	Windows环境下32位汇编语言程序设计
+编程	https://book.douban.com/subject/24846630/	程序员面试宝典
+编程	https://book.douban.com/subject/25952573/	软件开发践行录
+编程	https://book.douban.com/subject/1106248/	Java夜未眠
+编程	https://book.douban.com/subject/30310729/	Python趣味编程入门
+编程	https://book.douban.com/subject/27078711/	深入理解并行编程
+编程	https://book.douban.com/subject/30335320/	玩转Django 2.0
+编程	https://book.douban.com/subject/26992990/	图说D3：数据可视化利器从入门到进阶
+编程	https://book.douban.com/subject/25805152/	算法谜题
+编程	https://book.douban.com/subject/6078818/	51单片机POV趣味制作详解
+编程	https://book.douban.com/subject/21365098/	MTA Exam 98-361 Software Development Fundamentals官方認證教材
+编程	https://book.douban.com/subject/1139061/	软件测试经验与教训
+编程	https://book.douban.com/subject/26804602/	编写高质量代码：改善C程序代码的125个建议
+编程	https://book.douban.com/subject/6758780/	大规模Web服务开发技术
+编程	https://book.douban.com/subject/1106304/	Borland传奇
+编程	https://book.douban.com/subject/10494340/	Effective JavaScript
+编程	https://book.douban.com/subject/2302342/	Memory Management Algorithms And Implementation In C/C++
+编程	https://book.douban.com/subject/27091348/	程序员的算法趣题
+编程	https://book.douban.com/subject/3187107/	AutoLISP语言程序设计
+编程	https://book.douban.com/subject/24533745/	游戏之巅
+编程	https://book.douban.com/subject/7061934/	SQLite权威指南
+编程	https://book.douban.com/subject/4047293/	Microsoft SQL Server 2008技术内幕
+编程	https://book.douban.com/subject/26337727/	算法设计与分析基础
+编程	https://book.douban.com/subject/27009472/	创新者
+编程	https://book.douban.com/subject/1909192/	UNIX编程艺术
+编程	https://book.douban.com/subject/6062550/	C#与.NET 4高级程序设计（第5版）
+编程	https://book.douban.com/subject/27615703/	Rails 5敏捷开发
+编程	https://book.douban.com/subject/30425569/	Make Your Own Algorithmic Art
+编程	https://book.douban.com/subject/26296803/	Pro Vim
+编程	https://book.douban.com/subject/1040868/	C程序设计（第二版）
+编程	https://book.douban.com/subject/26386925/	C++并发编程实战
+编程	https://book.douban.com/subject/2654706/	The Art and Science of Java
+编程	https://book.douban.com/subject/4055540/	Linux Application Development
+编程	https://book.douban.com/subject/10863118/	Erlang/OTP并发编程实战
+编程	https://book.douban.com/subject/20415000/	实现模式
+编程	https://book.douban.com/subject/5407267/	Python Programming
+编程	https://book.douban.com/subject/26927659/	程序设计导论
+编程	https://book.douban.com/subject/20488750/	Functional Programming in Scala
+编程	https://book.douban.com/subject/10486319/	深入浅出数字信号处理
+编程	https://book.douban.com/subject/6709809/	暗时间
+编程	https://book.douban.com/subject/26649141/	Spark技术内幕
+编程	https://book.douban.com/subject/26419766/	程序开发心理学（银年纪念版）
+编程	https://book.douban.com/subject/6799929/	Visual Basic 2010&amp;.NET 4高级编程
+编程	https://book.douban.com/subject/26575429/	Ruby元编程（第2版）
+编程	https://book.douban.com/subject/1909336/	数据结构与算法分析
+编程	https://book.douban.com/subject/26649178/	RabbitMQ实战
+编程	https://book.douban.com/subject/4743790/	The Joy of Clojure
+编程	https://book.douban.com/subject/4136223/	C++模板元编程
+编程	https://book.douban.com/subject/3883699/	ARM Cortex-M3权威指南
+编程	https://book.douban.com/subject/27198132/	Modern Vim
+编程	https://book.douban.com/subject/25969334/	计算机文化（原书第15版）
+编程	https://book.douban.com/subject/25830085/	Arduino程序设计基础
+编程	https://book.douban.com/subject/27599566/	嵌入式系统原理及应用
+编程	https://book.douban.com/subject/2032343/	Programming Ruby中文版
+编程	https://book.douban.com/subject/27591386/	RabbitMQ实战指南
+编程	https://book.douban.com/subject/2622187/	Understanding UNIX/LINUX  Programming
+编程	https://book.douban.com/subject/26780404/	第一本Docker书 修订版
+编程	https://book.douban.com/subject/4924153/	数据结构与算法分析
+编程	https://book.douban.com/subject/25723658/	大规模分布式存储系统
+编程	https://book.douban.com/subject/20275979/	高质量程序设计指南
+编程	https://book.douban.com/subject/1729293/	The C Programming Language,Second Edition (International Edition)
+编程	https://book.douban.com/subject/6529835/	Java语言程序设计
+编程	https://book.douban.com/subject/1237806/	Verilog数字系统设计教程
+编程	https://book.douban.com/subject/20505391/	ACM国际大学生程序设计竞赛
+编程	https://book.douban.com/subject/2130743/	离散数学及其应用（原书第5版）
+编程	https://book.douban.com/subject/26313534/	Unity游戏设计与实现
+编程	https://book.douban.com/subject/1319751/	C++Primer Plus
+编程	https://book.douban.com/subject/22733640/	Functional JavaScript
+编程	https://book.douban.com/subject/30139217/	The Book of Why
+编程	https://book.douban.com/subject/30327646/	Unity 3D游戏开发（第2版）
+编程	https://book.douban.com/subject/30417784/	Designing Event-Driven Systems
+编程	https://book.douban.com/subject/26674051/	C++数据结构与算法
+编程	https://book.douban.com/subject/10511247/	火球
+编程	https://book.douban.com/subject/30278551/	Android自定义控件开发入门与实战
+编程	https://book.douban.com/subject/25854872/	算法帝国
+编程	https://book.douban.com/subject/1876898/	The AWK Programming Language
+编程	https://book.douban.com/subject/26739624/	21天学通C语言（第7版）
+编程	https://book.douban.com/subject/1246134/	Effective XML
+编程	https://book.douban.com/subject/30286799/	Haskell Programming from first principles
+编程	https://book.douban.com/subject/30286800/	The Haskell School of Music
+编程	https://book.douban.com/subject/26674131/	Java技术手册（第6版）
+编程	https://book.douban.com/subject/6538230/	GPGPU编程技术
+编程	https://book.douban.com/subject/1688579/	质量·软件·管理（第Ⅱ卷）
+编程	https://book.douban.com/subject/3998726/	Java核心技术 卷Ⅱ
+编程	https://book.douban.com/subject/3998727/	Effective Java
+编程	https://book.douban.com/subject/26600459/	Python Data Science Handbook
+编程	https://book.douban.com/subject/3875877/	Advanced Bash Scripting Guide 5.3 Volume 1
+编程	https://book.douban.com/subject/26248230/	编程人生（下卷）
+编程	https://book.douban.com/subject/1180717/	UML :Java程序员指南(双语版)
+编程	https://book.douban.com/subject/1000494/	无尽的前沿-布什传
+编程	https://book.douban.com/subject/3245122/	大话存储
+编程	https://book.douban.com/subject/5252170/	信息检索导论
+编程	https://book.douban.com/subject/3884108/	可爱的Python
+编程	https://book.douban.com/subject/27034724/	React Native跨平台移动应用开发（第二版）
+编程	https://book.douban.com/subject/30270567/	“编”玩边学：Scratch趣味编程进阶——妙趣横生的数学和算法
+编程	https://book.douban.com/subject/1418351/	The TeXbook
+编程	https://book.douban.com/subject/1819768/	深入浅出Ajax
+编程	https://book.douban.com/subject/1787855/	Programming From The Ground Up
+编程	https://book.douban.com/subject/1229968/	罗彻斯特城堡
+编程	https://book.douban.com/subject/1238163/	软件调试思想
+编程	https://book.douban.com/subject/4760725/	演讲之禅：一位技术演讲家的自白
+编程	https://book.douban.com/subject/20472991/	Theory of Distributions for Locally Compact Spaces
+编程	https://book.douban.com/subject/1418402/	The Art of Computer Programming, Volumes 1-3 Boxed Set
+编程	https://book.douban.com/subject/1451172/	Just for Fun
+编程	https://book.douban.com/subject/4736167/	精通CSS（第2版）
+编程	https://book.douban.com/subject/5380979/	Excel 2010 VBA编程与实践
+编程	https://book.douban.com/subject/2245821/	C Programming FAQs
+编程	https://book.douban.com/subject/26961092/	元数据
+编程	https://book.douban.com/subject/26707144/	JavaScript编程精解(第2版)
+编程	https://book.douban.com/subject/1787103/	How to Design Programs
+编程	https://book.douban.com/subject/27124985/	TypeScript Deep Dive
+编程	https://book.douban.com/subject/26600702/	并行编程方法与优化实践
+编程	https://book.douban.com/subject/6849791/	编写高质量代码

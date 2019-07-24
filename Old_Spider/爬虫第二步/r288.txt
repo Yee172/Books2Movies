@@ -1,0 +1,500 @@
+算法	https://book.douban.com/subject/1869344/	An Introduction to Genetic Algorithms
+算法	https://book.douban.com/subject/1239604/	数据结构与抽象
+算法	https://book.douban.com/subject/2868525/	A Practical Guide to Data Structures and Algorithms using Java (Chapman &amp; Hall/CRC Applied Algorithms and Data Structures series)
+算法	https://book.douban.com/subject/5950774/	高中数学公式定律及要点透析
+算法	https://book.douban.com/subject/1869344/	An Introduction to Genetic Algorithms
+算法	https://book.douban.com/subject/6862112/	计算几何
+算法	https://book.douban.com/subject/26996920/	图像处理中的数学修炼
+算法	https://book.douban.com/subject/3269549/	现代模式识别
+算法	https://book.douban.com/subject/26643589/	Python语言程序设计
+算法	https://book.douban.com/subject/2375105/	密码学导引
+算法	https://book.douban.com/subject/3219062/	The Mathematics of Paul Erdos
+算法	https://book.douban.com/subject/2875609/	Efficient Graph Representations
+算法	https://book.douban.com/subject/1539610/	全国青少年信息学奥林匹克联赛培训教材(中学）
+算法	https://book.douban.com/subject/2585934/	Design and Analysis of Distributed Algorithms (Wiley Series on Parallel and Distributed Computing)
+算法	https://book.douban.com/subject/3200045/	Problems on Algorithms
+算法	https://book.douban.com/subject/2875202/	Ant Colony Optimization
+算法	https://book.douban.com/subject/1553562/	遗传算法与工程设计
+算法	https://book.douban.com/subject/1649803/	离散数学及其应用
+算法	https://book.douban.com/subject/5952528/	现代信息检索
+算法	https://book.douban.com/subject/2873776/	A Guide to Monte Carlo Simulations in Statistical Physics
+算法	https://book.douban.com/subject/1705725/	数据结构与算法
+算法	https://book.douban.com/subject/6751241/	同伦方法纵横谈
+算法	https://book.douban.com/subject/1728541/	算法与数据结构
+算法	https://book.douban.com/subject/4935915/	[Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ (WEB+DB PRESS plusシリーズ)
+算法	https://book.douban.com/subject/3146166/	数据结构与算法
+算法	https://book.douban.com/subject/3144029/	Numerical Analysis
+算法	https://book.douban.com/subject/26871764/	The CS Detective: An Algorithmic Tale of Crime, Conspiracy, and Computation
+算法	https://book.douban.com/subject/4937268/	并发的艺术
+算法	https://book.douban.com/subject/2184081/	数据结构与问题求解
+算法	https://book.douban.com/subject/26285940/	CLR via C#
+算法	https://book.douban.com/subject/26877827/	合适
+算法	https://book.douban.com/subject/3008042/	概率
+算法	https://book.douban.com/subject/3035237/	计算机和难解性
+算法	https://book.douban.com/subject/1217717/	全国青少年信息学奥林匹克联赛培训习题与解答
+算法	https://book.douban.com/subject/3076996/	统计自然语言处理
+算法	https://book.douban.com/subject/26936258/	机器学习导论
+算法	https://book.douban.com/subject/3105918/	Algorithms and Data Structures
+算法	https://book.douban.com/subject/6891958/	离散数学及其应用（原书第6版·本科教学版）
+算法	https://book.douban.com/subject/6915691/	Professional Android 4 Application Development
+算法	https://book.douban.com/subject/1470837/	Algorithms
+算法	https://book.douban.com/subject/6862112/	计算几何
+算法	https://book.douban.com/subject/26871764/	The CS Detective: An Algorithmic Tale of Crime, Conspiracy, and Computation
+算法	https://book.douban.com/subject/1649803/	离散数学及其应用
+算法	https://book.douban.com/subject/6915691/	Professional Android 4 Application Development
+算法	https://book.douban.com/subject/3076996/	统计自然语言处理
+算法	https://book.douban.com/subject/6751241/	同伦方法纵横谈
+算法	https://book.douban.com/subject/1705725/	数据结构与算法
+算法	https://book.douban.com/subject/26850558/	计算机程序设计艺术・卷2
+算法	https://book.douban.com/subject/1728541/	算法与数据结构
+算法	https://book.douban.com/subject/27054485/	Think Data Structures
+算法	https://book.douban.com/subject/1553562/	遗传算法与工程设计
+算法	https://book.douban.com/subject/3105918/	Algorithms and Data Structures
+算法	https://book.douban.com/subject/4935266/	国际大学生程序设计竞赛例题解
+算法	https://book.douban.com/subject/2055111/	算法设计与分析
+算法	https://book.douban.com/subject/4935915/	[Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ (WEB+DB PRESS plusシリーズ)
+算法	https://book.douban.com/subject/3146166/	数据结构与算法
+算法	https://book.douban.com/subject/3144029/	Numerical Analysis
+算法	https://book.douban.com/subject/1470837/	Algorithms
+算法	https://book.douban.com/subject/5375620/	失控
+算法	https://book.douban.com/subject/26811310/	算法竞赛宝典-语言及算法入门
+算法	https://book.douban.com/subject/26612177/	Numerical Algorithms
+算法	https://book.douban.com/subject/4908635/	Analyzing Social Media Networks with NodeXL
+算法	https://book.douban.com/subject/26285940/	CLR via C#
+算法	https://book.douban.com/subject/3076996/	统计自然语言处理
+算法	https://book.douban.com/subject/4151001/	自动机理论与应用
+算法	https://book.douban.com/subject/1965479/	生物信息学
+算法	https://book.douban.com/subject/1230413/	深入理解计算机系统
+算法	https://book.douban.com/subject/5392025/	The P=NP Question and Gödels Lost Letter
+算法	https://book.douban.com/subject/6915691/	Professional Android 4 Application Development
+算法	https://book.douban.com/subject/3105918/	Algorithms and Data Structures
+算法	https://book.douban.com/subject/4035144/	Algorithms in C (paperback)
+算法	https://book.douban.com/subject/26807290/	Augmented
+算法	https://book.douban.com/subject/3929807/	Data Structures and Algorithms in C++
+算法	https://book.douban.com/subject/3155014/	An Introduction to Probability Theory and Its Applications
+算法	https://book.douban.com/subject/1231894/	计算理论导论
+算法	https://book.douban.com/subject/1887927/	The Advent of the Algorithm
+算法	https://book.douban.com/subject/3146166/	数据结构与算法
+算法	https://book.douban.com/subject/3144029/	Numerical Analysis
+算法	https://book.douban.com/subject/1889699/	Generic Programming and the STL
+算法	https://book.douban.com/subject/1896792/	程序员面试宝典
+算法	https://book.douban.com/subject/26793363/	编程谜题
+算法	https://book.douban.com/subject/20559989/	Algorithmic Trading
+算法	https://book.douban.com/subject/3595844/	C#数字图像处理算法典型实例
+算法	https://book.douban.com/subject/21205875/	Graphs, Networks and Algorithms
+算法	https://book.douban.com/subject/30147788/	scikit learn机器学习
+算法	https://book.douban.com/subject/24381562/	统计思维：程序员数学之概率统计
+算法	https://book.douban.com/subject/3695430/	The Art of Computer Programming, Vol. 4, Fascicles 0-4
+算法	https://book.douban.com/subject/30286131/	人工智能 （第2版）
+算法	https://book.douban.com/subject/3877593/	组合数学
+算法	https://book.douban.com/subject/25834536/	乌合之众
+算法	https://book.douban.com/subject/1247143/	国际大学生程序设计竞赛辅导教程
+算法	https://book.douban.com/subject/1851051/	Algorithms in Java, Parts 1-4
+算法	https://book.douban.com/subject/25911738/	Android编程实战
+算法	https://book.douban.com/subject/1872738/	A First Course in Discrete Mathematics (Springer Undergraduate Mathematics Series)
+算法	https://book.douban.com/subject/25842089/	大嘴巴漫谈数据挖掘
+算法	https://book.douban.com/subject/3838411/	The Science of Fractal Images
+算法	https://book.douban.com/subject/3852044/	计数组合学（第一卷）
+算法	https://book.douban.com/subject/3852290/	现代操作系统（第3版）
+算法	https://book.douban.com/subject/3867071/	数据结构与算法分析
+算法	https://book.douban.com/subject/25882201/	From Mathematics to Generic Programming
+算法	https://book.douban.com/subject/3879823/	Java开发实战经典
+科技	https://book.douban.com/subject/30473907/	坏血
+科技	https://book.douban.com/subject/33385217/	全球科技通史
+科技	https://book.douban.com/subject/6709783/	浪潮之巅
+科技	https://book.douban.com/subject/33424487/	时间的秩序
+科技	https://book.douban.com/subject/26838557/	智能时代
+科技	https://book.douban.com/subject/26297606/	从0到1
+科技	https://book.douban.com/subject/26759508/	硅谷钢铁侠
+科技	https://book.douban.com/subject/33381164/	你一定爱读的人工智能简史
+科技	https://book.douban.com/subject/27614523/	刷新
+科技	https://book.douban.com/subject/6965746/	科技想要什么
+科技	https://book.douban.com/subject/26658379/	必然
+科技	https://book.douban.com/subject/26593084/	迷人的材料
+科技	https://book.douban.com/subject/25752043/	信息简史
+科技	https://book.douban.com/subject/33377948/	我是怎样设计飞机的
+科技	https://book.douban.com/subject/30460634/	治愈未来：数字困境的全球解决方案
+科技	https://book.douban.com/subject/26582822/	重新定义公司
+科技	https://book.douban.com/subject/33405128/	特斯拉传
+科技	https://book.douban.com/subject/26665230/	硅谷之谜
+科技	https://book.douban.com/subject/27009472/	创新者
+科技	https://book.douban.com/subject/30305583/	AI·未来
+科技	https://book.douban.com/subject/25846075/	技术的本质
+科技	https://book.douban.com/subject/26697350/	极简宇宙史
+科技	https://book.douban.com/subject/25902942/	文明之光（第一册）
+科技	https://book.douban.com/subject/30262617/	生命3.0
+科技	https://book.douban.com/subject/25902222/	文明之光（第二册）
+科技	https://book.douban.com/subject/26891160/	科技之巅
+科技	https://book.douban.com/subject/24738302/	浪潮之巅（第2版）（套装上下册）
+科技	https://book.douban.com/subject/33402278/	硅谷帝国
+科技	https://book.douban.com/subject/30259509/	未来世界的幸存者
+科技	https://book.douban.com/subject/26974867/	五角大楼之脑
+科技	https://book.douban.com/subject/33408165/	新黑暗时代
+科技	https://book.douban.com/subject/26652329/	失控
+科技	https://book.douban.com/subject/26340695/	三位一体
+科技	https://book.douban.com/subject/26275177/	文明之光 （第三册）
+科技	https://book.douban.com/subject/27015112/	人工智能
+科技	https://book.douban.com/subject/25766700/	一网打尽
+科技	https://book.douban.com/subject/26653673/	必然
+科技	https://book.douban.com/subject/1476618/	光电帝国
+科技	https://book.douban.com/subject/33384854/	暗知识：机器认知如何颠覆商业和社会
+科技	https://book.douban.com/subject/26989163/	文明之光（第四册）
+科技	https://book.douban.com/subject/30282615/	未来地图
+科技	https://book.douban.com/subject/26852425/	什么是科学
+科技	https://book.douban.com/subject/26685018/	科技想要什么
+科技	https://book.douban.com/subject/30318178/	芯想事成 中国芯片产业的博弈与突围
+科技	https://book.douban.com/subject/30355229/	下一站 火星：马斯克、贝佐斯和太空争夺战
+科技	https://book.douban.com/subject/25857804/	硅谷百年史
+科技	https://book.douban.com/subject/30187654/	暗网
+科技	https://book.douban.com/subject/27193496/	人工智能简史
+科技	https://book.douban.com/subject/30421234/	隐藏的行为
+科技	https://book.douban.com/subject/26839342/	文明之光
+科技	https://book.douban.com/subject/25788945/	线上幽灵
+科技	https://book.douban.com/subject/27165325/	The Four
+科技	https://book.douban.com/subject/27058912/	无人驾驶
+科技	https://book.douban.com/subject/33425123/	微服务架构设计模式
+科技	https://book.douban.com/subject/33441908/	学习的升级
+科技	https://book.douban.com/subject/26710297/	KK三部曲
+科技	https://book.douban.com/subject/30425822/	深度学习
+科技	https://book.douban.com/subject/1016827/	阿西莫夫最新科学指南（上下册）
+科技	https://book.douban.com/subject/27016248/	图解物联网
+科技	https://book.douban.com/subject/30389352/	赛先生的梦魇
+科技	https://book.douban.com/subject/27078260/	维多利亚时代的互联网
+科技	https://book.douban.com/subject/27025492/	上帝的手术刀
+科技	https://book.douban.com/subject/26372738/	Elon Musk
+科技	https://book.douban.com/subject/26008422/	How Google Works
+科技	https://book.douban.com/subject/30415786/	暗趋势
+科技	https://book.douban.com/subject/30469078/	物理学的进化
+科技	https://book.douban.com/subject/4312477/	天地九重
+科技	https://book.douban.com/subject/30234043/	技术的本质（经典版）
+科技	https://book.douban.com/subject/27187132/	谷歌时代的柏拉图
+科技	https://book.douban.com/subject/26849305/	成为乔布斯
+科技	https://book.douban.com/subject/27070539/	中关村笔记
+科技	https://book.douban.com/subject/27054249/	密码朋克
+科技	https://book.douban.com/subject/26892520/	Google
+科技	https://book.douban.com/subject/2124111/	世界科学技术通史
+科技	https://book.douban.com/subject/30390660/	联结
+科技	https://book.douban.com/subject/30255604/	从1到N
+科技	https://book.douban.com/subject/26776547/	人工智能时代
+科技	https://book.douban.com/subject/27012303/	技术伦理学手册
+科技	https://book.douban.com/subject/24739213/	浪潮之巅（上册）
+科技	https://book.douban.com/subject/25724948/	黑客与画家
+科技	https://book.douban.com/subject/26847413/	大话5G
+科技	https://book.douban.com/subject/30286131/	人工智能 （第2版）
+科技	https://book.douban.com/subject/26583403/	解码宇宙
+科技	https://book.douban.com/subject/25784778/	1024·人与机器共同进化
+科技	https://book.douban.com/subject/27124848/	硅谷革命
+科技	https://book.douban.com/subject/24740308/	浪潮之巅（下册）
+科技	https://book.douban.com/subject/33436399/	从无限运算力到无限想象力：设计人工智能概览
+科技	https://book.douban.com/subject/33426160/	Flink原理、实战与性能优化
+科技	https://book.douban.com/subject/27104111/	科技到底改变了什么
+科技	https://book.douban.com/subject/30192587/	塑造世界经济的50项伟大发明
+科技	https://book.douban.com/subject/25924949/	特斯拉自传
+科技	https://book.douban.com/subject/30176651/	迷人的材料[精装珍藏版]
+科技	https://book.douban.com/subject/33385896/	技术垄断
+科技	https://book.douban.com/subject/27116976/	编程真好玩
+科技	https://book.douban.com/subject/30488075/	人类科技创新简史
+科技	https://book.douban.com/subject/26324497/	支付战争
+科技	https://book.douban.com/subject/30367347/	医生最想让你读的书
+科技	https://book.douban.com/subject/26318103/	脑机穿越
+科技	https://book.douban.com/subject/26943161/	未来简史
+科技	https://book.douban.com/subject/30338777/	耶鲁极简科学史
+科技	https://book.douban.com/subject/33387419/	未来战争
+科技	https://book.douban.com/subject/33425362/	5G时代
+科技	https://book.douban.com/subject/26681345/	贝尔实验室与美国革新大时代
+科技	https://book.douban.com/subject/26306584/	硅谷之火
+科技	https://book.douban.com/subject/26884205/	星际唱片
+科技	https://book.douban.com/subject/10750155/	数学之美
+科技	https://book.douban.com/subject/26745150/	机器之心
+科技	https://book.douban.com/subject/30353747/	量子世界的发现之旅
+科技	https://book.douban.com/subject/26253662/	The Science of Interstellar
+科技	https://book.douban.com/subject/27150789/	工程学之书
+科技	https://book.douban.com/subject/3156435/	天工开物译注
+科技	https://book.douban.com/subject/27599340/	极限创新：35岁之前改变世界的全球科技精英
+科技	https://book.douban.com/subject/26792439/	浪潮之巅（第三版）（上下册）
+科技	https://book.douban.com/subject/30364484/	创投42章经
+科技	https://book.douban.com/subject/26743649/	通信之道——从微积分到5G
+科技	https://book.douban.com/subject/20429677/	大数据时代
+科技	https://book.douban.com/subject/30303192/	芯事
+科技	https://book.douban.com/subject/26809340/	世界上最强大的思想
+科技	https://book.douban.com/subject/30384189/	人人都在说谎
+科技	https://book.douban.com/subject/26933447/	卓越未来
+科技	https://book.douban.com/subject/21632268/	数字乌托邦
+科技	https://book.douban.com/subject/6798611/	史蒂夫·乔布斯传
+科技	https://book.douban.com/subject/26676530/	你好，我是费曼
+科技	https://book.douban.com/subject/30338541/	Deep Medicine
+科技	https://book.douban.com/subject/30432831/	AI赋能：AI重新定义产品经理
+科技	https://book.douban.com/subject/25953932/	第二次机器革命
+科技	https://book.douban.com/subject/33455758/	说出来你可能不信
+科技	https://book.douban.com/subject/27043500/	科技之巅2
+科技	https://book.douban.com/subject/27039464/	机器崛起：遗失的控制论历史
+科技	https://book.douban.com/subject/30220058/	未来版图
+科技	https://book.douban.com/subject/10588021/	技术元素
+科技	https://book.douban.com/subject/30300023/	万物重构：智能社会来临前夜的思索
+科技	https://book.douban.com/subject/30273425/	在线
+科技	https://book.douban.com/subject/10557518/	谁设计了宇宙?
+科技	https://book.douban.com/subject/27007089/	影响未来的新科技新产业
+科技	https://book.douban.com/subject/1347608/	They Made America
+科技	https://book.douban.com/subject/30386364/	为什么速度越快，时间越少
+科技	https://book.douban.com/subject/26800364/	第四次工业革命
+科技	https://book.douban.com/subject/26163454/	数学之美 （第二版）
+科技	https://book.douban.com/subject/30413057/	老科技的全球史
+科技	https://book.douban.com/subject/26389399/	离线·科幻
+科技	https://book.douban.com/subject/25962840/	反欺骗的艺术
+科技	https://book.douban.com/subject/4163938/	软件随想录
+科技	https://book.douban.com/subject/25971043/	离线·开始游戏
+科技	https://book.douban.com/subject/30280112/	XWorld：未来进化
+科技	https://book.douban.com/subject/26393046/	机器人时代
+科技	https://book.douban.com/subject/26831320/	生命的未来
+科技	https://book.douban.com/subject/24744410/	他们创造了美国
+科技	https://book.douban.com/subject/27079134/	引力波
+科技	https://book.douban.com/subject/26644961/	玻璃笼子
+科技	https://book.douban.com/subject/26589666/	法律人的明天会怎样?——法律职业的未来
+科技	https://book.douban.com/subject/30259720/	今日简史
+科技	https://book.douban.com/subject/27167268/	海滩上的爱因斯坦
+科技	https://book.douban.com/subject/30151207/	文明之光
+科技	https://book.douban.com/subject/10486319/	深入浅出数字信号处理
+科技	https://book.douban.com/subject/32191024/	飞向太空港
+科技	https://book.douban.com/subject/30321232/	四騎士主宰的未來
+科技	https://book.douban.com/subject/30274143/	科技的狂欢
+科技	https://book.douban.com/subject/30208650/	铀之战
+科技	https://book.douban.com/subject/25975442/	互联网时代
+科技	https://book.douban.com/subject/30466750/	弗兰肯斯坦
+科技	https://book.douban.com/subject/30206745/	科技投资新时代：TMT投资方法、趋势与热点聚焦
+科技	https://book.douban.com/subject/33435389/	爱彼迎传
+科技	https://book.douban.com/subject/30206801/	数字乌托邦
+科技	https://book.douban.com/subject/30391165/	硬战：人工智能时代的爆款产品
+科技	https://book.douban.com/subject/30186385/	无界：人工智能时代的认知升级
+科技	https://book.douban.com/subject/26866596/	硅谷百年史
+科技	https://book.douban.com/subject/27624368/	数字医疗
+科技	https://book.douban.com/subject/30411740/	银行4.0
+科技	https://book.douban.com/subject/1059824/	网络经济的十种策略
+科技	https://book.douban.com/subject/4735989/	世界图景的机械化
+科技	https://book.douban.com/subject/4199502/	大话无线通信
+科技	https://book.douban.com/subject/26823787/	创新者
+科技	https://book.douban.com/subject/17341557/	无中生有的宇宙
+科技	https://book.douban.com/subject/25828490/	极客罗曼史
+科技	https://book.douban.com/subject/3359897/	养花绝招868
+科技	https://book.douban.com/subject/27198629/	人类找北史
+科技	https://book.douban.com/subject/1322206/	技术史(Ⅰ-Ⅶ)
+科技	https://book.douban.com/subject/1225983/	万物简史
+科技	https://book.douban.com/subject/30199061/	内容算法
+科技	https://book.douban.com/subject/30324023/	我是阿尔法
+科技	https://book.douban.com/subject/2872645/	The Singularity Is Near
+科技	https://book.douban.com/subject/33459535/	宇宙的规则
+科技	https://book.douban.com/subject/26361207/	看见未来
+科技	https://book.douban.com/subject/26695045/	全球风口：积木式创新与中国新机遇
+科技	https://book.douban.com/subject/27205053/	自动驾驶改变未来
+科技	https://book.douban.com/subject/26779085/	技术奇点
+科技	https://book.douban.com/subject/19985902/	最有人性的“人”
+科技	https://book.douban.com/subject/26107390/	Cybernetic Revolutionaries
+科技	https://book.douban.com/subject/25748991/	Cool Tools
+科技	https://book.douban.com/subject/26307067/	目睹创世
+科技	https://book.douban.com/subject/26431012/	工业大数据
+科技	https://book.douban.com/subject/26945094/	未来简史
+科技	https://book.douban.com/subject/25810506/	史蒂夫·乔布斯传（修订版）
+科技	https://book.douban.com/subject/5375620/	失控
+科技	https://book.douban.com/subject/26431112/	半导体的故事
+科技	https://book.douban.com/subject/33416858/	计算社会学
+科技	https://book.douban.com/subject/27604641/	微粒社会
+科技	https://book.douban.com/subject/30445238/	机器学习与应用
+科技	https://book.douban.com/subject/4234951/	音乐声学——音响、乐器、计算机音乐、MIDI、音乐厅声学原理及应用
+科技	https://book.douban.com/subject/3722960/	战争的果实
+科技	https://book.douban.com/subject/27096822/	新物种爆炸
+科技	https://book.douban.com/subject/30447356/	驯化
+科技	https://book.douban.com/subject/27117643/	机器消灭秘密
+科技	https://book.douban.com/subject/25747269/	颠覆医疗
+科技	https://book.douban.com/subject/26808257/	日本电子产业兴衰录
+科技	https://book.douban.com/subject/30488574/	国家地理太空探索全书
+科技	https://book.douban.com/subject/1427464/	盲眼钟表匠
+科技	https://book.douban.com/subject/26298382/	学霸也是人
+科技	https://book.douban.com/subject/27066034/	WTF?
+科技	https://book.douban.com/subject/26978312/	智能的本质 人工智能与机器人领域的64个大问题
+科技	https://book.douban.com/subject/27154489/	蓝色小药丸
+科技	https://book.douban.com/subject/33388554/	心智
+科技	https://book.douban.com/subject/3215423/	IT不再重要
+科技	https://book.douban.com/subject/26826819/	地狱为什么充满硫黄的臭味
+科技	https://book.douban.com/subject/26628110/	数学与人类思维
+科技	https://book.douban.com/subject/3352663/	中国科学技术史
+科技	https://book.douban.com/subject/5941341/	全球“猎身”
+科技	https://book.douban.com/subject/30304352/	极简区块链
+科技	https://book.douban.com/subject/1110118/	电子电路与电子技术入门
+科技	https://book.douban.com/subject/26785898/	强力与弱力
+科技	https://book.douban.com/subject/26826089/	那些古怪又让人忧心的问题
+科技	https://book.douban.com/subject/30316671/	AI迷航
+科技	https://book.douban.com/subject/26646663/	飞机全书
+科技	https://book.douban.com/subject/30167178/	金汁
+科技	https://book.douban.com/subject/26364044/	俄罗斯航空发动机制造史（上）
+科技	https://book.douban.com/subject/30304398/	深度学习原理与实践
+科技	https://book.douban.com/subject/4100242/	新中国60年重大科技成就巡礼
+科技	https://book.douban.com/subject/24840349/	幽灵舰队
+科技	https://book.douban.com/subject/27111587/	内容之王：出版业的颠覆与重生
+科技	https://book.douban.com/subject/1024184/	治理与善治
+科技	https://book.douban.com/subject/1032381/	中国古代科技
+科技	https://book.douban.com/subject/26253507/	互联网思想十讲
+科技	https://book.douban.com/subject/26941639/	网络是怎样连接的
+科技	https://book.douban.com/subject/26421453/	基因革命
+科技	https://book.douban.com/subject/30308559/	IBM和纳粹
+科技	https://book.douban.com/subject/27662712/	科学的诞生
+科技	https://book.douban.com/subject/10828002/	游戏改变世界
+科技	https://book.douban.com/subject/25868451/	中国佛教与古代科技的发展
+科技	https://book.douban.com/subject/30453458/	Vision
+科技	https://book.douban.com/subject/26941689/	第二次机器革命
+科技	https://book.douban.com/subject/25786645/	乔纳森传
+科技	https://book.douban.com/subject/1626392/	女士品茶
+科技	https://book.douban.com/subject/26022186/	跨界
+科技	https://book.douban.com/subject/27046188/	投资异类
+科技	https://book.douban.com/subject/26364209/	那些古怪又让人忧心的问题
+科技	https://book.douban.com/subject/10563854/	Modern Embedded Computing
+科技	https://book.douban.com/subject/26390842/	哲学家们都干了些什么
+科技	https://book.douban.com/subject/6021440/	黑客与画家
+科技	https://book.douban.com/subject/30480097/	爱迪生：创新之源与商业成就的秘密
+科技	https://book.douban.com/subject/26644808/	高铁风云录
+科技	https://book.douban.com/subject/26681685/	计算机程序设计艺术
+科技	https://book.douban.com/subject/24754537/	简单的逻辑学
+科技	https://book.douban.com/subject/26544495/	20世纪物理学(第2卷)
+科技	https://book.douban.com/subject/1834728/	人工智能的未来
+科技	https://book.douban.com/subject/3989878/	农业生物技术-第二版-种植.园艺专业
+科技	https://book.douban.com/subject/30296440/	数学简史：确定性的消失
+科技	https://book.douban.com/subject/21348743/	电池的秘史
+科技	https://book.douban.com/subject/27017609/	智能革命
+科技	https://book.douban.com/subject/30187930/	约翰·惠勒自传
+科技	https://book.douban.com/subject/30464417/	鈽托邦
+科技	https://book.douban.com/subject/27197865/	简单统计学
+科技	https://book.douban.com/subject/26417588/	读懂互联网+
+科技	https://book.douban.com/subject/30353845/	宇宙从一粒尘埃开始
+科技	https://book.douban.com/subject/1057206/	数字城堡
+科技	https://book.douban.com/subject/4260937/	Probabilistic Reasoning and Decision Making in Sensory-Motor Systems (Springer Tracts in Advanced Robotics) (Springer Tracts in Advanced Robotics)
+科技	https://book.douban.com/subject/26380736/	语言本能
+科技	https://book.douban.com/subject/10559937/	计量史话
+科技	https://book.douban.com/subject/26705995/	《星球大战》里的科学
+科技	https://book.douban.com/subject/27146696/	价值为纲
+科技	https://book.douban.com/subject/26728916/	决策与理性
+科技	https://book.douban.com/subject/30577115/	面向客户需求的车辆开发流程
+科技	https://book.douban.com/subject/30245348/	2052：未来四十年的中国与世界（新版）
+科技	https://book.douban.com/subject/27178065/	烹饪、菜肴与阶级
+科技	https://book.douban.com/subject/30188010/	虚拟现实
+科技	https://book.douban.com/subject/6060527/	爱因斯坦文集（全三卷）
+科技	https://book.douban.com/subject/1053174/	你干吗在乎别人怎么想？
+科技	https://book.douban.com/subject/24523257/	技术
+科技	https://book.douban.com/subject/4124415/	虚拟街头漂流记
+科技	https://book.douban.com/subject/26835031/	超预测
+科技	https://book.douban.com/subject/1155602/	天高歌长
+科技	https://book.douban.com/subject/26911260/	人工智能
+科技	https://book.douban.com/subject/26370591/	Little Rice
+科技	https://book.douban.com/subject/30162352/	我是怎么设计航空发动机的
+科技	https://book.douban.com/subject/33438811/	为什么
+科技	https://book.douban.com/subject/27179562/	人工智能
+科技	https://book.douban.com/subject/27054641/	月亮
+科技	https://book.douban.com/subject/30290485/	黑科技
+科技	https://book.douban.com/subject/26638904/	跨越现实与未来的边界
+科技	https://book.douban.com/subject/19950139/	尸语者
+科技	https://book.douban.com/subject/30341692/	药物安全与药物警戒
+科技	https://book.douban.com/subject/30163521/	欲罢不能
+科技	https://book.douban.com/subject/30136900/	The Future Computed
+科技	https://book.douban.com/subject/20507206/	众病之王
+科技	https://book.douban.com/subject/1851978/	The Digital Sublime
+科技	https://book.douban.com/subject/2261588/	风能技术
+科技	https://book.douban.com/subject/26985049/	我们何以成为后人类
+科技	https://book.douban.com/subject/30354011/	The Future of Humanity
+科技	https://book.douban.com/subject/33395292/	动物机器
+科技	https://book.douban.com/subject/31074915/	材料科学与工程基础
+科技	https://book.douban.com/subject/30145132/	黑洞与时间弯曲
+科技	https://book.douban.com/subject/26890863/	我们如何走到今天
+科技	https://book.douban.com/subject/25717380/	赤裸裸的统计学
+科技	https://book.douban.com/subject/4006535/	神的杰作
+科技	https://book.douban.com/subject/1467022/	上帝掷骰子吗
+科技	https://book.douban.com/subject/1428117/	普通生物学
+科技	https://book.douban.com/subject/26827546/	大历史
+科技	https://book.douban.com/subject/30317231/	天气预报
+科技	https://book.douban.com/subject/27173553/	白金数据
+科技	https://book.douban.com/subject/1153482/	玻璃的世界
+科技	https://book.douban.com/subject/26931905/	终极算法
+科技	https://book.douban.com/subject/25924311/	盲眼钟表匠
+科技	https://book.douban.com/subject/30442210/	科学美国人精选系列：畅享智能时代
+科技	https://book.douban.com/subject/5372647/	像科学家一样思考
+科技	https://book.douban.com/subject/27021780/	科技之光
+科技	https://book.douban.com/subject/4242172/	天才在左 疯子在右
+科技	https://book.douban.com/subject/3181354/	科学术语翻译概论
+科技	https://book.douban.com/subject/1274668/	考克斯报告
+科技	https://book.douban.com/subject/26747658/	2050人类大迁徙
+科技	https://book.douban.com/subject/26755854/	没有不可能的任务
+科技	https://book.douban.com/subject/26809114/	FBI心理分析术：我在FBI的 20年缉凶手记
+科技	https://book.douban.com/subject/3227098/	编程珠玑
+科技	https://book.douban.com/subject/26826545/	我的第一本编程书
+科技	https://book.douban.com/subject/26841898/	现代的历程
+科技	https://book.douban.com/subject/19989296/	别逗了，费曼先生
+科技	https://book.douban.com/subject/3007286/	数字媒体技术导论
+科技	https://book.douban.com/subject/26739670/	众媒时代
+科技	https://book.douban.com/subject/6781760/	玩转iPad2
+科技	https://book.douban.com/subject/27601734/	我们为什么不说话
+科技	https://book.douban.com/subject/27044683/	虚无
+科技	https://book.douban.com/subject/1170259/	追捕克隆人
+科技	https://book.douban.com/subject/25713498/	迷茫的旅行商
+科技	https://book.douban.com/subject/26805099/	机器危机
+科技	https://book.douban.com/subject/26752488/	双螺旋
+科技	https://book.douban.com/subject/1102715/	从一到无穷大
+科技	https://book.douban.com/subject/26340232/	机器人革命
+科技	https://book.douban.com/subject/30169994/	数学思考法
+科技	https://book.douban.com/subject/26526873/	机械工程史
+科技	https://book.douban.com/subject/25854872/	算法帝国
+科技	https://book.douban.com/subject/30227355/	一本有趣又有料的科学书
+科技	https://book.douban.com/subject/30246042/	积极计算
+科技	https://book.douban.com/subject/32154541/	21 Lessons for the 21st Century
+科技	https://book.douban.com/subject/26995630/	那些让你更聪明的科学新概念
+科技	https://book.douban.com/subject/2872242/	Connections
+科技	https://book.douban.com/subject/25875384/	政府正在監控你
+科技	https://book.douban.com/subject/2003901/	The Victorian Internet
+科技	https://book.douban.com/subject/25981888/	2100科技大未來
+科技	https://book.douban.com/subject/1739724/	快速傅里叶变换及其C程序
+科技	https://book.douban.com/subject/10779597/	思考的乐趣
+科技	https://book.douban.com/subject/30155731/	算法之美
+科技	https://book.douban.com/subject/32570331/	文献检索与科技论文写作（第二版）
+科技	https://book.douban.com/subject/27030507/	上瘾
+科技	https://book.douban.com/subject/24826866/	A History of Silicon Valley
+科技	https://book.douban.com/subject/11606185/	飞机
+科技	https://book.douban.com/subject/30422010/	加密资产
+科技	https://book.douban.com/subject/27618302/	机械发明的故事
+科技	https://book.douban.com/subject/10607615/	第三种黑猩猩
+科技	https://book.douban.com/subject/26981547/	低功耗蓝牙与智能硬件设计
+科技	https://book.douban.com/subject/30229508/	统计学关我什么事
+科技	https://book.douban.com/subject/1072147/	灵魂机器的时代：当计算机超过人类智能时
+科技	https://book.douban.com/subject/2315287/	技术垄断
+科技	https://book.douban.com/subject/27046939/	VR\AR\MR开发实战(基于Unity与UE4引擎)
+科技	https://book.douban.com/subject/27196444/	Strategy Rules
+科技	https://book.douban.com/subject/4596767/	An Introduction to Science and Technology Studies
+科技	https://book.douban.com/subject/26954789/	科技失控：用科技思维重新看懂未来
+科技	https://book.douban.com/subject/3550249/	科学哲学
+科技	https://book.douban.com/subject/26600492/	失去的制造业：日本制造业的败北
+科技	https://book.douban.com/subject/26594366/	魔鬼数学
+科技	https://book.douban.com/subject/30319682/	战略高地
+科技	https://book.douban.com/subject/33477701/	乔治的宇宙合集
+科技	https://book.douban.com/subject/26412113/	机器人叛乱
+科技	https://book.douban.com/subject/26299481/	离线·黑客
+科技	https://book.douban.com/subject/25945179/	Superintelligence
+科技	https://book.douban.com/subject/27604064/	New Dark Age
+科技	https://book.douban.com/subject/27139170/	疯狂的独角兽
+科技	https://book.douban.com/subject/27016304/	迷人的温度
+科技	https://book.douban.com/subject/24538225/	The Everything Store
+科技	https://book.douban.com/subject/6855803/	奇点临近
+科技	https://book.douban.com/subject/1391740/	逻辑的引擎
+科技	https://book.douban.com/subject/30266499/	终极智能
+科技	https://book.douban.com/subject/20384901/	孩子王
+科技	https://book.douban.com/subject/27192173/	华为管理变革
+科技	https://book.douban.com/subject/30489754/	你有你的计划，世界另有计划
+科技	https://book.douban.com/subject/25908079/	新经济，新规则
+科技	https://book.douban.com/subject/30381212/	大数据大创新：阿里巴巴云上数据中台之道
+科技	https://book.douban.com/subject/33440284/	那些活了很久很久的树
+科技	https://book.douban.com/subject/30389426/	常识
+科技	https://book.douban.com/subject/30788791/	野人
+科技	https://book.douban.com/subject/5246837/	“未来车”世纪
+科技	https://book.douban.com/subject/26934470/	双螺旋（插图注释本）
+科技	https://book.douban.com/subject/27114701/	沉浸感：不可错过的虚拟现实革命
+科技	https://book.douban.com/subject/30751957/	极简量子大观(科学美国人精选系列)
+科技	https://book.douban.com/subject/7003354/	谣言粉碎机
+科技	https://book.douban.com/subject/26973408/	人类2.0
+科技	https://book.douban.com/subject/2298747/	现代世界中的数学
+科技	https://book.douban.com/subject/24855783/	浪潮之巔
+科技	https://book.douban.com/subject/1277169/	古今数学思想（一）
+科技	https://book.douban.com/subject/33408247/	病毒星球
+科技	https://book.douban.com/subject/30295288/	21世紀的21堂課

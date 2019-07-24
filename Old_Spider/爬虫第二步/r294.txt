@@ -1,0 +1,500 @@
+通信	https://book.douban.com/subject/1136258/	通信原理与通信技术
+通信	https://book.douban.com/subject/1884090/	接入网技术
+通信	https://book.douban.com/subject/1699861/	现代通信原理
+通信	https://book.douban.com/subject/1100849/	卫星通信
+通信	https://book.douban.com/subject/1933232/	数字信号处理
+通信	https://book.douban.com/subject/25975583/	MATLAB在语音信号分析与合成中的应用
+通信	https://book.douban.com/subject/20381332/	A Brief History of Communications (2nd Edition)
+通信	https://book.douban.com/subject/1807013/	信号与系统
+通信	https://book.douban.com/subject/6711098/	数字通信
+通信	https://book.douban.com/subject/6139420/	WCDMA for UMTS
+通信	https://book.douban.com/subject/3333776/	大跨越
+通信	https://book.douban.com/subject/5505050/	信号与系统
+通信	https://book.douban.com/subject/3239483/	通信原理
+通信	https://book.douban.com/subject/1237640/	软件无线电原理与应用
+通信	https://book.douban.com/subject/1675197/	移动通信
+通信	https://book.douban.com/subject/26413176/	吸客
+通信	https://book.douban.com/subject/26415866/	大话移动通信（第2版）
+通信	https://book.douban.com/subject/26163454/	数学之美 （第二版）
+通信	https://book.douban.com/subject/2052867/	扩频通信
+通信	https://book.douban.com/subject/20500661/	室内分布系统规划与设计
+通信	https://book.douban.com/subject/20474138/	LTE移动通信术语与缩略词词典
+通信	https://book.douban.com/subject/1927286/	移动通信类职位应聘指南
+通信	https://book.douban.com/subject/25863668/	LTE教程
+通信	https://book.douban.com/subject/26163454/	数学之美 （第二版）
+通信	https://book.douban.com/subject/30119201/	LTE教程：原理与实现
+通信	https://book.douban.com/subject/6139420/	WCDMA for UMTS
+通信	https://book.douban.com/subject/1240967/	现代通信最新技术
+通信	https://book.douban.com/subject/1927286/	移动通信类职位应聘指南
+通信	https://book.douban.com/subject/3705285/	从零起步学电子
+通信	https://book.douban.com/subject/1884090/	接入网技术
+通信	https://book.douban.com/subject/2874592/	OFDM for Wireless Multimedia Communications
+通信	https://book.douban.com/subject/5505050/	信号与系统
+通信	https://book.douban.com/subject/1843555/	现代交换原理与技术
+通信	https://book.douban.com/subject/6711098/	数字通信
+通信	https://book.douban.com/subject/25975583/	MATLAB在语音信号分析与合成中的应用
+通信	https://book.douban.com/subject/1141182/	无线通信与网络
+通信	https://book.douban.com/subject/5353162/	数字通信原理
+通信	https://book.douban.com/subject/5259081/	EPON/GPON技术问答
+通信	https://book.douban.com/subject/2328260/	Routing TCP/IP, Volume 1 (2nd Edition)
+通信	https://book.douban.com/subject/1230134/	WCDMA系统物理层设计
+通信	https://book.douban.com/subject/5380310/	光纤通信
+通信	https://book.douban.com/subject/1100995/	数字通信
+通信	https://book.douban.com/subject/1100046/	光纤通信
+通信	https://book.douban.com/subject/1100995/	数字通信
+通信	https://book.douban.com/subject/3062488/	WCDMA关键技术详解
+通信	https://book.douban.com/subject/6865217/	IMS
+通信	https://book.douban.com/subject/1230134/	WCDMA系统物理层设计
+通信	https://book.douban.com/subject/5353162/	数字通信原理
+通信	https://book.douban.com/subject/5253482/	小功率通信指南
+通信	https://book.douban.com/subject/5380310/	光纤通信
+通信	https://book.douban.com/subject/1220624/	Verilog HDL高级数字设计
+通信	https://book.douban.com/subject/3217207/	Signals and Systems
+通信	https://book.douban.com/subject/2252149/	Digital Communications
+通信	https://book.douban.com/subject/2328260/	Routing TCP/IP, Volume 1 (2nd Edition)
+通信	https://book.douban.com/subject/1217539/	射频通信电路
+通信	https://book.douban.com/subject/1972635/	现代无线通信
+通信	https://book.douban.com/subject/4916565/	对话多媒体通信
+通信	https://book.douban.com/subject/3215809/	通信原理
+通信	https://book.douban.com/subject/1224794/	数字信号处理实验指导书
+通信	https://book.douban.com/subject/10788445/	信号与系统辅导与题解
+通信	https://book.douban.com/subject/1141182/	无线通信与网络
+通信	https://book.douban.com/subject/3186954/	ADS应用详解
+通信	https://book.douban.com/subject/4850456/	张元济傅增湘论书尺牍
+通信	https://book.douban.com/subject/1918532/	手机版图
+通信	https://book.douban.com/subject/4723036/	Channel Codes
+通信	https://book.douban.com/subject/6865217/	IMS
+通信	https://book.douban.com/subject/6787105/	3G UMTS与4G LTE核心网
+通信	https://book.douban.com/subject/2328260/	Routing TCP/IP, Volume 1 (2nd Edition)
+通信	https://book.douban.com/subject/1256741/	MATLAB通信仿真与应用
+通信	https://book.douban.com/subject/7058940/	数字信号处理
+通信	https://book.douban.com/subject/2252149/	Digital Communications
+通信	https://book.douban.com/subject/3215809/	通信原理
+通信	https://book.douban.com/subject/3186954/	ADS应用详解
+通信	https://book.douban.com/subject/1972635/	现代无线通信
+通信	https://book.douban.com/subject/3062488/	WCDMA关键技术详解
+通信	https://book.douban.com/subject/5259081/	EPON/GPON技术问答
+通信	https://book.douban.com/subject/1230134/	WCDMA系统物理层设计
+通信	https://book.douban.com/subject/2110243/	模拟电子技术基础
+通信	https://book.douban.com/subject/1111005/	电磁场与电磁波
+通信	https://book.douban.com/subject/4837345/	自适应滤波器原理
+通信	https://book.douban.com/subject/5380310/	光纤通信
+通信	https://book.douban.com/subject/10788445/	信号与系统辅导与题解
+通信	https://book.douban.com/subject/26362138/	信息通信技术百科全书—打开信息通信之门
+通信	https://book.douban.com/subject/4723036/	Channel Codes
+通信	https://book.douban.com/subject/4201485/	无线通信电路设计分析与仿真
+通信	https://book.douban.com/subject/3215809/	通信原理
+通信	https://book.douban.com/subject/3522865/	现代纠错编码与调制理论及应用
+通信	https://book.douban.com/subject/26824523/	《枪林弹雨中成长——华为人讲自己的故事》（一）
+通信	https://book.douban.com/subject/27202253/	5G传输关键技术
+通信	https://book.douban.com/subject/1141182/	无线通信与网络
+通信	https://book.douban.com/subject/3507692/	通信专业实务
+通信	https://book.douban.com/subject/3349547/	3G技术与UMTS网络
+通信	https://book.douban.com/subject/3349418/	协同无线通信原理与应用
+通信	https://book.douban.com/subject/3702300/	基于XILINX FPGA的OFDM通信系统基带设计
+通信	https://book.douban.com/subject/3743915/	3G知识问答
+通信	https://book.douban.com/subject/4916565/	对话多媒体通信
+通信	https://book.douban.com/subject/3283527/	信号与系统例题分析
+通信	https://book.douban.com/subject/3266039/	Xilinx ISE Design Suite 10.x FPGA开发指南
+通信	https://book.douban.com/subject/2184149/	信号和通信系统
+通信	https://book.douban.com/subject/26666415/	赢在运营
+通信	https://book.douban.com/subject/3251449/	Digital Communications
+通信	https://book.douban.com/subject/1220624/	Verilog HDL高级数字设计
+通信	https://book.douban.com/subject/27200453/	大话5g
+通信	https://book.douban.com/subject/27202253/	5G传输关键技术
+通信	https://book.douban.com/subject/26757693/	无线通信
+通信	https://book.douban.com/subject/5362028/	实用数字信号处理
+通信	https://book.douban.com/subject/1610207/	Network Security
+通信	https://book.douban.com/subject/1087767/	TCP/IP详解 卷2：实现
+通信	https://book.douban.com/subject/4076468/	Electromagnetic Wave Theory
+通信	https://book.douban.com/subject/3879075/	信号与系统
+通信	https://book.douban.com/subject/3916055/	Multirate Systems And Filter Banks
+通信	https://book.douban.com/subject/3892558/	无线通信原理与应用
+通信	https://book.douban.com/subject/1101089/	计算机软件技术基础
+通信	https://book.douban.com/subject/4113215/	光纤通信
+通信	https://book.douban.com/subject/4089785/	通信网理论基础
+通信	https://book.douban.com/subject/1231422/	数字信号处理
+通信	https://book.douban.com/subject/3863635/	无线传感器网络的领域应用与设计技术
+通信	https://book.douban.com/subject/4270078/	The Scientist &amp; Engineer&#39;s Guide to Digital Signal Processing
+通信	https://book.douban.com/subject/4130536/	移动通信原理
+通信	https://book.douban.com/subject/4031960/	西门子工业通信网络组态编程与故障诊断
+通信	https://book.douban.com/subject/1652438/	通信原理(系统调制与噪声)(第5版)(影印版) (平装)
+通信	https://book.douban.com/subject/1231373/	复变函数与积分变换学习辅导与习题全解
+通信	https://book.douban.com/subject/4941447/	雷达手册
+通信	https://book.douban.com/subject/1225925/	MATLAB通信仿真开发手册
+通信	https://book.douban.com/subject/1226286/	完整无线设计
+通信	https://book.douban.com/subject/1227317/	高性能通信网络
+通信	https://book.douban.com/subject/1610207/	Network Security
+通信	https://book.douban.com/subject/4089785/	通信网理论基础
+通信	https://book.douban.com/subject/4076468/	Electromagnetic Wave Theory
+通信	https://book.douban.com/subject/1652438/	通信原理(系统调制与噪声)(第5版)(影印版) (平装)
+通信	https://book.douban.com/subject/1140934/	宽带无线通信OFDM技术
+通信	https://book.douban.com/subject/3892558/	无线通信原理与应用
+通信	https://book.douban.com/subject/4113215/	光纤通信
+通信	https://book.douban.com/subject/1400688/	Network Security with OpenSSL
+通信	https://book.douban.com/subject/1414571/	图像通信
+通信	https://book.douban.com/subject/1434821/	下一代网络服务质量技术
+通信	https://book.douban.com/subject/1434824/	DSP原理及其C编程开发技术
+通信	https://book.douban.com/subject/5267467/	现代通信技术概论
+通信	https://book.douban.com/subject/1434831/	IT通史
+通信	https://book.douban.com/subject/3863635/	无线传感器网络的领域应用与设计技术
+通信	https://book.douban.com/subject/3916055/	Multirate Systems And Filter Banks
+通信	https://book.douban.com/subject/4031960/	西门子工业通信网络组态编程与故障诊断
+通信	https://book.douban.com/subject/1652438/	通信原理(系统调制与噪声)(第5版)(影印版) (平装)
+通信	https://book.douban.com/subject/4926084/	现代通信技术
+通信	https://book.douban.com/subject/5414351/	协同无线通信导论
+通信	https://book.douban.com/subject/3863635/	无线传感器网络的领域应用与设计技术
+通信	https://book.douban.com/subject/1201628/	通信工程监理手册
+通信	https://book.douban.com/subject/1400688/	Network Security with OpenSSL
+通信	https://book.douban.com/subject/1414571/	图像通信
+通信	https://book.douban.com/subject/1434821/	下一代网络服务质量技术
+通信	https://book.douban.com/subject/1434824/	DSP原理及其C编程开发技术
+通信	https://book.douban.com/subject/1434831/	IT通史
+通信	https://book.douban.com/subject/4839962/	QoS在IOS中的实现与应用
+通信	https://book.douban.com/subject/1436158/	超宽带无线电技术
+通信	https://book.douban.com/subject/4882201/	多抽样率信号处理
+通信	https://book.douban.com/subject/1477816/	Linear Systems and Signals (The Oxford Series in Electrical and Computer Engineering)
+通信	https://book.douban.com/subject/4941447/	雷达手册
+通信	https://book.douban.com/subject/5267467/	现代通信技术概论
+通信	https://book.douban.com/subject/3463560/	电信行业精确营销方法与案例
+通信	https://book.douban.com/subject/3507696/	通信专业综合能力
+通信	https://book.douban.com/subject/3655299/	异构无线网络融合理论与技术实现
+通信	https://book.douban.com/subject/1231373/	复变函数与积分变换学习辅导与习题全解
+通信	https://book.douban.com/subject/1434831/	IT通史
+通信	https://book.douban.com/subject/6730904/	3G技术问答
+通信	https://book.douban.com/subject/1246233/	电子线路
+通信	https://book.douban.com/subject/1140934/	宽带无线通信OFDM技术
+通信	https://book.douban.com/subject/4882201/	多抽样率信号处理
+通信	https://book.douban.com/subject/1240922/	数字信号处理
+通信	https://book.douban.com/subject/3301230/	通信原理
+通信	https://book.douban.com/subject/3351524/	通信电子线路
+通信	https://book.douban.com/subject/6790770/	信号与系统
+通信	https://book.douban.com/subject/1190072/	数字集成电路
+通信	https://book.douban.com/subject/1610207/	Network Security
+通信	https://book.douban.com/subject/3655299/	异构无线网络融合理论与技术实现
+通信	https://book.douban.com/subject/5414351/	协同无线通信导论
+通信	https://book.douban.com/subject/1181094/	现代数字信号处理
+通信	https://book.douban.com/subject/3507691/	全国通信专业技术人员职业水平考试参考用书（中级）
+通信	https://book.douban.com/subject/4327225/	基于4G系统的移动服务技术
+通信	https://book.douban.com/subject/1652438/	通信原理(系统调制与噪声)(第5版)(影印版) (平装)
+通信	https://book.douban.com/subject/1278043/	MATLAB程序设计教程
+通信	https://book.douban.com/subject/1178436/	信号与系统
+通信	https://book.douban.com/subject/4076468/	Electromagnetic Wave Theory
+通信	https://book.douban.com/subject/3359820/	射频与微波工程实践导论
+通信	https://book.douban.com/subject/1843552/	扩频通信导论
+通信	https://book.douban.com/subject/10578760/	The Essential Guide to Telecommunications
+通信	https://book.douban.com/subject/6127789/	弹道导弹雷达目标识别技术
+通信	https://book.douban.com/subject/1845446/	通信工程监理实务
+通信	https://book.douban.com/subject/1400688/	Network Security with OpenSSL
+通信	https://book.douban.com/subject/1852460/	交换技术
+通信	https://book.douban.com/subject/20172494/	WCDMA关键技术详解
+通信	https://book.douban.com/subject/3507691/	全国通信专业技术人员职业水平考试参考用书（中级）
+通信	https://book.douban.com/subject/1477816/	Linear Systems and Signals (The Oxford Series in Electrical and Computer Engineering)
+通信	https://book.douban.com/subject/6785786/	无线通信中迭代均衡技术
+通信	https://book.douban.com/subject/6730904/	3G技术问答
+通信	https://book.douban.com/subject/3187429/	现代通信网概论
+通信	https://book.douban.com/subject/1436158/	超宽带无线电技术
+通信	https://book.douban.com/subject/3351524/	通信电子线路
+通信	https://book.douban.com/subject/6512298/	电力线通信技术与实践
+通信	https://book.douban.com/subject/1434831/	IT通史
+通信	https://book.douban.com/subject/1434824/	DSP原理及其C编程开发技术
+通信	https://book.douban.com/subject/1434821/	下一代网络服务质量技术
+通信	https://book.douban.com/subject/3507696/	通信专业综合能力
+通信	https://book.douban.com/subject/10073154/	Software Receiver Design
+通信	https://book.douban.com/subject/6126339/	天线手册
+通信	https://book.douban.com/subject/6073317/	通信用户线路终端安装与维护
+通信	https://book.douban.com/subject/1231373/	复变函数与积分变换学习辅导与习题全解
+通信	https://book.douban.com/subject/1391207/	计算机网络（第4版）
+通信	https://book.douban.com/subject/1396635/	电信新业务推广战略
+通信	https://book.douban.com/subject/10742332/	LTE权威指南
+通信	https://book.douban.com/subject/10555434/	信息理论基础
+通信	https://book.douban.com/subject/1813518/	下一代无线因特网技术
+通信	https://book.douban.com/subject/1434831/	IT通史
+通信	https://book.douban.com/subject/1434824/	DSP原理及其C编程开发技术
+通信	https://book.douban.com/subject/1821877/	通信网性能分析基础
+通信	https://book.douban.com/subject/1434821/	下一代网络服务质量技术
+通信	https://book.douban.com/subject/11531919/	Voice over LTE
+通信	https://book.douban.com/subject/24872278/	信号与噪声
+通信	https://book.douban.com/subject/1414571/	图像通信
+通信	https://book.douban.com/subject/3266098/	蜂窝网络高级规划与优化
+通信	https://book.douban.com/subject/1400688/	Network Security with OpenSSL
+通信	https://book.douban.com/subject/1237822/	现代通信系统
+通信	https://book.douban.com/subject/1128002/	数字信号处理－基于计算机的方法
+通信	https://book.douban.com/subject/26964393/	无线通信中的射频收发系统设计
+通信	https://book.douban.com/subject/1843552/	扩频通信导论
+通信	https://book.douban.com/subject/3712794/	信号与系统引论
+通信	https://book.douban.com/subject/4113215/	光纤通信
+通信	https://book.douban.com/subject/3892558/	无线通信原理与应用
+通信	https://book.douban.com/subject/1813518/	下一代无线因特网技术
+通信	https://book.douban.com/subject/3301230/	通信原理
+通信	https://book.douban.com/subject/1821877/	通信网性能分析基础
+通信	https://book.douban.com/subject/1237953/	现代通信技术
+通信	https://book.douban.com/subject/1237822/	现代通信系统
+通信	https://book.douban.com/subject/3266098/	蜂窝网络高级规划与优化
+通信	https://book.douban.com/subject/3351524/	通信电子线路
+通信	https://book.douban.com/subject/3578509/	随机信号分析基础
+通信	https://book.douban.com/subject/3507696/	通信专业综合能力
+通信	https://book.douban.com/subject/3187429/	现代通信网概论
+通信	https://book.douban.com/subject/3507691/	全国通信专业技术人员职业水平考试参考用书（中级）
+通信	https://book.douban.com/subject/3463560/	电信行业精确营销方法与案例
+通信	https://book.douban.com/subject/3359820/	射频与微波工程实践导论
+通信	https://book.douban.com/subject/1237418/	OFDM无线局域网
+通信	https://book.douban.com/subject/10742332/	LTE权威指南
+通信	https://book.douban.com/subject/3176123/	Information Theory and Reliable Communication
+通信	https://book.douban.com/subject/3107156/	复杂技术学习和追赶－以中国通信设备制造业为例
+通信	https://book.douban.com/subject/2879557/	RF System Design of Transceivers for Wireless Communications
+通信	https://book.douban.com/subject/3044231/	模拟电子电路及技术基础
+通信	https://book.douban.com/subject/3027253/	通信网理论与应用
+通信	https://book.douban.com/subject/1712379/	数字信号处理
+通信	https://book.douban.com/subject/1700843/	离散随机信号处理
+通信	https://book.douban.com/subject/3014402/	Discrete Stochastic Processes
+通信	https://book.douban.com/subject/1777360/	Introduction to Digital Communication
+通信	https://book.douban.com/subject/3056501/	现代信息交流史
+通信	https://book.douban.com/subject/25888132/	电信网新技术IPRAN/PTN
+通信	https://book.douban.com/subject/1231373/	复变函数与积分变换学习辅导与习题全解
+通信	https://book.douban.com/subject/1821877/	通信网性能分析基础
+通信	https://book.douban.com/subject/1813518/	下一代无线因特网技术
+通信	https://book.douban.com/subject/26410916/	FPGA设计技巧与案例开发详解
+通信	https://book.douban.com/subject/1231422/	数字信号处理
+通信	https://book.douban.com/subject/5978891/	微波技术与天线学习辅导与习题详解
+通信	https://book.douban.com/subject/3283963/	信号与系统
+通信	https://book.douban.com/subject/1802735/	中国移动通信营销案例精选
+通信	https://book.douban.com/subject/1794865/	Programming Jabber
+通信	https://book.douban.com/subject/1852460/	交换技术
+通信	https://book.douban.com/subject/3892558/	无线通信原理与应用
+通信	https://book.douban.com/subject/1845446/	通信工程监理实务
+通信	https://book.douban.com/subject/4031960/	西门子工业通信网络组态编程与故障诊断
+通信	https://book.douban.com/subject/4076468/	Electromagnetic Wave Theory
+通信	https://book.douban.com/subject/1843552/	扩频通信导论
+通信	https://book.douban.com/subject/1631892/	电力线通信
+通信	https://book.douban.com/subject/10486319/	深入浅出数字信号处理
+通信	https://book.douban.com/subject/1553307/	图解B-ISDN宽带综合业务数字网
+通信	https://book.douban.com/subject/1591081/	电力系统光纤通信线路设计
+通信	https://book.douban.com/subject/1610332/	Understanding and Deploying LDAP Directory Services
+通信	https://book.douban.com/subject/1231384/	数据通信与网络教程
+通信	https://book.douban.com/subject/1231750/	数字图像处理
+通信	https://book.douban.com/subject/1231413/	通信工程监理人员必读
+通信	https://book.douban.com/subject/1146319/	模式分类
+通信	https://book.douban.com/subject/1146405/	通用分组无线业务
+通信	https://book.douban.com/subject/1149760/	现代通信系统计费原理
+通信	https://book.douban.com/subject/1231700/	数字调制与编码
+通信	https://book.douban.com/subject/1231689/	计算机电话系统
+通信	https://book.douban.com/subject/1577043/	移动通信
+通信	https://book.douban.com/subject/1507677/	信号、系统与信号处理(上)
+通信	https://book.douban.com/subject/2983503/	信号与系统
+通信	https://book.douban.com/subject/1101079/	数字图像处理
+通信	https://book.douban.com/subject/1577043/	移动通信
+通信	https://book.douban.com/subject/1231413/	通信工程监理人员必读
+通信	https://book.douban.com/subject/1146319/	模式分类
+通信	https://book.douban.com/subject/1231689/	计算机电话系统
+通信	https://book.douban.com/subject/1231192/	现代通信系统分析与仿真
+通信	https://book.douban.com/subject/1509202/	面向21世纪课程教材·电子技术基础
+通信	https://book.douban.com/subject/1149760/	现代通信系统计费原理
+通信	https://book.douban.com/subject/1146405/	通用分组无线业务
+通信	https://book.douban.com/subject/1146251/	计算机密码学
+通信	https://book.douban.com/subject/1231750/	数字图像处理
+通信	https://book.douban.com/subject/1231172/	数字通信
+通信	https://book.douban.com/subject/1648498/	Cisco IP路由
+通信	https://book.douban.com/subject/1231170/	网络与通信技术百科全书
+通信	https://book.douban.com/subject/1610332/	Understanding and Deploying LDAP Directory Services
+通信	https://book.douban.com/subject/1591081/	电力系统光纤通信线路设计
+通信	https://book.douban.com/subject/1231700/	数字调制与编码
+通信	https://book.douban.com/subject/1515019/	现代通信原理
+通信	https://book.douban.com/subject/1149760/	现代通信系统计费原理
+通信	https://book.douban.com/subject/1610332/	Understanding and Deploying LDAP Directory Services
+通信	https://book.douban.com/subject/1231172/	数字通信
+通信	https://book.douban.com/subject/1142327/	数字通信导论
+通信	https://book.douban.com/subject/1146251/	计算机密码学
+通信	https://book.douban.com/subject/1146319/	模式分类
+通信	https://book.douban.com/subject/1146405/	通用分组无线业务
+通信	https://book.douban.com/subject/2697264/	Inside Cisco Ios Software Architecture
+通信	https://book.douban.com/subject/1231192/	现代通信系统分析与仿真
+通信	https://book.douban.com/subject/2869662/	Orthogonal Frequency Division Multiplexing for Wireless Communications (Signals and Communication Technology)
+通信	https://book.douban.com/subject/1481150/	The IMS Second Edition
+通信	https://book.douban.com/subject/10486319/	深入浅出数字信号处理
+通信	https://book.douban.com/subject/2863478/	Communication Systems
+通信	https://book.douban.com/subject/2861689/	Next Generation SDH/SONET
+通信	https://book.douban.com/subject/2855490/	History of Wireless
+通信	https://book.douban.com/subject/2851464/	Introduction to Data Communications and Networking
+通信	https://book.douban.com/subject/2850461/	Practical Electrical Network Automation and Communication Systems
+通信	https://book.douban.com/subject/2734531/	Routing, Flow, and Capacity Design in Communication and Computer Networks
+通信	https://book.douban.com/subject/1458426/	Cisco LAN Switching (CCIE Professional Development series)
+通信	https://book.douban.com/subject/1448497/	信号检测与估计理论
+通信	https://book.douban.com/subject/2348759/	语音与数据通信原理
+通信	https://book.douban.com/subject/2861689/	Next Generation SDH/SONET
+通信	https://book.douban.com/subject/2863478/	Communication Systems
+通信	https://book.douban.com/subject/1458426/	Cisco LAN Switching (CCIE Professional Development series)
+通信	https://book.douban.com/subject/2869662/	Orthogonal Frequency Division Multiplexing for Wireless Communications (Signals and Communication Technology)
+通信	https://book.douban.com/subject/2877324/	Sphere Packings, Lattices and Groups
+通信	https://book.douban.com/subject/2878105/	Resource Management in Satellite Networks
+通信	https://book.douban.com/subject/1481150/	The IMS Second Edition
+通信	https://book.douban.com/subject/1485380/	Multiuser Detection
+通信	https://book.douban.com/subject/1448497/	信号检测与估计理论
+通信	https://book.douban.com/subject/2855490/	History of Wireless
+通信	https://book.douban.com/subject/2851464/	Introduction to Data Communications and Networking
+通信	https://book.douban.com/subject/2350920/	重复累积码及其在通信系统中的应用
+通信	https://book.douban.com/subject/2356843/	控制论
+通信	https://book.douban.com/subject/2696320/	qmail
+通信	https://book.douban.com/subject/2697264/	Inside Cisco Ios Software Architecture
+通信	https://book.douban.com/subject/1446919/	无线通信系统仿真
+通信	https://book.douban.com/subject/1446929/	数字通信导论
+通信	https://book.douban.com/subject/2734531/	Routing, Flow, and Capacity Design in Communication and Computer Networks
+通信	https://book.douban.com/subject/2850461/	Practical Electrical Network Automation and Communication Systems
+通信	https://book.douban.com/subject/2869662/	Orthogonal Frequency Division Multiplexing for Wireless Communications (Signals and Communication Technology)
+通信	https://book.douban.com/subject/1230137/	小波变换与工程应用
+通信	https://book.douban.com/subject/2877324/	Sphere Packings, Lattices and Groups
+通信	https://book.douban.com/subject/2696320/	qmail
+通信	https://book.douban.com/subject/1231384/	数据通信与网络教程
+通信	https://book.douban.com/subject/2361621/	微型计算机原理与接口技术
+通信	https://book.douban.com/subject/2299605/	SSH, The Secure Shell
+通信	https://book.douban.com/subject/2304729/	Protel 2004电路设计入门与应用
+通信	https://book.douban.com/subject/1231750/	数字图像处理
+通信	https://book.douban.com/subject/2307238/	TD-SCDMA无线系统原理与实现
+通信	https://book.douban.com/subject/2309150/	DSPs原理及应用教程
+通信	https://book.douban.com/subject/2315936/	移动多媒体商务
+通信	https://book.douban.com/subject/1231700/	数字调制与编码
+通信	https://book.douban.com/subject/1231689/	计算机电话系统
+通信	https://book.douban.com/subject/2332160/	现代数字信号处理
+通信	https://book.douban.com/subject/1231413/	通信工程监理人员必读
+通信	https://book.douban.com/subject/2348759/	语音与数据通信原理
+通信	https://book.douban.com/subject/2350920/	重复累积码及其在通信系统中的应用
+通信	https://book.douban.com/subject/2356843/	控制论
+通信	https://book.douban.com/subject/2360707/	Telecommunications Essentials, Second Edition
+通信	https://book.douban.com/subject/2361621/	微型计算机原理与接口技术
+通信	https://book.douban.com/subject/2360707/	Telecommunications Essentials, Second Edition
+通信	https://book.douban.com/subject/2356843/	控制论
+通信	https://book.douban.com/subject/2250471/	通信原理学习辅导与考研指导
+通信	https://book.douban.com/subject/2261678/	下一代移动系统3G/B3G
+通信	https://book.douban.com/subject/2274622/	移动通信
+通信	https://book.douban.com/subject/2283538/	数字图像处理
+通信	https://book.douban.com/subject/2284322/	Computer Networking
+通信	https://book.douban.com/subject/2286547/	Communication Technology
+通信	https://book.douban.com/subject/2291945/	光纤通信系统 第2版
+通信	https://book.douban.com/subject/2294382/	Long Term Evolution
+通信	https://book.douban.com/subject/2299605/	SSH, The Secure Shell
+通信	https://book.douban.com/subject/2304729/	Protel 2004电路设计入门与应用
+通信	https://book.douban.com/subject/2307238/	TD-SCDMA无线系统原理与实现
+通信	https://book.douban.com/subject/2309150/	DSPs原理及应用教程
+通信	https://book.douban.com/subject/2315936/	移动多媒体商务
+通信	https://book.douban.com/subject/2332160/	现代数字信号处理
+通信	https://book.douban.com/subject/2221503/	移动无线数据新业务
+通信	https://book.douban.com/subject/2348759/	语音与数据通信原理
+通信	https://book.douban.com/subject/2350920/	重复累积码及其在通信系统中的应用
+通信	https://book.douban.com/subject/2294382/	Long Term Evolution
+通信	https://book.douban.com/subject/2291945/	光纤通信系统 第2版
+通信	https://book.douban.com/subject/2286547/	Communication Technology
+通信	https://book.douban.com/subject/2283538/	数字图像处理
+通信	https://book.douban.com/subject/2274622/	移动通信
+通信	https://book.douban.com/subject/2261678/	下一代移动系统3G/B3G
+通信	https://book.douban.com/subject/1434885/	TD-SCDMA移动通信系统
+通信	https://book.douban.com/subject/1434949/	信息通信网络技术
+通信	https://book.douban.com/subject/2304729/	Protel 2004电路设计入门与应用
+通信	https://book.douban.com/subject/2307238/	TD-SCDMA无线系统原理与实现
+通信	https://book.douban.com/subject/2309150/	DSPs原理及应用教程
+通信	https://book.douban.com/subject/1400481/	3G与固定视频业务的融合
+通信	https://book.douban.com/subject/2361621/	微型计算机原理与接口技术
+通信	https://book.douban.com/subject/2360707/	Telecommunications Essentials, Second Edition
+通信	https://book.douban.com/subject/2356843/	控制论
+通信	https://book.douban.com/subject/2350920/	重复累积码及其在通信系统中的应用
+通信	https://book.douban.com/subject/2348759/	语音与数据通信原理
+通信	https://book.douban.com/subject/1410422/	现代移动通信中的先进技术
+通信	https://book.douban.com/subject/2332160/	现代数字信号处理
+通信	https://book.douban.com/subject/2315936/	移动多媒体商务
+通信	https://book.douban.com/subject/2315936/	移动多媒体商务
+通信	https://book.douban.com/subject/2309150/	DSPs原理及应用教程
+通信	https://book.douban.com/subject/2307238/	TD-SCDMA无线系统原理与实现
+通信	https://book.douban.com/subject/1139957/	高速公路通信系统理论及应用
+通信	https://book.douban.com/subject/2304729/	Protel 2004电路设计入门与应用
+通信	https://book.douban.com/subject/2299605/	SSH, The Secure Shell
+通信	https://book.douban.com/subject/2294382/	Long Term Evolution
+通信	https://book.douban.com/subject/1137698/	光纤通信原理与系统
+通信	https://book.douban.com/subject/2348759/	语音与数据通信原理
+通信	https://book.douban.com/subject/2350920/	重复累积码及其在通信系统中的应用
+通信	https://book.douban.com/subject/2861689/	Next Generation SDH/SONET
+通信	https://book.douban.com/subject/2855490/	History of Wireless
+通信	https://book.douban.com/subject/2851464/	Introduction to Data Communications and Networking
+通信	https://book.douban.com/subject/2850461/	Practical Electrical Network Automation and Communication Systems
+通信	https://book.douban.com/subject/2734531/	Routing, Flow, and Capacity Design in Communication and Computer Networks
+通信	https://book.douban.com/subject/2697264/	Inside Cisco Ios Software Architecture
+通信	https://book.douban.com/subject/2696320/	qmail
+通信	https://book.douban.com/subject/2361621/	微型计算机原理与接口技术
+通信	https://book.douban.com/subject/2360707/	Telecommunications Essentials, Second Edition
+通信	https://book.douban.com/subject/2356843/	控制论
+通信	https://book.douban.com/subject/1943167/	英汉现代通信词典
+通信	https://book.douban.com/subject/2361621/	微型计算机原理与接口技术
+通信	https://book.douban.com/subject/2360707/	Telecommunications Essentials, Second Edition
+通信	https://book.douban.com/subject/2356843/	控制论
+通信	https://book.douban.com/subject/2350920/	重复累积码及其在通信系统中的应用
+通信	https://book.douban.com/subject/2348759/	语音与数据通信原理
+通信	https://book.douban.com/subject/1952636/	数字信号处理
+通信	https://book.douban.com/subject/2850461/	Practical Electrical Network Automation and Communication Systems
+通信	https://book.douban.com/subject/2851464/	Introduction to Data Communications and Networking
+通信	https://book.douban.com/subject/2882919/	MIMO Wireless Communications
+通信	https://book.douban.com/subject/2881342/	The RF in RFID
+通信	https://book.douban.com/subject/1933485/	OFDM关键技术与应用
+通信	https://book.douban.com/subject/1231689/	计算机电话系统
+通信	https://book.douban.com/subject/2878105/	Resource Management in Satellite Networks
+通信	https://book.douban.com/subject/2877324/	Sphere Packings, Lattices and Groups
+通信	https://book.douban.com/subject/1231700/	数字调制与编码
+通信	https://book.douban.com/subject/2869662/	Orthogonal Frequency Division Multiplexing for Wireless Communications (Signals and Communication Technology)
+通信	https://book.douban.com/subject/2863478/	Communication Systems
+通信	https://book.douban.com/subject/1231750/	数字图像处理
+通信	https://book.douban.com/subject/2855490/	History of Wireless
+通信	https://book.douban.com/subject/2315936/	移动多媒体商务
+通信	https://book.douban.com/subject/2309150/	DSPs原理及应用教程
+通信	https://book.douban.com/subject/2307238/	TD-SCDMA无线系统原理与实现
+通信	https://book.douban.com/subject/2304729/	Protel 2004电路设计入门与应用
+通信	https://book.douban.com/subject/2299605/	SSH, The Secure Shell
+通信	https://book.douban.com/subject/2734531/	Routing, Flow, and Capacity Design in Communication and Computer Networks
+通信	https://book.douban.com/subject/2850461/	Practical Electrical Network Automation and Communication Systems
+通信	https://book.douban.com/subject/2983503/	信号与系统
+通信	https://book.douban.com/subject/2882919/	MIMO Wireless Communications
+通信	https://book.douban.com/subject/2881342/	The RF in RFID
+通信	https://book.douban.com/subject/1610332/	Understanding and Deploying LDAP Directory Services
+通信	https://book.douban.com/subject/1631892/	电力线通信
+通信	https://book.douban.com/subject/2878105/	Resource Management in Satellite Networks
+通信	https://book.douban.com/subject/2877324/	Sphere Packings, Lattices and Groups
+通信	https://book.douban.com/subject/1648498/	Cisco IP路由
+通信	https://book.douban.com/subject/2869662/	Orthogonal Frequency Division Multiplexing for Wireless Communications (Signals and Communication Technology)
+通信	https://book.douban.com/subject/2863478/	Communication Systems
+通信	https://book.douban.com/subject/2861689/	Next Generation SDH/SONET
+通信	https://book.douban.com/subject/2855490/	History of Wireless
+通信	https://book.douban.com/subject/2851464/	Introduction to Data Communications and Networking
+通信	https://book.douban.com/subject/2115186/	现代通信原理（上册）
+通信	https://book.douban.com/subject/2115863/	电信交换原理
+通信	https://book.douban.com/subject/2122502/	现代通信原理（下册）
+通信	https://book.douban.com/subject/2124087/	信号与系统
+通信	https://book.douban.com/subject/2130342/	WCDMA原理与开发设计
+通信	https://book.douban.com/subject/2139157/	Fundamentals of WiMAX
+通信	https://book.douban.com/subject/2142453/	信仰与政治哲学
+通信	https://book.douban.com/subject/2150042/	WCDMA无线网络规划与优化
+通信	https://book.douban.com/subject/2112839/	MATLAB电子仿真与应用教程
+通信	https://book.douban.com/subject/2073826/	Linux程序设计
+通信	https://book.douban.com/subject/2068856/	数字设计
+通信	https://book.douban.com/subject/1972632/	3G无线网络和无线局域网的设计与性能
+通信	https://book.douban.com/subject/1972638/	移动通信新业务
+通信	https://book.douban.com/subject/1975225/	随机信号分析
+通信	https://book.douban.com/subject/2014880/	HSDPA/HSUPA技术与系统设计
+通信	https://book.douban.com/subject/2016013/	用TCP/IP进行网际互连
+通信	https://book.douban.com/subject/2016019/	现代通信技术-(第二版)(上.下册)
+通信	https://book.douban.com/subject/2024655/	数据结构
+通信	https://book.douban.com/subject/2058026/	电信市场经营分析方法与案例
+通信	https://book.douban.com/subject/2066567/	移动通信技术及应用
+通信	https://book.douban.com/subject/1933485/	OFDM关键技术与应用
+通信	https://book.douban.com/subject/2697264/	Inside Cisco Ios Software Architecture
+通信	https://book.douban.com/subject/2696320/	qmail
+通信	https://book.douban.com/subject/1210633/	以软交换为核心的下一代网络技术
+通信	https://book.douban.com/subject/1912106/	通信原理
+通信	https://book.douban.com/subject/3040972/	Signals and Systems
+通信	https://book.douban.com/subject/3038191/	通信软件设计基础
+通信	https://book.douban.com/subject/1888111/	Convex Optimization
+通信	https://book.douban.com/subject/1888993/	Channel-Adaptive Technologies and Cross-Layer Designs for Wireless Systems with Multiple Antennas
+通信	https://book.douban.com/subject/1893050/	信息论、推理与学习算法
+通信	https://book.douban.com/subject/3020785/	Mentor高速电路板设计与仿真
+通信	https://book.douban.com/subject/1896792/	程序员面试宝典
+通信	https://book.douban.com/subject/1198852/	现代通信交换技术
+通信	https://book.douban.com/subject/3002266/	无线通信调制与编码
+通信	https://book.douban.com/subject/1896907/	电路
+通信	https://book.douban.com/subject/1897925/	现代通信理论基础（上册）
+通信	https://book.douban.com/subject/1217107/	电子战建模与仿真导论
+通信	https://book.douban.com/subject/2983503/	信号与系统
