@@ -57,7 +57,7 @@ a:focus, a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: oswald;
+    font-family: 楷体_GB2312, "TimesNewRoman";
     font-weight: 400;
 }
 
