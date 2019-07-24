@@ -22,3 +22,19 @@ We found a data set on GitHub about Douban Movie Comments, which contains about 
 Expected Analysis Results
 
 Similar movies should be liked by the same kind of people, so people in the same community should like the same kind of movies. As a result, within the movie communities, most movies should belong to the same type. Meanwhile, because some movies are greatly loved by the masses, the gatherings of different communities will form a central area, representing the most popular movies.
+
+# About Spider
+
+*spider*目录下一共有四个文件夹，每一个文件夹爬取豆瓣中不同的信息。
+程序需要`python3.6`的支持。
+
+在运行程序之前，请先输入以下命令：
+
+`pip install requests`
+
+`pip install beautifulsoup4`
+
+`pip install selenium`
+
+而在根目录下的文件是在 *Milestone2* 中爬取的数据，我们在 *Milestone3* 中重新对书籍进行了分类并爬取了数据，这让我们的数据更加干净。
+
