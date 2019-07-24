@@ -2,6 +2,8 @@
 
 ***More info*** in the <u>***[Team10_Poser.pdf](https://github.com/Yee172/Books2Movies/blob/master/Team10_Poster.pdf)***</u> and ***<u>[Team10_Presentation.pdf](https://github.com/Yee172/Books2Movies/blob/master/Team10_Presentation.pdf)*</u>**
 
+***Our website***: https://yee172.github.io/Books2Movies/
+
 ## 项目描述
 
 我们希望发现一种新的电影分类方式——***基于观众的喜好来分类***。我们选取[豆瓣](www.douban.com)的用户作为电影的观众，以阅读的书籍作为观众的偏好依据。我们将在以阅读书籍为参考的用户图上运行***社区发现算法***，从而将观众分类。然后对每一个社区的电影喜好进行整合，形成每个社区的偏好。最后用每个社区的偏好为依据构建电影图并进行新的社区发现，从而发现不同电影之间的隐藏联系。
