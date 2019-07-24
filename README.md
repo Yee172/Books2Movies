@@ -2,7 +2,17 @@
 
 ***More info*** in the <u>***[Team10_Poser.pdf](https://github.com/Yee172/Books2Movies/blob/master/Team10_Poster.pdf)***</u> and ***<u>[Team10_Presentation.pdf](https://github.com/Yee172/Books2Movies/blob/master/Team10_Presentation.pdf)*</u>**
 
-***Our website***: https://yee172.github.io/Books2Movies/
+***Our website:*** https://yee172.github.io/Books2Movies/
+
+***Authors:***
+
+***Tian Fengrui,*** 2017, Xi'an Jiaotong University
+
+***Peng Jiawei,*** 2017, Zhejiang University
+
+***Ye Qihao,*** 2016, Southern University of Science and Technology
+
+***Liu Yihong,*** 2016, Sichuan University
 
 ## 项目描述
 
