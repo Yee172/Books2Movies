@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User2Movie Graph</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width" />
+    <title>ECharts</title>
+    <!--script src="jquery-1.10.2.min.js"></script-->
+    <script type="text/javascript" src="incubator-echarts-4.2.1/test/lib/jquery.min.js"></script>
+    <script type="text/javascript" src="incubator-echarts-4.2.1/dist/echarts.min.js"></script>
+    <script type="text/javascript" src="incubator-echarts-4.2.1/dist/extension/dataTool.js"></script>
+    <!-- <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>-->
+</head>
+<body>
+<div id="main" style="width: 1550px; height: 800px;"></div>
+<div id="main" class="test"></div>
+<script type="text/javascript">
+    "use strict"
+	var myChart = echarts.init(document.getElementById('main'));
+    myChart.width = document.documentElement.clientWidth;
+    myChart.height = document.documentElement.clientHeight;
+	myChart.showLoading();
+$.get('gephi_graph/user2movie.gexf', function (xml) {
+    myChart.hideLoading();
+
+    var graph = echarts.dataTool.gexf.parse(xml);
+    var categories = [];
+    for (var i = 0; i < 14; i++) {
+        categories[i] = {
+            name: 'Movie Cluster ' + i
+        };
+    }
+    graph.nodes.forEach(function (node) {
+        node.itemStyle = null;
+        node.value = node.symbolSize;
+        node.symbolSize /= 1.5;
+        node.label = {
+            normal: {
+                show: node.symbolSize > 30
+            }
+        };
+        node.category = node.attributes.modularity_class;
+    });
+    var option = {
+        title: {
+            text: 'User2Movie Graph',
+            subtext: 'Default layout',
+            top: 'bottom',
+            left: 'right'
+        },
+        tooltip: {},
+        legend: [{
+            // selectedMode: 'single',
+            data: categories.map(function (a) {
+                return a.name;
+            })
+        }],
+        animationDuration: 1500,
+        animationEasingUpdate: 'quinticInOut',
+        series : [
+            {
+                name: 'Movie',
+                type: 'graph',
+                layout: 'none',
+                data: graph.nodes,
+                links: graph.links,
+                categories: categories,
+                roam: true,
+                focusNodeAdjacency: true,
+                itemStyle: {
+                    normal: {
+                        borderColor: '#fff',
+                        borderWidth: 1,
+                        shadowBlur: 10,
+                        shadowColor: 'rgba(0, 0, 0, 0.3)'
+                    }
+                },
+                label: {
+                    position: 'right',
+                    formatter: '{b}'
+                },
+                lineStyle: {
+                    color: 'source',
+                    curveness: 0.3
+                },
+                emphasis: {
+                    lineStyle: {
+                        width: 10
+                    }
+                }
+            }
+        ]
+    };
+
+    myChart.setOption(option);
+}, 'xml');
+</script>
+</body>
+</html>

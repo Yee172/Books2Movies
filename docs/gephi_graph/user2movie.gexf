@@ -1,0 +1,1809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-07-23">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="0盗梦空间:科幻|悬疑|冒险" label="0盗梦空间:科幻|悬疑|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-253.52109" y="1290.8738"></viz:position>
+        <viz:color r="163" g="198" b="208"></viz:color>
+      </node>
+      <node id="1少年派的奇幻漂流:奇幻|冒险" label="1少年派的奇幻漂流:奇幻|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-360.53326" y="1344.3146"></viz:position>
+        <viz:color r="163" g="198" b="208"></viz:color>
+      </node>
+      <node id="4肖申克的救赎:犯罪" label="4肖申克的救赎:犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-345.52463" y="827.434"></viz:position>
+        <viz:color r="77" g="87" b="6"></viz:color>
+      </node>
+      <node id="5霸王别姬:爱情|同性" label="5霸王别姬:爱情|同性">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-420.38586" y="923.03186"></viz:position>
+        <viz:color r="77" g="87" b="6"></viz:color>
+      </node>
+      <node id="9阿甘正传:爱情" label="9阿甘正传:爱情">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-522.23584" y="874.77435"></viz:position>
+        <viz:color r="77" g="87" b="6"></viz:color>
+      </node>
+      <node id="6让子弹飞:喜剧|动作|西部" label="6让子弹飞:喜剧|动作|西部">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1265.8962" y="590.3726"></viz:position>
+        <viz:color r="255" g="182" b="163"></viz:color>
+      </node>
+      <node id="12疯狂动物城:喜剧|动画|冒险" label="12疯狂动物城:喜剧|动画|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1143.2146" y="650.5901"></viz:position>
+        <viz:color r="255" g="182" b="163"></viz:color>
+      </node>
+      <node id="7三傻大闹宝莱坞:喜剧|爱情|歌舞" label="7三傻大闹宝莱坞:喜剧|爱情|歌舞">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-484.7811" y="781.492"></viz:position>
+        <viz:color r="77" g="87" b="6"></viz:color>
+      </node>
+      <node id="8摔跤吧！爸爸:家庭|传记|运动" label="8摔跤吧！爸爸:家庭|传记|运动">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-932.44696" y="134.82368"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="10流浪地球:科幻|灾难" label="10流浪地球:科幻|灾难">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1059.7162" y="82.280815"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="16十二怒汉:剧情" label="16十二怒汉:剧情">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1207.8893" y="-39.9958"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="11头号玩家:动作|科幻|冒险" label="11头号玩家:动作|科幻|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-607.5363" y="190.13377"></viz:position>
+        <viz:color r="140" g="165" b="255"></viz:color>
+      </node>
+      <node id="14三块广告牌:犯罪" label="14三块广告牌:犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-497.61963" y="307.73962"></viz:position>
+        <viz:color r="140" g="165" b="255"></viz:color>
+      </node>
+      <node id="21天才枪手:悬疑|犯罪" label="21天才枪手:悬疑|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-344.5246" y="289.6806"></viz:position>
+        <viz:color r="140" g="165" b="255"></viz:color>
+      </node>
+      <node id="15V字仇杀队:动作|科幻|惊悚" label="15V字仇杀队:动作|科幻|惊悚">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1228.4982" y="-286.71198"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="23窃听风暴:悬疑" label="23窃听风暴:悬疑">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1721.4707" y="-314.18823"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="31黑镜 第一季:科幻|惊悚" label="31黑镜 第一季:科幻|惊悚">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1293.5421" y="-490.80188"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="17阿凡达:动作|科幻|战争|冒险" label="17阿凡达:动作|科幻|战争|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1146.5505" y="156.6337"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="28被解救的姜戈:动作|西部|冒险" label="28被解救的姜戈:动作|西部|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1053.0881" y="267.70142"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="19绿皮书:喜剧|传记" label="19绿皮书:喜剧|传记">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-775.6024" y="-331.00305"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="20楚门的世界:科幻" label="20楚门的世界:科幻">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-852.5542" y="-493.36295"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="24看不见的客人:悬疑|惊悚|犯罪" label="24看不见的客人:悬疑|惊悚|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-557.8391" y="-358.95908"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="38千与千寻:动画|奇幻" label="38千与千寻:动画|奇幻">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1512.32" y="-625.1974"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="45无间道:悬疑|犯罪" label="45无间道:悬疑|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-452.62158" y="-485.78326"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="22大话西游之大圣娶亲:喜剧|爱情|奇幻|古装" label="22大话西游之大圣娶亲:喜剧|爱情|奇幻|古装">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-327.7163" y="29.486687"></viz:position>
+        <viz:color r="140" g="165" b="255"></viz:color>
+      </node>
+      <node id="29芳华:历史|战争" label="29芳华:历史|战争">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-207.26788" y="218.35109"></viz:position>
+        <viz:color r="140" g="165" b="255"></viz:color>
+      </node>
+      <node id="35消失的爱人:悬疑|惊悚|犯罪" label="35消失的爱人:悬疑|惊悚|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-147.21286" y="7.165802"></viz:position>
+        <viz:color r="140" g="165" b="255"></viz:color>
+      </node>
+      <node id="27寻梦环游记:喜剧|动画|音乐|奇幻" label="27寻梦环游记:喜剧|动画|音乐|奇幻">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="81.63491" y="-41.645622"></viz:position>
+        <viz:color r="140" g="165" b="255"></viz:color>
+      </node>
+      <node id="30海上钢琴师:音乐" label="30海上钢琴师:音乐">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1780.2504" y="-615.0996"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="33美丽心灵:传记" label="33美丽心灵:传记">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1575.1049" y="27.640366"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="46美丽人生:喜剧|爱情|战争" label="46美丽人生:喜剧|爱情|战争">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1139.7653" y="-670.4772"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="32辩护人:剧情" label="32辩护人:剧情">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-659.2456" y="-625.1398"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="37蝙蝠侠：黑暗骑士:动作|科幻|惊悚|犯罪" label="37蝙蝠侠：黑暗骑士:动作|科幻|惊悚|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-159.75018" y="-537.7011"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="54罗马假日:喜剧|爱情" label="54罗马假日:喜剧|爱情">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-481.90906" y="-1059.8032"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="25怦然心动:喜剧|爱情" label="25怦然心动:喜剧|爱情">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1039.3057" y="-1249.1357"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="36机器人总动员:爱情|科幻|动画|冒险" label="36机器人总动员:爱情|科幻|动画|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1287.7328" y="-929.6001"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="39入殓师:剧情" label="39入殓师:剧情">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1010.3641" y="-830.47595"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="43教父:犯罪" label="43教父:犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1486.7074" y="-1065.0527"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="26疯狂原始人:喜剧|动画|冒险" label="26疯狂原始人:喜剧|动画|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-628.0103" y="1224.269"></viz:position>
+        <viz:color r="0" g="212" b="187"></viz:color>
+      </node>
+      <node id="47你的名字。:爱情|动画" label="47你的名字。:爱情|动画">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-900.2422" y="1265.9532"></viz:position>
+        <viz:color r="0" g="212" b="187"></viz:color>
+      </node>
+      <node id="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险" label="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="194.66629" y="-234.6238"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="49西游记之大圣归来:喜剧|动画|奇幻" label="49西游记之大圣归来:喜剧|动画|奇幻">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="521.25916" y="-226.80785"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="52地心引力:科幻|惊悚|灾难" label="52地心引力:科幻|惊悚|灾难">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="744.39484" y="245.65947"></viz:position>
+        <viz:color r="0" g="200" b="92"></viz:color>
+      </node>
+      <node id="55搏击俱乐部:动作|悬疑|惊悚" label="55搏击俱乐部:动作|悬疑|惊悚">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="767.11523" y="-389.75198"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="44辛德勒的名单:历史|战争" label="44辛德勒的名单:历史|战争">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1673.9896" y="-902.79193"></viz:position>
+        <viz:color r="204" g="196" b="0"></viz:color>
+      </node>
+      <node id="56触不可及:喜剧" label="56触不可及:喜剧">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-821.0561" y="-755.1171"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="34这个杀手不太冷:动作|犯罪" label="34这个杀手不太冷:动作|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="846.4304" y="393.5546"></viz:position>
+        <viz:color r="0" g="200" b="92"></viz:color>
+      </node>
+      <node id="59那些年，我们一起追的女孩:喜剧|爱情" label="59那些年，我们一起追的女孩:喜剧|爱情">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="1371.6796" y="372.1667"></viz:position>
+        <viz:color r="0" g="200" b="92"></viz:color>
+      </node>
+      <node id="40活着:家庭|历史" label="40活着:家庭|历史">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-287.20404" y="-342.00452"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="57泰坦尼克号:爱情|灾难" label="57泰坦尼克号:爱情|灾难">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="519.0678" y="-557.51465"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="61国王的演讲:传记|历史" label="61国王的演讲:传记|历史">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-292.22" y="-1054.0415"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="41无双:动作|悬疑|犯罪" label="41无双:动作|悬疑|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-719.2079" y="1388.7003"></viz:position>
+        <viz:color r="0" g="212" b="187"></viz:color>
+      </node>
+      <node id="42蝙蝠侠：黑暗骑士崛起:动作|科幻|惊悚|犯罪" label="42蝙蝠侠：黑暗骑士崛起:动作|科幻|惊悚|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-978.0384" y="1459.5486"></viz:position>
+        <viz:color r="0" g="212" b="187"></viz:color>
+      </node>
+      <node id="51火星救援:科幻|冒险" label="51火星救援:科幻|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-73.834946" y="-352.42035"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="62飞屋环游记:喜剧|动画|冒险" label="62飞屋环游记:喜剧|动画|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-655.511" y="-1342.31"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="58源代码:科幻|悬疑|惊悚" label="58源代码:科幻|悬疑|惊悚">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="634.5637" y="-949.3726"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="68王牌特工：特工学院:喜剧|动作|冒险" label="68王牌特工：特工学院:喜剧|动作|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="651.2482" y="52.341118"></viz:position>
+        <viz:color r="0" g="200" b="92"></viz:color>
+      </node>
+      <node id="70当幸福来敲门:家庭|传记" label="70当幸福来敲门:家庭|传记">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="723.3184" y="-574.6272"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="76龙猫:动画|奇幻|冒险" label="76龙猫:动画|奇幻|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="1034.171" y="-14.15674"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="53布达佩斯大饭店:喜剧|冒险" label="53布达佩斯大饭店:喜剧|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="182.95206" y="-411.00616"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="64鬼子来了:历史|战争" label="64鬼子来了:历史|战争">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="101.7045" y="-529.04175"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="66完美陌生人:喜剧" label="66完美陌生人:喜剧">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="557.29236" y="-774.4736"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="67天堂电影院:爱情" label="67天堂电影院:爱情">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="244.89041" y="-640.5662"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装" label="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="1458.083" y="57.755737"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="75黑镜 第二季:科幻|惊悚" label="75黑镜 第二季:科幻|惊悚">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="376.08264" y="-942.0718"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="78黑客帝国:动作|科幻" label="78黑客帝国:动作|科幻">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-69.81384" y="-754.6065"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="79岁月神偷:家庭" label="79岁月神偷:家庭">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="982.1699" y="-423.46637"></viz:position>
+        <viz:color r="200" g="255" b="138"></viz:color>
+      </node>
+      <node id="50超能陆战队:喜剧|动作|科幻|动画|冒险" label="50超能陆战队:喜剧|动作|科幻|动画|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="694.55475" y="469.4406"></viz:position>
+        <viz:color r="0" g="200" b="92"></viz:color>
+      </node>
+      <node id="60黑天鹅:惊悚" label="60黑天鹅:惊悚">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="593.01514" y="526.98175"></viz:position>
+        <viz:color r="0" g="200" b="92"></viz:color>
+      </node>
+      <node id="69老炮儿:犯罪" label="69老炮儿:犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="777.3945" y="609.94415"></viz:position>
+        <viz:color r="0" g="200" b="92"></viz:color>
+      </node>
+      <node id="63放牛班的春天:音乐" label="63放牛班的春天:音乐">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="22.569107" y="-253.3422"></viz:position>
+        <viz:color r="255" g="129" b="255"></viz:color>
+      </node>
+      <node id="77告白:惊悚" label="77告白:惊悚">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-265.12775" y="-1439.472"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="80贫民窟的百万富翁:爱情" label="80贫民窟的百万富翁:爱情">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-742.0702" y="-975.2326"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="83小偷家族:家庭|犯罪" label="83小偷家族:家庭|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="1219.6841" y="-1056.8558"></viz:position>
+        <viz:color r="200" g="255" b="138"></viz:color>
+      </node>
+      <node id="84西西里的美丽传说:情色|战争" label="84西西里的美丽传说:情色|战争">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="283.45694" y="-1206.1523"></viz:position>
+        <viz:color r="200" g="255" b="138"></viz:color>
+      </node>
+      <node id="82驴得水:喜剧" label="82驴得水:喜剧">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="961.42426" y="803.72034"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+      <node id="91悲惨世界:爱情|歌舞" label="91悲惨世界:爱情|歌舞">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-166.41585" y="-1184.1674"></viz:position>
+        <viz:color r="0" g="224" b="255"></viz:color>
+      </node>
+      <node id="65本杰明·巴顿奇事:爱情|奇幻" label="65本杰明·巴顿奇事:爱情|奇幻">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="899.82745" y="-1340.8545"></viz:position>
+        <viz:color r="200" g="255" b="138"></viz:color>
+      </node>
+      <node id="90社交网络:传记" label="90社交网络:传记">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="740.2743" y="-1200.4385"></viz:position>
+        <viz:color r="200" g="255" b="138"></viz:color>
+      </node>
+      <node id="98无名之辈:喜剧" label="98无名之辈:喜剧">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="474.94122" y="620.58185"></viz:position>
+        <viz:color r="0" g="200" b="92"></viz:color>
+      </node>
+      <node id="85驯龙高手:动画|奇幻|冒险" label="85驯龙高手:动画|奇幻|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="778.84906" y="763.1368"></viz:position>
+        <viz:color r="0" g="200" b="92"></viz:color>
+      </node>
+      <node id="71降临:科幻" label="71降临:科幻">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1138.1321" y="870.1479"></viz:position>
+        <viz:color r="198" g="111" b="180"></viz:color>
+      </node>
+      <node id="94复仇者联盟3：无限战争:动作|科幻|奇幻|冒险" label="94复仇者联盟3：无限战争:动作|科幻|奇幻|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-978.74994" y="826.3838"></viz:position>
+        <viz:color r="198" g="111" b="180"></viz:color>
+      </node>
+      <node id="72闻香识女人:剧情" label="72闻香识女人:剧情">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="58.19182" y="-1390.2329"></viz:position>
+        <viz:color r="200" g="255" b="138"></viz:color>
+      </node>
+      <node id="81情书:爱情" label="81情书:爱情">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="260.47525" y="-1386.2653"></viz:position>
+        <viz:color r="200" g="255" b="138"></viz:color>
+      </node>
+      <node id="93死亡诗社:剧情" label="93死亡诗社:剧情">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="1370.1902" y="-367.97272"></viz:position>
+        <viz:color r="200" g="255" b="138"></viz:color>
+      </node>
+      <node id="74釜山行:动作|惊悚|灾难" label="74釜山行:动作|惊悚|灾难">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-777.6816" y="846.74677"></viz:position>
+        <viz:color r="198" g="111" b="180"></viz:color>
+      </node>
+      <node id="97速度与激情7:动作|惊悚|犯罪" label="97速度与激情7:动作|惊悚|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-885.8274" y="956.96857"></viz:position>
+        <viz:color r="198" g="111" b="180"></viz:color>
+      </node>
+      <node id="99教父2:犯罪" label="99教父2:犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="574.9188" y="-1270.8448"></viz:position>
+        <viz:color r="200" g="255" b="138"></viz:color>
+      </node>
+      <node id="110神偷奶爸:喜剧|动画|冒险" label="110神偷奶爸:喜剧|动画|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="303.9909" y="98.19648"></viz:position>
+        <viz:color r="140" g="52" b="47"></viz:color>
+      </node>
+      <node id="111喜剧之王:喜剧|爱情" label="111喜剧之王:喜剧|爱情">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="1203.1868" y="-622.8693"></viz:position>
+        <viz:color r="200" g="255" b="138"></viz:color>
+      </node>
+      <node id="112无耻混蛋:犯罪" label="112无耻混蛋:犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="883.8312" y="-726.3752"></viz:position>
+        <viz:color r="200" g="255" b="138"></viz:color>
+      </node>
+      <node id="96飞越疯人院:剧情" label="96飞越疯人院:剧情">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="579.56885" y="-1479.0026"></viz:position>
+        <viz:color r="200" g="255" b="138"></viz:color>
+      </node>
+      <node id="95天使爱美丽:喜剧|爱情" label="95天使爱美丽:喜剧|爱情">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="1104.6182" y="1163.4678"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+      <node id="104心迷宫:悬疑|犯罪" label="104心迷宫:悬疑|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="978.5756" y="1042.7262"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+      <node id="107夏洛特烦恼:喜剧|爱情" label="107夏洛特烦恼:喜剧|爱情">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="1008.8912" y="1349.5416"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+      <node id="113云图:科幻|悬疑" label="113云图:科幻|悬疑">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="923.1182" y="1240.1605"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+      <node id="114沉默的羔羊:惊悚|犯罪" label="114沉默的羔羊:惊悚|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="1248.6912" y="819.3"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+      <node id="115玩具总动员3:喜剧|动画|奇幻|冒险" label="115玩具总动员3:喜剧|动画|奇幻|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="708.2753" y="1340.491"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+      <node id="117剪刀手爱德华:爱情|奇幻" label="117剪刀手爱德华:爱情|奇幻">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="1095.2728" y="803.8159"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+      <node id="118第九区:动作|科幻|惊悚" label="118第九区:动作|科幻|惊悚">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="1173.3375" y="936.3708"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+      <node id="86金刚狼3：殊死一战:动作|科幻" label="86金刚狼3：殊死一战:动作|科幻">
+        <attvalues>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-102.22858" y="737.02875"></viz:position>
+        <viz:color r="140" g="52" b="47"></viz:color>
+      </node>
+      <node id="105亲爱的:家庭" label="105亲爱的:家庭">
+        <attvalues>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="69.83874" y="656.70483"></viz:position>
+        <viz:color r="140" g="52" b="47"></viz:color>
+      </node>
+      <node id="87湄公河行动:动作|犯罪" label="87湄公河行动:动作|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="511.27988" y="1175.7239"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+      <node id="102敦刻尔克:历史|战争" label="102敦刻尔克:历史|战争">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="325.33432" y="1073.355"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+      <node id="106钢的琴:喜剧" label="106钢的琴:喜剧">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="612.3998" y="1064.3455"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+      <node id="89忠犬八公的故事:剧情" label="89忠犬八公的故事:剧情">
+        <attvalues>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="268.01526" y="585.9565"></viz:position>
+        <viz:color r="140" g="52" b="47"></viz:color>
+      </node>
+      <node id="119她:爱情|科幻" label="119她:爱情|科幻">
+        <attvalues>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="108.46929" y="504.78784"></viz:position>
+        <viz:color r="140" g="52" b="47"></viz:color>
+      </node>
+      <node id="124复仇者联盟:动作|科幻|奇幻|冒险" label="124复仇者联盟:动作|科幻|奇幻|冒险">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="230.30281" y="900.8856"></viz:position>
+        <viz:color r="0" g="200" b="92"></viz:color>
+      </node>
+      <node id="92蝴蝶效应:科幻|悬疑|惊悚" label="92蝴蝶效应:科幻|悬疑|惊悚">
+        <attvalues>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1587.2473" y="727.3971"></viz:position>
+        <viz:color r="255" g="114" b="8"></viz:color>
+      </node>
+      <node id="1012012:动作|科幻|冒险|灾难" label="1012012:动作|科幻|冒险|灾难">
+        <attvalues>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-1499.1404" y="608.12634"></viz:position>
+        <viz:color r="255" g="114" b="8"></viz:color>
+      </node>
+      <node id="116萨利机长:传记" label="116萨利机长:传记">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="381.39523" y="872.66895"></viz:position>
+        <viz:color r="0" g="200" b="92"></viz:color>
+      </node>
+      <node id="100拯救大兵瑞恩:历史|战争" label="100拯救大兵瑞恩:历史|战争">
+        <attvalues>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-42.625168" y="501.4123"></viz:position>
+        <viz:color r="140" g="52" b="47"></viz:color>
+      </node>
+      <node id="121上帝之城:犯罪" label="121上帝之城:犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="10.789154" y="342.77136"></viz:position>
+        <viz:color r="140" g="52" b="47"></viz:color>
+      </node>
+      <node id="123饮食男女:家庭" label="123饮食男女:家庭">
+        <attvalues>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="-179.75899" y="409.71494"></viz:position>
+        <viz:color r="140" g="52" b="47"></viz:color>
+      </node>
+      <node id="109桃姐:家庭" label="109桃姐:家庭">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="46.11902" y="873.377"></viz:position>
+        <viz:color r="0" g="200" b="92"></viz:color>
+      </node>
+      <node id="122网络谜踪:悬疑|惊悚|犯罪" label="122网络谜踪:悬疑|惊悚|犯罪">
+        <attvalues>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="749.358" y="1069.528"></viz:position>
+        <viz:color r="255" g="93" b="106"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0盗梦空间:科幻|悬疑|冒险" target="1少年派的奇幻漂流:奇幻|冒险" weight="0.03848877549171448">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="1" source="4肖申克的救赎:犯罪" target="5霸王别姬:爱情|同性" weight="0.12407396733760834">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="2" source="5霸王别姬:爱情|同性" target="9阿甘正传:爱情" weight="0.1212674230337143">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="3" source="9阿甘正传:爱情" target="7三傻大闹宝莱坞:喜剧|爱情|歌舞" weight="0.07737905532121658">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="4" source="6让子弹飞:喜剧|动作|西部" target="12疯狂动物城:喜剧|动画|冒险" weight="0.12465022504329681">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="5" source="8摔跤吧！爸爸:家庭|传记|运动" target="10流浪地球:科幻|灾难" weight="0.09797834604978561">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="6" source="10流浪地球:科幻|灾难" target="16十二怒汉:剧情" weight="0.11670178174972534">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="7" source="16十二怒汉:剧情" target="15V字仇杀队:动作|科幻|惊悚" weight="0.06542351841926575">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="8" source="16十二怒汉:剧情" target="17阿凡达:动作|科幻|战争|冒险" weight="0.11255691945552826">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="9" source="16十二怒汉:剧情" target="23窃听风暴:悬疑" weight="0.12032892554998398">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="10" source="11头号玩家:动作|科幻|冒险" target="14三块广告牌:犯罪" weight="0.10238537192344666">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="11" source="14三块广告牌:犯罪" target="21天才枪手:悬疑|犯罪" weight="0.11676151305437088">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="12" source="21天才枪手:悬疑|犯罪" target="22大话西游之大圣娶亲:喜剧|爱情|奇幻|古装" weight="0.11248480528593063">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="13" source="21天才枪手:悬疑|犯罪" target="29芳华:历史|战争" weight="0.10119607299566269">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="14" source="21天才枪手:悬疑|犯罪" target="35消失的爱人:悬疑|惊悚|犯罪" weight="0.08013655245304108">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="15" source="15V字仇杀队:动作|科幻|惊悚" target="23窃听风暴:悬疑" weight="0.09149197489023209">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="16" source="15V字仇杀队:动作|科幻|惊悚" target="31黑镜 第一季:科幻|惊悚" weight="0.12460924685001373">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="17" source="23窃听风暴:悬疑" target="30海上钢琴师:音乐" weight="0.1082681342959404">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="18" source="23窃听风暴:悬疑" target="31黑镜 第一季:科幻|惊悚" weight="0.10043750703334808">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="19" source="23窃听风暴:悬疑" target="33美丽心灵:传记" weight="0.1063523218035698">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="20" source="23窃听风暴:悬疑" target="38千与千寻:动画|奇幻" weight="0.10720480233430862">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="21" source="23窃听风暴:悬疑" target="46美丽人生:喜剧|爱情|战争" weight="0.11724980175495148">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="22" source="31黑镜 第一季:科幻|惊悚" target="20楚门的世界:科幻" weight="0.11358731985092163">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="23" source="31黑镜 第一季:科幻|惊悚" target="30海上钢琴师:音乐" weight="0.05804421380162239">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="24" source="31黑镜 第一季:科幻|惊悚" target="38千与千寻:动画|奇幻" weight="0.022318346425890923">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="25" source="31黑镜 第一季:科幻|惊悚" target="43教父:犯罪" weight="0.10200465470552444">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="26" source="31黑镜 第一季:科幻|惊悚" target="44辛德勒的名单:历史|战争" weight="0.08992781490087509">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="27" source="31黑镜 第一季:科幻|惊悚" target="46美丽人生:喜剧|爱情|战争" weight="0.06598084419965744">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="28" source="31黑镜 第一季:科幻|惊悚" target="56触不可及:喜剧" weight="0.12470007687807083">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="29" source="17阿凡达:动作|科幻|战争|冒险" target="28被解救的姜戈:动作|西部|冒险" weight="0.10062136501073837">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="30" source="19绿皮书:喜剧|传记" target="20楚门的世界:科幻" weight="0.09635129570960999">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="31" source="20楚门的世界:科幻" target="24看不见的客人:悬疑|惊悚|犯罪" weight="0.11948694288730621">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="32" source="20楚门的世界:科幻" target="38千与千寻:动画|奇幻" weight="0.12003720551729202">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="33" source="20楚门的世界:科幻" target="45无间道:悬疑|犯罪" weight="0.12072867155075073">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="34" source="24看不见的客人:悬疑|惊悚|犯罪" target="27寻梦环游记:喜剧|动画|音乐|奇幻" weight="0.10407070070505142">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="35" source="24看不见的客人:悬疑|惊悚|犯罪" target="32辩护人:剧情" weight="0.10899544507265091">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="36" source="24看不见的客人:悬疑|惊悚|犯罪" target="37蝙蝠侠：黑暗骑士:动作|科幻|惊悚|犯罪" weight="0.08161991834640503">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="37" source="24看不见的客人:悬疑|惊悚|犯罪" target="54罗马假日:喜剧|爱情" weight="0.12346263974905014">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="38" source="38千与千寻:动画|奇幻" target="30海上钢琴师:音乐" weight="0.08175209909677505">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="39" source="38千与千寻:动画|奇幻" target="39入殓师:剧情" weight="0.12051073461771011">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="40" source="38千与千寻:动画|奇幻" target="44辛德勒的名单:历史|战争" weight="0.08656974136829376">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="41" source="38千与千寻:动画|奇幻" target="46美丽人生:喜剧|爱情|战争" weight="0.09297986328601837">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="42" source="45无间道:悬疑|犯罪" target="32辩护人:剧情" weight="0.10251307487487793">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="43" source="45无间道:悬疑|犯罪" target="37蝙蝠侠：黑暗骑士:动作|科幻|惊悚|犯罪" weight="0.07414382696151733">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="44" source="45无间道:悬疑|犯罪" target="51火星救援:科幻|冒险" weight="0.11777397245168686">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="45" source="45无间道:悬疑|犯罪" target="56触不可及:喜剧" weight="0.08290252089500427">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="46" source="45无间道:悬疑|犯罪" target="61国王的演讲:传记|历史" weight="0.11387277394533157">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="47" source="22大话西游之大圣娶亲:喜剧|爱情|奇幻|古装" target="27寻梦环游记:喜剧|动画|音乐|奇幻" weight="0.07901584357023239">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="48" source="22大话西游之大圣娶亲:喜剧|爱情|奇幻|古装" target="29芳华:历史|战争" weight="0.028668895363807678">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="49" source="22大话西游之大圣娶亲:喜剧|爱情|奇幻|古装" target="35消失的爱人:悬疑|惊悚|犯罪" weight="0.05020501837134361">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="50" source="29芳华:历史|战争" target="27寻梦环游记:喜剧|动画|音乐|奇幻" weight="0.09484498202800751">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="51" source="29芳华:历史|战争" target="35消失的爱人:悬疑|惊悚|犯罪" weight="0.049603767693042755">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="52" source="35消失的爱人:悬疑|惊悚|犯罪" target="27寻梦环游记:喜剧|动画|音乐|奇幻" weight="0.11889084428548813">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="53" source="35消失的爱人:悬疑|惊悚|犯罪" target="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险" weight="0.1064971461892128">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="54" source="27寻梦环游记:喜剧|动画|音乐|奇幻" target="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险" weight="0.0919593870639801">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="55" source="27寻梦环游记:喜剧|动画|音乐|奇幻" target="49西游记之大圣归来:喜剧|动画|奇幻" weight="0.11283471435308456">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="56" source="27寻梦环游记:喜剧|动画|音乐|奇幻" target="52地心引力:科幻|惊悚|灾难" weight="0.10389838367700577">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="57" source="27寻梦环游记:喜剧|动画|音乐|奇幻" target="55搏击俱乐部:动作|悬疑|惊悚" weight="0.11909453570842743">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="58" source="30海上钢琴师:音乐" target="43教父:犯罪" weight="0.06798488646745682">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="59" source="30海上钢琴师:音乐" target="44辛德勒的名单:历史|战争" weight="0.06798488646745682">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="60" source="30海上钢琴师:音乐" target="46美丽人生:喜剧|爱情|战争" weight="0.07393118739128113">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="61" source="46美丽人生:喜剧|爱情|战争" target="36机器人总动员:爱情|科幻|动画|冒险" weight="0.11079658567905426">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="62" source="46美丽人生:喜剧|爱情|战争" target="39入殓师:剧情" weight="0.12137159705162048">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="63" source="46美丽人生:喜剧|爱情|战争" target="43教父:犯罪" weight="0.03706250339746475">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="64" source="46美丽人生:喜剧|爱情|战争" target="44辛德勒的名单:历史|战争" weight="0.06842061132192612">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="65" source="46美丽人生:喜剧|爱情|战争" target="62飞屋环游记:喜剧|动画|冒险" weight="0.12167927622795105">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="66" source="32辩护人:剧情" target="56触不可及:喜剧" weight="0.09077861160039902">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="67" source="37蝙蝠侠：黑暗骑士:动作|科幻|惊悚|犯罪" target="40活着:家庭|历史" weight="0.09408905357122421">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="68" source="37蝙蝠侠：黑暗骑士:动作|科幻|惊悚|犯罪" target="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险" weight="0.0772780179977417">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="69" source="37蝙蝠侠：黑暗骑士:动作|科幻|惊悚|犯罪" target="57泰坦尼克号:爱情|灾难" weight="0.11263902485370636">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="70" source="37蝙蝠侠：黑暗骑士:动作|科幻|惊悚|犯罪" target="61国王的演讲:传记|历史" weight="0.09679577499628067">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="71" source="54罗马假日:喜剧|爱情" target="25怦然心动:喜剧|爱情" weight="0.12099896371364594">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="72" source="54罗马假日:喜剧|爱情" target="61国王的演讲:传记|历史" weight="0.059663571417331696">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="73" source="54罗马假日:喜剧|爱情" target="62飞屋环游记:喜剧|动画|冒险" weight="0.056510817259550095">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="74" source="54罗马假日:喜剧|爱情" target="67天堂电影院:爱情" weight="0.10903143137693405">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="75" source="54罗马假日:喜剧|爱情" target="77告白:惊悚" weight="0.09210503846406937">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="76" source="54罗马假日:喜剧|爱情" target="80贫民窟的百万富翁:爱情" weight="0.10674796998500824">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="77" source="25怦然心动:喜剧|爱情" target="36机器人总动员:爱情|科幻|动画|冒险" weight="0.06503701955080032">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="78" source="25怦然心动:喜剧|爱情" target="39入殓师:剧情" weight="0.05670716613531113">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="79" source="25怦然心动:喜剧|爱情" target="43教父:犯罪" weight="0.10875383019447327">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="80" source="36机器人总动员:爱情|科幻|动画|冒险" target="39入殓师:剧情" weight="0.008535439148545265">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="81" source="36机器人总动员:爱情|科幻|动画|冒险" target="43教父:犯罪" weight="0.11663155257701874">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="82" source="36机器人总动员:爱情|科幻|动画|冒险" target="44辛德勒的名单:历史|战争" weight="0.07377179712057114">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="83" source="39入殓师:剧情" target="44辛德勒的名单:历史|战争" weight="0.08380923420190811">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="84" source="39入殓师:剧情" target="61国王的演讲:传记|历史" weight="0.12387264519929886">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="85" source="43教父:犯罪" target="44辛德勒的名单:历史|战争" weight="0.0743657797574997">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="86" source="26疯狂原始人:喜剧|动画|冒险" target="47你的名字。:爱情|动画" weight="0.0919593870639801">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="87" source="47你的名字。:爱情|动画" target="41无双:动作|悬疑|犯罪" weight="0.06712710112333298">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="88" source="47你的名字。:爱情|动画" target="42蝙蝠侠：黑暗骑士崛起:动作|科幻|惊悚|犯罪" weight="0.11241336166858673">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="89" source="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险" target="49西游记之大圣归来:喜剧|动画|奇幻" weight="0.06579846143722534">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="90" source="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险" target="51火星救援:科幻|冒险" weight="0.11485228687524796">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="91" source="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险" target="55搏击俱乐部:动作|悬疑|惊悚" weight="0.0734090581536293">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="92" source="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险" target="57泰坦尼克号:爱情|灾难" weight="0.03465496003627777">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="93" source="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险" target="58源代码:科幻|悬疑|惊悚" weight="0.09023905545473099">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="94" source="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险" target="68王牌特工：特工学院:喜剧|动作|冒险" weight="0.07772242277860641">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="95" source="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险" target="70当幸福来敲门:家庭|传记" weight="0.10529816150665283">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="96" source="48疯狂的麦克斯4：狂暴之路:动作|科幻|冒险" target="76龙猫:动画|奇幻|冒险" weight="0.11617457866668701">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="97" source="49西游记之大圣归来:喜剧|动画|奇幻" target="53布达佩斯大饭店:喜剧|冒险" weight="0.08006611466407776">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="98" source="49西游记之大圣归来:喜剧|动画|奇幻" target="55搏击俱乐部:动作|悬疑|惊悚" weight="0.025183511897921562">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="99" source="49西游记之大圣归来:喜剧|动画|奇幻" target="57泰坦尼克号:爱情|灾难" weight="0.03160877525806427">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="100" source="49西游记之大圣归来:喜剧|动画|奇幻" target="58源代码:科幻|悬疑|惊悚" weight="0.0674658939242363">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="101" source="49西游记之大圣归来:喜剧|动画|奇幻" target="59那些年，我们一起追的女孩:喜剧|爱情" weight="0.12065581977367401">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="102" source="49西游记之大圣归来:喜剧|动画|奇幻" target="64鬼子来了:历史|战争" weight="0.12236428260803223">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="103" source="49西游记之大圣归来:喜剧|动画|奇幻" target="66完美陌生人:喜剧" weight="0.10201427340507507">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="104" source="49西游记之大圣归来:喜剧|动画|奇幻" target="67天堂电影院:爱情" weight="0.10911767929792404">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="105" source="49西游记之大圣归来:喜剧|动画|奇幻" target="70当幸福来敲门:家庭|传记" weight="0.08158877491950989">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="106" source="49西游记之大圣归来:喜剧|动画|奇幻" target="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装" weight="0.1025378406047821">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="107" source="49西游记之大圣归来:喜剧|动画|奇幻" target="75黑镜 第二季:科幻|惊悚" weight="0.11323544383049011">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="108" source="49西游记之大圣归来:喜剧|动画|奇幻" target="76龙猫:动画|奇幻|冒险" weight="0.11323544383049011">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="109" source="49西游记之大圣归来:喜剧|动画|奇幻" target="78黑客帝国:动作|科幻" weight="0.12408846616744995">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="110" source="49西游记之大圣归来:喜剧|动画|奇幻" target="79岁月神偷:家庭" weight="0.12408846616744995">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="111" source="52地心引力:科幻|惊悚|灾难" target="34这个杀手不太冷:动作|犯罪" weight="0.07000873982906342">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="112" source="52地心引力:科幻|惊悚|灾难" target="50超能陆战队:喜剧|动作|科幻|动画|冒险" weight="0.11255496740341187">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="113" source="52地心引力:科幻|惊悚|灾难" target="59那些年，我们一起追的女孩:喜剧|爱情" weight="0.04519115015864372">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="114" source="52地心引力:科幻|惊悚|灾难" target="68王牌特工：特工学院:喜剧|动作|冒险" weight="0.06564456224441528">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="115" source="52地心引力:科幻|惊悚|灾难" target="69老炮儿:犯罪" weight="0.06564456224441528">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="116" source="52地心引力:科幻|惊悚|灾难" target="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装" weight="0.11498993635177612">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="117" source="52地心引力:科幻|惊悚|灾难" target="76龙猫:动画|奇幻|冒险" weight="0.10430070757865906">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="118" source="55搏击俱乐部:动作|悬疑|惊悚" target="53布达佩斯大饭店:喜剧|冒险" weight="0.07537980377674103">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="119" source="55搏击俱乐部:动作|悬疑|惊悚" target="57泰坦尼克号:爱情|灾难" weight="0.03933306783437729">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="120" source="55搏击俱乐部:动作|悬疑|惊悚" target="58源代码:科幻|悬疑|惊悚" weight="0.0965045914053917">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="121" source="55搏击俱乐部:动作|悬疑|惊悚" target="59那些年，我们一起追的女孩:喜剧|爱情" weight="0.116999551653862">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="122" source="55搏击俱乐部:动作|悬疑|惊悚" target="64鬼子来了:历史|战争" weight="0.09823153167963028">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="123" source="55搏击俱乐部:动作|悬疑|惊悚" target="66完美陌生人:喜剧" weight="0.09858068823814392">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="124" source="55搏击俱乐部:动作|悬疑|惊悚" target="67天堂电影院:爱情" weight="0.10595357418060303">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="125" source="55搏击俱乐部:动作|悬疑|惊悚" target="70当幸福来敲门:家庭|传记" weight="0.07799553126096725">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="126" source="55搏击俱乐部:动作|悬疑|惊悚" target="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装" weight="0.09976588189601898">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="127" source="55搏击俱乐部:动作|悬疑|惊悚" target="76龙猫:动画|奇幻|冒险" weight="0.08900398015975952">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="128" source="56触不可及:喜剧" target="75黑镜 第二季:科幻|惊悚" weight="0.08900398015975952">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="129" source="56触不可及:喜剧" target="78黑客帝国:动作|科幻" weight="0.09997435659170151">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="130" source="56触不可及:喜剧" target="80贫民窟的百万富翁:爱情" weight="0.1036669909954071">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="131" source="34这个杀手不太冷:动作|犯罪" target="59那些年，我们一起追的女孩:喜剧|爱情" weight="0.09484189748764038">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="132" source="59那些年，我们一起追的女孩:喜剧|爱情" target="68王牌特工：特工学院:喜剧|动作|冒险" weight="0.11799243092536926">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="133" source="59那些年，我们一起追的女孩:喜剧|爱情" target="69老炮儿:犯罪" weight="0.11799243092536926">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="134" source="59那些年，我们一起追的女孩:喜剧|爱情" target="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装" weight="0.0687132179737091">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="135" source="59那些年，我们一起追的女孩:喜剧|爱情" target="76龙猫:动画|奇幻|冒险" weight="0.07957151532173157">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="136" source="59那些年，我们一起追的女孩:喜剧|爱情" target="82驴得水:喜剧" weight="0.1055305078625679">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="137" source="57泰坦尼克号:爱情|灾难" target="53布达佩斯大饭店:喜剧|冒险" weight="0.11633835732936859">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="138" source="57泰坦尼克号:爱情|灾难" target="58源代码:科幻|悬疑|惊悚" weight="0.05641450360417366">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="139" source="57泰坦尼克号:爱情|灾难" target="66完美陌生人:喜剧" weight="0.09234068542718887">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="140" source="57泰坦尼克号:爱情|灾难" target="68王牌特工：特工学院:喜剧|动作|冒险" weight="0.12110493332147598">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="141" source="57泰坦尼克号:爱情|灾难" target="70当幸福来敲门:家庭|传记" weight="0.07169858366250992">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="142" source="57泰坦尼克号:爱情|灾难" target="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装" weight="0.09352915734052658">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="143" source="57泰坦尼克号:爱情|灾难" target="75黑镜 第二季:科幻|惊悚" weight="0.10468565672636032">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="144" source="57泰坦尼克号:爱情|灾难" target="76龙猫:动画|奇幻|冒险" weight="0.08273749053478241">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="145" source="57泰坦尼克号:爱情|灾难" target="78黑客帝国:动作|科幻" weight="0.09373821318149567">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="146" source="57泰坦尼克号:爱情|灾难" target="79岁月神偷:家庭" weight="0.11601049453020096">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="147" source="57泰坦尼克号:爱情|灾难" target="83小偷家族:家庭|犯罪" weight="0.11243776232004166">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="148" source="57泰坦尼克号:爱情|灾难" target="84西西里的美丽传说:情色|战争" weight="0.12005037069320679">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="149" source="61国王的演讲:传记|历史" target="62飞屋环游记:喜剧|动画|冒险" weight="0.07230932265520096">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="150" source="61国王的演讲:传记|历史" target="77告白:惊悚" weight="0.07402686029672623">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="151" source="61国王的演讲:传记|历史" target="83小偷家族:家庭|犯罪" weight="0.10423346608877182">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="152" source="61国王的演讲:传记|历史" target="84西西里的美丽传说:情色|战争" weight="0.1119784265756607">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="153" source="61国王的演讲:传记|历史" target="91悲惨世界:爱情|歌舞" weight="0.12374851852655411">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="154" source="41无双:动作|悬疑|犯罪" target="42蝙蝠侠：黑暗骑士崛起:动作|科幻|惊悚|犯罪" weight="0.04214675724506378">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="155" source="51火星救援:科幻|冒险" target="53布达佩斯大饭店:喜剧|冒险" weight="0.09076853096485138">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="156" source="51火星救援:科幻|冒险" target="64鬼子来了:历史|战争" weight="0.05206132307648659">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="157" source="51火星救援:科幻|冒险" target="78黑客帝国:动作|科幻" weight="0.11519700288772583">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="158" source="62飞屋环游记:喜剧|动画|冒险" target="77告白:惊悚" weight="0.05677233263850212">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="159" source="62飞屋环游记:喜剧|动画|冒险" target="80贫民窟的百万富翁:爱情" weight="0.12482508271932602">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="160" source="62飞屋环游记:喜剧|动画|冒险" target="91悲惨世界:爱情|歌舞" weight="0.106210857629776">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="161" source="58源代码:科幻|悬疑|惊悚" target="66完美陌生人:喜剧" weight="0.09623362123966217">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="162" source="58源代码:科幻|悬疑|惊悚" target="67天堂电影院:爱情" weight="0.08950303494930267">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="163" source="58源代码:科幻|悬疑|惊悚" target="70当幸福来敲门:家庭|传记" weight="0.047449469566345215">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="164" source="58源代码:科幻|悬疑|惊悚" target="83小偷家族:家庭|犯罪" weight="0.10931318253278732">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="165" source="58源代码:科幻|悬疑|惊悚" target="84西西里的美丽传说:情色|战争" weight="0.11693640053272247">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="166" source="68王牌特工：特工学院:喜剧|动作|冒险" target="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装" weight="0.050760719925165176">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="167" source="68王牌特工：特工学院:喜剧|动作|冒险" target="76龙猫:动画|奇幻|冒险" weight="0.0397648960351944">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="168" source="68王牌特工：特工学院:喜剧|动作|冒险" target="79岁月神偷:家庭" weight="0.11200036853551865">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="169" source="68王牌特工：特工学院:喜剧|动作|冒险" target="98无名之辈:喜剧" weight="0.11780866980552673">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="170" source="70当幸福来敲门:家庭|传记" target="66完美陌生人:喜剧" weight="0.0934104323387146">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="171" source="70当幸福来敲门:家庭|传记" target="67天堂电影院:爱情" weight="0.08667143434286118">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="172" source="70当幸福来敲门:家庭|传记" target="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装" weight="0.1190928965806961">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="173" source="70当幸福来敲门:家庭|传记" target="90社交网络:传记" weight="0.11473320424556732">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="174" source="70当幸福来敲门:家庭|传记" target="91悲惨世界:爱情|歌舞" weight="0.11473320424556732">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="175" source="76龙猫:动画|奇幻|冒险" target="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装" weight="0.011184733361005783">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="176" source="76龙猫:动画|奇幻|冒险" target="79岁月神偷:家庭" weight="0.07347650080919266">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="177" source="76龙猫:动画|奇幻|冒险" target="82驴得水:喜剧" weight="0.10632584989070892">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="178" source="53布达佩斯大饭店:喜剧|冒险" target="63放牛班的春天:音乐" weight="0.12227854877710342">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="179" source="53布达佩斯大饭店:喜剧|冒险" target="64鬼子来了:历史|战争" weight="0.039582498371601105">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="180" source="53布达佩斯大饭店:喜剧|冒险" target="66完美陌生人:喜剧" weight="0.08077806979417801">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="181" source="53布达佩斯大饭店:喜剧|冒险" target="67天堂电影院:爱情" weight="0.08794844895601273">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="182" source="64鬼子来了:历史|战争" target="75黑镜 第二季:科幻|惊悚" weight="0.11319451779127121">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="183" source="64鬼子来了:历史|战争" target="78黑客帝国:动作|科幻" weight="0.10228846967220306">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="184" source="66完美陌生人:喜剧" target="67天堂电影院:爱情" weight="0.05671858415007591">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="185" source="66完美陌生人:喜剧" target="75黑镜 第二季:科幻|惊悚" weight="0.10659319162368774">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="186" source="66完美陌生人:喜剧" target="78黑客帝国:动作|科幻" weight="0.11866409331560135">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="187" source="66完美陌生人:喜剧" target="79岁月神偷:家庭" weight="0.11866409331560135">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="188" source="66完美陌生人:喜剧" target="91悲惨世界:爱情|歌舞" weight="0.12011084705591202">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="189" source="67天堂电影院:爱情" target="91悲惨世界:爱情|歌舞" weight="0.11345143616199493">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="190" source="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装" target="79岁月神偷:家庭" weight="0.060949552804231644">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="191" source="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装" target="82驴得水:喜剧" weight="0.09299065917730331">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="192" source="73大话西游之月光宝盒:喜剧|爱情|奇幻|古装" target="93死亡诗社:剧情" weight="0.11912760138511658">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="193" source="75黑镜 第二季:科幻|惊悚" target="78黑客帝国:动作|科幻" weight="0.011401399038732052">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="194" source="75黑镜 第二季:科幻|惊悚" target="84西西里的美丽传说:情色|战争" weight="0.09486586600542068">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="195" source="75黑镜 第二季:科幻|惊悚" target="99教父2:犯罪" weight="0.08357803523540497">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="196" source="78黑客帝国:动作|科幻" target="81情书:爱情" weight="0.11915966123342514">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="197" source="78黑客帝国:动作|科幻" target="84西西里的美丽传说:情色|战争" weight="0.08387062698602676">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="198" source="78黑客帝国:动作|科幻" target="99教父2:犯罪" weight="0.09802355617284775">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="199" source="78黑客帝国:动作|科幻" target="110神偷奶爸:喜剧|动画|冒险" weight="0.11601049453020096">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="200" source="79岁月神偷:家庭" target="93死亡诗社:剧情" weight="0.05581032857298851">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="201" source="79岁月神偷:家庭" target="110神偷奶爸:喜剧|动画|冒险" weight="0.11601049453020096">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="202" source="79岁月神偷:家庭" target="111喜剧之王:喜剧|爱情" weight="0.1205006018280983">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="203" source="79岁月神偷:家庭" target="112无耻混蛋:犯罪" weight="0.1205006018280983">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="204" source="50超能陆战队:喜剧|动作|科幻|动画|冒险" target="60黑天鹅:惊悚" weight="0.03195204213261604">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="205" source="50超能陆战队:喜剧|动作|科幻|动画|冒险" target="69老炮儿:犯罪" weight="0.0686940997838974">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="206" source="60黑天鹅:惊悚" target="69老炮儿:犯罪" weight="0.08632879704236984">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="207" source="69老炮儿:犯罪" target="82驴得水:喜剧" weight="0.11272149533033371">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="208" source="69老炮儿:犯罪" target="85驯龙高手:动画|奇幻|冒险" weight="0.10129411518573761">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="209" source="69老炮儿:犯罪" target="98无名之辈:喜剧" weight="0.11780866980552673">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="210" source="77告白:惊悚" target="91悲惨世界:爱情|歌舞" weight="0.11602554470300674">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="211" source="83小偷家族:家庭|犯罪" target="65本杰明·巴顿奇事:爱情|奇幻" weight="0.11891687661409378">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="212" source="83小偷家族:家庭|犯罪" target="84西西里的美丽传说:情色|战争" weight="0.06493280082941055">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="213" source="83小偷家族:家庭|犯罪" target="90社交网络:传记" weight="0.11171378940343857">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="214" source="83小偷家族:家庭|犯罪" target="91悲惨世界:爱情|歌舞" weight="0.02014145441353321">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="215" source="83小偷家族:家庭|犯罪" target="93死亡诗社:剧情" weight="0.12156423181295395">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="216" source="83小偷家族:家庭|犯罪" target="96飞越疯人院:剧情" weight="0.10935180634260178">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="217" source="83小偷家族:家庭|犯罪" target="99教父2:犯罪" weight="0.12270905077457428">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="218" source="83小偷家族:家庭|犯罪" target="111喜剧之王:喜剧|爱情" weight="0.10186830163002014">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="219" source="83小偷家族:家庭|犯罪" target="112无耻混蛋:犯罪" weight="0.10186830163002014">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="220" source="84西西里的美丽传说:情色|战争" target="91悲惨世界:爱情|歌舞" weight="0.08708953112363815">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="221" source="84西西里的美丽传说:情色|战争" target="96飞越疯人院:剧情" weight="0.1017027348279953">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="222" source="84西西里的美丽传说:情色|战争" target="99教父2:犯罪" weight="0.11510549485683441">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="223" source="82驴得水:喜剧" target="85驯龙高手:动画|奇幻|冒险" weight="0.10190922021865845">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="224" source="82驴得水:喜剧" target="95天使爱美丽:喜剧|爱情" weight="0.09582129120826721">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="225" source="82驴得水:喜剧" target="104心迷宫:悬疑|犯罪" weight="0.12312208861112595">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="226" source="82驴得水:喜剧" target="107夏洛特烦恼:喜剧|爱情" weight="0.09217803180217743">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="227" source="82驴得水:喜剧" target="113云图:科幻|悬疑" weight="0.10565713793039322">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="228" source="82驴得水:喜剧" target="114沉默的羔羊:惊悚|犯罪" weight="0.11020450294017792">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="229" source="82驴得水:喜剧" target="115玩具总动员3:喜剧|动画|奇幻|冒险" weight="0.11020450294017792">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="230" source="82驴得水:喜剧" target="117剪刀手爱德华:爱情|奇幻" weight="0.1193830817937851">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="231" source="82驴得水:喜剧" target="118第九区:动作|科幻|惊悚" weight="0.1193830817937851">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="232" source="91悲惨世界:爱情|歌舞" target="90社交网络:传记" weight="0.09236250072717667">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="233" source="91悲惨世界:爱情|歌舞" target="112无耻混蛋:犯罪" weight="0.08243206143379211">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="234" source="65本杰明·巴顿奇事:爱情|奇幻" target="90社交网络:传记" weight="0.09962774813175201">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="235" source="98无名之辈:喜剧" target="85驯龙高手:动画|奇幻|冒险" weight="0.041392575949430466">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="236" source="98无名之辈:喜剧" target="106钢的琴:喜剧" weight="0.10409459471702576">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="237" source="98无名之辈:喜剧" target="116萨利机长:传记" weight="0.0914255902171135">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="238" source="98无名之辈:喜剧" target="124复仇者联盟:动作|科幻|奇幻|冒险" weight="0.11116550862789154">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="239" source="71降临:科幻" target="94复仇者联盟3：无限战争:动作|科幻|奇幻|冒险" weight="0.10762021690607071">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="240" source="94复仇者联盟3：无限战争:动作|科幻|奇幻|冒险" target="74釜山行:动作|惊悚|灾难" weight="0.08191370218992233">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="241" source="94复仇者联盟3：无限战争:动作|科幻|奇幻|冒险" target="97速度与激情7:动作|惊悚|犯罪" weight="0.07861492037773132">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="242" source="72闻香识女人:剧情" target="81情书:爱情" weight="0.11893640458583832">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="243" source="81情书:爱情" target="96飞越疯人院:剧情" weight="0.060781773179769516">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="244" source="81情书:爱情" target="99教父2:犯罪" weight="0.09058919548988342">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="245" source="93死亡诗社:剧情" target="110神偷奶爸:喜剧|动画|冒险" weight="0.10798298567533493">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="246" source="93死亡诗社:剧情" target="111喜剧之王:喜剧|爱情" weight="0.06626102328300476">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="247" source="93死亡诗社:剧情" target="112无耻混蛋:犯罪" weight="0.06626102328300476">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="248" source="74釜山行:动作|惊悚|灾难" target="97速度与激情7:动作|惊悚|犯罪" weight="0.11530343443155289">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="249" source="99教父2:犯罪" target="96飞越疯人院:剧情" weight="0.10211370885372162">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="250" source="110神偷奶爸:喜剧|动画|冒险" target="89忠犬八公的故事:剧情" weight="0.12385915219783783">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="251" source="110神偷奶爸:喜剧|动画|冒险" target="100拯救大兵瑞恩:历史|战争" weight="0.08731533586978912">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="252" source="110神偷奶爸:喜剧|动画|冒险" target="119她:爱情|科幻" weight="0.1075911670923233">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="253" source="110神偷奶爸:喜剧|动画|冒险" target="121上帝之城:犯罪" weight="0.09289649873971939">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="254" source="110神偷奶爸:喜剧|动画|冒险" target="123饮食男女:家庭" weight="0.03367616608738899">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="255" source="111喜剧之王:喜剧|爱情" target="112无耻混蛋:犯罪" weight="0.047954510897397995">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="256" source="95天使爱美丽:喜剧|爱情" target="104心迷宫:悬疑|犯罪" weight="0.09917306154966354">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="257" source="95天使爱美丽:喜剧|爱情" target="107夏洛特烦恼:喜剧|爱情" weight="0.03995583578944206">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="258" source="95天使爱美丽:喜剧|爱情" target="113云图:科幻|悬疑" weight="0.05374610796570778">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="259" source="95天使爱美丽:喜剧|爱情" target="115玩具总动员3:喜剧|动画|奇幻|冒险" weight="0.08657033741474152">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="260" source="104心迷宫:悬疑|犯罪" target="107夏洛特烦恼:喜剧|爱情" weight="0.09816086292266846">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="261" source="104心迷宫:悬疑|犯罪" target="113云图:科幻|悬疑" weight="0.11367447674274445">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="262" source="104心迷宫:悬疑|犯罪" target="115玩具总动员3:喜剧|动画|奇幻|冒险" weight="0.11891712993383408">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="263" source="107夏洛特烦恼:喜剧|爱情" target="113云图:科幻|悬疑" weight="0.05208440497517586">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="264" source="107夏洛特烦恼:喜剧|爱情" target="115玩具总动员3:喜剧|动画|奇幻|冒险" weight="0.08619346469640732">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="265" source="113云图:科幻|悬疑" target="115玩具总动员3:喜剧|动画|奇幻|冒险" weight="0.10229599475860596">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="266" source="114沉默的羔羊:惊悚|犯罪" target="117剪刀手爱德华:爱情|奇幻" weight="0.10860643535852432">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="267" source="114沉默的羔羊:惊悚|犯罪" target="118第九区:动作|科幻|惊悚" weight="0.03887816518545151">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="268" source="115玩具总动员3:喜剧|动画|奇幻|冒险" target="87湄公河行动:动作|犯罪" weight="0.11874514818191528">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="269" source="115玩具总动员3:喜剧|动画|奇幻|冒险" target="106钢的琴:喜剧" weight="0.12444247305393219">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="270" source="115玩具总动员3:喜剧|动画|奇幻|冒险" target="122网络谜踪:悬疑|惊悚|犯罪" weight="0.10394241660833359">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="271" source="117剪刀手爱德华:爱情|奇幻" target="118第九区:动作|科幻|惊悚" weight="0.06911464035511017">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="272" source="86金刚狼3：殊死一战:动作|科幻" target="105亲爱的:家庭" weight="0.12162899971008301">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="273" source="105亲爱的:家庭" target="89忠犬八公的故事:剧情" weight="0.05986834689974785">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="274" source="105亲爱的:家庭" target="119她:爱情|科幻" weight="0.09555710852146149">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="275" source="87湄公河行动:动作|犯罪" target="102敦刻尔克:历史|战争" weight="0.07698855549097061">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="276" source="87湄公河行动:动作|犯罪" target="106钢的琴:喜剧" weight="0.1086895614862442">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="277" source="89忠犬八公的故事:剧情" target="119她:爱情|科幻" weight="0.09629978239536285">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="278" source="89忠犬八公的故事:剧情" target="124复仇者联盟:动作|科幻|奇幻|冒险" weight="0.11042781174182892">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="279" source="124复仇者联盟:动作|科幻|奇幻|冒险" target="109桃姐:家庭" weight="0.1181815043091774">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="280" source="124复仇者联盟:动作|科幻|奇幻|冒险" target="116萨利机长:传记" weight="0.10007364302873611">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="281" source="92蝴蝶效应:科幻|悬疑|惊悚" target="1012012:动作|科幻|冒险|灾难" weight="0.12214597314596176">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="282" source="100拯救大兵瑞恩:历史|战争" target="121上帝之城:犯罪" weight="0.11228234320878983">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="283" source="100拯救大兵瑞恩:历史|战争" target="123饮食男女:家庭" weight="0.12250591069459915">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+      <edge id="284" source="121上帝之城:犯罪" target="123饮食男女:家庭" weight="0.06007971614599228">
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
