@@ -1,14 +1,14 @@
 # Books2Movies
 
-***More info*** in the <u>***[Team10_Poser.pdf](https://github.com/Yee172/Books2Movies/blob/master/Team10_Poster.pdf)***</u> and ***<u>[Team10_Presentation.pdf](https://github.com/Yee172/Books2Movies/blob/master/Team10_Presentation.pdf)*</u>**
+***More info*** in the <u>***[Team10_Poster.pdf](https://github.com/Yee172/Books2Movies/blob/master/Team10_Poster.pdf)***</u> and ***<u>[Team10_Presentation.pdf](https://github.com/Yee172/Books2Movies/blob/master/Team10_Presentation.pdf)*</u>**
 
 ***Our website:*** https://yee172.github.io/Books2Movies/
 
-***Authors:***
+### ***Authors:***
 
 ***<u>Tian Fengrui,</u>*** 2017, Xi'an Jiaotong University
 
-***<u>Peng Jiawei,</u>*** 2017, Zhejiang University
+***<u>Peng Jiawei,</u>*** 2017, Zhe Jiang University
 
 ***<u>Ye Qihao,</u>*** 2016, Southern University of Science and Technology
 
@@ -53,5 +53,5 @@ Similar movies should be liked by the same kind of people, so people in the same
 
 `pip install selenium`
 
-而在***Old_Spider***目录下的文件是在 ***Milestone 2*** 中爬取的数据，我们在 ***Milestone 3*** 中重新对书籍进行了分类并爬取了数据，这让我们的数据更加干净。
+而在 ***Old_Spider*** 目录下的文件是在 ***Milestone 2*** 中爬取的数据，我们在 ***Milestone 3*** 中重新对书籍进行了分类并爬取了数据，这让我们的数据更加干净。
 
