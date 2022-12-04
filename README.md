@@ -2,7 +2,7 @@
 
 ***More info*** in the <u>***[Team10_Poster.pdf](https://github.com/Yee172/Books2Movies/blob/master/Team10_Poster.pdf)***</u> and ***<u>[Team10_Presentation.pdf](https://github.com/Yee172/Books2Movies/blob/master/Team10_Presentation.pdf)*</u>**
 
-***Our website:*** https://yee172.github.io/Books2Movies/
+***Our website:*** https://tianfr.github.io/Books2Movies/
 
 ### ***Authors:***
 
